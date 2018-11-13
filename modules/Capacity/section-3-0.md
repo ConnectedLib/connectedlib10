@@ -39,7 +39,46 @@ Self-assessing your library’s capacity can also be done by breaking it down fu
 **Partnerships**
 <table class="basic">
 <tr><th>Partnership</th><th>Strengths</th><th>Weaknesses</th><th>How can it be improved?</th></tr>
-<tr><td>Neighborhood Association 1</td><td>-Many bilingual - English/Farsi Speakers</td><td>Great teen librarian, enough library associate assistance and volunteer help</td><td>Compters were able to run photoshop without an issue</td></tr>
-<tr><td>Weaknesses</td><td>Shared space with other patrons</td><td>None</td><td>Unable to obtain more than 2 licenses, lack of tablets for drawing</td></tr>
-<tr><td>How can it be improved?</td><td>Post reminders about teen program in the computer area a few days ahead of time</td><td>Add an additional library associate with photoshop knowledge</td><td>Obtain more licenses, tablets</td></tr>
+<tr><td>Neighborhood Association 1</td><td>-Many bilingual - English/Farsi Speakers</td><td>Distance from library makes it difficult to volunteer</td><td>Work with the association to organize a carpool for volunteers</td></tr>
+<tr><td>School Partnership</td><td>-Teachers<br>-PTA<br>-Gym and Auditorium spaces</td><td>Busy schedule makes coordination difficult</td><td>Work with the teachers and PTA to make a shared calendar that is updated weekly</td></tr>
+<tr><td>Neighborhood Association 2</td><td>-Owns a building with a large meeting space<br>-Provides technology</td><td>Has few members</td><td>Collaborate with the association to help recruit more members in exchange for resources</td></tr>
 </table>
+
+**Technology**
+<table class="basic">
+<tr><th>Technology</th><th>Strengths</th><th>Weaknesses</th><th>How can it be improved?</th></tr>
+<tr><td>Neighborhood Association 1</td><td>-Many bilingual - English/Farsi Speakers</td><td>Distance from library makes it difficult to volunteer</td><td>Work with the association to organize a carpool for volunteers</td></tr>
+<tr><td>School Partnership</td><td>-Teachers<br>-PTA<br>-Gym and Auditorium spaces</td><td>Busy schedule makes coordination difficult</td><td>Work with the teachers and PTA to make a shared calendar that is updated weekly</td></tr>
+<tr><td>Neighborhood Association 2</td><td>-Owns a building with a large meeting space<br>-Provides technology</td><td>Has few members</td><td>Collaborate with the association to help recruit more members in exchange for resources</td></tr>
+</table>
+
+
+Technology  
+
+Strengths 
+
+Weaknesses 
+
+How can it be improved? 
+
+Acquisition 
+
+Technology partnership  with Neighborhood Association II 
+
+-Small budget 
+
+-Not up to date with current technologies 
+
+-Connect with tech industry about current technology 
+
+-Poll library users on what new acquisitions would be most useful 
+
+Use 
+
+Knowledgeable staff 
+
+Computers next to silent reading area 
+
+Rearrange to make computer space more collaborative and less disruptive 
+
+

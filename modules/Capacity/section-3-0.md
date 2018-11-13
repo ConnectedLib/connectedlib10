@@ -69,7 +69,8 @@ Self-assessing your library’s capacity can also be done by breaking it down fu
 </table>
 
 **Reflection**
-<div class="reflection">Remember that while you are including the improvements you would like to make to your library’s capacity in different areas, those **improvements can and should be relatively modest and easily implemented with the resources you already have**. Focus on your library’s strengths. How can you use those strengths to make small improvements to your overall capacity?</div>
+<div class="reflection">Remember that while you are including the improvements you would like to make to your library’s capacity in different areas, those <b>improvements can and should be relatively modest and easily implemented with the resources you already have</b>. Focus on your library’s strengths. How can you use those strengths to make small improvements to your overall capacity?</div>
+
 
 Using your reflection from section 2, you can get a broad view of the capacity of your library. As you look at the tools you have in each area, start to assess: where are the strengths of your library? Where might there be easy improvements that could increase your capacity in certain areas? Again, thinking back to past programs can be a helpful way to start mapping these out.
 

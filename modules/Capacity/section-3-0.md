@@ -59,3 +59,17 @@ Self-assessing your library’s capacity can also be done by breaking it down fu
 <tr><td>Study Room</td><td>Collaborative work space for 2-5 people</td><td>Rarely used</td><td>Advertise the study space at the front desk</td></tr>
 </table>
 
+**Staffing**
+<table class="basic">
+<tr><th>Staffing</th><th>Strengths</th><th>Weaknesses</th><th>How can it be improved?</th></tr>
+<tr><td>Adult Services</td><td>2 Adult Services Staff</td><td>Not enough staff for additional adult oriented programs and book groups</td><td>Leverage community partnerships and knowledgeagble volunteers to help staff programs</td></tr>
+<tr><td>Children's Services</td><td>-1 Children's Services staff<br>-Knowledgeable in early literacy</td><td>Large deaf community unable to access stroytime, no ASL speakers</td><td>Work with community to find an ASL speaking volunteer to translate storytime</td></tr>
+<tr><td>Teen Services</td><td>-1 Teen Services Staff</td><td>Large afterschool teen population is too big for 1 staff member</td><td>Leverage Library Associates, as well as community partnerships and knowledgeable volunteers to help staff programs</td></tr>
+<tr><td>Library Associateds</td><td>Collaborative work space for 2-5 people</td><td>Rarely used</td><td>Advertise the study space at the front desk</td></tr>
+</table>
+
+**Reflection**
+<div class="reflection">Remember that while you are including the improvements you would like to make to your library’s capacity in different areas, those **improvements can and should be relatively modest and easily implemented with the resources you already have**. Focus on your library’s strengths. How can you use those strengths to make small improvements to your overall capacity?</div>
+
+Using your reflection from section 2, you can get a broad view of the capacity of your library. As you look at the tools you have in each area, start to assess: where are the strengths of your library? Where might there be easy improvements that could increase your capacity in certain areas? Again, thinking back to past programs can be a helpful way to start mapping these out.
+

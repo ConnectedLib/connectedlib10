@@ -19,7 +19,7 @@ Community assets can be as broad as entire organizations, or as specific as indi
 
 <div class="explanatory">
   <p><span class="box-title">Professor John McKnight on Community Assets</span></p>
-<p><a href="http://mn.gov/mnddc/mcKnight/johnMcKnight2_02.html" title="Professor John McKnight on Community Assets"><img src="Community-Learning-Modules/images/McKnight_section4.1" alt="Professor John McKnight on Community Assets" /></a></p>
+<p><a href="http://mn.gov/mnddc/mcKnight/johnMcKnight2_02.html" title="Professor John McKnight on Community Assets"><img src="https://github.com/ConnectedLib/Connected-Learning-Modules/blob/master/images/McKnight_section4.1.jpg?raw=true" alt="Professor John McKnight on Community Assets" /></a></p>
 </p>
 </div>
 

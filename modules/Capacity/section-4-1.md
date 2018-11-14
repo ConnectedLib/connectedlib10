@@ -7,17 +7,6 @@ section: 4 Determining Community Need
 subsection: four-one
 ---
 
-
-## After completing this section, you will be able to:
-
-<ul class="fancy">
-	<li>Self-assess your library or department’s capacity in each area</li>
-	<li>Create your own list of assets and needs</li>
-</ul>
-
-
-Community Assets 
-
 Community assets can be as broad as entire organizations, or as specific as individuals. In this module, assets will be very similar to those conceptualized in the Community Mapping module. Here, they are framed in terms of their relation to your library’s capacity. The University of Kansas in their online Community Tool Box defines an asset as “anything that can be used to improve the quality of community life.” For our purposes today, we will define assets as follows: 
 
 **Individuals** are the backbone of communities. Often, your library might have individuals that volunteer to shelve books or organize “friends of the library” fundraising events. There might be a stay-at-home dad who organizes playgroups, or a retired bus driver that bakes large batches of her family’s famous cookies. Individuals in our communities are diverse in their strengths, and can help expand the staffing capacity of your library. 

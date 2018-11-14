@@ -11,7 +11,7 @@ subsection: four-one
 ##After completing this section, you will be able to:
 <ul class="fancy">
 	<li>Self-assess your library or department’s capacity in each area</li>
-  <li>Create your own list of assets and needs</li>
+	<li>Create your own list of assets and needs</li>
 </ul>
 
 
@@ -27,9 +27,13 @@ Community assets can be as broad as entire organizations, or as specific as indi
 
 **Businesses** can be large businesses like coffee chains or technology developers, or small businesses that are locally owned and operated. When thinking about the businesses in your community, it is important to think even as small as businesses like food trucks or ones that might be operating out of a community member’s garage. Every business has the opportunity to support your library and your community. Businesses often supplement a variety of capacities, including technology, space, partnerships, and staffing.
 
-**Professor John McKnight on Community Assets**
+<div class="explanatory">
+  <p><span class="box-title">Professor John McKnight on Community Assets</span></p>
+<p><a href="http://mn.gov/mnddc/mcKnight/johnMcKnight2_02.html" title="Professor John McKnight on Community Assets"><img src="Community-Learning-Modules/images/McKnight_section4.1" alt="Professor John McKnight on Community Assets" /></a></p>
+</p>
+</div>
 
-http://mn.gov/mnddc/mcKnight/johnMcKnight2_02.html
+
 
 Let’s take a moment to reflect on the community that your library serves. As you do this, bring up the map you created in the Community Mapping module.Think about the people, places, services and businesses that make up your community that you marked on this map. It can be helpful to visualize your Community Map in relation to their strengths and assets, and can be done in a very similar way to assessing the capacity of your library. As you are doing this, keep in mind which assets and strengths might be the most helpful in relation to your library’s capacity. Here’s an example:
 

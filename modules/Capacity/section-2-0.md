@@ -35,5 +35,5 @@ While everyone has a visual learning style that works best for them, capacity ma
 <tr><td> </td><td>Volunteers (20)</td><td></td><td></td></tr>
 </table>
 
-**Reflection**
-<div class="reflection">In the next section, you will learn how to self-assess your library's capacity in detail. Before you do, take a few minutes to reflect on your library's capacity. What does your library’s capacity look like in the areas of space, staff, technology, and partnerships? In what ways is it different from the midsize library example? It what ways is it different?</div>
+<div class="reflection"><p class="box-title">REFLECTION</p>
+<p>In the next section, you will learn how to self-assess your library's capacity in detail. Before you do, take a few minutes to reflect on your library's capacity. What does your library’s capacity look like in the areas of space, staff, technology, and partnerships? In what ways is it different from the midsize library example? It what ways is it different?</p></div>

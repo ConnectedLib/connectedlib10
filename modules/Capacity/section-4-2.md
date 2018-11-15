@@ -21,7 +21,27 @@ When assessing community needs it is important to collect information from as ma
 Then, we will expand to list their strengths:
 
 ADD BIG TABLES
-
+<table class="basic">
+<tr><td>Informal Interviews</td><td>Informal interviews are open-ended interviews that do not require you to use a tape recorder. Because of this, they can be an accessible way to interact with your community in a non-intimidating manner. <br> 
+Much like “On the Street Interviews,” informal interviews can be performed in your library, outside in the community, at the grocery store... the opportunities are endless.<br>
+Step 1: 
+  <ul><li>Prepare a few questions to ask ahead of time</ul></li>
+Step 2:  
+<ul><li>Memorize the essence of one or two questions (it does not have to be word for word)</ul></li>
+Step 3:  
+<ul><li>Ask these questions on the fly while in conversation with your community</ul></li>
+Step 4: 
+<ul><li>Write a summary of the conversation afterwards for future reference</ul></li></th></tr>
+<tr><td><b>Town Halls</b></td><td>Town Halls are planned get togethers with your community where you discuss current issues, events, and other information. These are similar to focus groups, which we covered in Community Mapping.<br>
+Town Halls can be formal or  informal, and can be conducted simply as community “get togethers” with coffee, snacks, and a few questions asked for the group to answer after you’ve done some mingling or tackled other library business.<br>
+This is an example of how an informal town hall event brought residents together into a shared space that was less intimidating:<a href="http://www.courant.com/community/bloomfield/hc-news-bloomfield-town-hall-meeting-20180123-story.html"><br>
+Here is an example of how Anne Arundel County Public Library performed formal town halls regarding budget cuts:  
+<a href="https://www.urbanlibraries.org/town-hall-meetings-innovation-246.php?page_id=103"></td></tr>
+<tr><td><b>Other Informal Methods</b></td><td>Other informal methods include: 
+  <ol><li>"<b>Postcard Surveys</b>” where you send a postcard with close ended questions and community members can mark it and mail it back</li>  
+    <ol><li>Using the “,<b>Grape Vine</b>” by asking a key member of a certain organization to ask their members a few questions and get back to you with their answers</li>
+  <ol><li><b>Observation</b>: attending community events, organizations, schools, and other locations where your community meets and simply observing. What are some issues being raised?</li></ol></td></tr>
+</table>
 
 UPDATE THIS TABLE:
 

@@ -20,23 +20,23 @@ Community needs and assets connect directly with assessing the capacity of your 
 When assessing community needs it is important to collect information from as many members of the community as possible. Luckily, you’ve already identified some tools to do this in our Community Mapping module, in section 3.4 “Learn About Your Community Assets.” In this section we will be discussing additional tools that you can use which are especially strong when assessing your library’s capacity and community needs. As a starting point, brainstorming about your community and identifying the groups that make up your community can be helpful. Talking with other workers in your library, as well as patrons, can help you to make sure you have not left any community members out of your analysis. From here, there are a variety of next steps that you can follow to assess the needs of your community: 
 
 <table>
-<tr><td bgcolor="#F5A750"><b>Informal Interviews</b></td><td>Informal interviews are open-ended interviews that do not require you to use a tape recorder. Because of this, they can be an accessible way to interact with your community in a non-intimidating manner. <br> 
-Much like “On the Street Interviews,” informal interviews can be performed in your library, outside in the community, at the grocery store... the opportunities are endless.<br>
+<tr><td bgcolor="#F5A750" width="40%"><b>Informal Interviews</b></td><td>Informal interviews are open-ended interviews that  do not require you to use a tape recorder. Because of this, they can be an accessible way to interact with your community in a non-intimidating manner. <br> 
+Much like “On the Street Interviews,” informal interviews can be performed in your library, outside in the community, at    the grocery store... the opportunities are endless.<br>
 Step 1: 
-  <ul><li>Prepare a few questions to ask ahead of time</ul></li>
+<ul><li>Prepare a few questions to ask ahead of time</ul></li>
 Step 2:  
 <ul><li>Memorize the essence of one or two questions (it does not have to be word for word)</ul></li>
 Step 3:  
 <ul><li>Ask these questions on the fly while in conversation with your community</ul></li>
 Step 4: 
 <ul><li>Write a summary of the conversation afterwards for future reference</ul></li></th></tr>
-<tr><td bgcolor="#F3CC4D"><b>Town Halls</b></td><td>Town Halls are planned get togethers with your community where you discuss current issues, events, and other information. These are similar to focus groups, which we covered in Community Mapping.<br><br>
+<tr><td bgcolor="#F3CC4D" width="40%"><b>Town Halls</b></td><td>Town Halls are planned get togethers with your community where you discuss current issues, events, and other information. These are similar to focus groups, which we covered in Community Mapping.<br><br>
 Town Halls can be formal or  informal, and can be conducted simply as community “get togethers” with coffee, snacks, and a few questions asked for the group to answer after you’ve done some mingling or tackled other library business.<br><br>
 This is an example of how an informal town hall event brought residents together into a shared space that was less intimidating:<br><a href="http://www.courant.com/community/bloomfield/hc-news-bloomfield-town-hall-meeting-20180123-story.html">http://www.courant.com/community/bloomfield/hc-news-bloomfield-town-hall-meeting-20180123-story.html</a><br>
 Here is an example of how Anne Arundel County Public Library performed formal town halls regarding budget cuts:<br>  
 <a href="https://www.urbanlibraries.org/town-hall-meetings-innovation-246.php?page_id=103">https://www.urbanlibraries.org/town-hall-meetings-innovation-246.php?page_id=103</a></td></tr>
-<tr><td bgcolor="#B969A1"><b>Other Informal Methods</b></td><td>Other informal methods include: 
-<ol><li>"<b>Postcard Surveys</b>” where you send a postcard with close ended questions and community members can mark it and mail it back</li>  
+<tr><td bgcolor="#B969A1" width="40%"><b>Other Informal Methods</b></td><td>Other informal methods include: 
+ <ol><li>"<b>Postcard Surveys</b>” where you send a postcard with close ended questions and community members can mark it and mail it back</li>  
 <li>Using the “<b>Grape Vine</b>” by asking a key member of a certain organization to ask their members a few questions and get back to you with their answers</li>
 <li><b>Observation</b>: attending community events, organizations, schools, and other locations where your community meets and simply observing. What are some issues being raised?</li>
 </ol></td></tr>
@@ -45,16 +45,24 @@ Here is an example of how Anne Arundel County Public Library performed formal to
 UPDATE THIS TABLE:
 
 <table class="basic">
-<tr><th></th><th>Asset Name</th><th>Strengths</th></tr>
-<tr><td>Individuals</td><td><ul><li>Anne Park--Software engineer</li><li>Ray Neng--Renovator</li><li>Righard Bell--Commercial baker</li><li>Holly Lampard--Mechanical engineer</li></ul></td><td>-Technological knowledge<br>-Master carpender<br>-Digital artist and knitter<br>-Engineer and 3D designer</td></tr>
-<tr><td>Places</td><td><ul><li>Parkland Elementary</li><li>Orchard Ridge High School</li><li>Red Mark Burgers</li><li>Parkland Church</li><li>Greenriver Park</li></ul></td><td>-Large community space<br>-Hi-tech theater, computer lab with over 30 seats<br>-Often hosts fundraisers<br>-Community Dinners<br>-Large open field</td></tr>
-<tr><td>Places</td><td><ul><li>Community Transit</li><li>Early Beginnings Childhood Center</li><li>Boys and Girls Club</li><li>Orchard Ridge Cultural Center</li></ul></td><td>-Buses run until midnight<br>-Childhood development knowledge<br>-Afterschool programs<br>-Community space and community contacts</td></tr>
-<tr><td>Places</td><td><ul><li>Red Mark Burgers</li><li>Kern Writing & Math Tutoring</li><li>Starbucks</li><li>Guaco's Taco Truck</li></ul></td><td>-Same as above<br>-Tutoring and homework help, teen volunteer contacts<br>-Caters coffee and pasteries<br>-Catering, comunity contacts</td></tr>
+<tr><th>Community</th><th>Name</th><th>Needs</th></tr>
+<tr><td>Individuals</td><td><ul><li>Carmen</li><li>Alan</li><li>Elaine</li></ul></td><td>-Better wheelchair access<br>-Resume and job training<br>-Sensory friendly lighting</td></tr>
+
+<tr><td>Groups</td><td><ul><li>Teens</li><li>Parents</li><li>Deaf Community</li><li>Autistic Community</li></ul></td><td>-Cooperative learning space<br>-Stroller parking<br>-ASL speakers<br>-Staff sensitivity training</td></tr>
+
+<tr><td>Associations</td><td><ul><li>Neighborhood Association 1</li><li>Neighborhood Association 2</li><li>PTA</li></li></ul></td><td>-More Farsi language books and materials<br>-New member recruitment through posters, etc.<br>-Additional meeting space<br></td></tr>
+
+<tr><td>Institutions</td><td><ul><li>Parkland Elementary School</li><li>Harbor Middle School</li><li>Orchard Ridge High School</li></ul></td><td>-Technology programs for elementary students<br>-Tween library representation and materials<br>-Additional teen services outreach<br></td></tr>
 </table>
 
-UPDATE REFLECTION
-**Reflection**
-<div class="reflection">Now it is your turn--what are the assets in your community? What strengths do they bring to the table? Take a moment to reflect, using your Community Map to help you. </div><br><br>
+You may have noticed that this map lists the needs of community members in relation to our Midsize library. We encourage you, in your own assessment, to list the needs of your community members that don’t necessarily relate to your library in addition to this list. These can include needs like: resources access for your homeless community, musical instruments for the high school band, and more. While ways to support your community in these needs might not be obvious at first, knowing that the needs exist can help your library to provide supplemental resources. For example, while your library cannot provide laundry machines for your homeless youth, it can provide pamphlets with maps marking where safe facilities like that are freely available.
+
+<div class="explanatory">
+<p><span class="box-title">ADDITIONAL RESOURCES</span></p>
+<ul><li><a href="https://www.slj.com/2014/06/public-libraries/know-your-neighborhood-a-community-needs-assessment-primer/#_">https://www.slj.com/2014/06/public-libraries/know-your-neighborhood-a-community-needs-assessment-primer/#_</a></li>
+  <li><a href="https://ctb.ku.edu/en">https://ctb.ku.edu/en</a></li>
+  </ul>
+  </div>
 
 ***
 <a name="fn1">1</a>:  -- Kretzmann, J. P., & McKnight, J. L. (1993). Building from the inside out: A path toward finding and mobilizing a community’s assets. Chicago, IL: ACTA Publications. P. 13.

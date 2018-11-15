@@ -19,7 +19,8 @@ Examples include:
 <li>Items on “loan” for specific library programs</li>
 </ul>
  
-**Use** 
+**Use**
+
 The biggest capacity challenge for using technology in the library is knowledge. Not only do the patrons need to know how to use the technology provided, but library staff have to be knowledgeable enough in the use of the media to be able to teach it to others. Many libraries may have not have the required staff capacity in number, or in knowledge, to have a large capacity in this area. However, there are ways around this including: 
 <ol>
 <li>Technology mentors: knowledgeable volunteers able to help with the teaching and use of new media in the library informally during regular operating hours</li>

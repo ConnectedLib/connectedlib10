@@ -30,12 +30,12 @@ Step 3:
 <ul><li>Ask these questions on the fly while in conversation with your community</ul></li>
 Step 4: 
 <ul><li>Write a summary of the conversation afterwards for future reference</ul></li></td></tr>
-<tr><td bgcolor="#F3CC4D" width="40%"><b>Town Halls</b></td><td>Town Halls are planned get togethers with your community where you discuss current issues, events, and other information. These are similar to focus groups, which we covered in Community Mapping.<br><br>
+<tr><td bgcolor="#F3CC4D" width="40%" valign="top"><b>Town Halls</b></td><td>Town Halls are planned get togethers with your community where you discuss current issues, events, and other information. These are similar to focus groups, which we covered in Community Mapping.<br><br>
 Town Halls can be formal or  informal, and can be conducted simply as community “get togethers” with coffee, snacks, and a few questions asked for the group to answer after you’ve done some mingling or tackled other library business.<br><br>
 This is an example of how an informal town hall event brought residents together into a shared space that was less intimidating:<br><a href="http://www.courant.com/community/bloomfield/hc-news-bloomfield-town-hall-meeting-20180123-story.html">http://www.courant.com/community/bloomfield/hc-news-bloomfield-town-hall-meeting-20180123-story.html</a><br>
 Here is an example of how Anne Arundel County Public Library performed formal town halls regarding budget cuts:<br>  
 <a href="https://www.urbanlibraries.org/town-hall-meetings-innovation-246.php?page_id=103">https://www.urbanlibraries.org/town-hall-meetings-innovation-246.php?page_id=103</a></td></tr>
-<tr><td bgcolor="#B969A1" width="40%"><b>Other Informal Methods</b></td><td>Other informal methods include: 
+<tr><td bgcolor="#B969A1" width="40%" valign="top"><b>Other Informal Methods</b></td><td>Other informal methods include: 
  <ol><li>"<b>Postcard Surveys</b>” where you send a postcard with close ended questions and community members can mark it and mail it back</li>  
 <li>Using the “<b>Grape Vine</b>” by asking a key member of a certain organization to ask their members a few questions and get back to you with their answers</li>
 <li><b>Observation</b>: attending community events, organizations, schools, and other locations where your community meets and simply observing. What are some issues being raised?</li>

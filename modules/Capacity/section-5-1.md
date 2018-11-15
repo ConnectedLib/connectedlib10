@@ -75,7 +75,7 @@ The next step in this assessment process includes comparing the highlighted need
 
 Capacity assessment is about intimately learning about your library and its surrounding community. When you have this knowledge, the strengths in your community can surprise you and help your library grow its capacity in new and creative ways. As you can see from the example above, even the smallest community strength can have a big impact on your library’s capacity.
 
-<div class="reflection">
+<div class="explanatory">
   <span class="box-title">IDENTIFYING COMMUNITY PARTNERSHIPS</span>
   <p>Once you have a list of your library’s capacity needs, and have matched those needs with strengths in your community, it is time to use and build partnerships with your community to help to boost your library’s capacity. Luckily, we’ve already covered these next steps for you in the Community Partnerships module!</p></div>
 

@@ -63,7 +63,7 @@ Once you have determined how you can highlight and use your library’s current 
 
 As you can see in this example, there are quite a few needs that the current library’s capacity cannot cover. When you are following this process for you own library, you may have more or less community needs highlighted--do not be intimidated by this step! This is simply a tool that will help you identify areas of growth. An important part of this process is brainstorming ways to cover community needs that are not yet being addressed, and seeing how the strengths of your community can help you achieve your goals. 
 
-The next step in this assessment process includes comparing the highlighted needs of your community with the strengths you identified in part 4. One way to do this is to take a look at them side by side, and then map them together by pairing community needs with community strengths in a way that your library could help facilitate. Here is an example: 
+The next step in this assessment process includes comparing the highlighted needs of your community with the strengths <a href="{{site.url}}{{site.baseurl}}/Capacity/section-4-1.md">you identified in part 4</a>. One way to do this is to take a look at them side by side, and then map them together by pairing community needs with community strengths in a way that your library could help facilitate. Here is an example: 
 
 <table>
   <tr><th>Community Needs</th><th>Community Strengths</th></tr>
@@ -77,6 +77,6 @@ Capacity assessment is about intimately learning about your library and its surr
 
 <div class="resources">
   <span class="box-title">IDENTIFYING COMMUNITY PARTNERSHIPS</span>
-  <p>Once you have a list of your library’s capacity needs, and have matched those needs with strengths in your community, it is time to use and build partnerships with your community to help to boost your library’s capacity. Luckily, we’ve already covered these next steps for you in the Community Partnerships module!</p></div>
+  <p>Once you have a list of your library’s capacity needs, and have matched those needs with strengths in your community, it is time to use and build partnerships with your community to help to boost your library’s capacity. Luckily, we’ve already covered these next steps for you in the <a href="{{site.url}}{{site.baseurl}}/communitypartnerships/index.md">Community Partnerships module</a>!</p></div>
 
 Now that you have ideas on how to successfully leverage community strengths to help grow your toolbox broadly, let’s take a moment to focus on growing your library’s specific capacities in technology, space, and staffing. Each of these three aspects of your library’s unique capacity have their own considerations for leveraging community assets. 

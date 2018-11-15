@@ -22,7 +22,7 @@ Here is a broad list of common capacity challenges:
 **Addressing Common Capacity Challenges**
 
 <table>
-  <tr><td bgcolor="#F5A750" width="30%"><b>Small Library</b></td><td><b>Small Libraries</b>often have difficulty providing space for engaging library programs, as well as compounding challenges that come hand in hand with having a smaller library, like a typically lower annual budget than larger libraries. Here, we will be focusing on space. How can you troubleshoot space capacity in a small library?<br><br> 
+  <tr><td bgcolor="#F5A750" width="30%" valign="top"><b>Small Library</b></td><td><b>Small Libraries</b> often have difficulty providing space for engaging library programs, as well as compounding challenges that come hand in hand with having a smaller library, like a typically lower annual budget than larger libraries. Here, we will be focusing on space. How can you troubleshoot space capacity in a small library?<br><br> 
 Tips and tricks:
 <ul><li>Make use of community partnerships that have large meeting spaces
    <ul><li>Determine which library programs or outreach programs can be done outside of the library</li></ul></li>
@@ -30,15 +30,40 @@ Tips and tricks:
    <ul><li>Make use of furniture with wheels that can be reconfigured to suit a variety of uses</li></ul></li>
  <li>Have smaller programs more often
    <ul><li>If a certain library program is so popular you don’t have the space to host it, consider presenting the same program on multiple days and limiting the number of participants</li></ul></li>
-</ul></td></tr>
-<tr><td bgcolor="#F3CC4D" width="40%"><b>Town Halls</b></td><td>Town Halls are planned get togethers with your community where you discuss current issues, events, and other information. These are similar to focus groups, which we covered in Community Mapping.<br><br>
-Town Halls can be formal or  informal, and can be conducted simply as community “get togethers” with coffee, snacks, and a few questions asked for the group to answer after you’ve done some mingling or tackled other library business.<br><br>
-This is an example of how an informal town hall event brought residents together into a shared space that was less intimidating:<br><a href="http://www.courant.com/community/bloomfield/hc-news-bloomfield-town-hall-meeting-20180123-story.html">http://www.courant.com/community/bloomfield/hc-news-bloomfield-town-hall-meeting-20180123-story.html</a><br>
-Here is an example of how Anne Arundel County Public Library performed formal town halls regarding budget cuts:<br>  
-<a href="https://www.urbanlibraries.org/town-hall-meetings-innovation-246.php?page_id=103">https://www.urbanlibraries.org/town-hall-meetings-innovation-246.php?page_id=103</a></td></tr>
-<tr><td bgcolor="#B969A1" width="40%"><b>Other Informal Methods</b></td><td>Other informal methods include: 
- <ol><li>"<b>Postcard Surveys</b>” where you send a postcard with close ended questions and community members can mark it and mail it back</li>  
-<li>Using the “<b>Grape Vine</b>” by asking a key member of a certain organization to ask their members a few questions and get back to you with their answers</li>
-<li><b>Observation</b>: attending community events, organizations, schools, and other locations where your community meets and simply observing. What are some issues being raised?</li>
-</ol></td></tr>
+</ul><br>
+   Resource spotlight: <a href="http://libguides.ala.org/librarytech/small-libs">http://libguides.ala.org/librarytech/small-libs</a></td></tr>
+
+<tr><td bgcolor="#F5A750" width="30%" valign="top"><b>Low Technology Budget</b></td><td><b>Libraries with a small technology budget</b> often struggle to keep up with the media demands of their patrons. With technology constantly developing, it can be hard to keep up. It can also be difficult to afford enough computers to keep patrons happy. How can you troubleshoot technology acquisition with a small budget?<br><br> 
+Tips and tricks:
+<ul><li>Make use of community partnerships that have technology
+   <ul><li>Is there a community organization that would be willing to donate new technology to your library?</li></ul></li>
+ <li>Keep what you have running and up to date
+   <ul><li>Train staff to evaluate your current technology and provide computers and tablets with the latest updates</li></ul></li>
+ <li>Consider smaller program sizes
+   <ul><li>One way to run programs with limited access to technology is to have patrons pre-register for the program--but make sure to consider who might not be included in this if they don’t have an easy way to access the registration form</li></ul></li>
+</ul><br>
+   Resource spotlight: <a href="https://learn.webjunction.org/">https://learn.webjunction.org/</a></td></tr>
+
+<tr><td bgcolor="#F5A750" width="30%" valign="top"><b>Low Acquisitions Budget</b></td><td><b>Libraries that cannot afford many new materials</b> are constantly on the lookout for ways to buy new books and licenses that will be the most impactful for their patrons. How can you troubleshoot new material acquisition with a small budget? <br><br> 
+Tips and tricks:
+<ul><li>Get community feedback on new materials
+   <ul><li>What new books and licenses are the most important to your community, in their own words?</li></ul></li>
+ <li>Leverage community partnerships
+   <ul><li>Book Drives, donations, and fundraisers can all help your library acquire new materials</li></ul></li>
+ <li>Make what you have accessible
+   <ul><li>Is your collection well organized? Do you have engaging, and rotating, book displays?</li></ul></li>
+</ul><br>
+  Resource spotlight: <b>Smallwood, C., & American Library Association. (2011). The frugal librarian : Thriving in tough economic times. Chicago: American Library Association.</b></td></tr>
+  
+ <tr><td bgcolor="#F5A750" width="30%" valign="top"><b>Low Technology Budget</b></td><td><b>Libraries with a small technology budget</b> often struggle to keep up with the media demands of their patrons. With technology constantly developing, it can be hard to keep up. It can also be difficult to afford enough computers to keep patrons happy. How can you troubleshoot technology acquisition with a small budget?<br><br> 
+Tips and tricks:
+<ul><li>Make use of community partnerships that have technology
+   <ul><li>Is there a community organization that would be willing to donate new technology to your library?</li></ul></li>
+ <li>Keep what you have running and up to date
+   <ul><li>Train staff to evaluate your current technology and provide computers and tablets with the latest updates</li></ul></li>
+ <li>Consider smaller program sizes
+   <ul><li>One way to run programs with limited access to technology is to have patrons pre-register for the program--but make sure to consider who might not be included in this if they don’t have an easy way to access the registration form</li></ul></li>
+</ul><br>
+   Resource spotlight: <a href="https://learn.webjunction.org/">https://learn.webjunction.org/</a></td></tr>
+   
 </table>

@@ -7,13 +7,13 @@ section: 3.0 Self-Assessing Capacity
 subsection: three-zero
 ---
 
-<div class="outcomes">
+
 After completing this section, you will be able to:
 <ul class="fancy">
 	<li>Self-assess your library or department’s capacity in each area</li>
   <li>Create your own list of assets and needs</li>
 </ul>
-</div>
+
 
 In order to understand the unique capacity of your library and how you can leverage it when creating programs, you need to get specific about the resources you already have. But where do you start? It might be helpful to take a moment to reflect on a recent library program you presented. What were the strengths? Where were the weaknesses? For each strength and weakness, think about what connections there might be to the specific capacity areas of your library.  
 

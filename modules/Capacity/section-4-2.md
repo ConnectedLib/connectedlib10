@@ -45,14 +45,14 @@ Here is an example of how Anne Arundel County Public Library performed formal to
 UPDATE THIS TABLE:
 
 <table class="basic">
-<tr><th>Community</th><th>Name</th><th>Needs</th></tr>
-<tr><td>Individuals</td><td><ul><li>Carmen</li><li>Alan</li><li>Elaine</li></ul></td><td>-Better wheelchair access<br>-Resume and job training<br>-Sensory friendly lighting</td></tr>
+ <tr><th>Community</th><th>Name</th><th>Needs</th></tr>
+<tr><td><b>Individuals</b></td><td><ul><li>Carmen</li><li>Alan</li><li>Elaine</li></ul></td><td>-Better wheelchair access<br>-Resume and job training<br>-Sensory friendly lighting</td></tr>
 
-<tr><td>Groups</td><td><ul><li>Teens</li><li>Parents</li><li>Deaf Community</li><li>Autistic Community</li></ul></td><td>-Cooperative learning space<br>-Stroller parking<br>-ASL speakers<br>-Staff sensitivity training</td></tr>
+<tr><td><b>Groups</b></td><td><ul><li>Teens</li><li>Parents</li><li>Deaf Community</li><li>Autistic Community</li></ul></td><td>-Cooperative learning space<br>-Stroller parking<br>-ASL speakers<br>-Staff sensitivity training</td></tr>
 
-<tr><td>Associations</td><td><ul><li>Neighborhood Association 1</li><li>Neighborhood Association 2</li><li>PTA</li></li></ul></td><td>-More Farsi language books and materials<br>-New member recruitment through posters, etc.<br>-Additional meeting space<br></td></tr>
+<tr><td><b>Associations</b></td><td><ul><li>Neighborhood Association 1</li><li>Neighborhood Association 2</li><li>PTA</li></li></ul></td><td>-More Farsi language books and materials<br>-New member recruitment through posters, etc.<br>-Additional meeting space<br></td></tr>
 
-<tr><td>Institutions</td><td><ul><li>Parkland Elementary School</li><li>Harbor Middle School</li><li>Orchard Ridge High School</li></ul></td><td>-Technology programs for elementary students<br>-Tween library representation and materials<br>-Additional teen services outreach<br></td></tr>
+<tr><td><b>Institutions</b></td><td><ul><li>Parkland Elementary School</li><li>Harbor Middle School</li><li>Orchard Ridge High School</li></ul></td><td>-Technology programs for elementary students<br>-Tween library representation and materials<br>-Additional teen services outreach<br></td></tr>
 </table>
 
 You may have noticed that this map lists the needs of community members in relation to our Midsize library. We encourage you, in your own assessment, to list the needs of your community members that don’t necessarily relate to your library in addition to this list. These can include needs like: resources access for your homeless community, musical instruments for the high school band, and more. While ways to support your community in these needs might not be obvious at first, knowing that the needs exist can help your library to provide supplemental resources. For example, while your library cannot provide laundry machines for your homeless youth, it can provide pamphlets with maps marking where safe facilities like that are freely available.

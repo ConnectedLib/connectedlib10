@@ -22,14 +22,15 @@ Here is a broad list of common capacity challenges:
 **Addressing Common Capacity Challenges**
 
 <table>
-  <tr><td bgcolor="#F5A750" width="30%"><b>Small Library</b></td><td>>b>Small Libraries</b>often have difficulty providing space for engaging library programs, as well as compounding challenges that come hand in hand with having a smaller library, like a typically lower annual budget than larger libraries. Here, we will be focusing on space. How can you troubleshoot space capacity in a small library?<br><br> 
+  <tr><td bgcolor="#F5A750" width="30%"><b>Small Library</b></td><td><b>Small Libraries</b>often have difficulty providing space for engaging library programs, as well as compounding challenges that come hand in hand with having a smaller library, like a typically lower annual budget than larger libraries. Here, we will be focusing on space. How can you troubleshoot space capacity in a small library?<br><br> 
 Tips and tricks:
 <ul><li>Make use of community partnerships that have large meeting spaces
-  <ul><li>Determine which library programs or outreach programs can be done outside of the library</ul></li></li>
-<ul><li>Ask these questions on the fly while in conversation with your community</ul>
-Step 4: 
-<ul><li>Write a summary of the conversation afterwards for future reference</ul></li></li>
-</td></tr>
+   <ul><li>Determine which library programs or outreach programs can be done outside of the library</li></ul></li>
+ <li>Keep things mobile
+   <ul><li>Make use of furniture with wheels that can be reconfigured to suit a variety of uses</li></ul></li>
+ <li>Have smaller programs more often
+   <ul><li>If a certain library program is so popular you don’t have the space to host it, consider presenting the same program on multiple days and limiting the number of participants</li></ul></li>
+</ul></td></tr>
 <tr><td bgcolor="#F3CC4D" width="40%"><b>Town Halls</b></td><td>Town Halls are planned get togethers with your community where you discuss current issues, events, and other information. These are similar to focus groups, which we covered in Community Mapping.<br><br>
 Town Halls can be formal or  informal, and can be conducted simply as community “get togethers” with coffee, snacks, and a few questions asked for the group to answer after you’ve done some mingling or tackled other library business.<br><br>
 This is an example of how an informal town hall event brought residents together into a shared space that was less intimidating:<br><a href="http://www.courant.com/community/bloomfield/hc-news-bloomfield-town-hall-meeting-20180123-story.html">http://www.courant.com/community/bloomfield/hc-news-bloomfield-town-hall-meeting-20180123-story.html</a><br>

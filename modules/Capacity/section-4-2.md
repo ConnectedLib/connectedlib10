@@ -29,7 +29,7 @@ Step 2:
 Step 3:  
 <ul><li>Ask these questions on the fly while in conversation with your community</ul></li>
 Step 4: 
-<ul><li>Write a summary of the conversation afterwards for future reference</ul></li></th></tr>
+<ul><li>Write a summary of the conversation afterwards for future reference</ul></li></td></tr>
 <tr><td bgcolor="#F3CC4D" width="40%"><b>Town Halls</b></td><td>Town Halls are planned get togethers with your community where you discuss current issues, events, and other information. These are similar to focus groups, which we covered in Community Mapping.<br><br>
 Town Halls can be formal or  informal, and can be conducted simply as community “get togethers” with coffee, snacks, and a few questions asked for the group to answer after you’ve done some mingling or tackled other library business.<br><br>
 This is an example of how an informal town hall event brought residents together into a shared space that was less intimidating:<br><a href="http://www.courant.com/community/bloomfield/hc-news-bloomfield-town-hall-meeting-20180123-story.html">http://www.courant.com/community/bloomfield/hc-news-bloomfield-town-hall-meeting-20180123-story.html</a><br>

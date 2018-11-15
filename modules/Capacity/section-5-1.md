@@ -41,7 +41,7 @@ Next, we will use one example from the midsize library’s capacity assessment t
 
 <table class="basic">
  <tr><th>Technology</th><th>Strengths</th><th>Community Needs Addressable</th></tr>
-<tr><td>Acquisition</td><td>Technology partnership with Neightborhood Association 2</td><td>-<font color="purple"><br>Additional technology access</font><br>Library could use additional technology to help with Teen programming</td></tr>
+<tr><td>Acquisition</td><td>Technology partnership with Neightborhood Association 2</td><td>-<font color="purple">Additional technology access</font><br>Library could use additional technology to help with Teen programming</td></tr>
 
 <tr><td>Use</td><td>Knowledgeable staff</td><td>-<font color="purple">Technology programs for elementary students<font><br>Library staff can work with schools and PTA to develop new technology infused programs</td></tr>
 </table>

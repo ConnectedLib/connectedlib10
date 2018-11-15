@@ -77,9 +77,6 @@ Capacity assessment is about intimately learning about your library and its surr
 
 <div class="reflection">
   <span class="box-title">IDENTIFYING COMMUNITY PARTNERSHIPS</span>
-  <p>The Las Vegas-Clark County Library runs a popular Learn to DJ program for teenagers. Participants in the program have performed at public events and some have even earned money. Watch the video [4:01], then reflect on the questions below.</p>
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/ukdUrfo6LVM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-  <ul><li>What is the immediate opportunity for the teen participants? </li>
-    <li>What are the longer-term opportunities that the teens may have because of their participation in this program? </li>
-<li>How would you help a teen translate their experience with this program into bullet points for a resume? </li>
-  </ul></div>
+  <p>Once you have a list of your library’s capacity needs, and have matched those needs with strengths in your community, it is time to use and build partnerships with your community to help to boost your library’s capacity. Luckily, we’ve already covered these next steps for you in the Community Partnerships module!</p></div>
+
+Now that you have ideas on how to successfully leverage community strengths to help grow your toolbox broadly, let’s take a moment to focus on growing your library’s specific capacities in technology, space, and staffing. Each of these three aspects of your library’s unique capacity have their own considerations for leveraging community assets. 

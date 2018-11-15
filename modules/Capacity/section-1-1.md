@@ -9,7 +9,7 @@ subsection: one-one
 
 Capacity can mean the **physical space** of your library, for instance how large of a meeting room you have or the number of children and families that can fit into your storytime space. But the idea of capacity can also extend outside of physical spaces to other aspects of your library.  
 
-**Partnerships** are an important aspect for the capacity of your individual library. As mentioned in our Community Partnerships module, partnerships can be formal ones with specific organizations, or informal ones with members of your community. For instance, a library might formally partner with the local Boys and Girls club for specific services for youth after school, or informally partner with a local artist by asking them to take part in a youth services program. 
+**Partnerships** are an important aspect for the capacity of your individual library. As mentioned in our <a href="{{site.url}}{{site.baseurl}}/communitypartnership/">Community Partnerships module</a>, partnerships can be formal ones with specific organizations, or informal ones with members of your community. For instance, a library might formally partner with the local Boys and Girls club for specific services for youth after school, or informally partner with a local artist by asking them to take part in a youth services program. 
 
 **Technology** is another important piece for library capacity. How many computers does your library have? What software programs are loaded on those computers? Other forms of technology might include large items like tablets, or smaller items like headphones or MP3 players. The technology capacity of your library can be broken into two parts:  
 

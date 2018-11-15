@@ -48,5 +48,5 @@ Then, we will expand to list their strengths:
 <tr><td><b>Businesses</b></td><td><ul><li>Red Mark Burgers</li><li>Kern Writing & Math Tutoring</li><li>Starbucks</li><li>Guaco's Taco Truck</li></ul></td><td>-Same as above<br>-Tutoring and homework help, teen volunteer contacts<br>-Caters coffee and pasteries<br>-Catering, comunity contacts</td></tr>
 </table>
 
-**Reflection**
-<div class="reflection">Now it is your turn--what are the assets in your community? What strengths do they bring to the table? Take a moment to reflect, using your Community Map to help you. </div><br><br>
+<div class="reflection"><p class="box-title">REFLECTION</p>
+<p>Now it is your turn--what are the assets in your community? What strengths do they bring to the table? Take a moment to reflect, using your Community Map to help you.</p></div><br><br>

@@ -55,15 +55,27 @@ Tips and tricks:
 </ul><br>
   Resource spotlight: <b>Smallwood, C., & American Library Association. (2011). The frugal librarian : Thriving in tough economic times. Chicago: American Library Association.</b></td></tr>
   
- <tr><td bgcolor="#F5A750" width="30%" valign="top"><b>Low Technology Budget</b></td><td><b>Libraries with a small technology budget</b> often struggle to keep up with the media demands of their patrons. With technology constantly developing, it can be hard to keep up. It can also be difficult to afford enough computers to keep patrons happy. How can you troubleshoot technology acquisition with a small budget?<br><br> 
+ <tr><td bgcolor="#F5A750" width="30%" valign="top"><b>Small Volunteer Group</b></td><td><b>Libraries with few volunteers</b> might have trouble keeping up with the demands on their staff and might not be able to focus on staffing new programs in their libraries. How can these libraries troubleshoot ways to increase their volunteer population?<br><br> 
 Tips and tricks:
-<ul><li>Make use of community partnerships that have technology
-   <ul><li>Is there a community organization that would be willing to donate new technology to your library?</li></ul></li>
- <li>Keep what you have running and up to date
-   <ul><li>Train staff to evaluate your current technology and provide computers and tablets with the latest updates</li></ul></li>
- <li>Consider smaller program sizes
-   <ul><li>One way to run programs with limited access to technology is to have patrons pre-register for the program--but make sure to consider who might not be included in this if they don’t have an easy way to access the registration form</li></ul></li>
+<ul><li>Work with your community
+   <ul><li>Talking to your community partnerships is the first step in growing your volunteer population</li></ul></li>
+ <li>Recruit through outreach
+   <ul><li>Schools, retirements homes, and even grocery stores are great places to visit, or place flyers, to get the word out that your library is looking for volunteers</li></ul></li>
+ <li>Provide volunteer rewards
+   <ul><li>Rewards can be something as simple as a special library tote bag or pin</li>
+   <li>Rewards can also include awards like “Volunteer of the Month”</li></ul></li>
 </ul><br>
-   Resource spotlight: <a href="https://learn.webjunction.org/">https://learn.webjunction.org/</a></td></tr>
+   Resource spotlight: <a href="https://americanlibrariesmagazine.org/2016/05/31/recruiting-retaining-library-volunteers/">https://americanlibrariesmagazine.org/2016/05/31/recruiting-retaining-library-volunteers/</a></td></tr>
+
+ <tr><td bgcolor="#F5A750" width="30%" valign="top"><b>Minimal Teen Attendance</b></td><td><b>Libraries with very few teens</b> attending their programs often have trouble engaging their teenage patrons. What are some ways to increase the turnout of your library’s teens?:<br><br> 
+Tips and tricks:
+<ul><li>Outreach and more outreach
+   <ul><li>Visit teens at schools, after school clubs, and the skatepark to get to know them and pass out information about library programs and resources</li></ul></li>
+ <li>Form a teen advisory council
+   <ul><li>Knowing what teens want in terms of materials and programs, in their own words, is key to bringing teens into the library</li></ul></li>
+ <li>Create a space just for teens
+   <ul><li>If teens have their own space in the library to collaborate and interact in, they are more likely to feel welcome in the library</li></ul></li>
+</ul><br>
+   Resource spotlight: <a href="http://www.inthelibrarywiththeleadpipe.org/2013/what-i-wish-id-known-about-building-teen-services-from-scratch/">http://www.inthelibrarywiththeleadpipe.org/2013/what-i-wish-id-known-about-building-teen-services-from-scratch/</a></td></tr>
    
 </table>

@@ -36,7 +36,7 @@ The ALA has a few great resources on volunteers in your library, including tips 
   <span class="box-title">ADDITIONAL RESOURCES</span>
   <ul>
    <li>Rita Pellen, & William Miller. (2014). Libraries Beyond Their Institutions: Partnerships That Work. Taylor and Francis.</li>
-   <li><a href="https://clalliance.org/publications/good-intentions-real-outcomes-equity-design-learning-technologies/"></a></li>
-   <li><a href="http://www.techsoupforlibraries.org/blog"></a></li>
+   <li><a href="https://clalliance.org/publications/good-intentions-real-outcomes-equity-design-learning-technologies/">https://clalliance.org/publications/good-intentions-real-outcomes-equity-design-learning-technologies/</a></li>
+   <li><a href="http://www.techsoupforlibraries.org/blog">http://www.techsoupforlibraries.org/blog</a></li>
  </div>
 

@@ -19,12 +19,12 @@ subsection: overview
 ### Learning Objectives For This Module
 
 <ul class="fancy">
-	<li>Explain the concept of “capacity” in the following areas: partnerships, technology acquisition, technology use, space, and staffing (<a href="{{site.url}}{{site.baseurl}}/introduction/section-1/">Section 1: Introduction</a>).</li>
-	<li>Map out capacity in various areas, e.g. space, partnerships, technology acquisition, technology use, staffing (<a href="{{site.url}}{{site.baseurl}}/introduction/section-2/">Section 2: Before You Start</a>).</li>
+	<li>Explain the concept of “capacity” in the following areas: partnerships, technology acquisition, technology use, space, and staffing (<a href="{{site.url}}{{site.baseurl}}/Capacity/section-1-0.md">Section 1: Introduction</a>).</li>
+	<li>Map out capacity in various areas, e.g. space, partnerships, technology acquisition, technology use, staffing (<a href="{{site.url}}{{site.baseurl}}/Capacity/section-2-0.md">Section 2: Before You Start</a>).</li>
 	<li>Self-assess your library or department’s capacity in each area (<a href="{{site.url}}{{site.baseurl}}/introduction/section-3/">Section 3: Self-Assessing Capacity</a>).</li>
-	<li> NEEDS DESCRIPTION(<a href="{{site.url}}{{site.baseurl}}/introduction/section-4/">Section 4: Determining Community Need</a>).</li>
-  <li>Develop a roadmap for addressing capacity challenges in your library (<a href="{{site.url}}{{site.baseurl}}/introduction/section-4/">Section 5: Developing A Roadmap</a>).</li>
-	<li>Identify strategies for optimizing services given your existing capacity (<a href="{{site.url}}{{site.baseurl}}/introduction/section-4/">Section 6: Moving Forward</a>).</li>
+	<li> NEEDS DESCRIPTION(<a href="{{site.url}}{{site.baseurl}}/Capacity/section-4/">Section 4: Determining Community Need</a>).</li>
+  <li>Develop a roadmap for addressing capacity challenges in your library (<a href="{{site.url}}{{site.baseurl}}/Capacity/section-4/">Section 5: Developing A Roadmap</a>).</li>
+	<li>Identify strategies for optimizing services given your existing capacity (<a href="{{site.url}}{{site.baseurl}}/Capacity/section-4/">Section 6: Moving Forward</a>).</li>
 </ul>
 
 ### How to Use This Module

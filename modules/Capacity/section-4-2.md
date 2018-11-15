@@ -42,7 +42,7 @@ Here is an example of how Anne Arundel County Public Library performed formal to
 </ol></td></tr>
 </table>
 
-UPDATE THIS TABLE:
+Once you have used one or more of these methods to collect information about your community and their needs, you can map these out visually. Here is an example using our favorite midsize library:
 
 <table class="basic">
  <tr><th>Community</th><th>Name</th><th>Needs</th></tr>

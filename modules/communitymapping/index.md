@@ -13,15 +13,15 @@ subsection: overview
 
 ## Module Overview
 
-<p class="summary">In this module, <b>Community Mapping</b>, you will Get to know your teens, your neighborhood, and the community assets that can help you create connected learning experiences in your library.
+<p class="summary">In this module, <b>Community Mapping</b>, you will get to know your teens, your neighborhood, and the community assets that can help you create connected learning experiences in your library.
 
 ### Learning Objectives For This Module
 
 <ul class="fancy">
-	<li>Describe connected learning and what it connects, and navigate the ConnectedLib modules (<a href="{{site.url}}{{site.baseurl}}/introduction/section-1/">Section 1: Introduction</a>).</li>
-	<li>Understand how to implement the four connected learning design principles (<a href="{{site.url}}{{site.baseurl}}/introduction/section-2/">Section 2: Connected Learning Design Principles</a>).</li>
-	<li>Explain how connected learning fits into your library’s mission and goals (<a href="{{site.url}}{{site.baseurl}}/introduction/section-3/">Section 3: Why Your Library Needs Connected Learning</a>).</li>
-	<li>Develop an action plan to implement connected learning in your library, no matter how big or small (<a href="{{site.url}}{{site.baseurl}}/introduction/section-4/">Section 4: Getting Started With Connected Learning in Your Library</a>).</li>
+	<li>Understand what community mapping is and how it can benefit your library (<a href="{{site.url}}{{site.baseurl}}/introduction/section-1-0.md">Section 1: Introduction</a>).</li>
+	<li>Recognize the assets in your community (<a href="{{site.url}}{{site.baseurl}}/introduction/section-2-0/">Section 2: Community Assets</a>).</li>
+	<li>Describe the process of creating a community asset map (<a href="{{site.url}}{{site.baseurl}}/introduction/section-3-0.md">Section 3: The Community Mapping Process</a>).</li>
+	<li>Understand what to do with a completed community asset map (<a href="{{site.url}}{{site.baseurl}}/introduction/section-4.md">Section 4: Now What</a>).</li>
 </ul>
 
 ### How to Use This Module

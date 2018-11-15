@@ -9,7 +9,8 @@ subsection: five-two
 
 Technology and media might be the biggest capacity concern for libraries in this digital age. It seems that no matter what, technology continues to advance faster than we can acquire the materials to give patrons access to the latest and greatest. It can be difficult to know which technology to acquire, and perhaps equally difficult to have the resources for librarians to learn how to use--and then teach how to use to their patrons--new media and technology. This section is here to provide a brief guide to acquiring new technology, using technology, and evaluating technology: all using the unique strengths of your community. 
 
-**Acquisition** 
+**Acquisition**
+
 While many libraries big and small typically have less of a budget than they would like for acquiring new technology, there are many ways that libraries acquire new technology outside of their annual budget. These can include grants and other supplemental funding, but another way that libraries acquire new technology is through partnerships. While these can be grant-like partnerships with technology companies like Microsoft or Google, they can also be smaller community based partnerships with local organizations and businesses.  
 
 Examples include: 
@@ -28,6 +29,7 @@ The biggest capacity challenge for using technology in the library is knowledge.
 </ol>
  
 **Evaluation**
+
 Another important aspect of the technology capacity of your library is evaluation. While the capacity assessment focuses on the capacity of acquisition and use of technology in your library, evaluation helps you to determine which technology to use. It also helps you to decide if your current technology is serving your library’s needs, and if not where the capacity might need expanding. 
 
 Here are some questions to ask while doing evaluation: 

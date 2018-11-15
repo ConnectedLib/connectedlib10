@@ -24,7 +24,7 @@ subsection: overview
 	<li>Understand what to do with a completed community asset map (<a href="{{site.url}}{{site.baseurl}}/introduction/section-4.md">Section 4: Now What</a>).</li>
 </ul>
 
-**Learning Aid: Community mapping KWL**
+###Learning Aid: Community mapping KWL
 
 Complete this worksheet by first describing your experience (if any) with community mapping. Then create a list of what you already know (the K in KWL) about community mapping. In the second column, write down what you want (W) to learn in this module. You’ll fill out the last column, what you learned (L) when you have completed this module. 
 

@@ -20,7 +20,7 @@ Community needs and assets connect directly with assessing the capacity of your 
 When assessing community needs it is important to collect information from as many members of the community as possible. Luckily, you’ve already identified some tools to do this in our Community Mapping module, in section 3.4 “Learn About Your Community Assets.” In this section we will be discussing additional tools that you can use which are especially strong when assessing your library’s capacity and community needs. As a starting point, brainstorming about your community and identifying the groups that make up your community can be helpful. Talking with other workers in your library, as well as patrons, can help you to make sure you have not left any community members out of your analysis. From here, there are a variety of next steps that you can follow to assess the needs of your community: 
 
 <table>
-<tr><td bgcolor="#F5A750" width="40%"><b>Informal Interviews</b></td><td>Informal interviews are open-ended interviews that  do not require you to use a tape recorder. Because of this, they can be an accessible way to interact with your community in a non-intimidating manner. <br> 
+<tr><td bgcolor="#F5A750" width="40%" valign="top"><b>Informal Interviews</b></td><td>Informal interviews are open-ended interviews that  do not require you to use a tape recorder. Because of this, they can be an accessible way to interact with your community in a non-intimidating manner. <br> 
 Much like “On the Street Interviews,” informal interviews can be performed in your library, outside in the community, at    the grocery store... the opportunities are endless.<br>
 Step 1: 
 <ul><li>Prepare a few questions to ask ahead of time</ul></li>

@@ -1,6 +1,6 @@
 ---
 layout: module
-title: What is a community asset map
+title: 1.1 What is a community asset map
 module_name: communitymapping
 module_full_name: Community Mapping
 section: What is community mappping

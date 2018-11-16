@@ -35,8 +35,8 @@ Learning more about the people in your community (and not just those that alread
 <li>Uncover groups that are not being reached by the library</li>
 </ul>
 
+Getting to know the associations, businesses, and other resources in your community can help you
 <ul>
-<li>Getting to know the associations, businesses, and other resources in your community can help you</li>
 <li>Find experts to mentor your teens or help with programs</li>
 <li>Discover physical resources you can leverage</li>
 <li>Understand what is available to your community from sources outside the library</li>

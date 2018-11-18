@@ -23,14 +23,12 @@ Create a second mini-asset map with assets your library could connect with, but 
   <span class="box-title">ADDITIONAL RESOURCES</span>
   <ul>
 
-<li><a href="https://resources.depaul.edu/abcd-institute">Asset-Based Community Development Institute</a> (DePaul University, 2017). Available at: https://resources.depaul.edu/abcd-institute</li>
+<li><a href="https://resources.depaul.edu/abcd-institute/resources/Documents/WhatisAssetBasedCommunityDevelopment.pdf">What is Asset Based Community Development? (Collaborative For Neighborhood Transformation, 2016)</a>.</li>
 
-<li>Although it is not available online, Building From the Inside Out: A Path Toward Finding and Mobilizing a Community’s Assets (ACTA Publications, 1993) is the original guidebook for working with community assets.</li> 
+<li><a href="https://sustainingcommunity.wordpress.com/2012/05/30/what-is-the-strengths-perspective/">What is the Strengths Perspective? (Graeme Stuart, 2012)</a>.</li>
 
-<li>The Community Toolbox contains a section about <a href="http://ctb.ku.edu/en/table-of-contents/assessment/assessing-community-needs-and-resources">Assessing Community Needs and Resources</a>.</li>
+<li><a href="https://www.youtube.com/watch?v=LW-XOqsOzuE&feature=youtu.be">Professor John McKnight: How Did You Become Interested in Neighborhoods? (Minnesota Governor’s Council on Developmental Disabilities, 2014) In this short interview clip, John McKnight describes how his local librarian helped spark his interest in neighborhoods and communities.</a></li>
 
-<li>The South Dakota Department of Health has a <a href="http://goodandhealthysd.org/content/themes/GoodAndHealthySD/communitytoolkit/files/CoreProcess/Step4/GHCommunityToolKit-Step4-StepsinMappingCommunityAssetsTemplate.pdf">Template for Steps in Mapping Community Assets</a></li>
-
-<li><a href="https://www.urbanlibraries.org/filebin/pdfs/ULC_Leadership_Brief_II_Full_4Pages.pdf">Library Priority: Community Civic Engagement</a> (Urban Libraries Council, 2011)</li>
+<li><a href="http://www.nurturedevelopment.org/wp-content/uploads/2016/01/Asset-Mapping-CCAMP_System_Handbook.pdf">CCAMP System Handbook (Gregory Ryan & Cate Bourke, 2008). Although the Connecticut Asset Network appears to be defunct, this handbook has advice and materials for larger asset mapping projects. </a></li>
  </ul>
  </div>

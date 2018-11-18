@@ -3,7 +3,7 @@ layout: module
 title: 3.2 Learn About Your Neighborhood
 module_name: communitymapping
 module_full_name: Community Mapping
-section: The Community Mapping Process
+section: 3. The Community Mapping Process
 subsection: three-two
 ---
 

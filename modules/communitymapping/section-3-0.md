@@ -1,6 +1,6 @@
 ---
 layout: module
-title: Plan Your Trip
+title: 3.0 The Community Mapping Process
 module_name: communitymapping
 module_full_name: Community Mapping
 section: Overview

@@ -3,7 +3,7 @@ layout: module
 title: 3.1 Plan Your Trip
 module_name: communitymapping
 module_full_name: Community Mapping
-section: Overview
+section: 3. The Community Mapping Process
 subsection: three-one
 ---
 

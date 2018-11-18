@@ -9,7 +9,7 @@ subsection: three-one
 
 **Where are you going?** 
 
-Gregory Ryan and Cate Bourke (2008)3 recommend thinking about your community work as a story about a journey, starting with “once upon a time” and ending with your vision for the community. “Beginning with the end in mind,” they say, will help guide the questions you ask and the methods you use as you work through this process. This vision should align with the perspectives of the youth and other community members you will talk to, so you may wish to revisit this vision at different points as you work through the process.  
+Gregory Ryan and Cate Bourke (2008)<sup>3</sup> recommend thinking about your community work as a story about a journey, starting with “once upon a time” and ending with your vision for the community. “Beginning with the end in mind,” they say, will help guide the questions you ask and the methods you use as you work through this process. This vision should align with the perspectives of the youth and other community members you will talk to, so you may wish to revisit this vision at different points as you work through the process.  
 
 Why are you conducting this community mapping project? Your goal may be broad, such as finding ways to improve or diversify your teen programs. Or you may have a much more specific goal, like finding locations for field trips or prizes for a summer learning program. Your goal will affect how you go about creating your community map and the scale of your activities.  
 

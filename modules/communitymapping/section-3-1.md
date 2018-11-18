@@ -26,6 +26,7 @@ Questions to think about are:
 </div>
 <br>
 <br>
+
 **Who will help you along the way?**  
 
 Once you’ve decided what your goal for the project is, you can put together a team that will help you get there.  
@@ -52,6 +53,7 @@ When you have assembled your team, make sure to get everyone on the same page du
 </div>
 <br>
 <br>
+
 **Has anyone gone on this journey before?**
 
 While you are planning and assembling your team (if not earlier) try to find out if someone from another organization has conducted a community mapping project before you. If so, try to find out if elements of it can be used in your project. Make sure you have a clear idea of what additional work needs to be done and why--perhaps the information is out of date, or didn’t cover an area you’re interested in. 

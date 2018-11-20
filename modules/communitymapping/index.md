@@ -52,4 +52,4 @@ Each section is divided into subsections, which are listed in the menu on the le
 <div class="reflection">Reflections and exercises to help you apply the module’s concepts to your individual context look like this.</div> 
 
 At the end of each section, there are additional resources for you to explore further on your own if you choose.
-Ready to get started? Let’s begin with Section 1: Introduction to Connected Learning.
+Ready to get started? Let’s begin with Section 1: What Is Community Mapping?

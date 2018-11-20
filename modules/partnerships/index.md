@@ -13,7 +13,7 @@ subsection: overview
 
 ## Module Overview
 
-<p class="summary">In this module, <b>Community Mapping</b>, you will get to know your teens, your neighborhood, and the community assets that can help you create connected learning experiences in your library.</p>
+<p class="summary">In this module, you will learn how to expand your programs, your resources, and your audience by partnering with people and organizations in the community.</p>
 
 ### Learning Objectives For This Module
 
@@ -22,10 +22,6 @@ subsection: overview
 	<li>Identify the benefits of a partnership to both the library and the partner (<a href="{{site.url}}{{site.baseurl}}/partnerships/section-2-0/">Section 2: What is a Comunity Partnership?</a>).</li>
 	<li>Understand the opportunities and challenges involved in working with four different types of partners (<a href="{{site.url}}{{site.baseurl}}/partnerships/section-3-0.md">Section 3: Types of Partners</a>).</li>
 	<li>Develop and maintain a community partnership (<a href="{{site.url}}{{site.baseurl}}/partnerships/section-4.md">Section 4: Establishing a Partnership</a>).</li>
-  <li>Appendix 1 (<a href="{{site.url}}{{site.baseurl}}/partnerships/appendix1.md">Appendix 1 - Activity Worksheets</a>).</li>
-	<li>Appendix 2 (<a href="{{site.url}}{{site.baseurl}}/partnerships/appendix2.md">Appendix 2 - Resources</a>).</li>
-	<li>Appendix 3 (<a href="{{site.url}}{{site.baseurl}}/partnerships/appendix3.md">Appendix 3 - Case Studies</a>).</li>
-
 </ul>
 
 ### How to Use This Module

@@ -7,9 +7,9 @@ section: 3. The Community Mapping Process
 subsection: three-three
 ---
 
--sdfs
--dfgd
--dfgd
+- sdfs
+- dfgd
+- dfgd
 
 
 This section discusses learning about individuals, associations, and institutions in your community. 

@@ -36,7 +36,8 @@ As youth librarians, you are more likely than many people to recognize that yout
 The most foundational assets of a community are the individuals that form it. Every individual has gifts that they can share with their community -- like knowledge, a skill, or physical space, to name just a few.  
 
 - dfgd
-..- sdf
+ - sdf
+- sdfs
 
 <ul>
 <li>Members of this category can be specific people, but can also be demographic groups: for instance, young parents, high school students, or seniors.</li>

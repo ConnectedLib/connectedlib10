@@ -7,7 +7,10 @@ section: 3. The Community Mapping Process
 subsection: three-three
 ---
 
-(#anchors-in-markdown)
+-sdfs
+-dfgd
+-dfgd
+
 
 This section discusses learning about individuals, associations, and institutions in your community. 
 

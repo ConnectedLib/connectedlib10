@@ -35,37 +35,25 @@ As youth librarians, you are more likely than many people to recognize that yout
 
 The most foundational assets of a community are the individuals that form it. Every individual has gifts that they can share with their community -- like knowledge, a skill, or physical space, to name just a few.  
 
-- dfgd
-   - sdf
-   
-- sdfs
 
-<ul>
-<li>Members of this category can be specific people, but can also be demographic groups: for instance, young parents, high school students, or seniors.</li>
+- Members of this category can be specific people, but can also be demographic groups: for instance, young parents, high school students, or seniors.
 
-<li>If you encounter individuals who want to work with the library but aren’t sure how they can help, completing a skills and interests inventory can help.</li>
+- If you encounter individuals who want to work with the library but aren’t sure how they can help, completing a skills and interests inventory can help.
 
-<li>You can use the 4H approach in interviews, focus groups, or community meetings to help individuals identify their “gifts.” The four H’s are: 
-<ul>
- <li>Head - knowledge that can be shared.</li>
+- You can use the 4H approach in interviews, focus groups, or community meetings to help individuals identify their “gifts". The four H’s are: 
+   - Head - knowledge that can be shared.
+   - Heart - passions and values.
+   - Hands - skills that can be taught to others, or that can help others.
+   - Home - communities that you are a part of.
+   - See Ryan & Bourke, 2008, pp. 182 - 189 for more details and worksheets.
+ 
+- When you’re focusing on individuals as assets, your goal will be to help each individual contribute to the community or the library. This is different than if you are talking to individuals to help create a portrait of your community (don’t use the capacity inventory for this). You should avoid making individuals feel “used” or “studied” (Kretzmann & McKnight, 1993, p.17).
 
- <li>Heart - passions and values.</li>
+- **Seniors.** Seniors can be tremendous library assets with their experience and knowledge of cultural and community history. Many retirees have skills they are happy to share with teens; others can help connect the library to associations and organizations they are or were involved with.</li>
 
- <li>Hands - skills that can be taught to others, or that can help others.</li>
+- **Marginalized groups.** Don’t write off groups that are traditionally thought of as only having needs, not assets, like people with disabilities or people from a lower SES. Everyone is an asset the library could potentially work with.
 
- <li>Home - communities that you are a part of.</li>
 
-  <li>See Ryan & Bourke, 2008, pp. 182 - 189 for more details and worksheets.</li>
-  </ul></li>
-<li>When you’re focusing on individuals as assets, your goal will be to help each individual contribute to the community or the library. This is different than if you are talking to individuals to help create a portrait of your community (don’t use the capacity inventory for this). You should avoid making individuals feel “used” or “studied” (Kretzmann & McKnight, 1993, p.17).</li>
-
-<li><b>Seniors.</b> Seniors can be tremendous library assets with their experience and knowledge of cultural and community history. Many retirees have skills they are happy to share with teens; others can help connect the library to associations and organizations they are or were involved with.</li>
-
-<li><b>Marginalized groups.</b> Don’t write off groups that are traditionally thought of as only having needs, not assets, like people with disabilities or people from a lower SES. Everyone is an asset the library could potentially work with.</li>
-</ul>
-
-<br>
-<br>
 <div class="resources">
 <span class="box-title">DO ALL INDIVIDUALS HAVE CAPACITIES?</span>
 <p>Kretzmann & McKnight argue that need-focused labels, like “ex-convict”, “elderly,” “illiterate”, and “gang member” reflect and reinforce society’s belief that these “needy” people are “empty” and without anything to contribute to their community. Asset-based development means looking past labels to each individual’s specific gifts.<br>

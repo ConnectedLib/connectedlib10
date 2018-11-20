@@ -12,7 +12,7 @@ The asset-based community development (ABCD) model of community development,  de
 Watch as Cormac Russell explains why it’s important to focus on the strengths of communities, not the weaknesses: 
 <iframe width="560" height="315" src="https://www.youtube.com/watch?v=a5xR4QB1ADw&feature=youtu.be" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-[![Cormac Russell](https://img.youtube.com/vi/a5xR4QB1ADw&feature=youtu.be/0.jpg)](https://www.youtube.com/watch?v=a5xR4QB1ADw&feature=youtu.be)
+[Click here to watch the video](https://www.youtube.com/watch?v=a5xR4QB1ADw&feature=youtu.be)
 
 <br>
 <div class="explanatory">

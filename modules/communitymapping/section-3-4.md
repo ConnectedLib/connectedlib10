@@ -13,8 +13,8 @@ As you learn about the assets in your community from various sources, keep track
 <tr>
 <th>Type of Information</th><th>Source</th><th>Last Updated Date</th><th>Notes</th>
 </tr>
-<tr><td><i>Needs assssment report</i></td><td></td><td></td><td></td></tr>
-<tr><td></td><td></td><td></td><td></td></tr>
+<tr><td><i>Needs assssment report</i></td><td><i>Library</i></td><td><i>08/2015</i></td><td><i>Data needs updating. Includes interviews with teen patrons</i></td></tr>
+<tr><td><i>???</i></td><td><i>Local nonprofit</i></td><td><i>???</i></td><td><i>May have conducted a similar exercise last year</i></td></tr>
 <tr><td></td><td></td><td></td><td></td></tr>
 <tr><td></td><td></td><td></td><td></td></tr>
 <tr><td></td><td></td><td></td><td></td></tr>

@@ -11,6 +11,8 @@ subsection: overview
 
 <p class="time">90 minutes</p>
 
+[section-1-1](section-1-1.md)
+
 ## Module Overview
 
 <p class="summary">In this module, <b>Community Mapping</b>, you will get to know your teens, your neighborhood, and the community assets that can help you create connected learning experiences in your library.</p>

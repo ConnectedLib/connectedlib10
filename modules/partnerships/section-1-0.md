@@ -1,9 +1,9 @@
 ---
 layout: module
-title: 1.0 Introduction
+title: 1.0 Overview
 module_name: partnerships
 module_full_name: Community Partnerships
-section: Introduction
+section: 1. Introduction
 subsection: one-zero
 ---
 

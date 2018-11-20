@@ -19,7 +19,7 @@ subsection: overview
 
 <ul class="fancy">
 	<li>Understand what community mapping is and how it can benefit your library (<a href="{{site.url}}{{site.baseurl}}/introduction/section-1-0.md">Section 1: Introduction</a>).</li>
-	<li>Recognize the assets in your community (<a href="{{site.url}}{{site.baseurl}}/introduction/section-2-0/">Section 2: Community Assets</a>).</li>
+	<li>Recognize the assets in your community (<a href="{{site.url}}{{site.baseurl}}/introduction/section-2-0.md">Section 2: Community Assets</a>).</li>
 	<li>Describe the process of creating a community asset map (<a href="{{site.url}}{{site.baseurl}}/introduction/section-3-0.md">Section 3: The Community Mapping Process</a>).</li>
 	<li>Understand what to do with a completed community asset map (<a href="{{site.url}}{{site.baseurl}}/introduction/section-4.md">Section 4: Now What</a>).</li>
 </ul>

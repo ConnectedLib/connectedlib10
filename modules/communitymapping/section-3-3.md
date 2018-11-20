@@ -144,6 +144,8 @@ In addition, consider the following sources when you are identifying assets:
 <p>For a small project, focus on pre-existing resources (directories, databases). For more in-depth information, focus on people who are easy to reach out to (patrons, partners) or who are key community members.
 </p>
   </div>
+  <br>
+  <br>
 
 
 <a name="fn6">6</a>:  -- Green, G. P. (2014). Community asset mapping and surveys. In R. Phillips & R. Pittman (Eds.), An introduction to community development. New York, NY: Routledge. P222.

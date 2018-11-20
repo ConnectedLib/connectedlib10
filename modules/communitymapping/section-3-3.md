@@ -37,9 +37,7 @@ The most foundational assets of a community are the individuals that form it. Ev
 
 
 - Members of this category can be specific people, but can also be demographic groups: for instance, young parents, high school students, or seniors.
-
 - If you encounter individuals who want to work with the library but aren’t sure how they can help, completing a skills and interests inventory can help.
-
 - You can use the 4H approach in interviews, focus groups, or community meetings to help individuals identify their “gifts". The four H’s are: 
    - Head - knowledge that can be shared.
    - Heart - passions and values.
@@ -48,9 +46,7 @@ The most foundational assets of a community are the individuals that form it. Ev
    - See Ryan & Bourke, 2008, pp. 182 - 189 for more details and worksheets.
  
 - When you’re focusing on individuals as assets, your goal will be to help each individual contribute to the community or the library. This is different than if you are talking to individuals to help create a portrait of your community (don’t use the capacity inventory for this). You should avoid making individuals feel “used” or “studied” (Kretzmann & McKnight, 1993, p.17).
-
 - **Seniors.** Seniors can be tremendous library assets with their experience and knowledge of cultural and community history. Many retirees have skills they are happy to share with teens; others can help connect the library to associations and organizations they are or were involved with.</li>
-
 - **Marginalized groups.** Don’t write off groups that are traditionally thought of as only having needs, not assets, like people with disabilities or people from a lower SES. Everyone is an asset the library could potentially work with.
 
 
@@ -104,13 +100,11 @@ Veteran groups<br>
 **Institutions** 
 
 Institutions (as defined by ABCD) are groups of people brought together professionally -- such as business, schools, government agencies. They often have many resources that can be shared with the community.  
-<ul>
-<li>Even more than associations, institutions are likely to have outreach programs at the ready for the community.</li>  
 
-<li>Institutions are also more likely to have space or money to help your teen services.</li>
+- Even more than associations, institutions are likely to have outreach programs at the ready for the community.  
+- Institutions are also more likely to have space or money to help your teen services.
+- An institution’s hiring practices can be one of its assets<sup>[6](#fn6)</sup>.
 
-<li>An institution’s hiring practices can be one of its assets<sup>[6](#fn6)</sup>.</li>
-</ul>
 
 **Methods for learning more**  
 
@@ -130,12 +124,11 @@ Depending on your situation, you can use surveys or focus groups to learn more a
 </table>
 
 In addition, consider the following sources when you are identifying assets:  
-<ul>
- <li><b>Directories</b> like the yellow pages, or a list of local businesses from your Chamber of Commerce<sup>[9] (#fn9)</sup>.</li> 
- <li>Your local <b>newspaper</b> or community newsletter, along with community bulletin boards in coffeehouses, community centers and other gathering places<sup>[10] (#fn10)</sup>.</li>
- <li><b>Existing networks--</b>do you already have partners that can help you identify assets and reach out to contacts? You can also try making new connections to ask for help--civic associations, clubs and coalitions, etc.</li>
- <li><b>Other Community Institutions</b> like hospitals, churches, and parks and recreation facilities.</li>
- </ul>
+
+- **Directories** like the yellow pages, or a list of local businesses from your Chamber of Commerce<sup>[9] (#fn9)</sup>.
+- Your local **newspaper** or community newsletter, along with community bulletin boards in coffeehouses, community centers and other gathering places<sup>[10] (#fn10)</sup>.
+ - **Existing networks--** do you already have partners that can help you identify assets and reach out to contacts? You can also try making new connections to ask for help--civic associations, clubs and coalitions, etc.
+ - **Other Community Institutions** like hospitals, churches, and parks and recreation facilities.
  <br>
 <br>
 

@@ -38,13 +38,13 @@ In order to prepare youth with the 21st-century skills they need in today’s in
 <div class="resources">
 <span class="box-title">ADDITIONAL RESOURCES</span>
 <ul>
-  <li>YALSA’s <a href="http://www.ala.org/yalsa/partnering-toolkit">Partnering to Increase Your Impact</a> toolkit (2017) is full of tips and resources to help you form partnerships and obtain funding, including sample partnership letters.<li>
+  <li>YALSA’s <a href="http://www.ala.org/yalsa/partnering-toolkit">Partnering to Increase Your Impact</a> toolkit (2017) is full of tips and resources to help you form partnerships and obtain funding, including sample partnership letters.</li>
 
 <li>Although it was developed for the Department of Justice, the <a href="http://www.cops.usdoj.gov/html/cd_rom/sro/FinalCDPubs/CollaborationToolkit.pdf">Collaboration Toolkit: How to Build, Fix, and Sustain Productive Partnerships</a> (2001) contains information about building and maintaining relationships that works for any type of organization.</li>
 
-<li>The University of Kansas’ <a href="http://ctb.ku.edu/en/creating-and-maintaining-partnerships">Community Tool Box</a> contains a toolkit for Creating and Maintaining Partnerships. <li>
+<li>The University of Kansas’ <a href="http://ctb.ku.edu/en/creating-and-maintaining-partnerships">Community Tool Box</a> contains a toolkit for Creating and Maintaining Partnerships. </li>
 
-<li>The NISE Network’s <a href="http://nisenet.org/museum-community-partnerships">Museum & Community Partnerships</a> toolkit was developed for museums, but the tips on collaborations and partnerships between community organizations are useful for libraries as well.<li>
+<li>The NISE Network’s <a href="http://nisenet.org/museum-community-partnerships">Museum & Community Partnerships</a> toolkit was developed for museums, but the tips on collaborations and partnerships between community organizations are useful for libraries as well.</li>
   </ul>
 </div>
 
@@ -64,9 +64,9 @@ In order to prepare youth with the 21st-century skills they need in today’s in
 
 <a name="fn1">1</a>:  --Braun, Linda W., Maureen L. Hartman, Sandra Hughes-Hassell, Kafi Kumasi, and Beth Yoke. “The Future of Library Services for and with Teens: A Call to Action.” Chicago, IL: YALSA, 2014, 8. 
 <br>
-<a name="fn2">1</a>:  -- Hoffman, Kelly M., Mega Subramaniam, Saba Kawas, Ligaya Scaff, and Katie Davis. “Connected Libraries: Surveying the Current Landscape and Charting the Path to the Future.” College Park, MD: University of Maryland, College Park, and Seattle, WA: University of Washington, 2016. http://connectedlib.ischool.uw.edu/connected-learning-in-libraries.
+<a name="fn2">2</a>:  -- Hoffman, Kelly M., Mega Subramaniam, Saba Kawas, Ligaya Scaff, and Katie Davis. “Connected Libraries: Surveying the Current Landscape and Charting the Path to the Future.” College Park, MD: University of Maryland, College Park, and Seattle, WA: University of Washington, 2016. http://connectedlib.ischool.uw.edu/connected-learning-in-libraries.
 <br>
-<a name="fn3">1</a>:  --Braun, Linda W., Maureen L. Hartman, Sandra Hughes-Hassell, Kafi Kumasi, and Beth Yoke. “The Future of Library Services for and with Teens: A Call to Action.” Chicago, IL: YALSA, 2014, 4. http://www.ala.org/yaforum/future-library-services-and-teens-project-report.
+<a name="fn3">3</a>:  --Braun, Linda W., Maureen L. Hartman, Sandra Hughes-Hassell, Kafi Kumasi, and Beth Yoke. “The Future of Library Services for and with Teens: A Call to Action.” Chicago, IL: YALSA, 2014, 4. http://www.ala.org/yaforum/future-library-services-and-teens-project-report.
 <br>
-<a name="fn4">1</a>:  --Ching, Dixie, Rafi Santo, Chris Hoadley, and Kylie Peppler. “On-Ramps, Lane Changes, Detours and Destinations: Building Connected Learning Pathways in Hive NYC through Brokering Future Learning Opportunities.” Hive Research Lab, 2015. https://hiveresearchlab.org/2015/04/13/on-ramps-lane-changes-detours-and-destinations-new-community-developed-white-paper-on-supporting-pathways-through-brokering/.
+<a name="fn4">4</a>:  --Ching, Dixie, Rafi Santo, Chris Hoadley, and Kylie Peppler. “On-Ramps, Lane Changes, Detours and Destinations: Building Connected Learning Pathways in Hive NYC through Brokering Future Learning Opportunities.” Hive Research Lab, 2015. https://hiveresearchlab.org/2015/04/13/on-ramps-lane-changes-detours-and-destinations-new-community-developed-white-paper-on-supporting-pathways-through-brokering/.
 <br>

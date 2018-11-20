@@ -12,6 +12,9 @@ The asset-based community development (ABCD) model of community development,  de
 Watch as Cormac Russell explains why it’s important to focus on the strengths of communities, not the weaknesses: 
 <iframe width="560" height="315" src="https://www.youtube.com/watch?v=a5xR4QB1ADw&feature=youtu.be" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
+[![Cormac Russell](https://img.youtube.com/vi/a5xR4QB1ADw&feature=youtu.be/0.jpg)](https://www.youtube.com/watch?v=a5xR4QB1ADw&feature=youtu.be)
+
+<br>
 <div class="explanatory">
   <p><span class="box-title">GUIDING PRINCIBLES OF ABCD</span></p>
 <p><a href="http://www.nurturedevelopment.org/wp-content/uploads/2016/01/Asset-Mapping-CCAMP_System_Handbook.pdf">Ryan & Bourke (2008, p114)</a> set forth the following guiding principles for an asset-based community development effort.</p>

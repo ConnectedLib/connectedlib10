@@ -73,10 +73,8 @@ Associations are groups of community members who gather together voluntarily aro
 
 <ul>
 <li>Since associations are already formed around an interest, topic, or area, their potential contributions can be easier to identify. They may have expertise, equipment or other specialized resources to share. They can also be a source of donations or facilities.</li>  
-
 <li>Associations may already have outreach programs or services for the community that can be modified for use with your teens.</li>   
 <li>Find out what the association’s goals and mission are. This can help you find ways that getting involved with the library will help the association.</li> 
-
 <li>The smaller and more informal an association is, the less documented it will be. As you are talking to individuals, ask them what kinds of associations they belong to or know of.</li> 
 </ul>
 <br>
@@ -114,11 +112,12 @@ Veteran groups<br>
 
 Institutions (as defined by ABCD) are groups of people brought together professionally -- such as business, schools, government agencies. They often have many resources that can be shared with the community.  
 <ul>
-<li>Even more than associations, institutions are likely to have outreach programs at the ready for the community.  
+<li>Even more than associations, institutions are likely to have outreach programs at the ready for the community.</li>  
 
-<li>Institutions are also more likely to have space or money to help your teen services.  
+<li>Institutions are also more likely to have space or money to help your teen services.</li>
 
-<li>An institution’s hiring practices can be one of its assets<sup>[6](#fn6)</sup>. 
+<li>An institution’s hiring practices can be one of its assets<sup>[6](#fn6)</sup>.</li>
+</ul>
 
 **Methods for learning more**  
 
@@ -127,8 +126,8 @@ Depending on your situation, you can use surveys or focus groups to learn more a
 <table>
 <tr><th bgcolor="#8DC87C" width="40%" align="center">SURVEYS</th><td>Surveys are a good option for getting succinct information from a large number of people, especially quantitative information. The response rate is often low, however, and you may not always be able to follow-up with respondents to get a better understanding of their responses.For people who are not literate and people who primarily speak other languages, you may need to conduct in-person interviews or provide the survey in multiple languages<sup>[7] (#fn7)</sup>. Surveys can be conducted face-to-face, online, by mail, by phone, or on paper that is distributed in the library or at library events<sup>[8](#fn6)</sup>.<br> 
 <ul><li><a href="http://learn.webjunction.org/enrol/index.php?id=234">Beyond the Survey: A Practical Approach to Interviews and Focus Groups</a></li>
- li><a href= "http://learn.webjunction.org/enrol/index.php?id=234">Library Surveys for Success</a></li>
- li>Webjunction has a <a href="http://www.webjunction.org/documents/webjunction/Sample_Information_Gathering_Tools.html">collection of sample library surveys</a> for both adults and teens.</li>
+ <li><a href= "http://learn.webjunction.org/enrol/index.php?id=234">Library Surveys for Success</a></li>
+ <li>Webjunction has a <a href="http://www.webjunction.org/documents/webjunction/Sample_Information_Gathering_Tools.html">collection of sample library surveys</a> for both adults and teens.</li>
 </ul></td></tr>
 <tr><th bgcolor="#F58F81" width="40%" align="center">FOCUS GROUPS</th><td>Focus groups allow you to guide the discussion around a specific question. It is important to have a diverse set of participants so that you don’t just hear one perspective. Focus groups may be cheaper and/or less time-consuming than extensive surveys (depending on how they are administered), and can provide deeper insights. However, you cannot hear from as many people in a focus group. 
 <br>

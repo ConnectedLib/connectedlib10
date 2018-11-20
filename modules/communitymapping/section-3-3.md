@@ -124,7 +124,7 @@ Institutions (as defined by ABCD) are groups of people brought together professi
 Depending on your situation, you can use surveys or focus groups to learn more about your community’s assets. You can also use the methods described in the Capacity module (interviews and town halls), or any combination of methods.
 
 <table>
-<tr><th bgcolor="#F5A750" width="40%">SURVEYS</td><td>Informal interviews are open-ended interviews that  do not require you to use a tape recorder. Because of this, they can be an accessible way to interact with your community in a non-intimidating manner. <br> 
+<tr><th bgcolor="#F5A750" width="40%" align="center">SURVEYS</th><td>Informal interviews are open-ended interviews that  do not require you to use a tape recorder. Because of this, they can be an accessible way to interact with your community in a non-intimidating manner. <br> 
 Much like “On the Street Interviews,” informal interviews can be performed in your library, outside in the community, at    the grocery store... the opportunities are endless.<br>
 Step 1: 
 <ul><li>Prepare a few questions to ask ahead of time</ul></li>

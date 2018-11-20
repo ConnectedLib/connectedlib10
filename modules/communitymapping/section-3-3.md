@@ -66,14 +66,12 @@ Kretzmann, J. P., & McKnight, J. L. (1993). Building from the inside out: A path
 
 Associations are groups of community members who gather together voluntarily around a common interest or goal. Associations are key to getting the community involved in your teen services.  
 
-<ul>
-<li>Since associations are already formed around an interest, topic, or area, their potential contributions can be easier to identify. They may have expertise, equipment or other specialized resources to share. They can also be a source of donations or facilities.</li>  
-<li>Associations may already have outreach programs or services for the community that can be modified for use with your teens.</li>   
-<li>Find out what the association’s goals and mission are. This can help you find ways that getting involved with the library will help the association.</li> 
-<li>The smaller and more informal an association is, the less documented it will be. As you are talking to individuals, ask them what kinds of associations they belong to or know of.</li> 
-</ul>
-<br>
-<br>
+- Since associations are already formed around an interest, topic, or area, their potential contributions can be easier to identify. They may have expertise, equipment or other specialized resources to share. They can also be a source of donations or facilities. 
+- Associations may already have outreach programs or services for the community that can be modified for use with your teens.   
+- Find out what the association’s goals and mission are. This can help you find ways that getting involved with the library will help the association.
+- The smaller and more informal an association is, the less documented it will be. As you are talking to individuals, ask them what kinds of associations they belong to or know of. 
+
+
 <div class="resources">
 <span class="box-title">TYPES OF ASSOCIATIONS</span>
 <p>Kretzmann & McKnight have identified many different types of associations, including:</p>

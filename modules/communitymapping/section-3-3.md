@@ -81,7 +81,7 @@ Associations are groups of community members who gather together voluntarily aro
 <br>
 <br>
 <div class="resources">
-<span class="box-title">DTYPES OF ASSOCIATIONS</span>
+<span class="box-title">TYPES OF ASSOCIATIONS</span>
 <p>Kretzmann & McKnight have identified many different types of associations, including:</p>
 <table>
   <tr><td>Artistic organizations 

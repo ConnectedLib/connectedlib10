@@ -56,15 +56,14 @@ The most foundational assets of a community are the individuals that form it. Ev
 <li><b>Seniors.</b> Seniors can be tremendous library assets with their experience and knowledge of cultural and community history. Many retirees have skills they are happy to share with teens; others can help connect the library to associations and organizations they are or were involved with.</li>
 
 <li><b>Marginalized groups.</b> Don’t write off groups that are traditionally thought of as only having needs, not assets, like people with disabilities or people from a lower SES. Everyone is an asset the library could potentially work with.</li>
-
+<br>
+<br>
 <div class="resources">
 <span class="box-title">DO ALL INDIVIDUALS HAVE CAPACITIES?</span>
 <p>Kretzmann & McKnight argue that need-focused labels, like “ex-convict”, “elderly,” “illiterate”, and “gang member” reflect and reinforce society’s belief that these “needy” people are “empty” and without anything to contribute to their community. Asset-based development means looking past labels to each individual’s specific gifts.<br>
-
 For example, “She is a pregnant teenager. She needs counseling, therapy, residential services, special education.” But also, “She is Mary Smith. She has a miraculously beautiful voice. We need her in the choir. She needs a record producer.” Her label, pregnant teenager, tells of emptiness and calls forth rejection, isolation and treatment. Her name, Mary Smith, tells of her gifts and evokes community and contributions.”<br>
 Kretzmann, J. P., & McKnight, J. L. (1993). Building from the inside out: A path toward finding and mobilizing a community’s assets. Chicago, IL: ACTA Publications. pp27-28</p>
 </div>
-<br>
 <br>
 
 **Associations**

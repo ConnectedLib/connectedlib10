@@ -16,7 +16,7 @@ The benefits of a partnership to the library are clear, but what about the benef
 <tr><th bgcolor="#F58F81" width="30%">LIBRARIES CAN PROVIDE SPACE FOR PARTNERS</tH><td>As community centers, most libraries can offer partners space to conduct their own programs and activities. Even if the partner has space of their own, the library might be more popular or accessible.<br>
   <a href="">CASE STUDY: CREATECH</a></td></tr>
 
-<tr><th bgcolor="#FCFB9D" width="30%">LIBRARIES CAN PROVIDE A NEW AUDIENCE FOR PARTNERS</th><td>A library with a thriving teen population can provide a ready-made audience for the partners’ activities. They can also help bridge the “trust gap” that new youth-serving organizations may face when they try to offer new services to an audience that is not familiar with them.<sup>[7](#fn7)</sup><br>
+<tr><th bgcolor="#FCFB9D" width="30%">LIBRARIES CAN PROVIDE A NEW AUDIENCE FOR PARTNERS</th><td>A library with a thriving teen population can provide a ready-made audience for the partners’ activities. They can also help bridge the “trust gap” that new youth-serving organizations may face when they try to offer new services to an audience that is not familiar with them.[7]<br>
 <a href="">CASE STUDY: CHICAGO PUBLIC LIBRARY & VETERANS ART MUSEUM</a></td></tr>
 
 <tr><th bgcolor="#8DC87C" width="30%">LIBRARIES CAN PROVIDE RESOURCES FOR PARTNERS</th><td>Library staff can help partners integrate library resources—equipment, software, physical collections, or library staff themselves—into their programs. Staff at an urban library in the south keep an eye out for opportunities to promote the library’s resources in activities held in the library: “[W]e might just offer, as part of their program, to talk about our library resources if it fits in.”<br><a href="">CASE STUDY: CHARLOTTE MECKLENBURG LIBRARY & NORTHWEST SCHOOL FOR THE ARTS</a></td></tr>
@@ -25,9 +25,12 @@ The benefits of a partnership to the library are clear, but what about the benef
 
 <tr><th bgcolor="#9982AB" width="30%">LIBRARIES CAN PROMOTE PARTNERS AND HELP WITH OUTREACH</th><td>Any organization that partners with a library can benefit from increased visibility in the community, but the more the organization interacts with patrons the stronger the potential impact can be. Theater, dance, and arts organizations in particular can use workshops to spark community interest in their productions and exhibits and even recruit new members. Some libraries provide community groups with time and space to be available to teens, particularly organizations that provide services like mental health counseling or legal services.<br><a href="">CASE STUDIES: PARTNERING WITH LOCAL BUSINESSES, YOUTH SERVING ORGANIZATIONS</a></td></tr>
 
-<tr><th bgcolor="#9982AB" width="30%">LIBRARIES CAN PROVIDE OR FACILITATE SERVICE OPPORTUNITIES</th><td>Through teen volunteer programs, libraries can offer opportunities for organizations that require their teens to perform community service, such as high schools or Interact.8 Libraries can also connect youth to volunteer opportunities with other organizations, particularly teens who have learned skills through labs or workshops at the library.  
+<tr><th bgcolor="#9982AB" width="30%">LIBRARIES CAN PROVIDE OR FACILITATE SERVICE OPPORTUNITIES</th><td>Through teen volunteer programs, libraries can offer opportunities for organizations that require their teens to perform community service, such as high schools or Interact.[8] Libraries can also connect youth to volunteer opportunities with other organizations, particularly teens who have learned skills through labs or workshops at the library.  
 Teens aren’t the only ones who need or want to volunteer. Libraries provide opportunities for adults, often retirees, to share their professional skills and knowledge with youth. Librarians interviewed for the ConnectedLib project mentioned individuals in their community who found fulfillment through volunteering to work with youth in areas as diverse as robotics, programming, and knitting.<br> <a href="">CASE STUDY: ADULT VOLUNTEERS</a></td></tr>
 </table>
 
 
-<a name="fn5">5</a>:  --Turner, Ali. “Bring Your Dreams to the Library.” Young Adult Library Services, 2013. http://leonline.com/yals/12n1_fall2013.pdf.
+
+<a name="fn7">7</a>:  --Eggers, Dave. My Wish: Once upon a School. TED, 2008. <https://www.ted.com/talks/dave_eggers_makes_his_ted_prize_wish_once_upon_a_school>.
+<a name="fn8">8</a>:  --Mulder, Natalie. “Encouraging Community Service in the Public Library.” Young Adult Library Services, 2011. <https://www.questia.com/library/journal/1G1-272078177/encouraging-community-service-in-the-public-library>.
+

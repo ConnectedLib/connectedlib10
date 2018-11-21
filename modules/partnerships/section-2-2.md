@@ -31,6 +31,6 @@ Teens aren’t the only ones who need or want to volunteer. Libraries provide op
 
 
 
-<a name="fn7">7</a>:  --Eggers, Dave. My Wish: Once upon a School. TED, 2008. <https://www.ted.com/talks/dave_eggers_makes_his_ted_prize_wish_once_upon_a_school>.
+<a name="fn7">7</a>:  --Eggers, Dave. My Wish: Once upon a School. TED, 2008. <https://www.ted.com/talks/dave_eggers_makes_his_ted_prize_wish_once_upon_a_school>.<br>
 <a name="fn8">8</a>:  --Mulder, Natalie. “Encouraging Community Service in the Public Library.” Young Adult Library Services, 2011. <https://www.questia.com/library/journal/1G1-272078177/encouraging-community-service-in-the-public-library>.
 

@@ -3,7 +3,7 @@ layout: module
 title: 3.0 Overview
 module_name: partnerships
 module_full_name: Community Partnerships
-section: 2. What is a Community Partnership
+section: 3. What is a Community Partnership
 subsection: three-zero
 ---
 

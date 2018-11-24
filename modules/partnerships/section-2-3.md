@@ -29,6 +29,32 @@ Partners can have varying levels of engagement and commitment, from simply netwo
 
 Different characteristics of the partnership may also vary from less to more intense along a spectrum.16 For instance, the structure of your relationship may be informal and undefined, or highly structured with well-defined roles. Communication can be once-in-a-while or frequent, decision-making can be one-sided or completely equal, and each partner’s commitment can be high or low. Of course, any given partnership effort can fall somewhere in the middle of those extremes as well. There is no single “correct” configuration—the right combination will depend on you, your partner, your resources, and your goals. 
 
+<div class="reflection"> 
+
+<span class="box-title">ARE YOU READY TO TAKE THE NEXT STEP</span> 
+
+<p>Before you make bigger and better plans with your partner, here are some things to consider before taking that next step. (Adapted from Squires, Tasha. Library Partnerships: Making Connections between School and Public Libraries. Medford, NJ: Information Today, Inc., 2009, 80.)</p>
+<ul>
+  <li>How many projects have you worked on with the partner? Did they go well? Do you have a good working relationship with everyone who was involved? </li>
+  <li>Have any of these projects involved a monetary commitment? Did it cause any issues? </li>
+  <li>How many people in your library and at the partnering institution are interested in being involved? Just the two of you, or are more people engaged and excited about the partnership? </li>
+  <li>Has management from both sides supported past projects? Do they support another collaboration? </li>
+  <li>Do you both know how much time you have to invest in the new project? </li>
+</ul>
+</div>
+
+<div class="reflection"> 
+
+<span class="box-title">ADDITIONAL RESOURCES</span> 
+<ul>
+  <li>YALSA’s <a href="http://www.ala.org/yalsa/partnering-toolkit">Partnering to Increase Your Impact</a> toolkit (2017) is full of tips and resources to help you form partnerships and obtain funding, including sample partnership letters. <a href="http://www.ala.org/yalsa/partnering-toolkit">http://www.ala.org/yalsa/partnering-toolkit</a></li>
+  <li>The <a href="http://ctb.ku.edu/">Community Toolbox</a> provides extensive resources for <a href="http://ctb.ku.edu/en/table-of-contents/assessment/promotion-strategies/start-a-coaltion/main">Starting a Coalition</a> in your community. <a href="http://ctb.ku.edu/en/table-of-contents/assessment/promotion-strategies/start-a-coaltion/main">http://ctb.ku.edu/en/table-of-contents/assessment/promotion-strategies/start-a-coaltion/main</a></li>
+  <li>    FSG has resources and a short video overview of Collective Impact. <a href="http://www.fsg.org/ideas-in-action/collective-impact">http://www.fsg.org/ideas-in-action/collective-impact</a></li> 
+
+  <li>The <a href="http://collectiveimpactforum.org/">Collective Impact Forum</a> is a community of practice for collective impact; includes news, resources, and case studies. ￼The Collective Impact Forum is a community of practice for collective impact; includes news, resources, and case studies. <a href="http://collectiveimpactforum.org/">http://collectiveimpactforum.org/</a></li>
+  <li>The <a href="http://www.strivepartnership.org">Strive Partnership</a> is an example of a collective impact program to improve education in the Cincinnati area. <a href="http://www.strivepartnership.org">http://www.strivepartnership.org</a></li>
+</ul>
+</div>
 
 <a name="fn9">9</a>:  --McCarthy, Catherine, and Brad Herring. “Museum & Community Partnerships: Collaboration Guide for Museums Working with Community Youth-Serving Organizations.” NISE Network, 2015. http://www.nisenet.org/sites/default/files/NISE%20Network%20Collaboration%20Guide%2011-20-2015%20FINAL.pdf.<br>
 <a name="fn10">10</a>:  --Braun, Linda W., Maureen L. Hartman, Sandra Hughes-Hassell, Kafi Kumasi, and Beth Yoke. “The Future of Library Services for and with Teens: A Call to Action.” Chicago, IL: YALSA, 2014, 13. http://www.ala.org/yaforum/future-library-services-and-teens-project-report.  <br>

@@ -51,7 +51,7 @@ Different characteristics of the partnership may also vary from less to more int
   <li>The <a href="http://ctb.ku.edu/">Community Toolbox</a> provides extensive resources for <a href="http://ctb.ku.edu/en/table-of-contents/assessment/promotion-strategies/start-a-coaltion/main">Starting a Coalition</a> in your community. <a href="http://ctb.ku.edu/en/table-of-contents/assessment/promotion-strategies/start-a-coaltion/main">http://ctb.ku.edu/en/table-of-contents/assessment/promotion-strategies/start-a-coaltion/main</a></li>
   <li>FSG has resources and a short video overview of Collective Impact. <a href="http://www.fsg.org/ideas-in-action/collective-impact">http://www.fsg.org/ideas-in-action/collective-impact</a></li> 
 
-  <li>The <a href="http://collectiveimpactforum.org/">Collective Impact Forum</a> is a community of practice for collective impact; includes news, resources, and case studies. ￼The Collective Impact Forum is a community of practice for collective impact; includes news, resources, and case studies. <a href="http://collectiveimpactforum.org/">http://collectiveimpactforum.org/</a></li>
+  <li>The <a href="http://collectiveimpactforum.org/">Collective Impact Forum</a> is a community of practice for collective impact; includes news, resources, and case studies. <a href="http://collectiveimpactforum.org/">http://collectiveimpactforum.org/</a></li>
   <li>The <a href="http://www.strivepartnership.org">Strive Partnership</a> is an example of a collective impact program to improve education in the Cincinnati area. <a href="http://www.strivepartnership.org">http://www.strivepartnership.org</a></li>
 </ul>
 </div>

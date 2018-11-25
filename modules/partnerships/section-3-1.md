@@ -21,7 +21,7 @@ Libraries are centers for informal learning, so other informal learning institut
 
 
 <table> 
-<tr bgcolor="#000000"><th colspan = "2">OPPORTUNITIES</th></tr> 
+<tr bgcolor="#000000"><th colspan = "2">CHALLENGES</th></tr> 
 <tr><th bgcolor="#cc3300">SIMILAR RESTRAINTS</th><td>Informal learning institutions and libraries frequently face similar staff, space, and budget restrictions, but they’ve also found creative ways to work around those challenges.<sup>21</sup></td></tr> 
 <tr><th bgcolor="#F6DEB7">MANAGEMENT APPROVAL</th><td>Establishing an official long-term partnership with an informal learning institution will probably need to involve the higher levels of management from both organizations.</td></tr>
 </table>

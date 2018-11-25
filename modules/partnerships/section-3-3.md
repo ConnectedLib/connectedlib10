@@ -38,10 +38,14 @@ There are a wide variety of youth-serving organizations other than the informal 
 <ul>
   <li>Beyond Books: Restorative Librarianship in Juvenile Detention. (Isaac Gilman, 2008). Public Libraries, 47(1). Available online: http://commons.pacificu.edu/libfac/1/?utm_source=commons.pacificu.edu%2Flibfac%2F1&utm_medium=PDF&utm_campaign=PDFCoverPages</li>
 
-  <li>Partnerships for Teen Tech Week (Stephanie Iser, 2008). Young Adult Library Services, 2008(Winter), 24.</li>
+  <li>Partnering with jails to improve reentry: A guidebook for community-based organizations. (Urban Institute, 2010). Available online: http://www.urban.org/research/publication/partnering-jails-improve-reentry-guidebook-community-based-organizations/view/full_report</li>
 
-  <li>Beyond Public Exhibits to Partnerships (Norman Morton, 2005). American Libraries, 2005(November), 42–45.</li>
+  <li>Children in Crisis Immigration Toolkit for Libraries (REFORMA, 2016). Advice on serving immigrant youth, including tips for partnerships with organizations that serve them. Available online: http://refugeechildren.wixsite.com/refugee-children/downloads</li>
 
-  <li><a href="http://www.nisenet.org/catalog/guide-building-partnerships-between-science-museums-and-university-based-research-centers">A Guide to Building Partnerships Between Science Museums and University-Based Research Centers</a>. (Carol Lynn Alpert, 2013). Advice for working with universities, researchers, and academics. Available online: <a href="http://www.nisenet.org/catalog/guide-building-partnerships-between-science-museums-and-university-based-research-centers">http://www.nisenet.org/catalog/guide-building-partnerships-between-science-museums-and-university-based-research-centers</a></li>
+  <li>It’s all about the kids: Presenting options and opening doors. (2008). By Joni Richards Bodart. In Young Adult Library Services, 2008(Fall), 35–45. Amy Cheney discusses her work with incarcerated teens in a juvenile detention center’s library. </li>
+  
+  <li>Connecting With Immigrant and Refugee Youth in Your Library. (Ady Huertas and Patrick Sullivan, 2016). Discusses the San Diego Public Library’s partnership with a shelter for unaccompanied immigrant minors. Available online (free to YALSA members): http://www.ala.org/yalsa/yalsamemonly/webinars/yell-yalsa-e-learning-library-date</li>
+  
+  <li>It’s Fun to Partner With Y-M-C-A! (Frederick Riley, 2014). An overview of the YMCA’s youth programs. Available online (free to YALSA members): http://www.ala.org/yalsa/yalsamemonly/webinars/webinars</li>
 </ul>
 </div>

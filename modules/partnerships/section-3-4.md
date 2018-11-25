@@ -15,8 +15,8 @@ Partnering with schools is particularly challenging for most of the librarians a
 <div class="resources"> 
 
 <span class="box-title">COMMUNITY PARTNERS: MAKING STUDENT LEARNING RELEVANT</span> 
-<img src="https://github.com/ConnectedLib/Connected-Learning-Modules/blob/master/images/community_partners_video_section3-2.JPG"><br>
-<p>Edutopia. Community Partners: Making Student Learning Relevant, 2016. <a href="https://www.youtube.com/watch?v=30oAIh5y3gE">https://www.youtube.com/watch?v=30oAIh5y3gE</a></p> 
+<img src="https://github.com/ConnectedLib/Connected-Learning-Modules/blob/master/images/community_partners_video_section3-4.JPG"><br>
+<p>YALSA. (2016). YALSA Snack Break: Audrey Hopkins on School and Public Library Partnerships for Teen Success. Retrieved from <a href="https://www.youtube.com/watch?v=vJpQJKUoXio">https://www.youtube.com/watch?v=vJpQJKUoXio</a></p> 
 </div>
 
 <table> 

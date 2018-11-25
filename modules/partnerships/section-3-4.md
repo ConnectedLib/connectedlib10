@@ -12,10 +12,10 @@ subsection: three-four
 Almost all of a community’s youth can be found in local schools at some point. Reaching teens through their schools can get them more involved with the library before the steep drop-off in participation that many librarians have reported with older teens. Partnerships with schools also build bridges between a teen’s formal and informal learning spaces—an important element of connected learning.  
 
 Partnering with schools is particularly challenging for most of the librarians and library workers we spoke to. Very few reported having any collaborative relationship at all with their local schools, let alone a thriving partnership. 
-<div class="resources"> 
 
-<span class="box-title">YALSA SNACK BREAK WITH AUDREY HOPKINS </span> 
-<img src="https://github.com/ConnectedLib/Connected-Learning-Modules/blob/master/images/community_partners_video_section3-4.JPG"><br><br>
+<div class="resources"> 
+<span class="box-title">YALSA SNACK BREAK WITH AUDREY HOPKINS </span>
+<span><img src="https://github.com/ConnectedLib/Connected-Learning-Modules/blob/master/images/community_partners_video_section3-4.JPG"></span><br><br>
 <p>YALSA. (2016). YALSA Snack Break: Audrey Hopkins on School and Public Library Partnerships for Teen Success. Retrieved from <a href="https://www.youtube.com/watch?v=vJpQJKUoXio">https://www.youtube.com/watch?v=vJpQJKUoXio</a></p> 
 </div>
 <br>

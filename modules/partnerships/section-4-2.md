@@ -22,10 +22,35 @@ New partnerships will always have an element of the unknown for both you and you
 Make sure you both understand what is needed to fill your roles successfully. For instance, if your partner is interested in using your space for an activity, make sure you fully understand their requirements—a dance troupe may require a particular type of flooring, and a technology workshop may need certain software. If your space is unstructured and HOMAGO-based, and your partner is used to a classroom setting—or vice versa—you may need to help your partner adapt their approach.</td></tr>
 <tr><th bgcolor="#59adc0">SHARED VISION AND GOALS</th><td>Whether your joint effort is big or small, you and your partner should agree on what the collaboration is meant to achieve. Determine what success looks like by planning your evaluation strategy together (see the module on Evaluation and Assessment). If you are not pulling in the same direction, the partnership may fail. </td></tr>
 </table>
+<br>
+<br>
+<div class="pointers">  
+
+<p><span class="box-title">GETTING STARTED: PARTNERING WITH SCHOOLS</span></p> 
+<p>The United Nations High Commissioner for Refugees (UNHCR) relies heavily on partnerships to coordinate help and services all over the world. From a wealth of experience, they developed a list of partnership best practices, some of which are listed below:</p>
+<ul> 
+
+<li>BUnderstand each partner’s point of view</li> 
+
+<li>RLearn from each other</li> 
+
+<li>Commit jointly to excellence and improvement</li> 
+<li>Commit to transparency and information sharing</li>
+<li>Look for synergy (making the whole greater than the sum of its parts)</li>
+<li>Approach all interactions with your partner with a win-win perspective</li>
+<li>Communicate in all directions </li>
+<li>Plan together and solve problems together</li>
+<li>Respect each other’s expertise</li>
+<li>Define roles, standards and limits and agree to respect them</li>
+<li>Commit to whatever training is needed</li>
+</ul> 
+<p>For the full list and a discussion of each best practice, see <i>Partnership: An operations management handbook for UNHCR’s partners. United Nations High Commissioner for Refugees. (2003).</i></p>
+</div>
 
 
 
-
+<br>
+<br>
 <a name="fn43">43</a>:  --Coalition to Advance Learning in Archives, Libraries and Museums. “Best Practices in Collaboration.” Coalition to Advance Learning in Archives, Libraries and Museums, 2016. http://www.coalitiontoadvancelearning.org/why-collaborate/best-practices-in-collaboration/.
 <br>
 <a name="fn44">44</a>:  --Coalition to Advance Learning in Archives, Libraries and Museums. “Best Practices in Collaboration.” Coalition to Advance Learning in Archives, Libraries and Museums, 2016. http://www.coalitiontoadvancelearning.org/why-collaborate/best-practices-in-collaboration/.

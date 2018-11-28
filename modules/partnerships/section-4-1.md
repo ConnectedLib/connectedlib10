@@ -49,7 +49,7 @@ No matter how persuasive and well-crafted your pitch is, you may be turned down.
 </div>
 <br>
 
-**PUT IT IN WRITING 
+**PUT IT IN WRITING**
 
 Depending on the size and formality of your project, a written agreement, contract, or memorandum of understanding may be useful or even required.<sup>[40,](#fn40)</sup><sup>[41](#fn41)</sup> Contracts are legally binding and are particularly important in situations that involve money, intellectual property, or other resources of value; a memorandum of understanding is not legally binding, but is useful for clarifying and recording agreements.<sup>[42,](#fn42)</sup> 
 

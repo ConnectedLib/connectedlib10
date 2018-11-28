@@ -45,3 +45,14 @@ Libraries are centers for informal learning, so other informal learning institut
 
 </div>
 
+<br>
+<br>
+<a name="fn17">17</a>:  --Educopia Institute. Spanning Our Field Boundaries: Mindfully Managing LAM Collaborations. Atlanta, GA: Educopia Institute, 2015. https://educopia.org/publications/spanning-our-field-boundaries-mindfully-managing-lam-collaborations. 
+<br> 
+<a name="fn18">18</a>:  --Twiggs, Korie, Christina Freitag, and Michelle Nichols. Partner with a Local Museum to Reach More Teens! Adobe Connect recording. YeLL! YALSA e-Learning Library. Chicago, IL: YALSA, 2016. http://www.ala.org/yalsa/yalsamemonly/webinars/webinars. (Requires YALSA membership.)
+<br> 
+<a name="fn19">19</a>:  --Twiggs, Korie, Christina Freitag, and Michelle Nichols. Partner with a Local Museum to Reach More Teens! Adobe Connect recording. YeLL! YALSA e-Learning Library. Chicago, IL: YALSA, 2016. http://www.ala.org/yalsa/yalsamemonly/webinars/webinars.
+<br> 
+<a name="fn20">20</a>:  --Twiggs, Korie, Christina Freitag, and Michelle Nichols. Partner with a Local Museum to Reach More Teens! Adobe Connect recording. YeLL! YALSA e-Learning Library. Chicago, IL: YALSA, 2016. http://www.ala.org/yalsa/yalsamemonly/webinars/webinars.
+<br> 
+<a name="fn21">21</a>:  --Hill, Chrystie, Merrilee Proffitt, and Sharon Streams, eds. IMLS Focus: Learning in Libraries. Kansas City, MO: Institute of Museum and Library Services, 2015, 11. http://www.imls.gov/assets/1/AssetManager/IMLS_Focus_Learning_in_Libraries_Final_Report.pdf.

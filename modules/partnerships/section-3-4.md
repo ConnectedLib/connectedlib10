@@ -82,5 +82,7 @@ Partnering with schools is particularly challenging for most of the librarians a
 </div>
 
 <a name="fn28">28</a>:  --Squires, Tasha. Library Partnerships: Making Connections between School and Public Libraries. Medford, NJ: Information Today, Inc., 2009, xv.
+<br>
 <a name="fn29">29</a>:  --Cooksey, Ashley J. “Partnerships beyond Four Walls.” American Libraries Magazine, January 3, 2017. https://americanlibrariesmagazine.org/2017/01/03/school-public-library-partnerships-beyond-four-walls/.
+<br>
 <a name="fn30">30</a>:  --Squires, Tasha. Library Partnerships: Making Connections between School and Public Libraries. Medford, NJ: Information Today, Inc., 2009, 21.

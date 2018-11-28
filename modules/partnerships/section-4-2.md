@@ -26,7 +26,7 @@ Make sure you both understand what is needed to fill your roles successfully. Fo
 <br>
 <div class="pointers">  
 
-<p><span class="box-title">GETTING STARTED: PARTNERING WITH SCHOOLS</span></p> 
+<p><span class="box-title">PARTNERSHIP BEST PRACTICES</span></p> 
 <p>The United Nations High Commissioner for Refugees (UNHCR) relies heavily on partnerships to coordinate help and services all over the world. From a wealth of experience, they developed a list of partnership best practices, some of which are listed below:</p>
 <ul> 
 

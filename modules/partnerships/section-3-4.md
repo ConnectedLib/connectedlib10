@@ -52,9 +52,9 @@ Partnering with schools is particularly challenging for most of the librarians a
 
 <li>Develop a way to stay in touch with teachers. Keeping teachers abreast of the latest library resources and programs for youth through a newsletter or email can help remind them to stay in touch with you about upcoming lessons and assignments.</li>
 
-<li>Start small. Working together on a one-time event can benefit both school and public library, and requires less time commitment than an ongoing partnership.29 (Cooksey, 2017).</li>
+<li>Start small. Working together on a one-time event can benefit both school and public library, and requires less time commitment than an ongoing partnership.<sup>29</sup> (Cooksey, 2017).</li>
 
-<li>Be in it for the long haul. If a partnership with the school just doesn’t materialize, consider building that relationship anyway by simply helping out—you could assist with an event, volunteer to help in the library, or support advocacy efforts for the school and the school library.30 This will help you learn more about the school and its needs, and may end up blossoming into a real partnership down the line.</li>
+<li>Be in it for the long haul. If a partnership with the school just doesn’t materialize, consider building that relationship anyway by simply helping out—you could assist with an event, volunteer to help in the library, or support advocacy efforts for the school and the school library.<sup>30</sup> This will help you learn more about the school and its needs, and may end up blossoming into a real partnership down the line.</li>
 </ul>
 </div>
 
@@ -82,3 +82,5 @@ Partnering with schools is particularly challenging for most of the librarians a
 </div>
 
 <a name="fn28">28</a>:  --Squires, Tasha. Library Partnerships: Making Connections between School and Public Libraries. Medford, NJ: Information Today, Inc., 2009, xv.
+<a name="fn29">29</a>:  --Cooksey, Ashley J. “Partnerships beyond Four Walls.” American Libraries Magazine, January 3, 2017. https://americanlibrariesmagazine.org/2017/01/03/school-public-library-partnerships-beyond-four-walls/.
+<a name="fn30">30</a>:  --Squires, Tasha. Library Partnerships: Making Connections between School and Public Libraries. Medford, NJ: Information Today, Inc., 2009, 21.

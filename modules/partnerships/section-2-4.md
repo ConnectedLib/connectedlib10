@@ -3,7 +3,7 @@ layout: module
 title: 2.4 Section 2 Activities
 module_name: partnerships
 module_full_name: Community Partnerships
-section: 2. What is a Community Partnership
+section: 2. What is a Community Partnership?
 subsection: two-four
 ---
 

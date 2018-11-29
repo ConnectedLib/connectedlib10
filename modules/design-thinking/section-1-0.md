@@ -55,15 +55,54 @@ For example, activities with youth that center on design thinking might include 
 
 <div class="explanatory">
 <span class="box-title">ADDITIONAL RESOURCES</span>
+<br>
+<p><b>Books:</b></p>
+<br>
 <ul>
-  <li>YALSA’s <a href="http://www.ala.org/yalsa/partnering-toolkit">Partnering to Increase Your Impact</a> toolkit (2017) is full of tips and resources to help you form partnerships and obtain funding, including sample partnership letters.</li>
+  <li>Clarke, R. I. (2015). Beyond buildings: A design-based approach to future librarianship. In Eden,B. (ed.) Leading the 21st-Century Academic Library: Successful Strategies for Envisioning and Realizing Preferred Futures. Lanham, MD: Scarecrow Press.</li>
 
-<li>Although it was developed for the Department of Justice, the <a href="http://www.cops.usdoj.gov/html/cd_rom/sro/FinalCDPubs/CollaborationToolkit.pdf">Collaboration Toolkit: How to Build, Fix, and Sustain Productive Partnerships</a> (2001) contains information about building and maintaining relationships that works for any type of organization.</li>
+<li>Nelson, H., and Stolterman, E. (2012). The First Tradition. In The Design Way: Intentional Change in an Unpredictable World: Foundations and Fundamentals of Design Competence (2nd Edition) (pp. 13-23). Cambridge, MA: MIT Press.</li>
 
-<li>The University of Kansas’ <a href="http://ctb.ku.edu/en/creating-and-maintaining-partnerships">Community Tool Box</a> contains a toolkit for Creating and Maintaining Partnerships. </li>
-
-<li>The NISE Network’s <a href="http://nisenet.org/museum-community-partnerships">Museum & Community Partnerships</a> toolkit was developed for museums, but the tips on collaborations and partnerships between community organizations are useful for libraries as well.</li>
+<li>Schmidt, A., & Etches, A. (2014). Useful, usable, desirable: Applying user experience design to your library. Chicago, IL: American Library Association Editions, pp. 1-12.</li>
   </ul>
+<br>
+<p><b>Articles:</b></p>
+<br>
+<ul>
+  <li>Braun, Linda W. (31, May, 2016). Using Design Thinking: Providing a framework for youth activities. https://americanlibrariesmagazine.org/2016/05/31/using-design-thinking/</li>
+
+<li>Mills, J. E., Campana, K., & Clarke, R. I. (2016). Learning by design: Creating knowledge through library storytime production. Proceedings of the Association for Information Science and Technology, 53(1), 1-6. </li>
+
+<li>Schmidt, A. (2015). Library UX in Practice | The User Experience. http://lj.libraryjournal.com/2015/03/opinion/aaron-schmidt/library-ux-in-practice-the-user-experience/#_</li>
+
+<li>Wise, S. Design Thinking in Education: Empathy, Challenge, Discovery, and Sharing. https://www.edutopia.org/blog/design-thinking-empathy-challenge-discovery-sharing-susie-wise</li>
+</ul>
+<br>
+<p><b>Toolkits:</b></p>
+<br>
+<ul>
+  <li>Design Thinking for Educators. http://www.designthinkingforeducators.com/</li>
+
+<li>IDEO. (2015). Design Thinking for Libraries: A toolkit for patron-centered design. http://designthinkingforlibraries.com</li>
+</ul>
+<br>
+<p><b>Guides and Playbooks:</b></p>
+<br>
+<ul>
+  <li>D.school, K12 Lab wiki. Steps in Design Thinking Process. https://dschool.stanford.edu/groups/k12/wiki/17cff/Steps_in_a_Design_Thinking_Process.html</li>
+</ul>
+<br>
+<p><b>Organizations and Schools:</b></p>
+<br>
+<ul>
+  <li>d.school (2016). Stanford University Institute of Design Homepage. http://dschool.stanford.edu/our-point-of-view/</li>
+</ul>
+<br>
+<p><b>Courses:</b></p>
+<br>
+<ul>
+  <li>d.school’s Virtual Crash Course and Resource page (2016). http://dschool.stanford.edu/dgift/</li>
+</ul>
 </div>
 
 ## SECTION 1 ACTIVITIES 

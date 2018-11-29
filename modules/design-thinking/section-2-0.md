@@ -132,7 +132,6 @@ As you close out a design challenge or studio experience, consider it as a chanc
 <br>
 
 <p><b>Articles:</b></p>
-<br>
 <ul>
   <li>Anderson, T. (2016). How to properly frame your design challenge. https://medium.com/digital-experience-design/how-to-properly-frame-your-design-challenge-36104910dfc8#.8uy6hlwvg</li>
 
@@ -151,7 +150,6 @@ As you close out a design challenge or studio experience, consider it as a chanc
 </ul>
 <br>
 <p><b>Toolkits:</b></p>
-<br>
 <ul>
   <li>d.school’s use our methods toolkit.(2016)  http://dschool.stanford.edu/use-our-methods/</li>
   <li>Design Thinking for Educators. https://designthinkingformuseums.net/tools/</li>
@@ -159,7 +157,6 @@ As you close out a design challenge or studio experience, consider it as a chanc
 </ul>
 <br>
 <p><b>Guides and Playbooks:</b></p>
-<br>
 <ul>
   <li>d.school K12 Lab Wiki. (2016) Creating Design Challenges. https://dschool.stanford.edu/groups/k12/wiki/613e8/Creating_Design_Challenges.html</li>
   <li>d.school virtual crash course playbook. (2012) http://dschool.stanford.edu/wp-content/uploads/2012/02/crashcourseplaybookfinal3-1-120302015105-phpapp02.pdf</li>
@@ -168,18 +165,15 @@ As you close out a design challenge or studio experience, consider it as a chanc
 </ul>
 <br>
 <p><b>Organizations and Schools:</b></p>
-<br>
 <ul>
   <li>d.school (2016). Stanford University Institute of Design Homepage. http://dschool.stanford.edu/our-point-of-view/</li>
 </ul>
 <br>
 <p><b>Courses:</b></p>
-<br>
 <ul>
   <li>d.school’s Virtual Crash Course in Design Thinking and Resource page (2016). http://dschool.stanford.edu/dgift/</li>
 </ul>
 <p><b>Presentations:</b></p>
-<br>
 <ul>
   <li>IDEO founder David Kelley’s TED talk: Build your creative confidence http://www.ted.com/talks/david_kelley_how_to_Build_your_creative_confidence</li>
 

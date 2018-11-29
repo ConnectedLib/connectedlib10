@@ -31,7 +31,7 @@ While definitions vary, “design thinking” is often viewed as both mindset an
 
 Design thinking is also a method for generating and developing ideas that centers on being solutions-focused, action-oriented, and human-centered in creating better outcomes for people. Originating in Scandinavian design traditions, human-centered approaches, focus on gaining empathy, or a deep understanding of others.  Using inspiration from those you design for and interact with, the design thinking process typically begins by assessing the needs of your community. You don’t have to be a designer to use creative tools and find solutions. Many fields such as Education have adopted these approaches to help young people develop such 21st century skills  as creative thinking, experimentation, and collaboration (Wise, 2016).  
 
-### Design Thinking in the youth Librarian Context
+### Design Thinking in the Youth Librarian Context
 
 Design may already be a tacit component of your work with youth (Clark, 2016). For example, after planning and organizing a library event, you might reflect on the experience and make changes based on the feedback you receive (Mills, Campana, Clarke, 2016). Additionally, designing with youth involves unique processes that must take into consideration who youth are (age ranges, developmental stages) and the environments in which they interact (schools, libraries, homes) (Clegg, 2016). Design can be seen in various aspects of librarianship spaces, references, and youth services.  
 

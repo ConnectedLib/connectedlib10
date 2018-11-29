@@ -18,10 +18,10 @@ subsection: overview
 ### Learning Objectives For This Module
 
 <ul class="fancy">
-	<li>Describe how an effective community partnership can support connected learning (<a href="{{site.url}}{{site.baseurl}}/partnerships/section-1-0.md">Section 1: Introduction</a>).</li>
-	<li>Identify the benefits of a partnership to both the library and the partner (<a href="{{site.url}}{{site.baseurl}}/partnerships/section-2-0/">Section 2: What is a Comunity Partnership?</a>).</li>
-	<li>Understand the opportunities and challenges involved in working with four different types of partners (<a href="{{site.url}}{{site.baseurl}}/partnerships/section-3-0.md">Section 3: Types of Partners</a>).</li>
-	<li>Develop and maintain a community partnership (<a href="{{site.url}}{{site.baseurl}}/partnerships/section-4.md">Section 4: Establishing a Partnership</a>).</li>
+	<li>Identify the design thinking method and mindset (<a href="{{site.url}}{{site.baseurl}}/design-thinking/section-1-0.md">Section 1: Introduction</a>).</li>
+	<li>Create and implement a design challenge (<a href="{{site.url}}{{site.baseurl}}/design-thinking/section-2-0/">Section 2: Exploring a Design Challenge</a>).</li>
+	<li>Apply design thinking techniques and methods to working with and for youth (<a href="{{site.url}}{{site.baseurl}}/design-thinking/section-3-0.md">Section 3: Core Research Methods</a>).</li>
+	<li>Overcome common design thinking challenges (<a href="{{site.url}}{{site.baseurl}}/design-thinking/section-4.md">Section 4: Overcoming Challenges</a>).</li>
 </ul>
 
 ### How to Use This Module

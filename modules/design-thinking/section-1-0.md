@@ -27,31 +27,31 @@ In this module, we outline design thinking methods for librarians serving youth.
 
 While definitions vary, “design thinking” is often viewed as both mindset and a method. As a mindset, it is a way of approaching challenges and problems like a designer.  For example, perhaps you want to make your library space more welcoming. You decide to elicit opinions from your own youth community. By seeking a shared understanding of the people you serve, you are using a design-thinking mindset.   
 
-You don’t have to be a designer to use creative tools and find solutions.  
+***You don’t have to be a designer to use creative tools and find solutions.*** 
 
 Design thinking is also a method for generating and developing ideas that centers on being solutions-focused, action-oriented, and human-centered in creating better outcomes for people. Originating in Scandinavian design traditions, human-centered approaches, focus on gaining empathy, or a deep understanding of others.  Using inspiration from those you design for and interact with, the design thinking process typically begins by assessing the needs of your community. You don’t have to be a designer to use creative tools and find solutions. Many fields such as Education have adopted these approaches to help young people develop such 21st century skills  as creative thinking, experimentation, and collaboration (Wise, 2016).  
 
-**Design thinking in the youth librarian context**
+### Design Thinking in the youth Librarian Context
 
 Design may already be a tacit component of your work with youth (Clark, 2016). For example, after planning and organizing a library event, you might reflect on the experience and make changes based on the feedback you receive (Mills, Campana, Clarke, 2016). Additionally, designing with youth involves unique processes that must take into consideration who youth are (age ranges, developmental stages) and the environments in which they interact (schools, libraries, homes) (Clegg, 2016). Design can be seen in various aspects of librarianship spaces, references, and youth services.  
 
 As a youth librarian, you can use design thinking in a variety of ways. The design thinking framework may be used within programming activities as tool for learning (Braun, 2016).Or you can use design thinking methods for solving your own challenges or to create new initiatives for your library (Braun, 2016). Design thinking can be another skill set you can bring to the table with what you already do--being actively engaged with youth in your community.  
 
-**The Design Thinking Process**  
+### The Design Thinking Process
 
 A design process is a way of putting design thinking into action (Design Thinking for Educators, 2016). A design process for youth librarians might include the following three phases: Imagination, Ideation, and Iteration.  
 
 Here’s how a design process might work as a framework for your projects and activities: 
 
-Chris is a youth librarian who wants to make his library a more welcoming environment for young people. He informally asks his youth community how they would reimagine the space (Imagination). Using observations and information from teens, he begins to refine their ideas and map out a new space configuration on a whiteboard (Ideation). After receiving additional feedback from patrons and administration on his plans for the space (Iteration), he implements the new changes, including the addition of more movable seating that allows teens to work on individual activities.   
+>Chris is a youth librarian who wants to make his library a more welcoming environment for young people. He informally asks his youth community how they would reimagine the space (**Imagination**). Using observations and information from teens, he begins to refine their ideas and map out a new space configuration on a whiteboard (**Ideation**). After receiving additional feedback from patrons and administration on his plans for the space (**Iteration**), he implements the new changes, including the addition of more movable seating that allows teens to work on individual activities.   
 
-You can start with this design process and adapt it to meet the needs of your library. During the different phases, you can make use of methods for discovering solutions, including observing, brainstorming, and designing prototypes. You can learn more about these methods in our section on Core research methods.  
+You can start with this design process and adapt it to meet the needs of your library. During the different phases, you can make use of methods for discovering solutions, including **observing**, **brainstorming**, and designing **prototypes**. You can learn more about these methods in our section on Core research methods.  
 
-**Design Thinking and Connected Learning** 
+### Design Thinking and Connected Learning
 
-Design thinking competencies synergize with such connected learning principles as production-oriented, peer-supported, shared purpose, and multiple pathways.  
+Design thinking competencies synergize with such connected learning principles as **production-oriented**, **peer-supported**, **shared purpose**, and **multiple pathways**.  
 
-For example, activities with youth that center on design thinking might include collaborative brainstorming (shared purpose/peer-supported), designing prototypes (production-oriented), or tinkering with technology (production-oriented). Using the connected learning framework, digital and networked technologies may be leveraged to explore design thinking by enabling young people to share their work process with a broad community (multiple pathways). 
+For example, activities with youth that center on design thinking might include collaborative **brainstorming** (shared purpose/peer-supported), designing **prototypes** (production-oriented), or tinkering with technology (production-oriented). Using the connected learning framework, digital and networked technologies may be leveraged to explore design thinking by enabling young people to share their work process with a broad community (multiple pathways). 
 
 <div class="explanatory">
 <span class="box-title">ADDITIONAL RESOURCES</span>

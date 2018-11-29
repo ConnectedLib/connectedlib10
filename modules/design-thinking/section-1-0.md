@@ -89,7 +89,7 @@ For example, activities with youth that center on design thinking might include 
 <p><b>Guides and Playbooks:</b></p>
 <br>
 <ul>
-  <li>D.school, K12 Lab wiki. Steps in Design Thinking Process. https://dschool.stanford.edu/groups/k12/wiki/17cff/Steps_in_a_Design_Thinking_Process.html</li>
+  <li>d.school, K12 Lab wiki. Steps in Design Thinking Process. https://dschool.stanford.edu/groups/k12/wiki/17cff/Steps_in_a_Design_Thinking_Process.html</li>
 </ul>
 <br>
 <p><b>Organizations and Schools:</b></p>

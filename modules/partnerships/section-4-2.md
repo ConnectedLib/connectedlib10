@@ -44,7 +44,7 @@ Make sure you both understand what is needed to fill your roles successfully. Fo
 <li>Define roles, standards and limits and agree to respect them</li>
 <li>Commit to whatever training is needed</li>
 </ul> 
-<p>For the full list and a discussion of each best practice, see <i>Partnership: An operations management handbook for UNHCR’s partners. United Nations High Commissioner for Refugees. (2003).</i></p>
+<p>For the full list and a discussion of each best practice, see <i>Partnership: An operations management handbook for UNHCR’s partners</i>. United Nations High Commissioner for Refugees. (2003).</p>
 </div>
 
 

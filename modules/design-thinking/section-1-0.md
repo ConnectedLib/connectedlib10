@@ -106,3 +106,7 @@ For example, activities with youth that center on design thinking might include 
 </div>
 
 ## SECTION 1 ACTIVITIES 
+
+### 1A. Reflection: Design thinking in your library 
+
+Think about the definition and description of design thinking in this section. How can you and your young patrons benefit from integrating design thinking into your library programs?

@@ -1,6 +1,6 @@
 ---
 layout: module
-title: 1.0 Overview
+title: 1.0 Introduction
 module_name: design-thinking
 module_full_name: Design Thinking
 section: 1. Introduction

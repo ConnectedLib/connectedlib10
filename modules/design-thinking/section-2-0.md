@@ -1,3 +1,4 @@
+---
 layout: module
 title: 2.0 Overview
 module_name: design-thinking
@@ -23,7 +24,7 @@ For instance, you might think about how youth can work together to solve real wo
 
 <div class="tips">  
 
-<p><span class="box-title">GETTING STARTED: PARTNERING WITH SCHOOLS</span></p> 
+<p><span class="box-title">QUESTIONS TO ASK WHEN CREATING A DESIGN CHALLENGE</span></p> 
 <br>
 <p><b>Is the challenge meaningful and interest-driven?</b></p>
 <ul> 

@@ -13,17 +13,17 @@ subsection: overview
 
 ## Module Overview
 
-<p class="summary">In this module, you will best practices for encouraging mentoring relationships (librarians as mentors, youth mentors, adult and community mentors) within a youth librarian context. </p>
+<p class="summary">In this module, you will learn best practices for encouraging mentoring relationships (librarians as mentors, youth mentors, adult and community mentors) within a youth librarian context. </p>
 
 ### Learning Objectives For This Module
 **After completing the Mentoring module, you will be able to…**
 <ul class="fancy">
-	<li>Identify the design thinking method and mindset  (<a href="{{site.url}}{{site.baseurl}}/partnerships/section-1-0.md">Section 1: Introduction</a>).</li>
-	<li>Create and implement a design challenge (<a href="{{site.url}}{{site.baseurl}}/partnerships/section-2-0/">Section 2: Benefits of Mentoring</a>).</li>
-	<li>Apply design thinking techniques and methods to working with and for youth (<a href="{{site.url}}{{site.baseurl}}/partnerships/section-3-0.md">Section 3: Developing Mentors and Mentorship Programs</a>).</li>
-	<li>Overcome common design thinking challenges  (<a href="{{site.url}}{{site.baseurl}}/partnerships/section-4.md">Section 4: Youth as Mentors</a>).</li>
-  <li>Overcome common design thinking challenges  (<a href="{{site.url}}{{site.baseurl}}/partnerships/section-4.md">Section 5: Adult and Community Mentors</a>).</li>
-  <li>Overcome common design thinking challenges  (<a href="{{site.url}}{{site.baseurl}}/partnerships/section-4.md">Section 6: Mentoring Challenges</a>).</li>
+	<li>Describe the core elements of mentoring  (<a href="{{site.url}}{{site.baseurl}}/partnerships/section-1-0.md">Section 1: Introduction</a>).</li>
+	<li>Describe the benefits of mentoring and understand when and how mentoring can work(<a href="{{site.url}}{{site.baseurl}}/partnerships/section-2-0/">Section 2: Benefits of Mentoring</a>).</li>
+	<li>Design a mentorship program for your library (<a href="{{site.url}}{{site.baseurl}}/partnerships/section-3-0.md">Section 3: Developing Mentors and Mentorship Programs</a>).</li>
+	<li>Develop and support youth mentors at your library (<a href="{{site.url}}{{site.baseurl}}/partnerships/section-4-0.md">Section 4: Youth as Mentors</a>).</li>
+  <li>Develop and support adult mentors from your community (<a href="{{site.url}}{{site.baseurl}}/partnerships/section-5-0.md">Section 5: Adult and Community Mentors</a>).</li>
+  <li>Address common mentoring challenges  (<a href="{{site.url}}{{site.baseurl}}/partnerships/section-6-0.md">Section 6: Mentoring Challenges</a>).</li>
 </ul>
 
 ### How to Use This Module

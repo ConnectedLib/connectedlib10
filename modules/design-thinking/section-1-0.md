@@ -23,7 +23,7 @@ These are just some of the projects and activities coming from youth librarians 
 
 In this module, we outline design thinking methods for librarians serving youth. Design thinking can be interpreted in many ways. This module provides broad guidelines surrounding how the design experiences of youth librarians and young people can be supported. With a focus on programming and activities, you can customize the design thinking process for your own library community and context. 
 
-###What is Design Thinking?### 
+### What is Design Thinking?
 
 While definitions vary, “design thinking” is often viewed as both mindset and a method. As a mindset, it is a way of approaching challenges and problems like a designer.  For example, perhaps you want to make your library space more welcoming. You decide to elicit opinions from your own youth community. By seeking a shared understanding of the people you serve, you are using a design-thinking mindset.   
 

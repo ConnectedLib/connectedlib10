@@ -61,6 +61,6 @@ Might we all have the opportunity to mentor another?
 How powerful is a single moment of validation to a young imagination? 
 Might your influence travel further than you might imagine? 
 
-<div><a href="https://vimeo.com/43862075"><img src="https://github.com/ConnectedLib/Connected-Learning-Modules/blob/master/images/mentoring_section-1-0.jpg"></a></div>
+<div><a href="https://vimeo.com/43862075" target="_blank"><img src="https://github.com/ConnectedLib/Connected-Learning-Modules/blob/master/images/mentoring_section-1-0.jpg"></a></div>
 
 

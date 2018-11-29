@@ -11,7 +11,7 @@ In this section, you will learn more ways to integrate the design thinking minds
 
 ## Learning Outcomes For This Section
 
-**After completing Section : Overcoming Challenges, you will be able to...**
+**After completing Section 4: Overcoming Challenges, you will be able to...**
 <ul class="fancy">
   <li>Address common challenges related to design thinking</li>
 </ul>

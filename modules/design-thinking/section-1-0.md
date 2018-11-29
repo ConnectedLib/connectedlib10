@@ -67,7 +67,7 @@ For example, activities with youth that center on design thinking might include 
   </ul>
 <br>
 <p><b>Articles:</b></p>
-<br>
+
 <ul>
   <li>Braun, Linda W. (31, May, 2016). Using Design Thinking: Providing a framework for youth activities. https://americanlibrariesmagazine.org/2016/05/31/using-design-thinking/</li>
 
@@ -79,7 +79,6 @@ For example, activities with youth that center on design thinking might include 
 </ul>
 <br>
 <p><b>Toolkits:</b></p>
-<br>
 <ul>
   <li>Design Thinking for Educators. http://www.designthinkingforeducators.com/</li>
 
@@ -87,19 +86,16 @@ For example, activities with youth that center on design thinking might include 
 </ul>
 <br>
 <p><b>Guides and Playbooks:</b></p>
-<br>
 <ul>
   <li>d.school, K12 Lab wiki. Steps in Design Thinking Process. https://dschool.stanford.edu/groups/k12/wiki/17cff/Steps_in_a_Design_Thinking_Process.html</li>
 </ul>
 <br>
 <p><b>Organizations and Schools:</b></p>
-<br>
 <ul>
   <li>d.school (2016). Stanford University Institute of Design Homepage. http://dschool.stanford.edu/our-point-of-view/</li>
 </ul>
 <br>
 <p><b>Courses:</b></p>
-<br>
 <ul>
   <li>d.school’s Virtual Crash Course and Resource page (2016). http://dschool.stanford.edu/dgift/</li>
 </ul>

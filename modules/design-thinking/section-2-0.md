@@ -84,11 +84,9 @@ Who is the target audience?
 
 What are your design constraints and how do you deal with them? Design constraints are boundaries that can influence design directions (Lopez, 2012). For instance, in our designing a safe space for teens example, design constraints might include budget, project deadlines, community preferences, and available space within the library.  A few tips for working with youth and design constraints include:  
 
-Embrace the design constraints by writing them out and coming up with possible solutions and workarounds  
-
-Explain that constraints can be “useful guideposts” for what’s relevant to the design challenge that demonstrate when you may be off-course (Lopez, 2012)  
-
-Think about how youth or librarians my impose design constraints on the project without realizing it (Lopez, 2012)  
+- Embrace the design constraints by writing them out and coming up with possible solutions and workarounds  
+- Explain that constraints can be “useful guideposts” for what’s relevant to the design challenge that demonstrate when you may be off-course (Lopez, 2012)  
+- Think about how youth or librarians my impose design constraints on the project without realizing it (Lopez, 2012)  
 
 ### Facilitating a design challenge through studio experience  
 
@@ -96,57 +94,39 @@ Many youth librarians have provided their community with studio experience, work
 
 You can use different design thinking techniques and research methods that encourage making and problem solving (see our section on Core Research Methods). Within a studio setting, the project team might consist of a single young person or a group. Whatever the situation, consider the role of mentors in the facilitation process (Makered Playbook, 2013; Wise, 2016; Chicago YouMedia). Mentors can be adults or even older teens who are interested in working with youth and may be experienced in the design challenge. Mentors can assist you in the areas where you may need additional expertise. For more information on mentors, please visit our Mentorship module.  
 
-Here are a few basic tips for facilitating a studio experience:  
+**Here are a few basic tips for facilitating a studio experience:** 
 
-Configure your space. Plan out an arrangement that encourages activity and allows participants to move around comfortably.  
-
-Gather your tools. Materials and supplies for such techniques as brainstorming and prototyping should be gathered beforehand. Think about how you can use simple or everyday materials like: paper, pens, popsicle sticks, sticky notes, and pipe cleaners. 
-
-Structure an unstructured experience. You can scaffold more unstructured sessions with a brief introduction or examples of possible outcomes prior to the hands-on experience. During most of the studio and making time, you can assist, monitor, and keep youth engaged. Think about including a short period of “closing out” time that encourages reflection or assessment of the design experience.  
-
-Think in themes. In more open-ended studio experiences, try a “themes to explore” approach rather than focusing on a specific goal (Resnick, 2013). For example, in a theme-based workshop around Music Makers, participants can create new types of programmable musical instruments in a Storybook Scenes workshop, they create robotic characters based on a book or movie (Rusk, et al., 2008). 
-
-Use two people. Facilitators should aim to run more complex or structured studio sessions with at least two people. One person takes the lead on communicating the instructions and timing, and the other person can provide encouragement, follow up, and useful tips as youth are designing (d.school facilitators guide, 2013).  
+- **Configure your space**. Plan out an arrangement that encourages activity and allows participants to move around comfortably.  
+- **Gather your tools**. Materials and supplies for such techniques as brainstorming and prototyping should be gathered beforehand. Think about how you can use simple or everyday materials like: paper, pens, popsicle sticks, sticky notes, and pipe cleaners. 
+- **Structure an unstructured experience**. You can scaffold more unstructured sessions with a brief introduction or examples of possible outcomes prior to the hands-on experience. During most of the studio and making time, you can assist, monitor, and keep youth engaged. Think about including a short period of “closing out” time that encourages reflection or assessment of the design experience.  
+- **Think in themes**. In more open-ended studio experiences, try a “themes to explore” approach rather than focusing on a specific goal (Resnick, 2013). For example, in a theme-based workshop around Music Makers, participants can create new types of programmable musical instruments in a Storybook Scenes workshop, they create robotic characters based on a book or movie (Rusk, et al., 2008). 
+- **Use two people**. Facilitators should aim to run more complex or structured studio sessions with at least two people. One person takes the lead on communicating the instructions and timing, and the other person can provide encouragement, follow up, and useful tips as youth are designing (d.school facilitators guide, 2013).  
 
 ### Kick off or Warm ups 
 
 Warm up activities can help participants get started with “thinking like a designer”. Here are a few warm-up techniques to consider:  
-
-Have your participants pair up and interview each other. Using information from interviews with each other, each participant will design something that represents the other person.  
-
-Provide your participants with a Question of the Day connected with the session. Have each participant respond to it.  
-
-Show participants a Picture of the Day that may be representative of the session’s content. Ask participants to respond to the image and what it means to them.  
+- Have your participants pair up and interview each other. Using information from interviews with each other, each participant will design something that represents the other person.  
+- Provide your participants with a Question of the Day connected with the session. Have each participant respond to it.  
+- Show participants a Picture of the Day that may be representative of the session’s content. Ask participants to respond to the image and what it means to them.  
 
 Here are a few more tips on leading a design experience from youth librarians around the U.S. :  
-
-Lead with empathy.  “Janet”, a youth librarian at a rural Midwestern library offers the advice of respecting teens unique insight in the process of figuring things out. She feels that teens really appreciate a partnership approach in the design process. She says: “... if you respect that they have something to say and just listen to what they have to say. I think they enjoy that.” 
-
-Balance flexibility and guidance. “Paul”, who works at Southern, urban library, feels it’s a challenge to balance enough direction and openness in a design experience. He says that design sessions that offer too much flexibility “...may be something that's not sustainable.” His advice is to begin designing with young people by walking them through the process first.  
-
-Remain open to failure (and messiness!). “Samantha”, a youth librarian at an urban, Eastern library aims to let teens to feel comfortable enough to explore and “get messy”. She provides opportunities for teens to “fail in their experiments and then build on that to succeed later.”  
+- **Lead with empathy**.  “Janet”, a youth librarian at a rural Midwestern library offers the advice of respecting teens unique insight in the process of figuring things out. She feels that teens really appreciate a partnership approach in the design process. She says: “... if you respect that they have something to say and just listen to what they have to say. I think they enjoy that.” 
+- **Balance flexibility and guidance**. “Paul”, who works at Southern, urban library, feels it’s a challenge to balance enough direction and openness in a design experience. He says that design sessions that offer too much flexibility “...may be something that's not sustainable.” His advice is to begin designing with young people by walking them through the process first.  
+- **Remain open to failure (and messiness!)**. “Samantha”, a youth librarian at an urban, Eastern library aims to let teens to feel comfortable enough to explore and “get messy”. She provides opportunities for teens to “fail in their experiments and then build on that to succeed later.”  
 
 ### Closing out the challenge  
 
 As you close out a design challenge or studio experience, consider it as a chance for you or your youth community to reflect, present, and assess your experience. Here are are some questions to think about as you end the design challenge. For more information on assessing the outcomes of projects and programming, check out our module on assessment:  
 
-Defining success/assessment 
-
-Consider what criteria should be used to judge if your design or solution reached its goals.  
-
-Success can be defined in many ways. What is often more important in design thinking is the process of learning.  
-
-When did you spot evidence of engagement and learning? Did you see signs of design thinking skills (collaboration, critical thinking, empathy) being used?  
-
-Provide opportunities for students to present and reflect on the design challenge  
-
-Did we have all the tools we needed for the design challenge?  
-
-What can we do to make our library a better working environment? 
-
-How might we revise or iterate on this challenge in the future?  
-
-How might young people display and make the public aware of their work? Think about the use of social and digital platforms available to present and share both the design process and end results of a design experience.  
+- Defining success/assessment 
+  - Consider what criteria should be used to judge if your design or solution reached its goals.  
+  - Success can be defined in many ways. What is often more important in design thinking is the process of learning.  
+    - When did you spot evidence of engagement and learning? Did you see signs of design thinking skills (collaboration, critical thinking, empathy) being used?  
+- Provide opportunities for students to present and reflect on the design challenge  
+  - Did we have all the tools we needed for the design challenge?  
+  - What can we do to make our library a better working environment? 
+  - How might we revise or iterate on this challenge in the future?  
+  - How might young people display and make the public aware of their work? Think about the use of social and digital platforms available to present and share both the design process and end results of a design experience.  
 
 <div class="explanatory">
 <span class="box-title">ADDITIONAL RESOURCES</span>

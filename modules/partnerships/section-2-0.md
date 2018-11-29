@@ -1,9 +1,9 @@
 ---
 layout: module
-title: 2.0 What is a Community Partnership
+title: 2.0 Overview
 module_name: partnerships
 module_full_name: Community Partnerships
-section: 2. Overview
+section: 2. What is a Community Partnership?
 subsection: two-zero
 ---
 

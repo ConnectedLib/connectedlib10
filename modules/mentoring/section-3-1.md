@@ -4,12 +4,12 @@ title: 3.1 Designing a mentorship-focused program: A step by step approach
 module_name: mentoring
 module_full_name: Mentoring
 section: 3. Developing Menors and Mentorship Programs
-subsection: three-zero
+subsection: three-one
 ---
 
 There are four steps in designing a mentorship-focused program:
 
-#### STEP 1: Design your program and develop a mentoring roadmap. 
+### STEP 1: Design your program and develop a mentoring roadmap. 
 
 What are your goals? What participants are you looking for? Different individuals can play a role in mentoring. For initial ideas, we outline three different types of mentoring roles that can happen within libraries:  
 

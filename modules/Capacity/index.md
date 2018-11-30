@@ -1,8 +1,8 @@
 ---
 layout: module
-title: Introduction to Connected Learning
-module_name: introduction
-module_full_name: Introduction to Connected Learning
+title: Capacity
+module_name: capacity
+module_full_name: Capacity
 section: Overview
 subsection: overview
 ---

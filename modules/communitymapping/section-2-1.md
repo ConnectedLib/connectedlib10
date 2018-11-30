@@ -3,7 +3,7 @@ layout: module
 title: 2.1 Asset-Based Community Development
 module_name: communitymapping
 module_full_name: Community Mapping
-section: Community Assets
+section: 2. Community Assets
 subsection: two-one
 ---
 

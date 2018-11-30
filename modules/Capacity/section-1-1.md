@@ -13,7 +13,7 @@ Capacity can mean the **physical space** of your library, for instance how large
 
 **Technology** is another important piece for library capacity. How many computers does your library have? What software programs are loaded on those computers? Other forms of technology might include large items like tablets, or smaller items like headphones or MP3 players. The technology capacity of your library can be broken into two parts:  
 
-&nbsp;&nbsp;&nbsp;&nbsp;-_**Acquisition**_: refers to your library’s unique capacity to acquire technology. This includes your library’s technology budget, as well as the sources your library uses to acquire technology. For example, if you had a community partnership with robotics club, they might be able to help supply you with motors. Both your budget and your library’s unique partnerships play roles in your technology acquisition. 
+*Acquisition*: refers to your library’s unique capacity to acquire technology. This includes your library’s technology budget, as well as the sources your library uses to acquire technology. For example, if you had a community partnership with robotics club, they might be able to help supply you with motors. Both your budget and your library’s unique partnerships play roles in your technology acquisition. 
 
 &nbsp;&nbsp;&nbsp;&nbsp;-_**Use**_: refers to your library’s use of technology. What is your library’s capacity in relation to technology use? Important aspects to consider include staff members’ abilities to use and teach the use of different technologies, as well as your community’s access to technology. What technology needs are already met in your community? Which are met at your library? Which are not met at your library? 
 

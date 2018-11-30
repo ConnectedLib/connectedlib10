@@ -12,7 +12,7 @@ There are five types of community assets: individuals, associations, institution
 
 <table>
 <tr style="background-color:#CCEDC3"><th colspan = "2">TYPES OF COMMUNITY ASSETS</th></tr>
-<tr bgcolor="#E8B2AB"><th>Individuals</th><td>The most foundational assets of a community are the individuals that form it. Every individual has gifts that they can share with their community -- like knowledge, a skill, or physical space, to name just a few.</td></tr>
+<tr style="background-color:#E8B2AB"><th>Individuals</th><td>The most foundational assets of a community are the individuals that form it. Every individual has gifts that they can share with their community -- like knowledge, a skill, or physical space, to name just a few.</td></tr>
   <tr style="background-color:#F6DEB7"><th>Associations</th><td>Association are groups of community members who gather together voluntarily around a common interest. Associations are key to getting the community involved in your teen services. </td></tr>
   <tr style="background-color:#FCFB9D"><th>Institutions</th><td>Institutions are groups of people brought together professionally -- such as business, schools, government agencies. They often have many resources that can be shared with the community. </td></tr>
 <tr style="background-color:#CCEDC3"><th>Physical Assets</th><td>Individuals, associations, and institutions can all provide gifts in the form of physical assets, like land, buildings, equipment, and money.</td></tr>

@@ -3,12 +3,12 @@ layout: module
 title: 3.0 Overview
 module_name: communitymapping
 module_full_name: Community Mapping
-section: 3 The Community Mapping Process
+section: 3. The Community Mapping Process
 subsection: three-zero
 ---
 
 ## Learning Outcomes For This Section
-**After completing Section 2: Community Assets, you will be able to...
+**After completing Section 3: The Community Mapping Process, you will be able to...
 <ul class="fancy">
   <li>Describe what you need to do before starting your community map</li>
    <li>Assemble a team to help you create a community map</li>

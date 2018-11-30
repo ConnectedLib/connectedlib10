@@ -91,7 +91,7 @@ By the end of this module, you will feel confident about evaluating and assessin
 
   <li>IMLS (2015) has collected a list of <a href="https://www.imls.gov/research-evaluation/evaluation-resources" target="_blank">Evaluation Resources</a> from a variety of sources.</li>
 
-<b>Evaluating and Assessing Informal Learning</b>
+<br><b>Evaluating and Assessing Informal Learning</b>
 
   <li>See Chapter 6 of <a href="http://www.nap.edu/catalog/12614" target="_blank">Surrounded by Science</a> (Marilyn Fenichel & Heidi A. Schweingruber, 2010) for a discussion of “Assessing Learning Outcomes.”</li>
 

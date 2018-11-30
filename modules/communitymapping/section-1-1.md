@@ -3,7 +3,7 @@ layout: module
 title: 1.1 What is a community asset map
 module_name: communitymapping
 module_full_name: Community Mapping
-section: What is community mappping
+section: 1. Introduction
 subsection: one-one
 ---
 
@@ -19,7 +19,7 @@ Community asset maps take many forms, from simple lists that fit on a single pie
 
 Your map can be small and simple or complex and far-reaching. You can choose how detailed you want your map to be based on your needs and your resources. You can also consider it an iterative process—you could start by looking only at businesses within one mile of your library, for instance, with plans to add community organizations later, and then expand to two miles.
 
-<div bgcolor="#F58F81">
+<div class="extra">
 <p class="box-title">SCALE UP OR SCALE DOWN</p>
 <p>Since every community is different, the community mapping process will vary from library to library. A large urban library in a big city may go through an extensive process involving focus groups and interviews with dozens of community members and representatives of local organizations, but a busy “everything librarian” in a rural one-room library can benefit from a scaled-down version involving an afternoon with a search engine and some reflection. This module will teach you the principles of community mapping and suggest strategies for scaling the process up or down so you can make a plan that will fit your library, your community, and your resources.</p>
 </div><br><br>

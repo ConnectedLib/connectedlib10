@@ -84,8 +84,24 @@ Before diving headlong into data collection, test the entire process. For a smal
 
 Be sure to respect your participants’ privacy and autonomy as you are collecting data (and any time outside stakeholders are involved). This is particularly important when you are interacting with minors. <a href="https://projectoutcome.org/" target="_blank">Project Outcome</a> is a good starting place for learning about <a href="https://projectoutcome.org/surveys-resources/informed-consent-guidelines" target="_blank">issues of privacy and consent in library assessment</a> (requires free registration). 
 
- 
-
 #### Ways to collect data 
 
 The following table includes some—though certainly not all!—methods to collect data for your assessment. Each method has potential strengths and weaknesses and can be used to assess a wide variety of factors. Choose one (or more) that fits your question, your program, and your capacity.  
+
+<table>
+  <tr style="background-color:#BBD0F8"><th colspan="2">ANALYZING ARTIFACTS</th></tr>
+  <tr><td colspan="2"></td>You can gain a great deal of insight from the items learners create through your initiatives, whether they are musical performances, poetry, or 3-D models. Knowledge, skill, development, attitudes, behaviors—these can all be observed in learners’ creations. You can also ask students to write about the learning experience or their creative process, and analyze their responses. </tr>
+  <tr><td><b>Good for:</b><ul><li>Demonstrating achievement first-hand</li></td><td><b>Potential drawbacks: </b><ul><li>There can be a high level of subjectivity; be careful not to read too much into a creation (particularly a non-textual one) without input from the creator</li><li>People may not like being watched</li></ul></td></tr>
+  
+  <tr style="background-color:#BBD0F8"><th colspan="2">COLLECTING PASSIVE FEEDBACK</th></tr>
+  <tr><td colspan="2">Along with on-demand surveys and questionnaires, you can collect passive feedback through methods such as comment cards or “talkback boards” (see the sidebar following this section). </td></tr>
+  <tr><td><b>Good for:</b><ul><li>Collecting data unobtrusively</li></ul></td><td><b>Potential drawbacks: </b><ul><li>Responses may come only from people with extreme or passionate opinions—not from people “in the middle”</li></ul></td></tr>
+  
+  <tr style="background-color:#BBD0F8"><th colspan="2">MAKING OBSERVATIONS</th></tr>
+  <tr><td colspan="2"></td>Using an observation guide or protocol, you can collect data by simply observing what is happening during a program or in a space and taking detailed “field notes.” This can be done unobtrusively in the background, or in a more engaged manner. If observing an individual directly (perhaps as they use a resource or do an activity) you can ask them to use a “think-aloud” strategy to help you understand why they do what they do. </tr>
+  <tr><td><b>Good for:</b><ul><li>Uncovering unexpected outcomes</li><li>Directly observing what is happening, not just relying on participants’ self-reports</li></ul></td><td><b>Potential drawbacks: </b><ul><li>People often behave differently when they know they are being observed</li><li>Effective observations require a great deal of attention and focus</li><li>People may not like being watched</li></ul></td></tr>
+  
+  <tr style="background-color:#BBD0F8"><th colspan="2">TESTING KNOWLEDGE OR SKILLS</th></tr>
+  <tr><td colspan="2"></td>Formal tests of knowledge or skills feel too much like school for a connected learning library setting, but you can find small, creative ways to “test” a teen’s progress without making it feel like an exam, such as integrating a competitive quiz towards the end of a program or presenting challenges for participants to work on. </tr>
+  <tr><td><b>Good for:</b><ul><li>Directly assessing what a teen knows or can do</li></ul></td><td><b>Potential drawbacks: </b><ul><li>They can feel too formal and school-like</li><li>They can feel like too much pressure, especially for youth who are hanging out or messing around</li></ul></td></tr>
+</table>

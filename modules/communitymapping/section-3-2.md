@@ -21,7 +21,7 @@ The first step is to gain an accurate picture of the people that make up your co
 
 Are there groups that are not currently at the table with you as you plan programs for your teens?
 
-  <div class="resources">
+  <div class="explanatory">
   <span class="box-title">ADDITIONAL RESOURCES</span>
   <p><a href="https://www.census.gov/programs-surveys/acs/data.html">American Community Survey</a>. Updated yearly.</p>
 </div>
@@ -34,4 +34,4 @@ Are there groups that are not currently at the table with you as you plan progra
 
 
 
-<a name="fn4">4</a>Collaborative For Neighborhood Transformation. (2016). What is asset based community development? ABCD Institute. Retrieved from <a href="https://resources.depaul.edu/abcd-institute/resources/Documents/WhatisAssetBasedCommunityDevelopment.pdf">https://resources.depaul.edu/abcd-institute/resources/Documents/WhatisAssetBasedCommunityDevelopment.pdf</a>, p 3 
+<a name="fn4">4</a>Collaborative For Neighborhood Transformation. (2016). What is asset based community development? ABCD Institute. Retrieved from https://resources.depaul.edu/abcd-institute/resources/Documents/WhatisAssetBasedCommunityDevelopment.pdf, p 3 

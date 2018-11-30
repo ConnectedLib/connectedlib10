@@ -2,7 +2,7 @@
 layout: module
 module_name: capacity
 module_full_name: Capacity
-title: 1.0 Overview
+title: 1.0 Introduction
 section: 1. Introduction 
 subsection: one-zero
 ---

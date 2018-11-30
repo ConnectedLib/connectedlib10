@@ -17,4 +17,4 @@ This section discusses how to develop and support adult mentors from your commun
 </ul>
 <br>
 
-Successful peer supported learning and mentorship can be challenging to create (Ito, et al., 2013). It may take several attempts, time, and effort to build a supportive community and meaningful relationships. The following section outlines some common challenges and ways to prepare for and overcome them:
+Successful peer supported learning and mentorship can be challenging to create (Ito, et al., 2013). It may take several attempts, time, and effort to build a supportive community and meaningful relationships.

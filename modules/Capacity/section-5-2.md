@@ -25,8 +25,10 @@ The biggest capacity challenge for using technology in the library is knowledge.
 <li>Technology mentors: knowledgeable volunteers able to help with the teaching and use of new media in the library informally during regular operating hours</li>
 <li>Partner-led technology programs: formal library programs led by community volunteers who are knowledgeable in specific technology use</li>
 </ol>
+
 1. heoos
 2. syou
+3. sldk
 
  
 **Evaluation**

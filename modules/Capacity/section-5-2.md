@@ -14,11 +14,9 @@ Technology and media might be the biggest capacity concern for libraries in this
 While many libraries big and small typically have less of a budget than they would like for acquiring new technology, there are many ways that libraries acquire new technology outside of their annual budget. These can include grants and other supplemental funding, but another way that libraries acquire new technology is through partnerships. While these can be grant-like partnerships with technology companies like Microsoft or Google, they can also be smaller community based partnerships with local organizations and businesses.  
 
 Examples include: 
-<ul>
-<li>Technology donations from community organizations</li>
-<li>Fundraisers hosted by local partners</li>
-<li>Items on “loan” for specific library programs</li>
-</ul>
+- Technology donations from community organizations
+- Fundraisers hosted by local partners
+- Items on “loan” for specific library programs
  
 **Use**
 
@@ -27,6 +25,9 @@ The biggest capacity challenge for using technology in the library is knowledge.
 <li>Technology mentors: knowledgeable volunteers able to help with the teaching and use of new media in the library informally during regular operating hours</li>
 <li>Partner-led technology programs: formal library programs led by community volunteers who are knowledgeable in specific technology use</li>
 </ol>
+1. heoos
+2. syou
+
  
 **Evaluation**
 

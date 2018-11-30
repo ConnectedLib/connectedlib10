@@ -7,7 +7,7 @@ section: 2. Benefits of Mentoring
 subsection: two-zero
 ---
 
-In this section we will discuss what community mapping is and why it is important to your library. 
+This section provides an overview of the benefits of mentoring for youth, and how it can work.
 
 ## Learning Outcomes For This Section
 

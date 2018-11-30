@@ -102,13 +102,10 @@ By the end of this module, you will feel confident about evaluating and assessin
   <li>Chapters 5 through 10 of <a href="http://www.informalscience.org/framework-evaluating-impacts-informal-science-education-projects" target="_blank">Framework for Evaluating Impacts of Informal Science Education Projects</a>, edited by Alan J. Friedman for the National Science Foundation, discuss the challenges of evaluating particular types of informal learning experiences like exhibits or media productions.</li>
 
   <li><a href="http://www.informalscience.org/evaluation" target="_blank">InformalScience.org</a> has a set of evaluation resources specifically designed for informal STEM learning.</li>
-
+  </ul>
   </div> 
+<br>
 
-  
-
-Page Break
- 
 
 ### Section 1 Activities 
 

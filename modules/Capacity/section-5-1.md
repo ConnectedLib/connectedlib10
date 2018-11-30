@@ -3,16 +3,13 @@ layout: module
 module_name: capacity
 module_full_name: Capacity
 title: 5.1 Using Your Library's Capacity Assessment
-section: 5 Developing a Roadmap
+section: 5. Developing a Roadmap
 subsection: five-one
 ---
 So far, we’ve gone over the different aspects of your library’s capacity and how to assess its different capacity areas: partnerships, technology acquisition, technology use, space, and staffing. The next step is to combine this information with your assessment of community strengths and needs. Here are some of the questions we will be helping you answer in this section: 
-
-<ul>
-<li>Where do your needs and capacity challenges overlap?</li>
-<li>How is your library already addressing these needs?</li>
-<li>How can you use the strengths of your community to address the needs your capacity does not already cover?</li> 
-</ul>
+- Where do your needs and capacity challenges overlap?
+- How is your library already addressing these needs?
+- How can you use the strengths of your community to address the needs your capacity does not already cover?
 
 Your community can provide unique strengths to your library its capacity to implement programs and provide outreach. Just as the many aspects of your library’s capacity are interconnected (partnerships, technology, space...), so too are the strengths and needs of your community with your unique capacity. Now that you know the unique capacity of your library, you can being using the strengths of your community to help your library reach its full potential. 
 

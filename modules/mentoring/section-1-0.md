@@ -1,6 +1,6 @@
 ---
 layout: module
-title: 1.0 Introduction
+title: 1.0 Overview
 module_name: mentoring
 module_full_name: Mentoring
 section: 1. Introduction

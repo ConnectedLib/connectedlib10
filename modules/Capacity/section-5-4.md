@@ -3,7 +3,7 @@ layout: module
 module_name: capacity
 module_full_name: Capacity
 title: 5.4 Staffing
-section: 5 Developing a Roadmap
+section: 5. Developing a Roadmap
 subsection: five-four
 ---
 
@@ -14,25 +14,23 @@ The final piece of the capacity puzzle is staffing. Many librarians and library 
 Supplementing Staff Capacity 
 
 While it would be great if library workers could be in many places at once, there is not yet the technology that supports that. One of the best ways to supplement a library’s staff capacity is through the use of community volunteers. By forming volunteer partnerships with community organizations and individuals in your community, you library can expand its staff capacity dramatically. There are a variety of ways your community can help: 
-<ul>
-<li>Volunteers can perform shelving duties to help free up the workers in your library for other tasks 
-<li>They can work as mentors and help co-facilitate workshops and other learning activities 
-<li>Teen volunteers can help bring interest to programs developed for their peers 
-</ul>
+- Volunteers can perform shelving duties to help free up the workers in your library for other tasks 
+- They can work as mentors and help co-facilitate workshops and other learning activities 
+- Teen volunteers can help bring interest to programs developed for their peers 
+
  
 
 The ALA has a few great resources on volunteers in your library, including tips on some best practices: 
-<ol>
-<li>Make sure the volunteer positions do not replace established staff positions</li>
-<li>Create a volunteer recognition program<li>
-<li>Develop and implement regular volunteer training programs</li>
-</ol>
+1. Make sure the volunteer positions do not replace established staff positions
+2. Create a volunteer recognition program
+3. Develop and implement regular volunteer training programs
+
 
 <div class="reflection">
   <span class="box-title">REFLECTION</span>
   <p>Take a moment to think about your library and its unique capacity. How can you see your community strengths helping to supplement your library? Who are the key players in this vision? Write down their names, and keep them in mind when you are performing your next capacity assessment. </p></div>
   
-<div class="resources">
+<div class="explanatory">
   <span class="box-title">ADDITIONAL RESOURCES</span>
   <ul>
    <li>Rita Pellen, & William Miller. (2014). Libraries Beyond Their Institutions: Partnerships That Work. Taylor and Francis.</li>

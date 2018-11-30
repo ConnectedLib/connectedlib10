@@ -1,10 +1,10 @@
 ---
 layout: module
-title: 1.0 What is Mentoring
+title: 1.1 What is Mentoring
 module_name: mentoring
 module_full_name: Mentoring
 section: 1. Introduction
-subsection: one-zero
+subsection: one-one
 ---
 
 ### What is mentoring? 

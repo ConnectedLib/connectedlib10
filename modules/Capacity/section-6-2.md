@@ -3,7 +3,7 @@ layout: module
 module_name: capacity
 module_full_name: Capacity
 title: 6.2 Optimization
-section: 6 Continuing Forward
+section: 6. Continuing Forward
 subsection: six-two
 ---
 
@@ -14,10 +14,8 @@ The previous sections have identified how to troubleshoot challenges using the s
 You have the ability to run strong programs with the resources that you library already has. Knowing your library’s unique capacity allows you to leverage your resources in new ways that can feel like the library just got a new operating budget--when in reality it was because of the intimate knowledge of your current resources!  
 
 Making it work with what you have includes two key processes:  
-<ol>
-<li>Regular capacity assessment</li>
-  <li>Deep knowledge of your team</li>
-</ol> 
+1. Regular capacity assessment
+2. Deep knowledge of your team 
 
 **Regular capacity assessment** helps you to maintain and update your knowledge of your library and its resources. While some things will remain the same, knowing the differences in your capacity year to year will help inform you about what new strengths your library has to offer and what community needs you can address. This will also help you to track trends in your library’s year to year operation. 
 

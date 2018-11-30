@@ -19,8 +19,8 @@ Questions to think about are:
 <br>
 <br>
 <div class="explanatory">
-  <span class="box-title">WHAT IS COMMUNITY</span>
-  <a href="http://www.youtube.com/watch?feature=player_embedded&v=3UpOSFL5mq4" target="_blank"><img src="http://img.youtube.com/vi/3UpOSFL5mq4&feature=youtu.be/0.jpg" width="240" height="180" border="10" /></a>
+  <span class="box-title">WHAT IS COMMUNITY</span><br>
+  <span><a> href="https://www.youtube.com/watch?v=3UpOSFL5mq4&feature=youtu.be" target="_blank"><img src="https://github.com/ConnectedLib/Connected-Learning-Modules/blob/master/images/defining_community_capacity_3.1.jpg"/></a>
 </div>
 <br>
 <br>

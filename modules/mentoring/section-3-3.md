@@ -13,7 +13,7 @@ A few ways that youth librarians are serving as mentors in the use of digital me
 
 ### Forming relationships to support interests in STEM 
 
-Librarians and mentors work alongside youth on creative, digital media projects in learning lab or workshops. INTK-019 emphasizes how the people and relationships forged at the library are what encourage youth to learn and create with new technology:“What really brings them back is the mentors and the relationships….what we always go back to is: Do they feel a sense of belonging in the space first?(INTK-019). 
+Librarians and mentors work alongside youth on creative, digital media projects in learning lab or workshops. INTK-019 emphasizes how the people and relationships forged at the library are what encourage youth to learn and create with new technology: “What really brings them back is the mentors and the relationships….what we always go back to is: Do they feel a sense of belonging in the space first?" (INTK-019). 
 
 In another example, librarians at the Kitsap Regional Public Library work closely with youth interested in STEM fields, acting as connectors to help youth access peer leaders, adult mentors, and community partners (Barnes, 2016; Hoffman et al., 2016; Kitsap, 2015). 
 

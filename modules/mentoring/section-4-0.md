@@ -11,7 +11,7 @@ This section offers guidelines and prompts for designing a mentoring program tha
 
 ## Learning Outcomes For This Section
 
-**After completing Section 3: Developing Menors and Mentorship Programs, you will be able to...**
+**After completing Section 4: Youth as Mentors, you will be able to...**
 <ul class="fancy">
   <li>Develop and support youth mentors at your library</li> 
 </ul>

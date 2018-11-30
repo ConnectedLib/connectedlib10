@@ -33,4 +33,4 @@ A few organizations that can help identify adult mentors and volunteers include:
 
 For example, INTS-059 used AmeriCorps Vista. Through their mentor coordinator, she gained assistance in identifying volunteers. Specifically, they helped her: 
 
-“... find people from the community that will come in and either teach something that they're already passionate about, or if they just love being with youth, come over and just listen to the youth and then help them follow their passions.” [INTS-059].
+>“... find people from the community that will come in and either teach something that they're already passionate about, or if they just love being with youth, come over and just listen to the youth and then help them follow their passions.” [INTS-059].

@@ -1,9 +1,9 @@
 ---
 layout: module
-title: 2.0 Community Assets
+title: 2.0 Overview
 module_name: communitymapping
 module_full_name: Community Mapping
-section: Overview
+section: 2. Community Assets
 subsection: two-zero
 ---
 

@@ -3,7 +3,7 @@ layout: module
 module_name: capacity
 module_full_name: Capacity
 title: 6.3 Implementing Connected Learning in Your Library
-section: 6 Continuing Forward
+section: 6. Continuing Forward
 subsection: six-three
 ---
 
@@ -18,7 +18,8 @@ While all libraries have unique capacities, each and every library can implement
 **Capacity and Connected Learning in Your Library 
 
 <table>
-  <tr><th colspan="2" bgcolor="#487EE8">Connected Learning and Library Capacity</th></tr>
-  <tr><th bgcolor="#E8B2AB" valign="top" width="25%"><b>Multiple Pathways</b></th><td bgcolor="#E8B2AB">Your library helps to create connections between youth’s normal learning environments (home, school, and library) and “real world” spaces, opening up a more diverse set of possible experiences and directions for learners. Building your library’s capacity for teen programs and outreach, either through community partnerships or volunteer efforts, helps strengthen these connections.</td></tr>
-  <tr><th bgcolor="#F6DEB7" valign="top" width="25%"><b>Opportunity Oriented</b></th><td bgcolor="#F6DEB7">The capacity of your library determines how you provide expertise, mentorship, and offer real-world experience to youth that can help them achieve academically or prepare them to start a career.</td></tr>
-  <tr><th bgcolor="#FCFB9D" valign="top" width="25%">Interest Driven</th><td bgcolor="#FCFB9D">You can bolster your library’s capacity in areas of interest for your youth by optimizing current programs and using your connections with the youth in your community.</td></tr>
+  <tr><th colspan="2" style="background-color:#487EE8">Connected Learning and Library Capacity</th></tr>
+  <tr style="background-color:#E8B2AB"><th  valign="top" width="25%"><b>Multiple Pathways</b></th><td>Your library helps to create connections between youth’s normal learning environments (home, school, and library) and “real world” spaces, opening up a more diverse set of possible experiences and directions for learners. Building your library’s capacity for teen programs and outreach, either through community partnerships or volunteer efforts, helps strengthen these connections.</td></tr>
+  <tr style="background-color:#F6DEB7"><th valign="top" width="25%"><b>Opportunity Oriented</b></th><td>The capacity of your library determines how you provide expertise, mentorship, and offer real-world experience to youth that can help them achieve academically or prepare them to start a career.</td></tr>
+  <tr style="background-color:#FCFB9D"><th valign="top" width="25%">Interest Driven</th><td>You can bolster your library’s capacity in areas of interest for your youth by optimizing current programs and using your connections with the youth in your community.</td></tr>
+</table>

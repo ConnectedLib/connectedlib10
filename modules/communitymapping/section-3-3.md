@@ -13,7 +13,7 @@ This section discusses learning about individuals, associations, and institution
 
 You may already be pretty familiar with the young people who visit your library regularly. But are they representative of the community at large? Compare your community profile with the information about your “regulars.” Are there demographic groups that aren’t being served or aren’t represented?  
 
-<div class="resources">
+<div class="explanatory">
 <span class="box-title">ADDITIONAL RESOURCES</span>
 <p>
 <ul>
@@ -26,7 +26,7 @@ Some of these resources were found through Know your <a href="http://www.slj.com
 <p>
 </div>
 
-As youth librarians, you are more likely than many people to recognize that youth have gifts and capacities to help their communities. Teens may know their communities as well as or better than adults, bring fresh ideas and perspectives to the table, and have connections to schools, families, and other teens. Youth may be seen as more credible than adults to their peers.5 Building Communities from the Inside Out provides many suggestions as to how youth can build productive connections with associations, organizations, and other individuals (Chapter 1, pages 33-44).
+As youth librarians, you are more likely than many people to recognize that youth have gifts and capacities to help their communities. Teens may know their communities as well as or better than adults, bring fresh ideas and perspectives to the table, and have connections to schools, families, and other teens. Youth may be seen as more credible than adults to their peers.<sup>[5](#fn5)</sup> Building Communities from the Inside Out provides many suggestions as to how youth can build productive connections with associations, organizations, and other individuals (Chapter 1, pages 33-44).
 
 **Learning about other individuals**
 
@@ -50,7 +50,7 @@ The most foundational assets of a community are the individuals that form it. Ev
 - **Marginalized groups.** Don’t write off groups that are traditionally thought of as only having needs, not assets, like people with disabilities or people from a lower SES. Everyone is an asset the library could potentially work with.
 
 
-<div class="resources">
+<div class="explanatory">
 <span class="box-title">DO ALL INDIVIDUALS HAVE CAPACITIES?</span>
 <p>Kretzmann & McKnight argue that need-focused labels, like “ex-convict”, “elderly,” “illiterate”, and “gang member” reflect and reinforce society’s belief that these “needy” people are “empty” and without anything to contribute to their community. Asset-based development means looking past labels to each individual’s specific gifts.<br>
 For example, “She is a pregnant teenager. She needs counseling, therapy, residential services, special education.” But also, “She is Mary Smith. She has a miraculously beautiful voice. We need her in the choir. She needs a record producer.” Her label, pregnant teenager, tells of emptiness and calls forth rejection, isolation and treatment. Her name, Mary Smith, tells of her gifts and evokes community and contributions.”<br>
@@ -68,7 +68,7 @@ Associations are groups of community members who gather together voluntarily aro
 - The smaller and more informal an association is, the less documented it will be. As you are talking to individuals, ask them what kinds of associations they belong to or know of. 
 
 
-<div class="resources">
+<div class="explanatory">
 <span class="box-title">TYPES OF ASSOCIATIONS</span>
 <p>Kretzmann & McKnight have identified many different types of associations, including:</p>
 <table>
@@ -111,12 +111,12 @@ Institutions (as defined by ABCD) are groups of people brought together professi
 Depending on your situation, you can use surveys or focus groups to learn more about your community’s assets. You can also use the methods described in the Capacity module (interviews and town halls), or any combination of methods.
 
 <table>
-<tr><th bgcolor="#8DC87C" width="40%" align="center">SURVEYS</th><td>Surveys are a good option for getting succinct information from a large number of people, especially quantitative information. The response rate is often low, however, and you may not always be able to follow-up with respondents to get a better understanding of their responses.For people who are not literate and people who primarily speak other languages, you may need to conduct in-person interviews or provide the survey in multiple languages<sup>[7]</sup>. Surveys can be conducted face-to-face, online, by mail, by phone, or on paper that is distributed in the library or at library events<sup>[8]</sup>.<br> 
+<tr><th style="background-color:#8DC87C" width="40%" align="center">SURVEYS</th><td>Surveys are a good option for getting succinct information from a large number of people, especially quantitative information. The response rate is often low, however, and you may not always be able to follow-up with respondents to get a better understanding of their responses.For people who are not literate and people who primarily speak other languages, you may need to conduct in-person interviews or provide the survey in multiple languages<sup>[7]</sup>. Surveys can be conducted face-to-face, online, by mail, by phone, or on paper that is distributed in the library or at library events<sup>[8]</sup>.<br> 
 <ul><li><a href="http://learn.webjunction.org/enrol/index.php?id=234">Beyond the Survey: A Practical Approach to Interviews and Focus Groups</a></li>
  <li><a href= "http://learn.webjunction.org/enrol/index.php?id=234">Library Surveys for Success</a></li>
  <li>Webjunction has a <a href="http://www.webjunction.org/documents/webjunction/Sample_Information_Gathering_Tools.html">collection of sample library surveys</a> for both adults and teens.</li>
 </ul></td></tr>
-<tr><th bgcolor="#F58F81" width="40%" align="center">FOCUS GROUPS</th><td>Focus groups allow you to guide the discussion around a specific question. It is important to have a diverse set of participants so that you don’t just hear one perspective. Focus groups may be cheaper and/or less time-consuming than extensive surveys (depending on how they are administered), and can provide deeper insights. However, you cannot hear from as many people in a focus group. 
+<tr><th style="background-color:#F58F81" width="40%" align="center">FOCUS GROUPS</th><td>Focus groups allow you to guide the discussion around a specific question. It is important to have a diverse set of participants so that you don’t just hear one perspective. Focus groups may be cheaper and/or less time-consuming than extensive surveys (depending on how they are administered), and can provide deeper insights. However, you cannot hear from as many people in a focus group. 
 <br>
 <ul><li><a href="http://learn.webjunction.org/enrol/index.php?id=234">Beyond the Survey: A Practical Approach to Interviews and Focus Groups</a></li>
  li><a href= "https://my.rotary.org/en/document/community-assessment-tools">Community Assessment Tools </a></li>
@@ -132,7 +132,7 @@ In addition, consider the following sources when you are identifying assets:
  <br>
 <br>
 
-<div class="resources">
+<div class="explanatory">
 <span class="box-title">DATA RESOURCES</span>
  <ul><li><a href="https://youth.gov/map-my-community">Map My Community (Youth.gov)</a></li></ul>
 </div>
@@ -148,6 +148,9 @@ In addition, consider the following sources when you are identifying assets:
   <br>
 
 
+
+<a name="fn5">5</a>:  --(Kretzmann & McKnight, 1993, p.30-31)
+<br>
 <a name="fn6">6</a>:  -- Green, G. P. (2014). Community asset mapping and surveys. In R. Phillips & R. Pittman (Eds.), An introduction to community development. New York, NY: Routledge. P222.
 <br>
 <a name="fn7">7</a>:  -- Rotary International. (2015). Community assessment tools: A resource for Rotary projects. Evanston, IL: Rotary International. Retrieved from https://my.rotary.org/en/document/community-assessment-tools

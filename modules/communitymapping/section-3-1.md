@@ -20,7 +20,7 @@ Questions to think about are:
 <br>
 <div class="explanatory">
   <span class="box-title">WHAT IS COMMUNITY</span><br>
-  <span><a href="https://www.youtube.com/watch?v=3UpOSFL5mq4&feature=youtu.be" target="_blank"><img src="https://github.com/ConnectedLib/Connected-Learning-Modules/blob/master/images/defining_community_capacity_3.1.jpg"/></a>
+  <span><a href="https://www.youtube.com/watch?v=3UpOSFL5mq4&feature=youtu.be" target="_blank"><img src="https://github.com/ConnectedLib/Connected-Learning-Modules/blob/master/images/defining_community_capacity_3.1.jpg"/></a></span>
 </div>
 <br>
 <br>

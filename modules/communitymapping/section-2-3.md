@@ -1,9 +1,9 @@
 ---
 layout: module
-title: 2.3 Community Mapping Activity: Potential Assests
+title: 2.3 Community Mapping Activity: Potential Assets
 module_name: communitymapping
 module_full_name: Community Mapping
-section: Community Assets
+section: 2. Community Assets
 subsection: two-three
 ---
 
@@ -19,7 +19,7 @@ Create a second mini-asset map with assets your library could connect with, but 
 <br>
 <br>
 
-<div class="resources">
+<div class="explanatory">
   <span class="box-title">ADDITIONAL RESOURCES</span>
   <ul>
 

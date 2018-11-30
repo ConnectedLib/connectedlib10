@@ -18,9 +18,9 @@ Questions to think about are:
 - What kind of assets will you include? Depending on the purpose of your mapping project--or your resources--you may want to focus only on businesses, or only physical resources like space. 
 <br>
 <br>
-<div class="resources">
-  <span class="box-title">ADDITIONAL RESOURCES</span>
-  <iframe width="560" height="315" src="https://youtu.be/3UpOSFL5mq4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<div class="explanatory">
+  <span class="box-title">WHAT IS COMMUNITY</span>
+  <a href="http://www.youtube.com/watch?feature=player_embedded&v=3UpOSFL5mq4&feature=youtu.be" target="_blank"><img src="http://img.youtube.com/vi/3UpOSFL5mq4&feature=youtu.be/0.jpg" width="240" height="180" border="10" /></a>
 </div>
 <br>
 <br>
@@ -38,12 +38,12 @@ Once you’ve decided what your goal for the project is, you can put together a 
 When you have assembled your team, make sure to get everyone on the same page during the planning process, understanding both the steps in the project and their roles in it. 
 <br>
 <br>
-<div bgcolor="#F58F81">
+<div class="extra">
 <p class="box-title">SCALE UP OR SCALE DOWN</p>
 <p>If it’s just you, that’s OK--just remember to set reasonable expectations for yourself. Ideally, other people will help you collect, analyze, and act on information. </p></div>
 <br>
 <br>
-<div class="resources">
+<div class="explanatory">
   <span class="box-title">GETTING THE COMMUNITY INVOLVED</span>
   <p>Adding more people to your mapping project makes it more complex, but there is a great deal of value in adding more community voices. Check out <a href="http://ctb.ku.edu/en/table-of-contents/evaluate/evaluation/intervention-research/main">Community-Based Participatory Research</a> (part of the Community Toolbox) to learn more.</p>
 </div>
@@ -54,7 +54,7 @@ When you have assembled your team, make sure to get everyone on the same page du
 
 While you are planning and assembling your team (if not earlier) try to find out if someone from another organization has conducted a community mapping project before you. If so, try to find out if elements of it can be used in your project. Make sure you have a clear idea of what additional work needs to be done and why--perhaps the information is out of date, or didn’t cover an area you’re interested in. 
 
-<div class="resources">
+<div class="explanatory">
   <span class="box-title">EVALUATION</span>
   <p>Don’t forget to develop evaluation plans before you start collecting information. You should plan to evaluate the process (so you can know what to do better in the future), the outcome (the results you ended up with) and the impact -- what difference did your project make?<br>
 For more on evaluation, see the <a href="{{site.url}}{{site.baseurl}}/assesmentevaluation/index.md">Assessment and Evaluation module</a>.</p>

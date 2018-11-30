@@ -90,8 +90,8 @@ The following table includes some—though certainly not all!—methods to colle
 
 <table>
   <tr style="background-color:#BBD0F8"><th colspan="2">ANALYZING ARTIFACTS</th></tr>
-  <tr><td colspan="2"></td>You can gain a great deal of insight from the items learners create through your initiatives, whether they are musical performances, poetry, or 3-D models. Knowledge, skill, development, attitudes, behaviors—these can all be observed in learners’ creations. You can also ask students to write about the learning experience or their creative process, and analyze their responses. </tr>
-  <tr><td><b>Good for:</b><ul><li>Demonstrating achievement first-hand</li></td><td><b>Potential drawbacks: </b><ul><li>There can be a high level of subjectivity; be careful not to read too much into a creation (particularly a non-textual one) without input from the creator</li><li>People may not like being watched</li></ul></td></tr>
+  <tr style="background-color:#FFFFFF"><td colspan="2"></td>You can gain a great deal of insight from the items learners create through your initiatives, whether they are musical performances, poetry, or 3-D models. Knowledge, skill, development, attitudes, behaviors—these can all be observed in learners’ creations. You can also ask students to write about the learning experience or their creative process, and analyze their responses. </tr>
+  <tr style="background-color:#FFFFFF"><td><b>Good for:</b><ul><li>Demonstrating achievement first-hand</li></td><td><b>Potential drawbacks: </b><ul><li>There can be a high level of subjectivity; be careful not to read too much into a creation (particularly a non-textual one) without input from the creator</li><li>People may not like being watched</li></ul></td></tr>
   
   <tr style="background-color:#BBD0F8"><th colspan="2">COLLECTING PASSIVE FEEDBACK</th></tr>
   <tr><td colspan="2">Along with on-demand surveys and questionnaires, you can collect passive feedback through methods such as comment cards or “talkback boards” (see the sidebar following this section). </td></tr>

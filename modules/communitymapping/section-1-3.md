@@ -3,7 +3,7 @@ layout: module
 title: 1.3 Community mapping activity: Existing data
 module_name: communitymapping
 module_full_name: Community Mapping
-section: What is community mappping
+section: 1. What is Community Mappping?
 subsection: one-three
 ---
 
@@ -18,7 +18,7 @@ What kind of data do you already have access to? Find out what community mapping
 </table>
 <br>
 <br>
-<div class="resources">
+<div class="explanatory">
   <span class="box-title">ADDITIONAL RESOURCES</span>
   <ul>
 

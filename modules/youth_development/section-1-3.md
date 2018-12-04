@@ -27,7 +27,7 @@ Informed by both Piaget and Vygotsky, Seymour Papert (1928-2016, and a founding 
 
 <div class="explanatory">  
   <p><span class="box-title">WHY CONSTRUCTIONISM? </span></p> 
-  <p>Constructionism [1:11] by Udacity and Georgia Tech</p>
+  <p>Constructionism [1:11] by <a href="https://www.youtube.com/channel/UCBVCi5JbYmfG3q5MEuoWdOw"Udacity and Georgia Tech</p>
   <p><span><a href="https://youtu.be/-qsiqetMlCg” target="_blank"><img src="https://img.youtube.com/vi/-qsiqetMlCg/0.jpg"/></a></span>
 </p> 
 </div>

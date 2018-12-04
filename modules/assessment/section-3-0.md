@@ -19,7 +19,7 @@ In this section, you will learn what mentoring is and how it can support connect
   <li>Write an evaluation plan</li>
 </ul>
 
->"Evaluation is about judging the value of an initiative.” -- Dr. William Penuel (University of Colorado at Boulder)<sup>[43](#fn4)</sup> 
+>"Evaluation is about judging the value of an initiative.” -- Dr. William Penuel (University of Colorado at Boulder)<sup>[4](#fn4)</sup> 
 
 Much of the time, your information needs can be met with one or two assessments. Other times, you have a bigger, deeper question that an assessment can address. In these cases, you can perform an evaluation. An evaluation makes a judgment about something, such as the value, quality, or efficacy of a program, partnership, or other activity, to provide information that will help with a decision about some future action.<sup>[5](#fn5)</sup>  It begins with questions, finds answers, and ends with conclusions or recommendations. The questions you have will help determine the type of evaluation you choose and how you use it. As you design your evaluation, think about the following factors: 
 
@@ -145,7 +145,7 @@ Just as the outcomes of connected learning are often nontraditional, so are the 
 <div class="tips">  
 
 <p><span class="box-title">DON’T START WITH INDICATORS</span></p> 
-<p><b>Don’t start with indicators!</b> Start by determining your desired outcomes. If you start with measures, you run the risk of defaulting to only the easiest and most obvious measures.15 The outcomes of connected learning can be much richer than that. Start with the outcomes, and then figure out the best way to measure your progress towards those outcomes</p>
+<p><b>Don’t start with indicators!</b> Start by determining your desired outcomes. If you start with measures, you run the risk of defaulting to only the easiest and most obvious measures.<sup>15</sup> The outcomes of connected learning can be much richer than that. Start with the outcomes, and then figure out the best way to measure your progress towards those outcomes</p>
 
 ### Evaluation plans 
 
@@ -165,7 +165,7 @@ If you will be sharing it with people who aren’t deeply familiar with the proj
 These sections explain in greater detail what your program does, and how and why you expect it to achieve what you want.  
 
 - **Program goals**. Introduce the impacts and outcomes you hope your project will have.  
-- **Theory of change or logic model**. This section explains “how and why the program will work”16 in both narrative and graphic formats. (For more about developing theories of change, see the Connected Learning Programs module.) 
+- **Theory of change or logic model**. This section explains “how and why the program will work”<sup>[16](#fn16)</sup> in both narrative and graphic formats. (For more about developing theories of change, see the Connected Learning Programs module.) 
 - **Activities**. Include a list of all the activities that will take place as part of the project being evaluated. You may break them into categories—e.g., activities that staff will complete, activities the partner will complete, and activities the program participants will complete. 
 
 #### About the Evaluation  
@@ -208,5 +208,8 @@ This is the “nitty gritty” section that lays out the details of how you will
 <br> 
 <a name="fn14">14</a>:  -- PI guide p 51
 <br> 
-
+<a name="fn15">15</a>:  -- Kellogg p33
+<br>
+<a name="fn16">16</a>:  -- Weiss, C. H. (1995). Nothing as practical as good theory: Exploring theory-based evaluation for comprehensive community initiatives for children and families. New Approaches to Evaluating Community Initiatives: Concepts, Methods, and Contexts, 1, 65–92.
+<br>
 

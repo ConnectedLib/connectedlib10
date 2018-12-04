@@ -120,7 +120,7 @@ The following table includes some—though certainly not all!—methods to colle
 <table>
   <tr style="background-color:#BBD0F8"><th colspan="2">COLLECTING PASSIVE FEEDBACK</th></tr>
   <tr><td colspan="2">Along with on-demand surveys and questionnaires, you can collect passive feedback through methods such as comment cards or “talkback boards” (see the sidebar following this section). </td></tr>
-  <tr><td style="width:50%"><b>Good for:</b><ul><li>Collecting data unobtrusively</li></ul></td><td><b>Potential drawbacks: </b><ul><li>Responses may come only from people with extreme or passionate opinions—not from people “in the middle”</li></ul></td></tr>
+  <tr><td style="width:50%"><b>Good for:</b><ul><li>Collecting data unobtrusively</li></ul></td><td style="width:50%"><b>Potential drawbacks: </b><ul><li>Responses may come only from people with extreme or passionate opinions—not from people “in the middle”</li></ul></td></tr>
 </table>
 
 <table>

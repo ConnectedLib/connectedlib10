@@ -24,7 +24,7 @@ Drawing on his observations of children, Swiss psychologist Jean Piaget (1896-19
   </div>
  <br>
   
-  <table> 
+<table> 
   <tr><td>People organize what they learn from their experiences into mental frameworks called <b>schemas</b> that help them make sense of the world. </td><td><i>Fourteen-year-old Julia has developed schemas around what she and her peers consider on trend or out of style. She also has schemas for gender roles (girls can’t ask boys out) and what career paths are available to her (girls aren’t good at math, so she shouldn’t consider a STEM career).</i></td></tr> 
 
   <tr><td>We <b>assimilate</b> new information into our existing schemas.</td><td><i>Julia grew up in a community mostly populated by people of a similar background. She has created schemas about people from another ethnic group based on TV, movies, and things she’s heard people say. When she reads something that fits with this stereotype, she absorbs or assimilates it into her existing schema.</i></td></tr> 

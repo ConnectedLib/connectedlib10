@@ -7,7 +7,7 @@ section: 1. Theories of Youth Development
 subsection: one-three
 ---
 
->"“From constructivist theories of psychology we take a view of learning as a reconstruction rather than as a transmission of knowledge. Then we extend the idea of manipulative materials to the idea that learning is most effective when part of an activity the learner experiences as constructing a meaningful product.” -- Seymour Papert<sup>[5](#fn5)</sup> 
+>“From constructivist theories of psychology we take a view of learning as a reconstruction rather than as a transmission of knowledge. Then we extend the idea of manipulative materials to the idea that learning is most effective when part of an activity the learner experiences as constructing a meaningful product.” -- Seymour Papert<sup>[5](#fn5)</sup> 
 
 Informed by both Piaget and Vygotsky, Seymour Papert (1928-2016, and a founding faculty member of the [MIT Media Lab](http://el.media.mit.edu/logo-foundation/what_is_logo/logo_programming.html) developed the concept of **constructionism**. Based on Piaget’s constructivism, constructionism emphasizes the agency of young people as active participants in the construction of their own learning. Papert developed one of the first educational programming languages, known as [LOGO](http://el.media.mit.edu/logo-foundation/what_is_logo/logo_programming.html), which inspired the popular programming language [Scratch](https://scratch.mit.edu/). Papert’s work also led to the [Computer Clubhouse project](http://www.computerclubhouse.org/), a network of over 100 learning centers where youth from underserved communities learn to create and express themselves using emerging technologies. 
 

@@ -200,6 +200,7 @@ This is the “nitty gritty” section that lays out the details of how you will
 <a name="fn9">9</a>:  -- http://search.credoreference.com/content/entry/sageeval/evaluation_use/
 <br> 
 <a name="fn10">10</a>:  --Bonney, R., Ellenbogen, K., Goodyear, L., & Hellenga, R. (Eds.). (2001). Principal investigator’s guide: Managing evaluation in informal STEM education projects. Washington, D.C.: Center for Advancement of Informal Science Education. Retrieved from http://www.informalscience.org/evaluation/pi-guide (p13)
+<br> 
 <a name="fn11">11</a>:  -- PI Guide pg. 51
 <br> 
 <a name="fn12">12</a>:  -- Bonney, R., Ellenbogen, K., Goodyear, L., & Hellenga, R. (Eds.). (2001). Principal investigator’s guide: Managing evaluation in informal STEM education projects. Washington, D.C.: Center for Advancement of Informal Science Education. Retrieved from http://www.informalscience.org/evaluation/pi-guide (p16).

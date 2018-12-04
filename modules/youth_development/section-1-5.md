@@ -44,7 +44,7 @@ Each of these systems interrelate and interact with one another, demonstrating t
 
   <p>What new microsystems and mesosystems have emerged in the digital age? Are these new systems having a negative or positive affect on families and young people?</p>
 <br>
-<p style="align:center">~</p> 
+<p style="text-align:center">~</p> 
 <br>
 <p>Think about a teen who visits your library, or another teen that you know. What systems affect their life? How does the library fit into those systems? </p>
 </div>

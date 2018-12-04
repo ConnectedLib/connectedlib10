@@ -122,13 +122,13 @@ All evaluations answer the same three fundamental questions, according to the <a
 
 <table class="basic"> 
 
-  <tr><th style="width:50%">EVALUATION TYPE</th><th>DESCRIPTION</th><th>EXAMPLES</th></tr> 
+  <tr><th style="width:33%">EVALUATION TYPE</th><th style="width:33%">DESCRIPTION</th><th style="width:33%">EXAMPLES</th></tr> 
 
-  <tr><td style="width:50%">Front-end evaluation</td><td>Used in informal science education; similar to audience or user research and used to inform the initial design of a program.<sup>12</sup></td><td>What aspects of this topic are our youth interested in?<br><br>What is our audience’s current skill level?</td></tr> 
+  <tr><td>Front-end evaluation</td><td>Used in informal science education; similar to audience or user research and used to inform the initial design of a program.<sup>12</sup></td><td>What aspects of this topic are our youth interested in?<br><br>What is our audience’s current skill level?</td></tr> 
 
-  <tr><td style="width:50%">Formative evaluation</td><td>Periodic evaluations conducted during the development and implementation of a program. Used for course-correcting if necessary. Formative evaluation can look at how a project is progressing towards its goals whether the implementation of the project going according to plan.<sup>13</sup> </td><td>Are participants learning what we expected?<br><br>Are there any issues with implementation of the program?</td></tr> 
+  <tr><td>Formative evaluation</td><td>Periodic evaluations conducted during the development and implementation of a program. Used for course-correcting if necessary. Formative evaluation can look at how a project is progressing towards its goals whether the implementation of the project going according to plan.<sup>13</sup> </td><td>Are participants learning what we expected?<br><br>Are there any issues with implementation of the program?</td></tr> 
 
-  <tr><td style="width:50%">Summative evaluation</td><td>Focuses on conditions at the end of the program and is an evaluation of the entire process. It may report results from earlier formative evaluations as well. </td><td>Did participants learn what and as much as we wanted?<br><br>What was the value of the partnership?</td></tr> 
+  <tr><td>Summative evaluation</td><td>Focuses on conditions at the end of the program and is an evaluation of the entire process. It may report results from earlier formative evaluations as well. </td><td>Did participants learn what and as much as we wanted?<br><br>What was the value of the partnership?</td></tr> 
 
 </table>
 

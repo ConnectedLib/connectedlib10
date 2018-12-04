@@ -26,25 +26,40 @@ In this introduction, you will learn what mentoring is and how it can support co
 
 An assessment is a way to answer a single question at one point in time. Assessment can be a quick and easy process if you have a simple question, or it can be more extensive if you need to assess something large or complicated. Multiple assessments can be conducted to answer questions that involve comparisons, such as before-and-after questions, or to provide multiple perspectives. Assessments focus on the state or extent of something, such as what or how much individuals are learning, without digging deeper into value-based judgments like are participants learning enough? or how can we make this partnership more productive?<sup>[3](#fn3)</sup> 
 
-**ASSESSMENT QUESTION EXAMPLES** 
+<div class="case_study_box">  
 
-*What did participants learn from the robotics program?*  
+<p><span class="box-title">ASSESSMENT QUESTION EXAMPLES</span></p> 
 
-*How much are participants collaborating?* 
+<p style="text-align:center">
+  <i>What did participants learn from the robotics program?</i><br>
 
-*How are teens helping each other while completing their projects?* 
+  <i>How much are participants collaborating?</i>
+
+  <i>How are teens helping each other while completing their projects?</i></p>  
+
+</div> 
+
+<br>
 
 ### Choosing what to measure 
 
 When you know the question that needs to be answered, the next step is to decide how to answer it. The factor that you will measure in order to help answer the question is called an indicator. For instance, you may want to know if participating in a program helps participants become more confident in the use of photo editing software. What you want to know is the level of participants’ confidence in using the software, but that isn’t directly measurable in the way the number of attendees is. You may decide to measure participants’ self-reported increase in confidence (by using a feedback survey, perhaps) or demonstrations of confident behavior that you observe. Using assessments for both measures will provide a more complete picture of the situation.  
 
-**INDICATOR EXAMPLES** 
+<div class="case_study_box">  
 
-*Participants’ performance on a number of questions at the end of the program*
+<p><span class="box-title">INDICATOR EXAMPLES</span></p> 
 
-*The number of times participants form collaborative groups in a lab session* 
+<p style="text-align:center">
+  <i>Participants’ performance on a number of questions at the end of the program</i><br>
 
-*Teen’s behaviors and conversations when collaborating* 
+  <i>The number of times participants form collaborative groups in a lab session</i>
+
+  <i>Teen’s behaviors and conversations when collaborating?</i></p>  
+
+</div> 
+
+<br>
+
 
 ### Collecting data 
 
@@ -53,6 +68,7 @@ You need to collect data on your measure (or measures) in order to answer your q
 1. **What kind of information do you need?** Do you need to know about opinions or attitudes? Knowledge levels? Details about implementation?  
 2. **What is the best method to obtain that information?** You have many choices for data collection—surveys, focus groups, interviews, and more.  
 3. **What is the best strategy for collecting that information via that method for this project?** From whom do you need to collect information? Where is the best place to reach them via the method(s) you’ve chosen? When should this happen? If there is a facilitator, whom should that be?  
+
 
 **DATA COLLECTION EXAMPLES** 
 
@@ -64,7 +80,7 @@ You need to collect data on your measure (or measures) in order to answer your q
 
 #### Quantitative or qualitative 
 
-To put it simply, quantitative data means numbers, and qualitative data means anything else—usually text or spoken words, but could also include things like images, sounds, or behaviors. Traditional library assessments tend to be quantitative in nature, like the number of items borrowed or the number of program participants. Collecting qualitative data by listening to or observing people can better capture individual experiences, thoughts, and attitudes. Your assessment may include both—a survey can have both quantitative and qualitative questions, and an observation protocol may involve both counting the number of times something happens and listening to someone’s comments. You can also quantitatively analyze qualitative data (see the section on analyzing data below).  
+To put it simply, quantitative data means numbers, and qualitative data means anything else—usually text or spoken words, but could also include things like images, sounds, or behaviors. Traditional library assessments tend to be quantitative in nature, like the number of items borrowed or the number of program participants. Collecting qualitative data by listening to or observing people can better capture individual experiences, thoughts, and attitudes. Your assessment may include both—a survey can have both quantitative and qualitative questions, and an observation protocol may involve both counting the number of times something happens and listening to someone’s comments. You can also quantitatively analyze qualitative data (see the section on [analyzing data](#analyzedata) below).  
 
 #### Data collection instruments 
 
@@ -118,7 +134,7 @@ Other methods are described in different modules; surveys and focus groups are c
 
 [include description and case study] 
 
-## Analyzing data 
+<a name="analyzedata"></a>:## Analyzing data 
 
 Once you have collected data, you must somehow transform it into evidence that you can use to answer your assessment questions. Quantitative data can undergo quantitative analysis, and qualitative data can be analyzed either qualitatively or quantitatively.  
 
@@ -126,18 +142,24 @@ Once you have collected data, you must somehow transform it into evidence that y
 
 Given the variety of methods and goals for assessing a connected learning initiative, not to mention the variation in connected learning programs in general, the exact process you follow to analyze your qualitative data will also vary. However, you will probably be conducting a form of content analysis, which occurs in four main phases.  
 
-1. Prepare data for analysis. If your gathered data informally (via talkback boards, for instance, or short on-the-fly interviews), or if it is not textual data (in the case of creative artifacts) it is probably somewhat unstructured. Organize and give your data some structure to make a systematic analysis easier. This process might involve creating ID numbers for each item, typing up handwritten data, or dividing answers to different interview questions into columns on a spreadsheet.  
-2. Create a coding schema. Codes are descriptive labels that are applied to specific parts of your data. You can probably put together an initial coding schema based on your evaluation questions. If multiple people are involved in analysis, make sure they agree on the codes and definitions so that you will have consistent results.  
-3. Apply codes to the data. Be as broad or as specific as you need to ensure you end up with something useful and easy to understand. You may uncover new concepts and themes that require adjustments to your codebook—just make sure everyone agrees on  and knows how to apply the modified codes. However, you cannot and should not try to code for everything. Unless you find something truly unexpected and impactful, stay focused on what will help you answer your questions.  
-4. Drawing evidence from the coded data. Even as you are coding data, you should be looking for themes and patterns. Once you’re done, take a step back and look at the big picture. What codes show up the most? Are there codes that are usually found together? Do some participant groups use certain codes more than other groups? How can you synthesize this data into evidence for the answer to your assessment question?  
+1. **Prepare data for analysis**. If your gathered data informally (via talkback boards, for instance, or short on-the-fly interviews), or if it is not textual data (in the case of creative artifacts) it is probably somewhat unstructured. Organize and give your data some structure to make a systematic analysis easier. This process might involve creating ID numbers for each item, typing up handwritten data, or dividing answers to different interview questions into columns on a spreadsheet.  
+2. **Create a coding schema**. Codes are descriptive labels that are applied to specific parts of your data. You can probably put together an initial coding schema based on your evaluation questions. If multiple people are involved in analysis, make sure they agree on the codes and definitions so that you will have consistent results.  
+3. **Apply codes to the data**. Be as broad or as specific as you need to ensure you end up with something useful and easy to understand. You may uncover new concepts and themes that require adjustments to your codebook—just make sure everyone agrees on  and knows how to apply the modified codes. However, you cannot and should not try to code for everything. Unless you find something truly unexpected and impactful, stay focused on what will help you answer your questions.  
+4. **Drawing evidence from the coded data**. Even as you are coding data, you should be looking for themes and patterns. Once you’re done, take a step back and look at the big picture. What codes show up the most? Are there codes that are usually found together? Do some participant groups use certain codes more than other groups? How can you synthesize this data into evidence for the answer to your assessment question?  
 
-**QUANTITATIVE ANALYSIS** 
+ 
+<div class="explanatory">  
 
+  <p><span class="box-title">QUANTITATIVE ANALYSIS</span></p> 
+<p><span><a href="https://youtu.be/2kVnsbGdanI" target="_blank"><img src="https://github.com/ConnectedLib/Connected-Learning-Modules/blob/master/images/quant_analysis_assessment_2.0.jpg"/></a></span></p>
+<p>In this 50-minute webinar, Wendi Ackerman from Upstate Health Service Library in [New york?] provides a detailed overview of quantitative analysis in libraries.</p> 
+
+  </div>
 <div>
-<span><a href="https://youtu.be/2kVnsbGdanI" target="_blank"><img src="https://github.com/ConnectedLib/Connected-Learning-Modules/blob/master/images/quant_analysis_assessment_2.0.jpg"/></a></span>
+
 </div>
 
-In this 50-minute webinar, Wendi Ackerman from Upstate Health Service Library in [New york?] provides a detailed overview of quantitative analysis in libraries. 
+
 
 #### Quantitative analysis of qualitative data 
 

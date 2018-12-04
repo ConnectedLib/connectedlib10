@@ -11,7 +11,7 @@ In this introduction, you will learn what mentoring is and how it can support co
 
 ## Learning Outcomes For This Section
 
-**After completing Section 1: Introduction, you will be able to...**
+**After completing Section 1: Theories of Youth Development, you will be able to...**
 <ul class="fancy">
   <li>Describe six major theories of youth development</li>
   <li>Apply concepts from the theories of youth development to the creation of connected learning programs and services for teens/li>

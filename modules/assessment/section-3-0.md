@@ -138,7 +138,7 @@ Assessments used in evaluations are not much different from the standalone asses
 
 #### Indicators 
 
-Assessments used in evaluations need to be tied directly to the outcome or outcomes you are evaluating. You need to choose indicators that will provide measurable ways to show the impact of your initiative in relation to that outcome. To determine the appropriate indicators for your project, look at one of your outcomes and ask “How will I know it when I see it?” 14  
+Assessments used in evaluations need to be tied directly to the outcome or outcomes you are evaluating. You need to choose indicators that will provide measurable ways to show the impact of your initiative in relation to that outcome. To determine the appropriate indicators for your project, look at one of your outcomes and ask “How will I know it when I see it?” <sup>[14](#fn14)</sup>  
 
 Just as the outcomes of connected learning are often nontraditional, so are the indicators. Using a variety of indicators to answer a single question can help triangulate your interpretations. (The same indicator can also be used to answer multiple questions sometimes.) Traditional library assessment measures (number of attendees, number of questions asked, how often a resource is used, patron satisfaction) play an important role and can be part of your evaluation. However, in a connected learning evaluation, they should exist in support of other measures. 
 
@@ -187,5 +187,26 @@ This is the “nitty gritty” section that lays out the details of how you will
 <br>
 <br>
 
-<a name="fn3">3</a>:  -- Surrounded by Science: Learning Science in Informal Environments. (2010). Washington, D.C.: National Academies Press. https://doi.org/10.17226/12614 p 111
+<a name="fn4">4</a>:  --https://www.youtube.com/watch?v=WXbkeFIEN8Y&feature=youtu.be 5:15 
 <br> 
+<a name="fn5">5</a>:  -- Surrounded by Science: Learning Science in Informal Environments. (2010). Washington, D.C.: National Academies Press. https://doi.org/10.17226/12614 p 111
+<br> 
+<a name="fn6">6</a>:  -- Bonney, R., Ellenbogen, K., Goodyear, L., & Hellenga, R. (Eds.). (2001). Principal investigator’s guide: Managing evaluation in informal STEM education projects. Washington, D.C.: Center for Advancement of Informal Science Education. Retrieved from http://www.informalscience.org/evaluation/pi-guide (p3)
+<br> 
+<a name="fn7">7</a>:  -- Bonney, R., Ellenbogen, K., Goodyear, L., & Hellenga, R. (Eds.). (2001). Principal investigator’s guide: Managing evaluation in informal STEM education projects. Washington, D.C.: Center for Advancement of Informal Science Education. Retrieved from http://www.informalscience.org/evaluation/pi-guide (p4)
+<br> 
+<a name="fn8">8</a>:  -- https://youtu.be/WXbkeFIEN8Y 28:40
+<br> 
+<a name="fn9">9</a>:  -- http://search.credoreference.com/content/entry/sageeval/evaluation_use/
+<br> 
+<a name="fn10">10</a>:  --Bonney, R., Ellenbogen, K., Goodyear, L., & Hellenga, R. (Eds.). (2001). Principal investigator’s guide: Managing evaluation in informal STEM education projects. Washington, D.C.: Center for Advancement of Informal Science Education. Retrieved from http://www.informalscience.org/evaluation/pi-guide (p13)
+<a name="fn11">11</a>:  -- PI Guide pg. 51
+<br> 
+<a name="fn12">12</a>:  -- Bonney, R., Ellenbogen, K., Goodyear, L., & Hellenga, R. (Eds.). (2001). Principal investigator’s guide: Managing evaluation in informal STEM education projects. Washington, D.C.: Center for Advancement of Informal Science Education. Retrieved from http://www.informalscience.org/evaluation/pi-guide (p16).
+<br> 
+<a name="fn13">13</a>:  -- Westat, J. F. (2010). The 2010 user-friendly handbook for project evaluation. Washington, D.C.: National Science Foundation. Retrieved from http://www.informalscience.org/sites/default/files/TheUserFriendlyGuide.pdf pp8-9
+<br> 
+<a name="fn14">14</a>:  -- PI guide p 51
+<br> 
+
+

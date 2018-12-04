@@ -3,7 +3,7 @@ layout: module
 title: 3.0 Evaluation
 module_name: assessment
 module_full_name: Assessment and Evaluation
-section: 2. Evaluation
+section: 3. Evaluation
 subsection: three-zero
 ---
 

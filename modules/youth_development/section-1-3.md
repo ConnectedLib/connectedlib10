@@ -34,3 +34,48 @@ Informed by both Piaget and Vygotsky, Seymour Papert (1928-2016, and a founding 
 <p>This video is part of the <a href="https://www.udacity.com/course/educational-technology--ud915">Educational Technology course</a> offered by Georgia Tech through Udacity.</p>
 </div>
 <br>
+    
+**PUTTING CONSTRUCTIONISM INTO PRACTICE**
+
+>“It's your job to experiment, it's your job to problem solve, your job to critically think. I'm here to guide you." -- Rural Western Library  
+
+**Production-centered** learning that is based on learners’ own **interests** are two principles of connected learning that were directly inspired by constructionism. Constructionist learning experiences can involve:  
+
+-Learning that is characterized as learner-centered, active, hands-on, or project-based<sup>[6](#fn6)</sup>  
+-Facilitators who guide learners but allow them to make decisions about the direction of their project 
+-“Tools that can promote the making of objects<sup>[7](#fn7)</sup>” like robotics kits, 3D printers, or even a simple craft set 
+-Self-directed learning that allows youth to experiment with tools and relate them to their own personal interests<sup>[8](#fn8)</sup> 
+-Technologies that provide flexibility and openness,<sup>[9](#fn9)</sup> like [Lego Mindstorms](https://education.lego.com/en-us/middle-school/shop/products?gclid=Cj0KEQjwmcTJBRCYirao6oWPyMsBEiQA9hQPboKcMkN_KrvRpaYdsnS1_trkGgx4U2pmcwCIWt3b4t4aAmuL8P8HAQ), which allow learners to build and program a robot themselves. (Lego Mindstorms were inspired by and named after Papert’s book [Mindstorms: Children, Computers, And Powerful Ideas](https://mindstorms.media.mit.edu/)) 
+
+<div class="reflection"> 
+
+  <p><span class="box-title">REFLECTION: CONSTRUCTIONISM</span></p> 
+
+  <p>Think about a library program you know about that involves constructing or creating something. What knowledge is the program helping learners to create? </p>
+</div>
+<br>
+
+<div class="reflection"> 
+
+  <p><span class="box-title">TEST YOUR KNOWLEDGE</span></p> 
+
+  <p>Which of the following would best describe a constructionist approach to learning:</p> 
+  <ol type="A">
+  <li>Group discussions</li>
+  <li>Skill and drill practice</li>
+  <li>Step-by-step instructions</li>
+  <li>Learners taking creative control</li>
+  </ol>
+</div>
+<br>
+<br>
+
+<a name="fn5">5</a>:  --  Sabelli, N. (2008). Constructionism: A New Opportunity for Elementary Science Education. DRL Division of Research on Learning in Formal and Informal Settings. pp. 193–206. 
+<br>  
+<a name="fn6">6</a>:  --  (MIT, 2015).
+<br>  
+<a name="fn10">7</a>:  -- Wheeler, 2012, p. “How it can be applied in education”
+<br>  
+<a name="fn8">8</a>:  -- (Papert & Harel, 1991)  
+<br>  
+<a name="fn9">9</a>:  -- Papert, 1980

@@ -69,14 +69,21 @@ You need to collect data on your measure (or measures) in order to answer your q
 2. **What is the best method to obtain that information?** You have many choices for data collection—surveys, focus groups, interviews, and more.  
 3. **What is the best strategy for collecting that information via that method for this project?** From whom do you need to collect information? Where is the best place to reach them via the method(s) you’ve chosen? When should this happen? If there is a facilitator, whom should that be?  
 
+<div class="case_study_box">  
 
-**DATA COLLECTION EXAMPLES** 
+<p><span class="box-title">DATA COLLECTION EXAMPLES</span></p> 
 
-*How many questions participants get right in a Jeopardy! game at the end of the program* 
+<p style="text-align:center">
+  <i>How many questions participants get right in a Jeopardy! game at the end of the program</i><br>
 
-*A staff member uses an observation form to record the number of times participants form collaborative groups* 
+  <i>A staff member uses an observation form to record the number of times participants form collaborative groups</i>
 
-*A staff member writes field notes based on the interactions they observe* 
+  <i>A staff member writes field notes based on the interactions they observe</i></p>  
+
+</div> 
+
+<br>
+
 
 #### Quantitative or qualitative 
 
@@ -152,14 +159,12 @@ Given the variety of methods and goals for assessing a connected learning initia
 
   <p><span class="box-title">QUANTITATIVE ANALYSIS</span></p> 
 <p><span><a href="https://youtu.be/2kVnsbGdanI" target="_blank"><img src="https://github.com/ConnectedLib/Connected-Learning-Modules/blob/master/images/quant_analysis_assessment_2.0.jpg"/></a></span></p>
-<p>In this 50-minute webinar, Wendi Ackerman from Upstate Health Service Library in [New york?] provides a detailed overview of quantitative analysis in libraries.</p> 
+<p>In this 50-minute webinar, Wendi Ackerman from Upstate Health Service Library in provides a detailed overview of quantitative analysis in libraries.</p> 
 
   </div>
 <div>
 
 </div>
-
-
 
 #### Quantitative analysis of qualitative data 
 

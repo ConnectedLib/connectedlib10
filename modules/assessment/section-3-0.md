@@ -84,7 +84,7 @@ Outcomes are the differences your programs make for your library’s youth and f
 
 ### Evaluation questions
 
-You probably have some idea of why you are conducting an evaluation—possibly one of the reasons listed in What is an evaluation? For instance, evaluations can directly affect future actions or decisions or change someone’s attitude or way of thinking.<sup>[9])#fn9)</sup> Evaluation questions transform a vague idea into specific elements that are tied to one or more outcomes and can be measured through assessments. 
+You probably have some idea of why you are conducting an evaluation—possibly one of the reasons listed in What is an evaluation? For instance, evaluations can directly affect future actions or decisions or change someone’s attitude or way of thinking.<sup>[9](#fn9)</sup> Evaluation questions transform a vague idea into specific elements that are tied to one or more outcomes and can be measured through assessments. 
 
 All evaluations answer the same three fundamental questions, according to the <a href="http://www.informalscience.org/evaluation/pi-guide">Principal Investigator’s Guide:</a><sup>[10](#fn10)</sup>
 
@@ -122,7 +122,7 @@ All evaluations answer the same three fundamental questions, according to the <a
 
 <table class="basic"> 
 
-  <tr><th>EVALUATION TYPE</th><th>DESCRIPTION</th><th>EXAMPLES</th></tr> 
+  <tr><th style="width:25%;">EVALUATION TYPE</th><th>DESCRIPTION</th><th>EXAMPLES</th></tr> 
 
   <tr><td>Front-end evaluation</td><td>Used in informal science education; similar to audience or user research and used to inform the initial design of a program.<sup>12</sup></td><td>What aspects of this topic are our youth interested in?<br><br>What is our audience’s current skill level?</td></tr> 
 

@@ -75,7 +75,7 @@ Most tweens and teens will be in the concrete operational stage or the early for
 
 <div class="reflection"> 
 
-  <p><span class="box-title">REFLECTION: TWEENS AND TEENS</span></p> 
+  <p><span class="box-title">TEST YOUR KNOWLEDGE</span></p> 
 
   <p>Match the following situations with the type of thinking they represent.</p> 
   <ol type="A">

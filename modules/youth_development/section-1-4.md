@@ -7,7 +7,7 @@ section: 1. Theories of Youth Development
 subsection: one-four
 ---
 
->Most of the images of reality on which we base our actions are really based on vicarious experience.’’ -- Albert Bandura<sup>[10](#fn10)</sup> 
+>"Most of the images of reality on which we base our actions are really based on vicarious experience." -- Albert Bandura<sup>[10](#fn10)</sup> 
 
 In the early 1960s, Albert Bandura’s (1925 - present) classic Bobo doll experiments demonstrated how children mimic or “model” actions and behaviors that they have seen adults perform. Bandura’s **social cognitive learning theory** (an expansion of his earlier **social learning theory**) describes how learning can occur through observation, not just direct experience. 
 

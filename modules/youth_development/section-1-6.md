@@ -47,6 +47,23 @@ Each stage is marked a “crisis,” or tension, that must be resolved before fo
 <br>
 <br>
 
+<div class="explanatory">  
+
+  <p><span class="box-title">ADDITIONAL RESOURCES</span></p> 
+  <p>Consult these resources if you’re interested in learning more about theories of youth development.</p>
+
+<ul>
+  <li><a href="https://youtu.be/8nz2dtv--ok">The Growth of Knowledge</a> is a 10 minute video by <a href="https://www.youtube.com/channel/UCX6b17PVsYBQ0ip5gyeme-Q">CrashCourse</a> that provides an overview of Piaget’s stages of cognitive development.</li>
+  <li>Over at <a href="http://www.cuppacocoa.com/t">cuppacocoa</a>, blogger and former teacher JoEllen describes real-world examples of scaffolding in her post <a href="http://www.cuppacocoa.com/the-zone-of-proximal-development/">The Zone of Proximal Development</a>. </li>
+  <li><a href="https://youtu.be/SzOTvkY3jOE>Lev Vygotsky’s Theory of Cognitive Development</a> is an 11-minute video by <a href="https://www.youtube.com/channel/UCJehV0NnCkUsLu0QepRnPTg">Altaf Solangi</a></li>
+  <li><a href="https://youtu.be/4AoLk5nbliM">Vygotsky and Scaffolding</a> is a 4-minute video by <a href="https://www.youtube.com/channel/UCHthk9ptjiSjD_VcCZB3ehA">Peter Lyon</a></li>
+  <li>In this 20-minute TedX Talk titled <a href="https://www.youtube.com/watch?v=6-dFTmdX1kU">Seymour Papert: Inventor of Everything</a>, Gary Stager introduces Seymour Papert’s “wit, wisdom, and powerful ideas.”</li>
+</ul>
+
+</div> 
+
+
+
 <br>
 <br>
 <a name="fn14">14</a>:  -- (Hetherington, Parke, & Locke, 2003)

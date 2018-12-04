@@ -9,8 +9,6 @@ subsection: one-six
 
 Pyschosocial theory, developed by German psychoanalyst Erik Erikson (1902-1994), emphasizes a person’s development over the entire span of their life. Psychosocial theory is composed of eight stages of interaction with the social environment, with each stage building upon the previous ones.<sup>[14](#fn14)</sup> 
 
-Developmental psychologist Urie Bronfenbrenner (1917-2005) emphasized the importance of studying children and adults in real life settings, instead of labs, and examining all the socio-cultural contexts in which growth and development occurs.<sup>[13](#fn13)</sup> 
-
 <div class="explanatory">  
   <p><span class="box-title">KEY CONCEPTS OF ERIKSON’S PSYCHOSOCIAL THEORY</span></p> 
   <p>Excerpt from LIS 516: Youth Development and Behavior in a Digital Age [1:00] by Dr. Katie Davis and the University of Washington 

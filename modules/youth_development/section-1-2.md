@@ -77,7 +77,7 @@ Vygotsky’s sociocultural learning theory can be seen in the relationships and 
   <p>Vygotsky focused on learning that takes place through:</p> 
   <ol type="A">
   <li>Role models</li>
-  <li>Social interaction/li>
+  <li>Social interaction</li>
   <li>Repetition and practice</li>
   <li>Focused attention</li>
   </ol>

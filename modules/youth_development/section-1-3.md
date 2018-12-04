@@ -7,12 +7,9 @@ section: 1. Theories of Youth Development
 subsection: one-three
 ---
 
-
-[IMAGE ALT TEXT HERE](https://img.youtube.com/vi/CTR_snb-0nQ/0.jpg)
-
 >"“From constructivist theories of psychology we take a view of learning as a reconstruction rather than as a transmission of knowledge. Then we extend the idea of manipulative materials to the idea that learning is most effective when part of an activity the learner experiences as constructing a meaningful product.” -- Seymour Papert<sup>[5](#fn5)</sup> 
 
-Soviet psychologist Lev Vygotsky’s (1896-1934) **sociocultural learning theory** emphasizes the role of social interactions with parents, caregivers, and peers in cognitive development.
+Informed by both Piaget and Vygotsky, Seymour Papert (1928-2016, and a founding faculty member of the <a href="https://www.media.mit.edu/">MIT Media Lab</a>) developed the concept of **constructionism**. Based on Piaget’s constructivism, constructionism emphasizes the agency of young people as active participants in the construction of their own learning. Papert developed one of the first educational programming languages, known as [LOGO](http://el.media.mit.edu/logo-foundation/what_is_logo/logo_programming.html), which inspired the popular programming language <a href="https://scratch.mit.edu/">Scratch. Papert’s work also led to the Computer Clubhouse project, a network of over 100 learning centers where youth from underserved communities learn to create and express themselves using emerging technologies. 
 
 <div class="explanatory">  
   <p><span class="box-title">KEY CONCEPTS FROM VYGOTSKY’S SOCIOCULTURAL LEARNING THEORY</span></p> 

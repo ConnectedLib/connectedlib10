@@ -141,7 +141,8 @@ Other methods are described in different modules; surveys and focus groups are c
 
 [include description and case study] 
 
-<a name="analyzedata"></a> ## Analyzing data 
+<a name="analyzedata"></a> 
+## Analyzing data 
 
 Once you have collected data, you must somehow transform it into evidence that you can use to answer your assessment questions. Quantitative data can undergo quantitative analysis, and qualitative data can be analyzed either qualitatively or quantitatively.  
 

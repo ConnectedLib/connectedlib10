@@ -1,6 +1,6 @@
 ---
 layout: module
-title: Youth Development
+title: About This Module
 module_name: youth_development
 module_full_name: Youth Development
 section: Overview
@@ -13,20 +13,17 @@ subsection: overview
 
 ## Module Overview
 
-<p class="summary">Are your learning initiatives accomplishing what you want? What do you want to be able to say about what participants learned? How would you find out what they learned? In this module, you will discover how to assess learning and evaluate connected learning initiatives.</p>
+<p class="summary">AExplore what’s going on in a teen’s mind — literally — and learn how to apply a developmental lens to your youth programming. </p>
 
 ### Learning Objectives For This Module
 **After completing the Assessment and Evaluation module, you will be able to…**
 <ul class="fancy">
-	<li>Describe evaluation and assessment (<a href="{{site.url}}{{site.baseurl}}/partnerships/section-1-0.md">Section 1: Introduction</a>).</li>
-	<li>Conduct an assessment of a connected learning project (<a href="{{site.url}}{{site.baseurl}}/partnerships/section-2-0/">Section 2: Assessment</a>).</li>
-	<li>Conduct an evaluation of a connected learning project (<a href="{{site.url}}{{site.baseurl}}/partnerships/section-3-0.md">Section 3: Evaluation</a>).</li>
-	<li>Share and use the results of your evaluation (<a href="{{site.url}}{{site.baseurl}}/partnerships/section-4.md">Section 4: Now What?</a>).</li>
+	<li>Describe major theories of youth development and apply them to the creation of connected learning programs for teens (<a href="{{site.url}}{{site.baseurl}}/youth_development/section-1-0.md">Section 1: Theories of Youth Development</a>).</li>
+	<li>Understand how identity, relationships, and morality affect a teen’s developmen (<a href="{{site.url}}{{site.baseurl}}/youth_development/section-2-0/">Section 2: Developing an Identity</a>).</li>
+	<li>Summarize trends in teens’ use of digital media and explain how the role of teen services in libraries is changing (<a href="{{site.url}}{{site.baseurl}}/youth_development/section-3-0.md">Section 3: Teens and Digital Media</a>).</li>
 </ul>
-
-### ACKNOWLEDGEMENTS 
-
-The ConnectedLib team would like to thank Michelle Fellows, William Penuel, Katie Van Horne, and Josie Chang-order for their input on this module.
+<br>
+In this module, we’ll explore how youth grow and learn, develop their own identity in relation to others, and make use of digital media. We’ll also explore how libraries can support tweens and teens with their developmental progress every step of the way. 
 
 ### How to Use This Module
 

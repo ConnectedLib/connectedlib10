@@ -11,7 +11,7 @@ In this introduction, you will learn what mentoring is and how it can support co
 
 ## Learning Outcomes For This Section
 
-**After completing Section 1: Introduction, you will be able to...**
+**After completing Section 2: Assessment, you will be able to...**
 <ul class="fancy">
   <li>Determine an assessment question</li>
   <li>Decide what to measure that will answer your question</li>

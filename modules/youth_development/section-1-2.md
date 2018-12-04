@@ -55,7 +55,7 @@ Read the rest of her post, <a href="http://www.cuppacocoa.com/the-zone-of-proxim
 
 >“I really like group tasks. I like breaking people up into teams, I love the idea of peer-mentoring… That’s a great way to start building community.” -- INTS-059 
 
-Vygotsky’s sociocultural learning theory can be seen in the relationships and shared purpose principles of connected learning. Social scaffolding strategies include:4  
+Vygotsky’s sociocultural learning theory can be seen in the relationships and shared purpose principles of connected learning. Social scaffolding strategies include:<sup>[4](#fn4)</sup>  
 
 - Showing or demonstrating techniques and activities, not just describing them (Edutopia) 
 - Connecting learning to prior knowledge by asking youth to share their ideas and experiences (Edutopia) 

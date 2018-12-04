@@ -87,7 +87,7 @@ You need to collect data on your measure (or measures) in order to answer your q
 
 #### Quantitative or qualitative 
 
-To put it simply, quantitative data means numbers, and qualitative data means anything else—usually text or spoken words, but could also include things like images, sounds, or behaviors. Traditional library assessments tend to be quantitative in nature, like the number of items borrowed or the number of program participants. Collecting qualitative data by listening to or observing people can better capture individual experiences, thoughts, and attitudes. Your assessment may include both—a survey can have both quantitative and qualitative questions, and an observation protocol may involve both counting the number of times something happens and listening to someone’s comments. You can also quantitatively analyze qualitative data (see the section on [analyzing data](#analyzedata) below).  
+To put it simply, quantitative data means numbers, and qualitative data means anything else—usually text or spoken words, but could also include things like images, sounds, or behaviors. Traditional library assessments tend to be quantitative in nature, like the number of items borrowed or the number of program participants. Collecting qualitative data by listening to or observing people can better capture individual experiences, thoughts, and attitudes. Your assessment may include both—a survey can have both quantitative and qualitative questions, and an observation protocol may involve both counting the number of times something happens and listening to someone’s comments. You can also quantitatively analyze qualitative data (see the section on [analyzing data](#analyzedata)).  
 
 #### Data collection instruments 
 
@@ -186,3 +186,8 @@ It is often useful to use quantitative (number-based) analysis on qualitative da
 <li><a href="http://www.informalscience.org" target="_blank">InformalScience.org</a> has a collection of <a href="http://www.informalscience.org/evaluation/browse-evaluation?search_api_views_fulltext=&sort_by=field_resource_date_value" target="_blank">evaluation materials</a> from informal STEM learning projects, including evaluation reports and assessment instruments.</li>
 </ul>
 </div>
+<br>
+<br>
+
+<a name="fn3">3</a>:  -- Surrounded by Science: Learning Science in Informal Environments. (2010). Washington, D.C.: National Academies Press. https://doi.org/10.17226/12614 p 111
+<br> 

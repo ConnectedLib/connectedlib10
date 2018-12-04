@@ -19,172 +19,171 @@ In this introduction, you will learn what mentoring is and how it can support co
   <li>Write an evaluation plan</li>
 </ul>
 
->"We've had a wall where customers can put up Post-It notes on certain topics, like, ‘What was your favorite book? What do you love about the library?’ So it's kind of like an informal kind of subjective opinion gathering rather than a formal assessment." -- INTS_031 
+>"Evaluation is about judging the value of an initiative.” -- Dr. William Penuel (University of Colorado at Boulder)<sup>[43](#fn4)</sup> 
+
+Much of the time, your information needs can be met with one or two assessments. Other times, you have a bigger, deeper question that an assessment can address. In these cases, you can perform an evaluation. An evaluation makes a judgment about something, such as the value, quality, or efficacy of a program, partnership, or other activity, to provide information that will help with a decision about some future action.<sup>[5](#fn5)</sup>  It begins with questions, finds answers, and ends with conclusions or recommendations. The questions you have will help determine the type of evaluation you choose and how you use it. As you design your evaluation, think about the following factors: 
+
+- Why are you conducting an evaluation?  
+- Who are you doing it for?  
+- How do you want the findings to be used? 
+
+<div class="case_study_box">  
+
+<p><span class="box-title">UTILIZATION-FOCUSED EVALUATION</span></p> 
+
+<p style="text-align:center">
+  The utilization-focused approach to evaluation maintains that an evaluation is only as good as it is useful. Design your evaluation in a way that will maximize its usefulness to its intended audience—whether that is your manager, a partner, or yourself. Learn more at <a href="http://www.betterevaluation.org/en/plan/approach/utilization_focused_evaluation">BetterEvaluation.org.</a></p>  
+
+</div> 
+
+<br>
+
+### Stakeholders
+
+An evaluation can have several stakeholders. After yourself, the most prominent group of stakeholders is the audience for the final report—often composed of managers, funders, or other authority figures. Of course, they are not your only stakeholders and may not even be the most important ones. Other stakeholders may include:  
+
+- Other library staff who worked on the project or who may work on the project (or similar projects) in the future  
+- Any partners who worked with you  
+- Participants in the program, as well as their parents. 
+- Other community members who are impacted by the initiative.  
+- People who may want to participate in the future.  
+
+Your stakeholders should be involved in the evaluation process—defining values, identifying essential measures, and collecting or providing data. They may have different perspectives on what the outcomes should be and ways to measure them. You may not be able to speak to every individual stakeholder, but try to get input from representatives of each group, at least. However, don’t fall into the trap of thinking you have to follow every recommendation from every group—as the saying goes, if you try to please everyone, you end up pleasing no one.<sup>[6](#fn6)</sup> The purpose of an evaluation is to inform a decision, not dictate the path forward.<sup>[7](#fn7)</sup> 
+
+The answer to the question should be something one or more of your stakeholder groups can use to make a decision (such as continuing to fund a program or ending a partnership). 
+
+<div class="case_study_box">  
+
+<p><span class="box-title">PARTICIPATORY EVALUATION</span></p> 
+
+<p style="text-align:center">
+  Stakeholders should always be involved in an evaluation, providing context, advice, and feedback about the evaluation. Participatory evaluation takes stakeholder participation to the next level and actively involves stakeholders in the process of planning and carrying out the evaluation. To learn more about participatory evaluation, see Chapter 36, Section 2 of the Community Toolbox: <a href="http://ctb.ku.edu/en/table-of-contents/evaluate/evaluation/intervention-research/main">Community-Based Participatory Research.</a></p>  
+
+</div> 
+
+<br>
+
+### Outcomes
+
+Outcomes are the differences your programs make for your library’s youth and for the community—things outside of your program and outside of connected learning that matter.<sup>[8](#fn8)</sup> If you are evaluating a program or other connected learning activity, you may have already determined the desired outcomes (see the Connected Learning Programming module for more).  
+
+<div class="case_study_box">  
+
+<p><span class="box-title">OUTCOME EXAMPLES</span></p> 
+
+<p style="text-align:center">
+  <i>Participants will want to learn more about robotics</i><br>
+
+  <i>Participants will develop collaboration skills</i>
+</p>  
+
+</div> 
+
+<br>
+
+
+### Evaluation questions
+
+You probably have some idea of why you are conducting an evaluation—possibly one of the reasons listed in What is an evaluation? For instance, evaluations can directly affect future actions or decisions or change someone’s attitude or way of thinking.<sup>[9])#fn9)</sup> Evaluation questions transform a vague idea into specific elements that are tied to one or more outcomes and can be measured through assessments. 
+
+All evaluations answer the same three fundamental questions, according to the <a href="http://www.informalscience.org/evaluation/pi-guide">Principal Investigator’s Guide:</a><sup>[10](#fn10)</sup>
+
+1. What? (What happened or happens and what are the results?) 
+2. So what? (Why did the results occur the way they did, and what are the implications?) 
+3. Now what? (What actions, decisions, or recommendations can be made based on the results?)
+
+<table>
+  <tr><th>DON'T</th><th>DO</th></tr>
+  <tr><td style="background-color:#CAC9C9">Ask more questions than you have time or resources to answer</td><td style="background-color:#F6DEB7">Prioritize questions based on the value of their answers and your ability to answer them<sup>11</sup></td></tr>
+  <tr><td style="background-color:#CAC9C9">Come up with all the questions yourself</td><td style="background-color:#FCFB9D">Talk to stakeholders for their input</td></tr>
+  <tr><td style="background-color:#CAC9C9">Try to answer all questions from every stakeholder</td><td style="background-color:#CCEDC3">Use stakeholder input to <i>inform</i> the evaluation design, not <i>determine</i> it </td></tr>
+  <tr><td style="background-color:#CAC9C9">Ask questions that are too broad or aspirational</td><td style="background-color:#D8C5E1">Ask questions that can be answered realistically</td></tr>
+</table>
+
+</div> 
+
+<br>
 
  
 
-An assessment is a way to answer a single question at one point in time. Assessment can be a quick and easy process if you have a simple question, or it can be more extensive if you need to assess something large or complicated. Multiple assessments can be conducted to answer questions that involve comparisons, such as before-and-after questions, or to provide multiple perspectives. Assessments focus on the state or extent of something, such as what or how much individuals are learning, without digging deeper into value-based judgments like are participants learning enough? or how can we make this partnership more productive?<sup>[3](#fn3)</sup> 
-
 <div class="case_study_box">  
 
-<p><span class="box-title">ASSESSMENT QUESTION EXAMPLES</span></p> 
+<p><span class="box-title">EVALUATION QUESTION EXAMPLES</span></p> 
 
 <p style="text-align:center">
-  <i>What did participants learn from the robotics program?</i><br>
+  <i>How financially sustainable is the robotics lab? </i><br>
 
-  <i>How much are participants collaborating?</i>
-
-  <i>How are teens helping each other while completing their projects?</i></p>  
+  <i>Does the robotics lab help teens develop collaboration skills?</i>
+</p>  
 
 </div> 
 
 <br>
 
-### Choosing what to measure 
+<table class="basic"> 
 
-When you know the question that needs to be answered, the next step is to decide how to answer it. The factor that you will measure in order to help answer the question is called an indicator. For instance, you may want to know if participating in a program helps participants become more confident in the use of photo editing software. What you want to know is the level of participants’ confidence in using the software, but that isn’t directly measurable in the way the number of attendees is. You may decide to measure participants’ self-reported increase in confidence (by using a feedback survey, perhaps) or demonstrations of confident behavior that you observe. Using assessments for both measures will provide a more complete picture of the situation.  
+  <tr><th>EVALUATION TYPE</th><th>DESCRIPTION</th><th>EXAMPLES</th></tr> 
 
-<div class="case_study_box">  
+  <tr><td>Front-end evaluation</td><td>Used in informal science education; similar to audience or user research and used to inform the initial design of a program.<sup>12</sup></td><td>What aspects of this topic are our youth interested in?<br><br>What is our audience’s current skill level?</td></tr> 
 
-<p><span class="box-title">INDICATOR EXAMPLES</span></p> 
+  <tr><td>Formative evaluation</td><td>Periodic evaluations conducted during the development and implementation of a program. Used for course-correcting if necessary. Formative evaluation can look at how a project is progressing towards its goals whether the implementation of the project going according to plan.<sup>13</sup> </td><td>Are participants learning what we expected?<br><br>Are there any issues with implementation of the program?</td></tr> 
 
-<p style="text-align:center">
-  <i>Participants’ performance on a number of questions at the end of the program</i><br>
+  <tr><td>Summative evaluation</td><td>Focuses on conditions at the end of the program and is an evaluation of the entire process. It may report results from earlier formative evaluations as well. </td><td>Did participants learn what and as much as we wanted?<br><br>What was the value of the partnership?</td></tr> 
 
-  <i>The number of times participants form collaborative groups in a lab session</i>
-
-  <i>Teen’s behaviors and conversations when collaborating?</i></p>  
-
-</div> 
-
-<br>
-
-
-### Collecting data 
-
-You need to collect data on your measure (or measures) in order to answer your question. Data collection can be resource-intensive, so choose your data sources and collection strategy wisely. Ask the following questions (adapted from page 53 of the <a href="https://projectoutcome.org/surveys-resources/informed-consent-guidelines" target="_blank">Principal Investigator’s Guide</a>) to guide you through the process:  
-
-1. **What kind of information do you need?** Do you need to know about opinions or attitudes? Knowledge levels? Details about implementation?  
-2. **What is the best method to obtain that information?** You have many choices for data collection—surveys, focus groups, interviews, and more.  
-3. **What is the best strategy for collecting that information via that method for this project?** From whom do you need to collect information? Where is the best place to reach them via the method(s) you’ve chosen? When should this happen? If there is a facilitator, whom should that be?  
-
-<div class="case_study_box">  
-
-<p><span class="box-title">DATA COLLECTION EXAMPLES</span></p> 
-
-<p style="text-align:center">
-  <i>How many questions participants get right in a Jeopardy! game at the end of the program</i><br>
-
-  <i>A staff member uses an observation form to record the number of times participants form collaborative groups</i>
-
-  <i>A staff member writes field notes based on the interactions they observe</i></p>  
-
-</div> 
-
-<br>
-
-
-#### Quantitative or qualitative 
-
-To put it simply, quantitative data means numbers, and qualitative data means anything else—usually text or spoken words, but could also include things like images, sounds, or behaviors. Traditional library assessments tend to be quantitative in nature, like the number of items borrowed or the number of program participants. Collecting qualitative data by listening to or observing people can better capture individual experiences, thoughts, and attitudes. Your assessment may include both—a survey can have both quantitative and qualitative questions, and an observation protocol may involve both counting the number of times something happens and listening to someone’s comments. You can also quantitatively analyze qualitative data (see the section on [analyzing data](#analyzedata)).  
-
-#### Data collection instruments 
-
-An instrument is a tool you use in the collection process—for example, a survey, interview guide, or observation record. You can find examples of instruments for informal learning in the Additional Resources for this section. However, connected learning programs are often unique, with one-of-a-kind elements that may need one-of-a-kind assessments. You may wish to modify someone else’s instrument to fit your own assessment needs, or even create one that is entirely original.  
-
-#### Testing the process 
-
-Before diving headlong into data collection, test the entire process. For a small and simple assessment, this could simply be asking a co-worker to review your plan. A larger effort should be tested more thoroughly, ideally with a sample that resembles who or what you will be assessing. A large survey, for example, would benefit from being tested with a handful of teens first. As you conduct your tests, consider the following questions:  
-
-- Does the instrument you are using give you the kind of data you need to answer your question? Do you need to make changes to wording, format, time or place?  
-- Are there ways you can automate or simplify data collection? For instance, you could provide computers at the library for people to fill out a survey online, rather than handing them a sheet of paper to fill out . 
-- Do you have the capacity to handle the data collection you’re planning? If an interview takes much longer than expected, for example, you may need to either shorten your interview instrument, add more staff to the effort, or increase the amount of time your assessment will run.  
-- Do you need to collect any baseline data so you can make before and after comparisons? 
-- Is there a way that data collection can happen seamlessly (for instance, the teens provide you with the data you need as part of the program), and not intrusive (such as taking time from the program to have the teens fill out a feedback form)? 
-
-**PRIVACY AND CONSENT** 
-
-Be sure to respect your participants’ privacy and autonomy as you are collecting data (and any time outside stakeholders are involved). This is particularly important when you are interacting with minors. <a href="https://projectoutcome.org/" target="_blank">Project Outcome</a> is a good starting place for learning about <a href="https://projectoutcome.org/surveys-resources/informed-consent-guidelines" target="_blank">issues of privacy and consent in library assessment</a> (requires free registration). 
-
-#### Ways to collect data 
-
-The following table includes some—though certainly not all!—methods to collect data for your assessment. Each method has potential strengths and weaknesses and can be used to assess a wide variety of factors. Choose one (or more) that fits your question, your program, and your capacity.  
-
-<table>
-  <tr style="background-color:#BBD0F8"><th colspan="2">ANALYZING ARTIFACTS</th></tr>
-  <tr><td colspan="2">You can gain a great deal of insight from the items learners create through your initiatives, whether they are musical performances, poetry, or 3-D models. Knowledge, skill, development, attitudes, behaviors—these can all be observed in learners’ creations. You can also ask students to write about the learning experience or their creative process, and analyze their responses. </td></tr>
-<tr><td><b>Good for:</b><ul><li>Demonstrating achievement first-hand</li></td><td><b>Potential drawbacks: </b><ul><li>There can be a high level of subjectivity; be careful not to read too much into a creation (particularly a non-textual one) without input from the creator</li><li>People may not like being watched</li></ul></td></tr>
 </table>
 
-<table>
-  <tr style="background-color:#BBD0F8"><th colspan="2">COLLECTING PASSIVE FEEDBACK</th></tr>
-  <tr><td colspan="2">Along with on-demand surveys and questionnaires, you can collect passive feedback through methods such as comment cards or “talkback boards” (see the sidebar following this section). </td></tr>
-  <tr><td><b>Good for:</b><ul><li>Collecting data unobtrusively</li></ul></td><td><b>Potential drawbacks: </b><ul><li>Responses may come only from people with extreme or passionate opinions—not from people “in the middle”</li></ul></td></tr>
-</table>
+### Using assessments in evaluations
 
-<table>
-  <tr style="background-color:#BBD0F8"><th colspan="2">MAKING OBSERVATIONS</th></tr>
-  <tr><td colspan="2">Using an observation guide or protocol, you can collect data by simply observing what is happening during a program or in a space and taking detailed “field notes.” This can be done unobtrusively in the background, or in a more engaged manner. If observing an individual directly (perhaps as they use a resource or do an activity) you can ask them to use a “think-aloud” strategy to help you understand why they do what they do. </td></tr>
-  <tr><td><b>Good for:</b><ul><li>Uncovering unexpected outcomes</li><li>Directly observing what is happening, not just relying on participants’ self-reports</li></ul></td><td><b>Potential drawbacks: </b><ul><li>People often behave differently when they know they are being observed</li><li>Effective observations require a great deal of attention and focus</li><li>People may not like being watched</li></ul></td></tr>
-</table>
-  
-<table>
-  <tr style="background-color:#BBD0F8"><th colspan="2">TESTING KNOWLEDGE OR SKILLS</th></tr>
-  <tr><td colspan="2">Formal tests of knowledge or skills feel too much like school for a connected learning library setting, but you can find small, creative ways to “test” a teen’s progress without making it feel like an exam, such as integrating a competitive quiz towards the end of a program or presenting challenges for participants to work on. </td></tr>
-  <tr><td><b>Good for:</b><ul><li>Directly assessing what a teen knows or can do</li></ul></td><td><b>Potential drawbacks: </b><ul><li>They can feel too formal and school-like</li><li>They can feel like too much pressure, especially for youth who are hanging out or messing around</li></ul></td></tr>
-</table>
+Assessments used in evaluations are not much different from the standalone assessments discussed in Section 2. Since evaluations ask deep and complex questions, however, they typically involve multiple assessments to help build a better picture and construct stronger evidence. 
 
-Other methods are described in different modules; surveys and focus groups are covered in the Community Mapping module, and the Capacity module discusses interviews and town halls.   
+#### Indicators 
 
-**TALKBACK BOARDS** 
+Assessments used in evaluations need to be tied directly to the outcome or outcomes you are evaluating. You need to choose indicators that will provide measurable ways to show the impact of your initiative in relation to that outcome. To determine the appropriate indicators for your project, look at one of your outcomes and ask “How will I know it when I see it?” 14  
 
-[include description and case study] 
+Just as the outcomes of connected learning are often nontraditional, so are the indicators. Using a variety of indicators to answer a single question can help triangulate your interpretations. (The same indicator can also be used to answer multiple questions sometimes.) Traditional library assessment measures (number of attendees, number of questions asked, how often a resource is used, patron satisfaction) play an important role and can be part of your evaluation. However, in a connected learning evaluation, they should exist in support of other measures. 
 
-<a name="analyzedata"></a> 
-## Analyzing data 
+<div class="tips">  
 
-Once you have collected data, you must somehow transform it into evidence that you can use to answer your assessment questions. Quantitative data can undergo quantitative analysis, and qualitative data can be analyzed either qualitatively or quantitatively.  
+<p><span class="box-title">DON’T START WITH INDICATORS</span></p> 
+<p><b>Don’t start with indicators!</b> Start by determining your desired outcomes. If you start with measures, you run the risk of defaulting to only the easiest and most obvious measures.15 The outcomes of connected learning can be much richer than that. Start with the outcomes, and then figure out the best way to measure your progress towards those outcomes</p>
 
-#### Qualitative analysis 
+### Evaluation plans 
 
-Given the variety of methods and goals for assessing a connected learning initiative, not to mention the variation in connected learning programs in general, the exact process you follow to analyze your qualitative data will also vary. However, you will probably be conducting a form of content analysis, which occurs in four main phases.  
+An evaluation plan is a roadmap for the activities and assessments you will conduct to answer your questions. If your evaluation plan will be used only internally, you may not need every section. If you are working with a partner, make sure you are both onboard with the plan. 
 
-1. **Prepare data for analysis**. If your gathered data informally (via talkback boards, for instance, or short on-the-fly interviews), or if it is not textual data (in the case of creative artifacts) it is probably somewhat unstructured. Organize and give your data some structure to make a systematic analysis easier. This process might involve creating ID numbers for each item, typing up handwritten data, or dividing answers to different interview questions into columns on a spreadsheet.  
-2. **Create a coding schema**. Codes are descriptive labels that are applied to specific parts of your data. You can probably put together an initial coding schema based on your evaluation questions. If multiple people are involved in analysis, make sure they agree on the codes and definitions so that you will have consistent results.  
-3. **Apply codes to the data**. Be as broad or as specific as you need to ensure you end up with something useful and easy to understand. You may uncover new concepts and themes that require adjustments to your codebook—just make sure everyone agrees on  and knows how to apply the modified codes. However, you cannot and should not try to code for everything. Unless you find something truly unexpected and impactful, stay focused on what will help you answer your questions.  
-4. **Drawing evidence from the coded data**. Even as you are coding data, you should be looking for themes and patterns. Once you’re done, take a step back and look at the big picture. What codes show up the most? Are there codes that are usually found together? Do some participant groups use certain codes more than other groups? How can you synthesize this data into evidence for the answer to your assessment question?  
+#### Overview and Background Information  
 
- 
-<div class="explanatory">  
+If you will be sharing it with people who aren’t deeply familiar with the project, introduce the project and the reason for the evaluation. After reading these sections, your readers should have a general sense of what is being evaluated and why.  
 
-  <p><span class="box-title">QUANTITATIVE ANALYSIS</span></p> 
-<p><span><a href="https://youtu.be/2kVnsbGdanI" target="_blank"><img src="https://github.com/ConnectedLib/Connected-Learning-Modules/blob/master/images/quant_analysis_assessment_2.0.jpg"/></a></span></p>
-<p>In this 50-minute webinar, Wendi Ackerman from Upstate Health Service Library in provides a detailed overview of quantitative analysis in libraries.</p> 
+- **Executive summary**. An abstract of the entire report. This may be the only section that some of your stakeholders read, so capture the “gist” of the evaluation clearly and succinctly. You can also write different summaries for different stakeholders.  
+- **Project (or program, initiative, etc.) description**. Include a high-level overview, then go into detail about the elements or activities that make it up. Include any history or context that might be helpful.   
+- **Purpose of the evaluation**. Describe the general reason you are conducting an evaluation and what you hope to get out of it. A detailed examination of your evaluation questions comes later, so don’t get too granular here.  
+- **Key stakeholders**. Introduce your readers to the key people involved with or affected by your project (see Section X). You can also introduce key project staff here.  
 
-  </div>
-<div>
+#### Program Outcomes 
 
-</div>
+These sections explain in greater detail what your program does, and how and why you expect it to achieve what you want.  
 
-#### Quantitative analysis of qualitative data 
+- **Program goals**. Introduce the impacts and outcomes you hope your project will have.  
+- **Theory of change or logic model**. This section explains “how and why the program will work”16 in both narrative and graphic formats. (For more about developing theories of change, see the Connected Learning Programs module.) 
+- **Activities**. Include a list of all the activities that will take place as part of the project being evaluated. You may break them into categories—e.g., activities that staff will complete, activities the partner will complete, and activities the program participants will complete. 
 
-It is often useful to use quantitative (number-based) analysis on qualitative data. For instance, you can count the number of teens who mentioned interest in a STEM career during their interviews, or what percentage of participants completed a challenge. Be careful not to misinterpret the numbers. For instance, a very talkative teen who gave a 10-minute interview might mention a STEM career more often than a quieter person who only talked for 3 minutes, but that doesn’t necessarily mean the talkative person is more interested in STEM careers.  
+#### About the Evaluation  
 
-<div class="explanatory">  
+Explain exactly what you are evaluating, why, and how.  
 
-  <p><span class="box-title">ADDITIONAL RESOURCES</span></p> 
-<ul>
-<li>The PEAR Institute’s <a href="http://www.pearweb.org/atis/reviews/420" target="_blank">Assessment Tools in Informal Science</a> is a database of assessment instruments, complete with user reviews.</li> 
+- **Elements to be evaluated**. Broadly define the scope of the evaluation—what will be evaluated and what will not be. You may wish to break a large list of activities into sections—front-end, formative, and summative. It is important to make sure your most important stakeholders are completely on board with this part of the plan—especially the things you will leave out—so that there is no confusion or disappointment later.  
+- **Evaluation questions**. Lay out the precise evaluation questions you developed earlier in this module. They should flow naturally from what you discussed in the previous section of the evaluation plan.  
+- **Indicators**. Describe the indicators you will be looking at, and explain how they relate to your outcomes.  
+- **Data sources for evaluation**. Finally, describe the data sources you will draw from and how they relate to your indicators.  
 
-<li>The <a href="http://stelar.edc.org/resources" target="_blank">STEM Learning and Research Center</a> also has a database of assessment instruments.</li>  
+#### Methodology 
 
-<li>The <a href="" target="_blank">Activation Lab</a> provides instruments to assess science learning activation, as well as an <a href="http://www.activationlab.org/wp-content/uploads/2014/07/ObservationProtocolFINAL.pdf" target="_blank">observation protocol</a> to measure engagement with learning.</li>  
+This is the “nitty gritty” section that lays out the details of how you will collect your data.  
 
-<li>IDEO has created a <a href="http://www.designkit.org/methods" target="_blank">Human-Centered Design Kit</a> with dozens of methods for gathering ideas and information, many of which can be used for creatively assessing connected learning programs.</li>  
-
-<li><a href="http://www.informalscience.org" target="_blank">InformalScience.org</a> has a collection of <a href="http://www.informalscience.org/evaluation/browse-evaluation?search_api_views_fulltext=&sort_by=field_resource_date_value" target="_blank">evaluation materials</a> from informal STEM learning projects, including evaluation reports and assessment instruments.</li>
-</ul>
-</div>
+- **Data collection strategy**. Describe how your data will be collected, by whom, and from whom. If there was any uncertainty or dispute about data collection in your planning process, explain why you made the choices you did. Will you be conducting formative assessments throughout the course of the project? Include that information here.  
+- **Evaluation tools to use**. Describe any instruments or resources you will use for data collection. If you have created custom instruments (interview protocols, etc.), you can describe them here, and include them as appendices to the evaluation plan. 
+- **Reporting strategy**. How will you communicate the results to your stakeholders? Will you use different strategies for different audiences? What elements will be included for each group? For instance, youth participants probably don’t care whether your partnership project was within budget, but they might like to know how many of their peers participated. This information could be disseminated through a display in your library, a newsletter, or on the library’s social media accounts.
 <br>
 <br>
 

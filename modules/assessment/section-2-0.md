@@ -7,7 +7,7 @@ section: 2. Assessment
 subsection: two-zero
 ---
 
-In this introduction, you will learn what mentoring is and how it can support connected learning in the library.
+In this section, you will learn what mentoring is and how it can support connected learning in the library.
 
 ## Learning Outcomes For This Section
 

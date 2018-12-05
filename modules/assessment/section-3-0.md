@@ -35,3 +35,8 @@ Much of the time, your information needs can be met with one or two assessments.
   The utilization-focused approach to evaluation maintains that an evaluation is only as good as it is useful. Design your evaluation in a way that will maximize its usefulness to its intended audience—whether that is your manager, a partner, or yourself. Learn more at <a href="http://www.betterevaluation.org/en/plan/approach/utilization_focused_evaluation">BetterEvaluation.org.</a></p>  
 
 </div> 
+<br>
+
+#### Footnotes:
+
+<a name="fn4">4</a>:  --  https://www.youtube.com/watch?v=WXbkeFIEN8Y&feature=youtu.be 5:15

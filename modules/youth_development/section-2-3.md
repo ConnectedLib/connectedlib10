@@ -14,7 +14,7 @@ In this section, we will explore young people’s moral and ethical development.
 Inspired by Piaget, psychologist Lawrence Kohlberg (1927-1987) theorized that a child’s morality develops in tandem with their cognitive development. According to his model, young people become more adept at addressing moral dilemmas at each stage of moral development. 
 
 
-<table> 
+<table class="basic"> 
 
   <tr><td>Follow external rules</td><td rowspan ="2">Morality begins with concrete thinking and a self-focused point of view. Children try to avoid punishment or gain rewards.</td></tr> 
 
@@ -40,7 +40,7 @@ Inspired by Piaget, psychologist Lawrence Kohlberg (1927-1987) theorized that a 
 </div> 
 <br>
 
-MORALITY AND DEFAULT MODE 
+**MORALITY AND DEFAULT MODE**
 
 The brain’s default mode network activates when we are not thinking about our immediate external environment. It is associated with introspection and mindfulness — inwardly focused thoughts. Moral reasoning skills like empathy, self-understanding, abstract thinking, memory, and divergent thinking happen in default mode.  
 

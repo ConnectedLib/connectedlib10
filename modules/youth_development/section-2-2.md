@@ -11,7 +11,7 @@ Relationships - with family and with peers - play an important part of developme
 <br>
 <div class="explanatory">  
 
-  <p><span class="box-title">ONLINE SELF EXPRESSION AND “THE PACKAGED SELF”</span></p> 
+  <p><span class="box-title">TWEEN RELATIONSHIPS</span></p> 
 
   <p>Excerpt from LIS 516: Youth Development and Behavior in a Digital Age [???] by Dr. Katie Davis and the University of Washington 
 <br>
@@ -33,11 +33,11 @@ VIDEO: bit about individuation (short - week 9)
 
 In childhood, parents’ authority is unilaterally applied and children may have little say in decision-making. As youth move into adolescence, the relationship between youth and their caregivers becomes reorganized. Teens start to view their parents as imperfect individuals, rather than as all-knowing figures. Parental authority becomes limited to certain areas, and teens take part in more decision making.  
 
-The process of finding a balance between separation and connection is called individuation.18 Teens begin to move away from dependence, but still remain connected to their parents. It’s important for parents to provide teens some separation and space to have a private life, but they do not require total separation.  
+The process of finding a balance between separation and connection is called individuation.<sup>[18](#fn18)</sup> Teens begin to move away from dependence, but still remain connected to their parents. It’s important for parents to provide teens some separation and space to have a private life, but they do not require total separation.  
 
 **TEENS AND CAREGIVERS** 
 
-Parents and caregivers have multiple roles to play in teens’ lives to support their individuation process.19  
+Parents and caregivers have multiple roles to play in teens’ lives to support their individuation process.<sup>[19])#fn19)</sup>  
 
 - **Instrumental support enables separation**. Giving career advice, helping with schoolwork, and other instrumental activities help teens grow more independent from their parents.  
 
@@ -64,11 +64,65 @@ Teens with siblings often spend more time with them than with their parents. Tee
 
   <p>Teens engage in ________________ to control how people perceive them online. </p>
 </div> 
-<br>
 
+<br>
+<div class="explanatory">  
+
+  <p><span class="box-title">TWEEN RELATIONSHIPS</span></p> 
+
+  <p>Excerpt from LIS 516: Youth Development and Behavior in a Digital Age [???] by Dr. Katie Davis and the University of Washington <br>
+
+[clip from Lecture 8 - 5:00 to 7:25]
+  </p> 
+</div> 
+<br> 
+
+During the teen years, youth begin to spend more time with their peers than with their caregivers.  
+
+- **Friendships become less instrumental**. Teens learn about themselves and who they are through peer interaction. As they mature, the concept of a friend becomes less about shared activities and more about shared values. Respect, trust, and symmetrical reciprocity become central.  
+- **Best friendships or “chumships” are highly influential**. These friendships feature intimacy and self-disclosure.<sup>[20](#fn20)</sup> Girls’ chumships tend to develop earlier and feature a greater degree of intimacy than boys’.  
+- **Teens find themselves as part of “the crowd.”** Along with cliques, the concept of “the crowd” and which one a teen fits into begins to emerge. Many of these crowds are imposed by stereotypes — the jocks, the geeks, the goths. But as teens get older, their ties to cliques and crowds may begin to loosen, allowing them to move beyond their groups. 
+
+<br>
+<div class="explanatory">  
+
+  <p><span class="box-title">PEER CONFLICT</span></p> 
+
+  <p>Excerpt from LIS 516: Youth Development and Behavior in a Digital Age [???] by Dr. Katie Davis and the University of Washington <br>
+[clip from Lecture 8 -  7:23 - 8:08]
+  </p> 
+</div> 
+<br> 
+
+- **Social aggression appears around ages 11 or 12**. Peer conflict arrives alongside the cliques, crowds, and social hierarchies. **Bullying** arises as it becomes important to youth to figure out who is in or out of their social group.  
+
+- **Conflict decreases as adolescence progresses**. When youth begin to stabilize their sense of identity, relying less on their social groups to define them, peer conflict tends to decrease.
+
+<br>
+<div class="reflection"> 
+
+  <p><span class="box-title">REFLECTION</span></p> 
+
+  <p>In what ways do you see relationships developing at the library? </p>
+</div> 
+<br>
+<div class="reflection"> 
+
+  <p><span class="box-title">TEST YOUR KNOWLEDGE</span></p> 
+
+  <p>A central feature of a “chumship” is_______:</p><br>
+  <ol type="A">
+  <li>Individuality</li>
+  <li>Self-disclosure</li>
+  <li>Conformity</li>
+  <li>Similarity</li>
+</div> 
+<br>
 
 #### Footnotes:
 
-<a name="fn16">16</a>:  -- (Davis & Weinstein, 2017)
+<a name="fn18">18</a>:  -- Youniss & Smollar, 1985
 <br>  
-<a name="fn17">17</a>:  -- Agosto, D., & Hughes-Hassell, S. (2006). Toward a Model of the Everyday Life Information Needs of Urban Teenagers, Part 1: Theoretical Model
+<a name="fn19">19</a>:  -- Youniss & Smollar, 1985 
+<br>
+<a name="fn20">20</a>:  -- Sullivan, 1953

@@ -18,5 +18,9 @@ Outcomes are the differences your programs make for your library’s youth and f
 
   <i>Participants will develop collaboration skills</i>
 </p>  
-
 </div>
+<br>
+
+#### Footnotes:
+
+<a name="fn8">8</a>:  -- https://youtu.be/WXbkeFIEN8Y 28:40

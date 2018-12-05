@@ -116,3 +116,9 @@ Answer the question, making sure you write down why you think the man should or 
 Explain the dilemma to other people (including some teens and children if possible) and ask for their answers. Which stages are they using? Do you see a difference with different ages?<br>
   </p>
 </div>
+<br>
+
+
+#### Footnotes:
+
+<a name="fn21">21</a>:  -- https://en.wikipedia.org/wiki/Heinz_dilemma

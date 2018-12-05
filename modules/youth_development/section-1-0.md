@@ -14,7 +14,7 @@ In this introduction, you will learn what mentoring is and how it can support co
 **After completing Section 1: Theories of Youth Development, you will be able to...**
 <ul class="fancy">
   <li>Describe six major theories of youth development</li>
-  <li>Apply concepts from the theories of youth development to the creation of connected learning programs and services for teens/li>
+  <li>Apply concepts from the theories of youth development to the creation of connected learning programs and services for teens</li>
 </ul>
 
 Youth development can be approached from many perspectives. In this section, you will be introduced to key theories of child development. In particular, we focus on: 

@@ -122,7 +122,7 @@ During the teen years, youth begin to spend more time with their peers than with
 #### Footnotes:
 
 <a name="fn18">18</a>:  -- Youniss & Smollar, 1985
-<br>  
+<br>
 <a name="fn19">19</a>:  -- Youniss & Smollar, 1985 
 <br>
 <a name="fn20">20</a>:  -- Sullivan, 1953

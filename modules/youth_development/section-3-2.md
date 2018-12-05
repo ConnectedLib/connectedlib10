@@ -7,59 +7,54 @@ section: 3. Teens and Digital Media
 subsection: three-two
 ---
 
-Since teens’ media use is constantly evolving as technology and platforms change, we will not focus too much on precise numbers in this section. Rather, we will look at the broad patterns and trends in behavior as well as teens’ motivation for using digital media.  
 
-**MOBILE** 
+<br> 
+<div class="explanatory">  
 
-Research statistics show that mobile technologies have enabled teens’ widespread access to the internet.<sup>[22](#fn22)</sup> In the United States today, it is safe to assume that virtually all teens have some kind of access to the internet, frequently via mobile devices. In 2015 91% of teens reported going online from mobile devices “at least occasionally.”<sup>[23](#fn23)</sup>  
+  <p><span class="box-title">COMMUNICATING ONLINE/span></p> 
 
-Smartphone usage is widespread among teens of all demographics and socioeconomic statuses. Smartphones may be a way to bridge the digital divide for disadvantaged teens with limited internet access. However, as some of the librarians we spoke to pointed out, just because a teen has a smartphone doesn’t mean they have an adequate data plan - or any plan at all. Still, around 73% of teens with access to smartphones are using messaging apps like Kik or WhatsApp. Fully 33% of teens with phones have texting and messaging apps. Finally, texting is not the only activity; teens use their smartphones as an entertainment hub: sharing photos and videos, watching videos, playing games, listening to music.   
+<p>Excerpt from LIS 516: <i>Youth Development and Behavior in a Digital Age</i> [???] by Dr. Katie Davis and the University of Washington <br>
+[clip from Lecture 8 -  7:23 - 8:08]</p> 
 
-The Common Sense Media (2015) study also revealed a large “digital equity gap” as children in lower-income families are significantly less likely than their more affluent peers to live in homes with access to digital technologies (p.23). 
+</div> 
+<br> 
 
-**WHAT ARE THEY DOING?**  
+For the average teen in the U.S., online communication is about as common as face-to-face communication, texting with friends or chatting while playing video games. Online communication is important for both peer and family relationships in the teen years. 
 
-Teens and tweens spend a large amount of time using screen media (Common Sense Media, 2015). On average, teens spend approximately 9 hours a day using screen media, while tweens spend 6 hours (Common Sense Media, 2015). Tweens and teens spend a lot of time playing mobile games, watching TV and videos, using social media, and listening to music. Among both tweens and teens, boys and girls appear to have very different media preferences and habits. Boys were found to play more console video games and engage in less reading compared to girls. In addition to reading more, girls spend more time on social media. 
+[lecture 8 clip: 12:35 to 14:21?] 
 
-While digital media is used for reading, watching, playing, listening, communicating, and creating, few teens (only 3%) are engaged in “content creation” or actually making things online (p.23). As such, content creation activities during digital media use may be an opportunity for youth librarians. Content creation might be included in programming such as interactive media teen book clubs or video blog creation workshops (Martin, 2015). 
+Adolescent friendships are motivated by desires for trust, caring, and mutual respect. Online communication allows teens to participate in self-disclosure, micro-coordination, virtual taps on the shoulder, or, less positively, cyberbullying. While the platform for self-disclosure may look different than in previous generations, the motivations of figuring out who you are within the context of your peers is similar to the pre-digital era. Issues like cyberbullying appear different today, but in this age group it is often tied to offline bullying and teens’ need to gain social status. As such, teens’ online communication patterns are often linked to their developmental needs.
 
-**TECHNOLOGY: MORE OR LESS FREEDOM FOR TEENS?**  
+**SOCIAL MEDIA** 
 
-[Insert video clip of Katie discussing research on mobile tech as a digital tether] 
+In 2015, Facebook was the most popular and frequently used social media platform. By [date], Snapchat had taken the lead with Instagram not too far behind, driven by use by middle and upper income teens.26 These two platforms are more visually-based, emphasizing photo and video sharing more than Facebook. 
 
-Does technology like smartphones support or undermine the individual process? Pyschologist Sherry Turkle argues that mobile phones are “digital tethers” that enable parents to keep track of their child even when they aren’t in the same physical space. Other research have found that parents and youth are closer than ever,<sup>[24](#fn24)</sup> which may undermine the autonomy that teens are seeking during adolescence. Still, technologies like smartphones may give youth opportunities for greater independence and mobility, allowing parents to feel more at ease allowing their teen to go places without them.  
+Regardless of which platform they use, teens use of social media is largely driven by the same motivations and come with the same benefits and drawbacks. For instance, in 2015, 34% of teen Facebook users did not know the size of their friend networks, providing some insight into teens’ understanding of privacy on networked spaces.  
 
-Families can also use digital media to bring them together via joint media engagement--activities like watching movies or playing video games together. Some devices can get in the way of family closeness; for instance, family members may use mobile and tablet devices separately while at home instead of engaging with one another.<sup>[25](#fn25)</sup> 
+**MORE OR LESS CONNECTED?** 
+
+What are the consequences of increased online communication and decreased in-person communication? Young people have traded hanging out with friends in person with spending time on social media. Is time spent online making making youth more or less connected with each other?  
+
+[clip re: the app generation and teens being more or less connected] 
+
+Howard Gardner and Katie Davis concluded that there is probably no single answer. On one hand, teens find it easier to connect with friends and find people who share their interests. But they also experience constant pressure to stay reachable and respond to friends who contact them online. Other consequences include the silo effect, or only receiving information and connecting with those who think and act similarly to themselves.  
+
+The Pew Research Center found that teens encounter a mix of positive and negative online experiences. Peers are a source of drama online, but they also provide each other with support.27 With such a wide range of experiences, it can be challenging to know how to support teens. Understanding how different social media platforms work and investigating how teens communicate online may be the first steps in making guidance relevant to their developmental needs. 
 
 <br>
 <div class="reflection"> 
 
   <p><span class="box-title">REFLECTION</span></p> 
-  <p>
-  In what ways do you think mobile technologies have influenced tweens and teens “screen use” behaviors and patterns?
-  </p>
+  <ul>
+  <li>Are digital communication technologies offering teens with greater opportunities? What aspects of these technologies concern you in regards to peer relationships and development?</li>
+<li>What role can libraries play in supporting positive online interactions or helping teens cope with the negative aspects?</li>
 </div>
 <br>
 
-<div class="reflection"> 
-
-  <p><span class="box-title">EXERCISE</span></p> 
-  <p>
-  Brainstorm a few ways that content creation through digital media use, such as building and designing with digital tools and producing works online, could be incorporated into youth programming or workshops. 
-  </p>
-</div>
-<br>
 
 
 #### Footnotes:
 
-<a name="fn21">21</a>:  -- https://en.wikipedia.org/wiki/Heinz_dilemma
+<a name="fn26">26</a>:  -- Pew
 <br>
-<a name="fn22">22</a>:  -- https://en.wikipedia.org/wiki/Heinz_dilemma
-<br>
-<a name="fn23">23</a>:  -- https://en.wikipedia.org/wiki/Heinz_dilemma
-<br>
-<a name="fn24">24</a>:  -- https://en.wikipedia.org/wiki/Heinz_dilemma
-<br>
-<a name="fn25">25</a>:  -- https://en.wikipedia.org/wiki/Heinz_dilemma
-<br>
+<a name="fn27">27</a>:  --  (Lenhart, 2015)

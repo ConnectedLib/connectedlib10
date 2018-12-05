@@ -65,8 +65,8 @@ Each of these systems interrelate and interact with one another, demonstrating t
 <br>
 <br>
 
-<br>
-<br>
+#### Footnotes:
+
 <a name="fn12">12</a>:  -- Bronfenbrenner, U. (1973). Two worlds of childhood: U.S. and U.S.S.R. 
 <br>  
 <a name="fn13">13</a>:  --  Bronfenbrenner, 1994 

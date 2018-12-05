@@ -53,14 +53,12 @@ Families can also use digital media to bring them together via joint media engag
 
 #### Footnotes:
 
-<a name="fn21">21</a>:  -- https://en.wikipedia.org/wiki/Heinz_dilemma
+<a name="fn22">22</a>:  -- Pew and American Life
 <br>
-<a name="fn22">22</a>:  -- https://en.wikipedia.org/wiki/Heinz_dilemma
+<a name="fn23">23</a>:  -- (Lenhard, 2015)
 <br>
-<a name="fn23">23</a>:  -- https://en.wikipedia.org/wiki/Heinz_dilemma
+<a name="fn24">24</a>:  -- Cite?
 <br>
-<a name="fn24">24</a>:  -- https://en.wikipedia.org/wiki/Heinz_dilemma
-<br>
-<a name="fn25">25</a>:  -- https://en.wikipedia.org/wiki/Heinz_dilemma
+<a name="fn25">25</a>:  -- Blackwell, Gardiner, and Schoenebeck’s (2016) 
 <br>
 

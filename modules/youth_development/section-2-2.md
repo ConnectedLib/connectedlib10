@@ -13,7 +13,7 @@ Relationships - with family and with peers - play an important part of developme
 
   <p><span class="box-title">TWEEN RELATIONSHIPS</span></p> 
 
-  <p>Excerpt from LIS 516: Youth Development and Behavior in a Digital Age [???] by Dr. Katie Davis and the University of Washington 
+  <p>Excerpt from LIS 516: <i>Youth Development and Behavior in a Digital Age</i> [???] by Dr. Katie Davis and the University of Washington 
 <br>
 [clip from Lecture8 - 0:34 - 0:45, splice with 2:30 to 4:13]
   </p> 
@@ -49,28 +49,12 @@ These roles have often fallen along traditional gender lines (fathers providing 
 
 Teens with siblings often spend more time with them than with their parents. Teens may serve as gatekeepers or teachers of cultural knowledge and practical skills for their younger siblings. This relationships also provide youth with a testbed to practice social behaviors, such as conflict resolution.  
 
-
-<br>
-<div class="reflection"> 
-
-  <p><span class="box-title">REFLECTION</span></p> 
-
-  <p>What role can libraries and youth librarians play in supporting teens’ identity formation?</p>
-</div> 
-<br>
-<div class="reflection"> 
-
-  <p><span class="box-title">TEST YOUR KNOWLEDGE</span></p> 
-
-  <p>Teens engage in ________________ to control how people perceive them online. </p>
-</div> 
-
 <br>
 <div class="explanatory">  
 
-  <p><span class="box-title">TWEEN RELATIONSHIPS</span></p> 
+  <p><span class="box-title">TWEENS AND PEERS</span></p> 
 
-  <p>Excerpt from LIS 516: Youth Development and Behavior in a Digital Age [???] by Dr. Katie Davis and the University of Washington <br>
+  <p>Excerpt from LIS 516: <i>Youth Development and Behavior in a Digital Age</i> [???] by Dr. Katie Davis and the University of Washington <br>
 
 [clip from Lecture 8 - 5:00 to 7:25]
   </p> 
@@ -88,7 +72,7 @@ During the teen years, youth begin to spend more time with their peers than with
 
   <p><span class="box-title">PEER CONFLICT</span></p> 
 
-  <p>Excerpt from LIS 516: Youth Development and Behavior in a Digital Age [???] by Dr. Katie Davis and the University of Washington <br>
+  <p>Excerpt from LIS 516: <i>Youth Development and Behavior in a Digital Age</i> [???] by Dr. Katie Davis and the University of Washington <br>
 [clip from Lecture 8 -  7:23 - 8:08]
   </p> 
 </div> 

@@ -142,7 +142,7 @@ Other methods are described in different modules; surveys and focus groups are c
 [include description and case study] 
 
 <a name="analyzedata"></a> 
-## Analyzing data 
+### Analyzing data 
 
 Once you have collected data, you must somehow transform it into evidence that you can use to answer your assessment questions. Quantitative data can undergo quantitative analysis, and qualitative data can be analyzed either qualitatively or quantitatively.  
 
@@ -188,6 +188,8 @@ It is often useful to use quantitative (number-based) analysis on qualitative da
 </div>
 <br>
 <br>
+
+#### Footnotes:
 
 <a name="fn3">3</a>:  -- Surrounded by Science: Learning Science in Informal Environments. (2010). Washington, D.C.: National Academies Press. https://doi.org/10.17226/12614 p 111
 <br> 

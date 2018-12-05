@@ -11,7 +11,7 @@ subsection: three-two
 <br> 
 <div class="explanatory">  
 
-  <p><span class="box-title">COMMUNICATING ONLINE/span></p> 
+  <p><span class="box-title">COMMUNICATING ONLINE</span></p> 
 
 <p>Excerpt from LIS 516: <i>Youth Development and Behavior in a Digital Age</i> [???] by Dr. Katie Davis and the University of Washington <br>
 [clip from Lecture 8 -  7:23 - 8:08]</p> 

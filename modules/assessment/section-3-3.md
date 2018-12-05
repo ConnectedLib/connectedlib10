@@ -54,3 +54,16 @@ All evaluations answer the same three fundamental questions, according to the <a
   <tr><td>Summative evaluation</td><td>Focuses on conditions at the end of the program and is an evaluation of the entire process. It may report results from earlier formative evaluations as well. </td><td>Did participants learn what and as much as we wanted?<br><br>What was the value of the partnership?</td></tr> 
 
 </table>
+<br>
+
+#### Footnotes:
+
+<a name="fn9">9</a>:  -- http://search.credoreference.com/content/entry/sageeval/evaluation_use/
+<br> 
+<a name="fn10">10</a>:  --Bonney, R., Ellenbogen, K., Goodyear, L., & Hellenga, R. (Eds.). (2001). Principal investigator’s guide: Managing evaluation in informal STEM education projects. Washington, D.C.: Center for Advancement of Informal Science Education. Retrieved from http://www.informalscience.org/evaluation/pi-guide (p13)
+<br> 
+<a name="fn11">11</a>:  -- PI Guide pg. 51
+<br> 
+<a name="fn12">12</a>:  -- Bonney, R., Ellenbogen, K., Goodyear, L., & Hellenga, R. (Eds.). (2001). Principal investigator’s guide: Managing evaluation in informal STEM education projects. Washington, D.C.: Center for Advancement of Informal Science Education. Retrieved from http://www.informalscience.org/evaluation/pi-guide (p16).
+<br> 
+<a name="fn13">13</a>:  -- Westat, J. F. (2010). The 2010 user-friendly handbook for project evaluation. Washington, D.C.: National Science Foundation. Retrieved from http://www.informalscience.org/sites/default/files/TheUserFriendlyGuide.pdf pp8-9

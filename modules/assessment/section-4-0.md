@@ -26,74 +26,9 @@ An evaluation is only as good as it is useful—and actually used! Presenting re
 
 The point of evaluation is to obtain information that can be used constructively moving forward, so be honest. If something was less than successful, don’t try to sweep it under the rug—figure out why and what you or someone else can do about it next time. 
 
-### Communicating results 
-
-#### The evaluation report 
-
-The evaluation report will mirror the evaluation plan to some extent. Your report should include:  
-
-- An executive summary 
-- A description of the project 
-- The purpose of the evaluation 
-- A description of your evaluation questions 
-- Descriptions of the evaluation activities, including participants and data collection methods 
-- How the data was analyzed 
-- Results of the analysis 
-- Recommendations indicated by the results (see Section X) 
-
-#### Other ways to communicate results 
-
-There are many other ways you can share your evaluation results to interested audiences.  
-
-- **Professional gatherings**. Did you learn something unexpected from your program? Was it a spectacular success (or a spectacular failure)? You can share your findings at a professional conference. Even a presentation at a small, local gathering can be a great avenue to communicate your work.   
-- **Community events**. Discussing the impact of your library at community events can help you find potential partners and allies. 
-- **Social media**. The library’s social media can be used to communicate results to the community, particularly if you have photos or videos to share. It can also be used to share information with other professionals.  
-- **Promotional materials**. If you are evaluating an ongoing program, share your results in the marketing materials you use for the program. They can also be used in library-wide promotional materials. Posters, particularly in the teen space, can be useful. 
-- **Displays**. If your participants created things during the program, put them on display in the library. Portfolios (physical or digital) can be used to display the creative works of one learner or a group of them. They can be accompanied by text that helps tell the story and answer the evaluation question.  
-- **Case studies** tell a story of one person, event, activity, etc. in a narrative format.  
-
-Remember to tailor your language and presentation to your audience. Community members, for instance, won’t all be familiar with “jargony” library or educational terms.
 
 
-### Using the results 
-
-At the beginning of the evaluation process, you had a reason for conducting an evaluation. Now that you’ve completed that effort, it’s time to use what you’ve discovered. Your evaluation report will likely include some recommendations based on the findings and your original questions and purpose for the evaluation. The utility of your work doesn’t have to stop there, however—there are probably lessons learned that will be useful in other ways.  
-
-#### Recommendations 
-
-At least some of your recommendations should address your evaluation questions. But you may also have uncovered unexpected results that lead to recommendations as well. These should also be included.  
-
-State the recommendations clearly, and link them to the evidence you reported earlier in the evaluation report. Some of your recommendations might involve: 
-
-- Offering the same program to a new audience 
-- Putting more resources into the program (staff, money, tools, research) 
-- Changing communication or marketing strategies 
-- Addressing problems in the program (with or without specific strategies to do so, depending on the information on hand) 
-
-#### Moving forward 
-
-Don’t let the hard work you’ve done evaluating and assessing your initiative gather dust after the final report is finished.  
-- Did you learn anything that can be put to use in another initiative?  
-- Did you learn anything that indicates a larger or more systemic change needs to happen in the library?  
-- If the initiative is ongoing, how will you continue assessing or evaluating it moving forward? 
-
- <div class="explanatory">  
-
-  <p><span class="box-title">ADDITIONAL RESOURCES</span></p> 
-
-<ul><li>The <a href="http://diytoolkit.org/tools/learning-loop/">Learning Loop Tool</a> from the <a href="http://diytoolkit.org/tools/learning-loop/">DIY Toolkit</a> can help you use lessons learned from the past when creating a new initiative.</li></ul> 
-
-  </div>
-
-<br> 
-
-### Section 5 Activities 
-
-5A. Evaluation and assessment KWL
-
-
-<br> 
-<br> 
+#### Footnotes:
 
 <a name="fn17">17</a>:  -- W. K. Kellogg Foundation. (2004). W. K. Kellogg Foundation evaluation handbook. Battle Creek, MI: W. K. Kellogg Foundation. Retrieved from https://dmlcommons.net/wp-content/uploads/2015/12/Kellog-2006.pdf, p. 3
 <br> 

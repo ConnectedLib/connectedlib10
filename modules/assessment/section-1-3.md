@@ -67,7 +67,7 @@ By the end of this module, you will feel confident about evaluating and assessin
 
 1B. Evaluation project 
 
-<br>
-<br>
+
+
 #### Footnotes:
 <a name="fn2">2</a>:  -- https://youtu.be/u6rguxNk8kY 4:30

@@ -7,6 +7,8 @@ section: 6. Continuing Forward
 subsection: six-zero
 ---
 
+## Learning Outcomes For This Section
+
 **After completing this section, you will be able to:**
 <ul class="fancy">
 	<li>Address and troubleshoot capacity challenges</li>

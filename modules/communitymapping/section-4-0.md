@@ -36,8 +36,9 @@ Now that you have a clear picture of the people and assets in your community, wh
 <p>Although we’ve laid out a linear set of steps for a community mapping project, you’ll never be “done” learning about your community. Even within a single mapping effort, you will probably find yourself going back and forth among the concepts covered in other modules—like capacity, or partnerships—and you probably won’t complete steps 1, 2, and 3 as discrete steps. You should continually reference and update your community map as you develop connected learning programs and services for your teens. 
 </p>
   </div>
+<br>
 
-
+#### Footnotes:
 
 <a name="fn11">11</a>:  --CSV Consulting. (2006). Community engagement in public libraries: A report on current practice and future developments. London, UK: Museums Libraries Archives Partnership. Retrieved from http://webarchive.nationalarchives.gov.uk/20080727054209/http://www.mla.gov.uk/resources/assets//C/community_engagement_report_9654.pdf
 <br>

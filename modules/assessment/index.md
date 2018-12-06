@@ -16,6 +16,7 @@ subsection: overview
 <p class="summary">Are your learning initiatives accomplishing what you want? What do you want to be able to say about what participants learned? How would you find out what they learned? In this module, you will discover how to assess learning and evaluate connected learning initiatives.</p>
 
 ### Learning Objectives For This Module
+
 **After completing the Assessment and Evaluation module, you will be able to…**
 <ul class="fancy">
 	<li>Describe evaluation and assessment (<a href="{{site.url}}{{site.baseurl}}/assessment/section-1-0.md">Section 1: Introduction</a>).</li>

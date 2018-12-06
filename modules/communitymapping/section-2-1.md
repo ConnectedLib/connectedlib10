@@ -30,9 +30,9 @@ Watch as Cormac Russell explains why it’s important to focus on the strengths 
 </ol>
 <p>For more about each principle, see pages 114-115 of the <a href="http://www.nurturedevelopment.org/wp-content/uploads/2016/01/Asset-Mapping-CCAMP_System_Handbook.pdf">CCAMP System Handbook</a>.</p>
   </div>
-
+<br>
 <div class="explanatory">
   <p><span class="box-title">STONE SOUP</span></p>
-  <iframe width="560" height="315" src="https://youtu.be/2X295Nnagvw" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+  <span><a href="https://youtu.be/2X295Nnagvw"><img src="https://img.youtube.com/vi/2X295Nnagvw/0.jpg"/></a></span>
   <p>Ryan and Bourke (2008, p143) compare community assets to the ingredients of a “stone soup.” In isolation, an individual or organization might not think their “gifts” amount to much. But in combination, an entire community working together can produce something greater than the sum of its parts.</p>
 </div>

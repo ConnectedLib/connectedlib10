@@ -7,8 +7,6 @@ section: 2. Benefits of Mentoring
 subsection: two-two
 ---
 
-#### Section 2. References
-
 Braun, L. and Visser, M. (2017). Ready to code connecting youth to CS opportunity through Libraries 
 
 Campbell, C., Haines, C., Koester, A., & Stoltz, D. (2015). Media Mentorship in Libraries Serving Youth. American Library Association. 

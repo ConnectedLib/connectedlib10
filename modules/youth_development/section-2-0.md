@@ -7,8 +7,6 @@ section: 2. Developing an Identity
 subsection: two-zero
 ---
 
-In this introduction, you will learn what mentoring is and how it can support connected learning in the library.
-
 ## Learning Outcomes For This Section
 
 **After completing Section 2: Developing an Identity, you will be able to...**

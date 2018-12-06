@@ -23,6 +23,7 @@ There are many ways that community partnerships can benefit libraries. Partners 
 <tr><th style="background-color:#9982AB" width="30%">PARTNERS CAN PROVIDE MATERIAL SUPPORT</tH><td>Simply donating money or materials in return for a public “thank you” from the library is an easy entry point to partnership for many organizations, particularly local businesses.<br><a href="">CASE STUDY: PARTNERING WITH LOCAL BUSINESSES</a></td></tr>
 </table>
 
+#### Footnotes:
 
 <a name="fn5">5</a>:  --Turner, Ali. “Bring Your Dreams to the Library.” Young Adult Library Services, 2013. http://leonline.com/yals/12n1_fall2013.pdf.
 <br>

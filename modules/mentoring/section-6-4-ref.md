@@ -1,10 +1,10 @@
 ---
 layout: module
-title: 6.2 Section 6 References
+title: 6.4 Section 6 References
 module_name: mentoring
 module_full_name: Mentoring
 section: 6. Mentoring Challenges
-subsection: six-two
+subsection: six-four
 ---
 
 Bell, Stephen. (2013) The Next Generation May Not Want Your Mentoring | Leading from the Library. Library Journal. http://lj.libraryjournal.com/2013/04/opinion/leading-from-the-library/the-next-generation-may-not-want-your-mentoring-leading-from-the-library/#_ 

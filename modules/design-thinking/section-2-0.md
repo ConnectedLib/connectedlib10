@@ -6,6 +6,7 @@ module_full_name: Design Thinking
 section: 2. Exploring a Design Challenge
 subsection: two-zero
 ---
+
 This section provides an introduction to the basic principles of design thinking.
 
 ## Learning Outcomes For This Section

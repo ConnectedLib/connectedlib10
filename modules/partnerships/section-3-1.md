@@ -3,7 +3,7 @@ layout: module
 title: 3.1 Informal Learning Institutions
 module_name: partnerships
 module_full_name: Community Partnerships
-section: 3. What is a Community Partnership
+section: 3. Types of Partners
 subsection: three-one
 ---
 
@@ -13,17 +13,17 @@ subsection: three-one
 Libraries are centers for informal learning, so other informal learning institutions—museums, science centers, archives, botanical gardens, and more—make natural partners. These organizations  often share a library’s mission to empower the public through knowledge and learning. 
 
 <table> 
-<tr bgcolor="#000000"><th colspan = "2">OPPORTUNITIES</th></tr> 
-<tr><th bgcolor="#E8B2AB">SIMILAR PROGRAMS AND GOALS</th><td>Since informal learning institutions often share similar missions, the programs they develop and they goals they set are often similar as well, making collaboration easier.<sup>17,18</sup></td></tr> 
-<tr><th bgcolor="#CCEDC3">OUTREACH STAFF</th><td>For smaller initiatives, possibly ones that can be pilot cases for larger collaborations, most of these institutions will have someone who focuses on outreach or even specifically on youth outreach—look for words like “education” or “public programs” in job titles or department names to help identify the right person to approach.<sup>19</sup></td></tr>
-<tr><th bgcolor="#D8C5E1">NEW AUDIENCES</th><td>Larger informal learning institutions are less likely to need or want the library to bring programming to their space, since they have probably developed their own programming, but may value the opportunity to reach new audiences through the library’s programing and marketing, or by distributing free or discount passes through the library.<sup>20</sup></td></tr>
+<tr style="background-color:#000000"><th style="color: white;" colspan = "2">OPPORTUNITIES</th></tr> 
+<tr><th style="background-color:#E8B2AB">SIMILAR PROGRAMS AND GOALS</th><td>Since informal learning institutions often share similar missions, the programs they develop and they goals they set are often similar as well, making collaboration easier.<sup>17,18</sup></td></tr> 
+<tr><th style="background-color:#CCEDC3">OUTREACH STAFF</th><td>For smaller initiatives, possibly ones that can be pilot cases for larger collaborations, most of these institutions will have someone who focuses on outreach or even specifically on youth outreach—look for words like “education” or “public programs” in job titles or department names to help identify the right person to approach.<sup>19</sup></td></tr>
+<tr><th style="background-color:#D8C5E1">NEW AUDIENCES</th><td>Larger informal learning institutions are less likely to need or want the library to bring programming to their space, since they have probably developed their own programming, but may value the opportunity to reach new audiences through the library’s programing and marketing, or by distributing free or discount passes through the library.<sup>20</sup></td></tr>
 </table>
 
 
 <table> 
-<tr bgcolor="#000000"><th colspan = "2">CHALLENGES</th></tr> 
+<tr style="background-color:#000000"><th style="color: white;" colspan = "2">CHALLENGES</th></tr> 
 <tr><th bgcolor="#cc3300">SIMILAR RESTRAINTS</th><td>Informal learning institutions and libraries frequently face similar staff, space, and budget restrictions, but they’ve also found creative ways to work around those challenges.<sup>21</sup></td></tr> 
-<tr><th bgcolor="#F6DEB7">MANAGEMENT APPROVAL</th><td>Establishing an official long-term partnership with an informal learning institution will probably need to involve the higher levels of management from both organizations.</td></tr>
+<tr><th style="background-color:#F6DEB7">MANAGEMENT APPROVAL</th><td>Establishing an official long-term partnership with an informal learning institution will probably need to involve the higher levels of management from both organizations.</td></tr>
 </table>
 
 <div class="case_study_box"> 
@@ -42,11 +42,12 @@ Libraries are centers for informal learning, so other informal learning institut
   <li><a href="http://www.nisenet.org/catalog/guide-building-partnerships-between-science-museums-and-university-based-research-centers">A Guide to Building Partnerships Between Science Museums and University-Based Research Centers</a> provides insight not only into partnering with universities, but also into partnerships from the perspective of science centers and museums.</li>
   <li>Find case studies of several partnerships between museums, libraries, and public broadcasters in <a href="https://www.imls.gov/publications/partnership-nation-learners-joining-forces-creating-value">Partnership for a Nation of Learners: Joining Forces, Creating Value.</a></li>
 </ul>
-
 </div>
+<br>
+<br>
 
-<br>
-<br>
+#### Footnotes:
+
 <a name="fn17">17</a>:  --Educopia Institute. Spanning Our Field Boundaries: Mindfully Managing LAM Collaborations. Atlanta, GA: Educopia Institute, 2015. https://educopia.org/publications/spanning-our-field-boundaries-mindfully-managing-lam-collaborations. 
 <br> 
 <a name="fn18">18</a>:  --Twiggs, Korie, Christina Freitag, and Michelle Nichols. Partner with a Local Museum to Reach More Teens! Adobe Connect recording. YeLL! YALSA e-Learning Library. Chicago, IL: YALSA, 2016. http://www.ala.org/yalsa/yalsamemonly/webinars/webinars. (Requires YALSA membership.)

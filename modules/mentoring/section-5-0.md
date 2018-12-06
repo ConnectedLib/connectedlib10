@@ -23,13 +23,13 @@ Some communities have coalitions of youth-serving organizations that can either 
 
 A few organizations that can help identify adult mentors and volunteers include: 
 
-- <a href="https://www.nationalservice.gov/programs/americorps/americorpsvista" target="_blank">AmeriCorps Vista</a> 
-- <a href="http://www.mentoring.org/" target="_blank">National Mentoring Partnership</a> 
-- <a href="https://www.ncwit.org/" target="_blank">National Center for Women & Information Technology</a> 
-- <a href="http://www.nationalmentoringresourcecenter.org/" target="_blank">National Mentoring Center</a> 
-- <a href="http://www.tutormentorexchange.net/" target="_blank">Tutor/Mentor Institute</a> 
-- <a href="http://mentoringcentral.net/" target="_blank">Mentoring Central</a> 
-- <a href="https://www.millionwomenmentors.org/" target="_blank">Million Women Mentors</a> 
+- [AmeriCorps Vista](https://www.nationalservice.gov/programs/americorps/americorpsvista) 
+- [National Mentoring Partnership](http://www.mentoring.org/)
+- [National Center for Women & Information Technology](https://www.ncwit.org/)
+- [National Mentoring Center](http://www.nationalmentoringresourcecenter.org/)
+- [Tutor/Mentor Institute](http://www.tutormentorexchange.net/)
+- [Mentoring Central](http://mentoringcentral.net/)
+- [Million Women Mentors](https://www.millionwomenmentors.org/)
 
 For example, INTS-059 used AmeriCorps Vista. Through their mentor coordinator, she gained assistance in identifying volunteers. Specifically, they helped her: 
 

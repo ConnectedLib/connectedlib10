@@ -9,7 +9,7 @@ subsection: five-one
 
 In our discussions with youth librarians from across the U.S., we discovered the variety of ways that they connect youth with adults mentors, such as: 
 
-#### Opportunities for youth to explore new interests 
+### Opportunities for youth to explore new interests 
 
 A youth librarian at a Northwestern library describes how mentors are a central element for encouraging youth to learn something new: 
 
@@ -17,7 +17,7 @@ A youth librarian at a Northwestern library describes how mentors are a central 
 
 Their current workshops center on such areas as fashion and the basics of sewing, music and new media entrepreneurship, and science exploration by way of creating a science-related YouTube series. 
 
-#### Connecting youth with experts in the community 
+### Connecting youth with experts in the community 
 
 INTS-040 found that her local community was “...rich in terms of artists, writers, and scientists.” She brought youth and adults together “...so that kids can meet adults that they may not meet at school or through their families.” In one example, she says: 
 
@@ -25,7 +25,7 @@ INTS-040 found that her local community was “...rich in terms of artists, writ
 
 Youth librarians can look into programs sponsored by such groups as the American Association of Retired Persons to link youths with seniors for one-to-one and small-group relationships (Quinn, 1999). 
 
-#### Tapping into local industries 
+### Tapping into local industries 
 
 Youth librarians have tapped into local businesses and industries to provide practical mentoring or career development experiences for youth. INTS-065 related his best practices for finding mentoring opportunities by:“....examining  your local workforce, and then try to find a newsworthy, best practice program that is hands-on, self-directed, project-based, and fun…” Inspired by the local music and entertainment scene in his city, he formed a popular, mentor-led music program where youth develop such skills remixing digital content and using networked technologies to share their music creations. 
 
@@ -35,13 +35,13 @@ INTM-51 partnered with their local preservation and historical society in a prog
 
 Other partnerships have included connecting young people with mentors through informal learning institutions, local businesses,community groups, youth-serving organizations, and schools. [Link to Community Partnerships module] 
 
-#### Learning through intergenerational experiences. 
+### Learning through intergenerational experiences. 
 
 A community hacker meetup at [library] brings together people from “...a variety of educational backgrounds, ethnicities, ages, and careers to collaborate informally on personal projects”(Bilandzic, 2016; Hoffman et. al, 2016). Intergenerational games were also mentioned as one way to provide mentoring and encourage youth and adults to engage in fun learning activities. 
 
 Through a local partnership, INTS-013  partnered with a nonprofit that “...brings adult chess teachers into the library and organizes chess tournaments.”  In addition, she works with the Chess Club at the local high school and works with teen volunteers who come into the library to teach children how to play the game. 
 
-#### Supporting targeted youth populations. 
+### Supporting targeted youth populations. 
 
 An ALA diversity award winner, Lori Wilcox, developed the "Male-2-Male Mentoring" program. In the program, African American men spoke to African American tweens and teens. The male mentors were policemen, firemen, and pastors. They discussed real world topics like financial literacy, the competitive work force, unemployment, and what to do when pulled over by the police. 
 

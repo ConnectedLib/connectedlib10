@@ -10,7 +10,7 @@ subsection: three-zero
 
 **After completing this section, you will be able to:**
 <ul class="fancy">
-	<li>Self-assess your library or department’s capacity in each area</li>
+<li>Self-assess your library or department’s capacity in each area</li>
   <li>Create your own list of assets and needs</li>
 </ul>
 

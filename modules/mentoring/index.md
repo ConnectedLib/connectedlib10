@@ -16,6 +16,7 @@ subsection: overview
 <p class="summary">In this module, you will learn best practices for encouraging mentoring relationships (librarians as mentors, youth mentors, adult and community mentors) within a youth librarian context. </p>
 
 ### Learning Objectives For This Module
+
 **After completing the Mentoring module, you will be able to…**
 <ul class="fancy">
 	<li>Describe the core elements of mentoring  (<a href="{{site.url}}{{site.baseurl}}/partnerships/section-1-0.md">Section 1: Introduction</a>).</li>

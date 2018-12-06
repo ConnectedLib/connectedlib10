@@ -7,6 +7,7 @@ section: 3. Self-Assessing Capacity
 subsection: three-zero
 ---
 
+## Learning Outcomes For This Section
 
 **After completing this section, you will be able to:**
 <ul class="fancy">

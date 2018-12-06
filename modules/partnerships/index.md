@@ -17,6 +17,7 @@ subsection: overview
 
 ### Learning Objectives For This Module
 
+**After completing the Community Partnerships module, you will be able to…**
 <ul class="fancy">
 	<li>Describe how an effective community partnership can support connected learning (<a href="{{site.url}}{{site.baseurl}}/partnerships/section-1-0.md">Section 1: Introduction</a>).</li>
 	<li>Identify the benefits of a partnership to both the library and the partner (<a href="{{site.url}}{{site.baseurl}}/partnerships/section-2-0/">Section 2: What is a Comunity Partnership?</a>).</li>

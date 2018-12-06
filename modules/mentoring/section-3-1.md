@@ -1,9 +1,9 @@
 ---
 layout: module
-title: 3.1 Designing a mentorship-focused program: A step by step approach
+title: 3.1 Designing a Mentorship-focused Program: A Step by Step Approach
 module_name: mentoring
 module_full_name: Mentoring
-section: 3. Developing Menors and Mentorship Programs
+section: 3. Developing Mentors and Mentorship Programs
 subsection: three-one
 ---
 

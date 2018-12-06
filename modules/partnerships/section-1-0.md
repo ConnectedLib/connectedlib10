@@ -26,13 +26,13 @@ In order to prepare youth with the 21st-century skills they need in today’s in
 
 
 <table>
-<tr bgcolor="#487EE8"><th colspan = "2">Connected Learning and Community Partnerships</th></tr>
-<tr bgcolor="#E8B2AB"><th>Multiple Pathways</th><td>Partners can help create connections between youth’s normal learning environments (home, school, and library) and “real world” spaces, opening up a more diverse set of possible experiences and directions for learners.</td></tr>
-  <tr bgcolor="#F6DEB7"><th>Opportunity Oriented</th><td>A partner can share expertise, provide mentorship, and offer real-world experience to youth that can help them achieve academically or prepare them to start a career.</td></tr>
-  <tr bgcolor="#FCFB9D"><th>Interest Driven</th><td>Partners can help youth learn more about areas of interest and even new career options related to those areas.</td></tr>
-<tr bgcolor="#CCEDC3"><th>Production Centered</th><td>By providing access to materials, equipment, or expertise that the library lacks, partners can expose youth to new creative experiences.</td></tr>
-<tr bgcolor="#BBD0F8"><th>Shared Purpose</th><td>Partners can give teens a chance to contribute to an effort bigger than the kinds of projects that are usually available to them. </td></tr>
-<tr bgcolor="#D8C5E1"><th>Peer Supported</th><td>Community groups can help bring new audiences to library programs, making new peer connections possible. </td></tr>
+<tr style="background-color:#487EE8"><th colspan = "2">Connected Learning and Community Partnerships</th></tr>
+<tr style="background-color:#E8B2AB"><th>Multiple Pathways</th><td>Partners can help create connections between youth’s normal learning environments (home, school, and library) and “real world” spaces, opening up a more diverse set of possible experiences and directions for learners.</td></tr>
+  <tr style="background-color:#F6DEB7"><th>Opportunity Oriented</th><td>A partner can share expertise, provide mentorship, and offer real-world experience to youth that can help them achieve academically or prepare them to start a career.</td></tr>
+  <tr style="background-color:#FCFB9D"><th>Interest Driven</th><td>Partners can help youth learn more about areas of interest and even new career options related to those areas.</td></tr>
+<tr style="background-color:#CCEDC3"><th>Production Centered</th><td>By providing access to materials, equipment, or expertise that the library lacks, partners can expose youth to new creative experiences.</td></tr>
+<tr style="background-color:#BBD0F8"><th>Shared Purpose</th><td>Partners can give teens a chance to contribute to an effort bigger than the kinds of projects that are usually available to them. </td></tr>
+<tr style="background-color:#D8C5E1"><th>Peer Supported</th><td>Community groups can help bring new audiences to library programs, making new peer connections possible. </td></tr>
 </table>
 
 <div class="resources">
@@ -48,7 +48,7 @@ In order to prepare youth with the 21st-century skills they need in today’s in
   </ul>
 </div>
 
-## SECTION 1 ACTIVITIES 
+### SECTION 1 ACTIVITIES 
 
 - **REFLECT:** [Activity 1.A, Community Partnerships KWL](https://github.com/ConnectedLib/Connected-Learning-Modules/edit/master/modules/partnerships/appendix1.md) - Complete this worksheet by first describing your experience (if any) with forming or maintaining a community partnership. Then create a list of what you already know (the K in KWL) about community partnerships. In the second column, write down what you want (W) to learn in this module. You’ll fill out the last column, what you learned (L) when you have completed this module.  
 
@@ -61,6 +61,9 @@ In order to prepare youth with the 21st-century skills they need in today’s in
     - A professional photographer mentors teens in the library in her spare time [production centered] 
     - The owner of a local game store helps organize video game tournaments at the library [shared purpose; interest driven; peer supported] 
     - A coffee shop near the high school reserves space for an after-school book discussion group led by a librarian to meet once a week [peer supported] 
+
+
+#### Footnotes:
 
 <a name="fn1">1</a>:  --Braun, Linda W., Maureen L. Hartman, Sandra Hughes-Hassell, Kafi Kumasi, and Beth Yoke. “The Future of Library Services for and with Teens: A Call to Action.” Chicago, IL: YALSA, 2014, 8. 
 <br>

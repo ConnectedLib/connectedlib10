@@ -4,7 +4,7 @@ title: 2.3 Facilitating a Design Challenge Through Studio Experience
 module_name: design-thinking
 module_full_name: Design Thinking
 section: 2. Exploring a Design Challenge
-subsection: two-two
+subsection: two-three
 ---
 
 Many youth librarians have provided their community with studio experience, workshops, or makerspace experiences centered around interest-driven themes, or production-centered activities. These sessions can be open-ended or more structured depending on the design challenge or activity. Project or studio experience should focus on participants “doing or creating” with youth librarians playing the role of a facilitator.  

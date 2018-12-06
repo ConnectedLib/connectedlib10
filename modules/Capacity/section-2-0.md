@@ -7,6 +7,7 @@ section: 2. Before You Start
 subsection: two-zero
 ---
 
+## Learning Outcomes For This Section
 
 **After completing this section, you will be able to:**
 <ul class="fancy">

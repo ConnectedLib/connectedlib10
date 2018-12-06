@@ -1,13 +1,11 @@
 ---
 layout: module
-title: 1.2 Overview
+title: 1.2 Mentoring and Connected Learning
 module_name: mentoring
 module_full_name: Mentoring
 section: 1. Introduction
 subsection: one-two
 ---
-
-### Mentoring and Connected Learning 
 
 Where does mentoring fit within Connected Learning? Mentoring within libraries helps foster the following CL principles: 
 

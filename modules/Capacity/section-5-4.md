@@ -20,7 +20,7 @@ While it would be great if library workers could be in many places at once, ther
 
  
 
-The ALA has a few great resources on volunteers in your library, including tips on some best practices: 
+The ALA has a few great resources on volunteers in your library, including [tips](http://wikis.ala.org/professionaltips/index.php?title=Volunteers) on some best practices: 
 1. Make sure the volunteer positions do not replace established staff positions
 2. Create a volunteer recognition program
 3. Develop and implement regular volunteer training programs

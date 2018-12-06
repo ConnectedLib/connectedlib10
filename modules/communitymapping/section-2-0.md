@@ -10,7 +10,8 @@ subsection: two-zero
 This section will help you learn to recognize the assets in your community. 
 
 ## Learning Outcomes For This Section
-**After completing Section 2: Community Assets, you will be able to...
+
+**After completing Section 2: Community Assets, you will be able to...**
 <ul class="fancy">
   <li>Describe asset-based community development</li>
    <li>Recognize the assets in your community</li>

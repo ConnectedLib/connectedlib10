@@ -7,6 +7,7 @@ section: 4. Determining Community Need
 subsection: four-zero
 ---
 
+## Learning Outcomes For This Section
 
 **After completing this section, you will be able to:**
 <ul class="fancy">

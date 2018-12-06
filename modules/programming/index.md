@@ -18,6 +18,7 @@ subsection: overview
 
 ### Learning Objectives For This Module
 
+**After completing the Connected Learning Programs module, you will be able to…**
 <ul class="fancy">
 	<li>Explain how connected learning can help you create a 21st century library (<a href="section-1.html">Section 1: Introduction</a>).</li>
 	<li>Describe the process of creating a connected learning library program (<a href="section-2.html">Section 2: Program Design</a>).</li>

@@ -9,7 +9,7 @@ subsection: three-three
 
 This section discusses learning about individuals, associations, and institutions in your community. 
 
-**Learning About Your Youth Patrons** 
+### Learning About Your Youth Patrons
 
 You may already be pretty familiar with the young people who visit your library regularly. But are they representative of the community at large? Compare your community profile with the information about your “regulars.” Are there demographic groups that aren’t being served or aren’t represented?  
 
@@ -28,7 +28,7 @@ Some of these resources were found through Know your <a href="http://www.slj.com
 
 As youth librarians, you are more likely than many people to recognize that youth have gifts and capacities to help their communities. Teens may know their communities as well as or better than adults, bring fresh ideas and perspectives to the table, and have connections to schools, families, and other teens. Youth may be seen as more credible than adults to their peers.<sup>[5](#fn5)</sup> Building Communities from the Inside Out provides many suggestions as to how youth can build productive connections with associations, organizations, and other individuals (Chapter 1, pages 33-44).
 
-**Learning about other individuals**
+### Learning about other individuals
 
 >“Each time a person uses his or her capacity, the community is stronger and the person more powerful. That is why strong communities are basically places where the capacities of local residents are identified, valued, and used.” -- Kretzmann, J. P., & McKnight, J. L. (1993). Building from the inside out: A path toward finding and mobilizing a community’s assets. Chicago, IL: ACTA Publications. P. 13. 
 
@@ -58,7 +58,7 @@ Kretzmann, J. P., & McKnight, J. L. (1993). Building from the inside out: A path
 </div>
 <br>
 
-**Associations**
+### Associations
 
 Associations are groups of community members who gather together voluntarily around a common interest or goal. Associations are key to getting the community involved in your teen services.  
 
@@ -97,7 +97,7 @@ Veteran groups<br>
  <p>Kretzmann, J. P., & McKnight, J. L. (1993). Building from the inside out: A path toward finding and mobilizing a community’s assets. Chicago, IL: ACTA Publications. p110</p>
 </div>
 
-**Institutions** 
+### Institutions 
 
 Institutions (as defined by ABCD) are groups of people brought together professionally -- such as business, schools, government agencies. They often have many resources that can be shared with the community.  
 
@@ -106,7 +106,7 @@ Institutions (as defined by ABCD) are groups of people brought together professi
 - An institution’s hiring practices can be one of its assets<sup>[6](#fn6)</sup>.
 
 
-**Methods for learning more**  
+### Methods for learning more  
 
 Depending on your situation, you can use surveys or focus groups to learn more about your community’s assets. You can also use the methods described in the Capacity module (interviews and town halls), or any combination of methods.
 

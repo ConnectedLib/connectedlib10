@@ -1,4 +1,11 @@
-### Dealing with the impermanence of mentoring relationships 
+---
+layout: module
+title: 6.3 Dealing with the Impermanence of Mentoring Relationships 
+module_name: mentoring
+module_full_name: Mentoring
+section: 6. Mentoring Challenges
+subsection: six-three
+---
 
 A process for the closure of longer term mentoring relationships may be evaluated early on in the planning. Certain youth may be affected by an abrupt closure (DuBois & Karcher, 2013). Here are a few ways to prepare for and close out a mentoring experience: 
 

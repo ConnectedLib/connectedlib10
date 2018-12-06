@@ -17,6 +17,7 @@ subsection: overview
 
 ### Learning Objectives For This Module
 
+**After completing the Community Mapping module, you will be able to...**
 <ul class="fancy">
 	<li>Understand what community mapping is and how it can benefit your library (<a href="https://github.com/ConnectedLib/Connected-Learning-Modules/blob/master/modules/communitymapping/section-1-0.md">Section 1: Introduction</a>).</li>
 	<li>Recognize the assets in your community (<a href="{{site.url}}{{site.baseurl}}/introduction/section-2-0.md">Section 2: Community Assets</a>).</li>

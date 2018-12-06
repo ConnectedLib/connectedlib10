@@ -148,6 +148,7 @@ In addition, consider the following sources when you are identifying assets:
   <br>
 
 
+#### Footnotes:
 
 <a name="fn5">5</a>:  --(Kretzmann & McKnight, 1993, p.30-31)
 <br>

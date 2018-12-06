@@ -10,9 +10,10 @@ subsection: four-zero
 
 Now that you’ve completed your community map, you’re done--right? Not so fast! You’ve done a lot of work and now it’s time to use what you’ve learned.
 
-### Learning Outcomes For This Section
+## Learning Outcomes For This Section
+
+**After completing Section 4: Now What?, you will be able to...**
 <ul class="fancy">
-  <b>After completing Section 4: Now What? you will be able to:</b>
 <li>Understand what to do with a completed community asset map</li>
 </ul>
 

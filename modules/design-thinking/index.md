@@ -17,6 +17,7 @@ subsection: overview
 
 ### Learning Objectives For This Module
 
+**After completing the Design Thinking module, you will be able to…**
 <ul class="fancy">
 	<li>Identify the design thinking method and mindset (<a href="{{site.url}}{{site.baseurl}}/design-thinking/section-1-0.md">Section 1: Introduction</a>).</li>
 	<li>Create and implement a design challenge (<a href="{{site.url}}{{site.baseurl}}/design-thinking/section-2-0/">Section 2: Exploring a Design Challenge</a>).</li>

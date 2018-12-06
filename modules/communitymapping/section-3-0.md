@@ -8,7 +8,8 @@ subsection: three-zero
 ---
 
 ## Learning Outcomes For This Section
-**After completing Section 3: The Community Mapping Process, you will be able to...
+
+**After completing Section 3: The Community Mapping Process, you will be able to...**
 <ul class="fancy">
   <li>Describe what you need to do before starting your community map</li>
    <li>Assemble a team to help you create a community map</li>

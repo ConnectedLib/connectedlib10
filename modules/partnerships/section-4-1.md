@@ -90,19 +90,19 @@ Depending on the size and formality of your project, a written agreement, contra
 #### Footnotes:
 
 <a name="fn31">31</a>:  -- Cassell, Kay Ann, and Kathleen Weibel. “Celebrating Women’s History Month at Your Library.” American Libraries, March 2010. 
-<br>  
+<br>
 <a name="fn32">32</a>:  -- McCarthy, Catherine, and Brad Herring. “Museum & Community Partnerships: Collaboration Guide for Museums Working with Community Youth-Serving Organizations.” NISE Network, 2015. http://www.nisenet.org/sites/default/files/NISE%20Network%20Collaboration%20Guide%2011-20-2015%20FINAL.pdf.  
 <br>
 <a name="fn33">33</a>:  -- Coalition to Advance Learning in Archives, Libraries and Museums. “Best Practices in Collaboration.” Coalition to Advance Learning in Archives, Libraries and Museums, 2016. http://www.coalitiontoadvancelearning.org/why-collaborate/best-practices-in-collaboration/.
 <br>
 <a name="fn34">34</a>:  -- Strock, Adrienne L. “Reaching beyond Library Walls: Strengthening Services and Opportunities through Partnerships and Collaborations.” Young Adult Library Services, 2014. https://www.questia.com/library/journal/1G1-389260588/reaching-beyond-library-walls-strengthening-services.
-<br>  
+<br>
 <a name="fn35">35</a>:  -- Twiggs, Korie, Christina Freitag, and Michelle Nichols. Partner with a Local Museum to Reach More Teens! Adobe Connect recording. YeLL! YALSA e-Learning Library. Chicago, IL: YALSA, 2016. http://www.ala.org/yalsa/yalsamemonly/webinars/webinars. 
 <br>
 <a name="fn36">36</a>:  -- Cassell, Kay Ann, and Kathleen Weibel. “Celebrating Women’s History Month at Your Library.” American Libraries, March 2010.
 <br>
 <a name="fn37">37</a>:  --  Rutherford, Dawn. “Building Strong Community Partnerships: Sno-Isle Libraries and the Teen Project.” Young Adult Library Services 2010, no. Fall (2010): 23–25. https://www.questia.com/library/journal/1G1-240588385/building-strong-community-partnerships-sno-isle-libraries.
-<br>  
+<br>
 <a name="fn38">38</a>:  --  American Library Association. “Elevator Speech.” Text. Everyday Advocacy, April 28, 2013. http://www.ala.org/everyday-advocacy/speak-out/elevator-speech.
 <br>
 <a name="fn39">39</a>:  -- Baxter, Kathleen, and Susan M. Haggberg. “Ladies Who Lunch.” School Library Journal 46, no. 09 (September 2000): 33. http://search.ebscohost.com/login.aspx?direct=true&db=lls&AN=502853040&site=ehost-live.

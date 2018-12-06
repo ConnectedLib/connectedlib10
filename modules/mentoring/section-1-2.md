@@ -16,8 +16,10 @@ Where does mentoring fit within Connected Learning? Mentoring within libraries h
 
 From the Connected Learning Alliance, check out this video [8:33 min.] from filmmaker Nic Askew. The interview subject is Brother Mike, YouMedia Coordinator and Lead Mentor for the Digital Youth Network. The films asks:  
 
-Might we all have the opportunity to mentor another? 
+Might we all have the opportunity to mentor another?
+
 How powerful is a single moment of validation to a young imagination? 
+
 Might your influence travel further than you might imagine? 
 
 <div><a href="https://vimeo.com/43862075" target="_blank"><img src="https://github.com/ConnectedLib/Connected-Learning-Modules/blob/master/images/mentoring_section-1-0.jpg"></a></div>

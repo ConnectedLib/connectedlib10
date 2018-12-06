@@ -3,7 +3,7 @@ layout: module
 title: 3.4 Mentoring the Mentor
 module_name: mentoring
 module_full_name: Mentoring
-section: 3. Developing Menors and Mentorship Programs
+section: 3. Developing Mentors and Mentorship Programs
 subsection: three-four
 ---
 
@@ -22,4 +22,4 @@ Many library associations affiliated with ALA and YALSA also offer mentorship pr
 - Asian Pacific American Librarians Association. (Research more about their program)  
 - Chinese American Librarians Association 
 
-In addition, librarians we talked to discuss the informal mentoring that occurs when they network with other librarians. Likewise, social networking, such as creating a professional Facebook page or joining different Facebook groups can allow librarians to connect with others, discuss ideas in a group format, and meet other librarians. INTS-059 says: “I actually call people a lot and I text people and I follow people on their Instagrams. And then I actually like getting together with people in real life and having dinner…” Other librarians have also sought out mentors and connections with  those outside the library field, such as teachers, professionals in STEM fields, parents of tweens and teens, and faculty within library schools, who provide unique insight from other areas of expertise.
+In addition, librarians we talked to discuss the informal mentoring that occurs when they network with other librarians. Likewise, social networking, such as creating a professional Facebook page or joining different Facebook groups can allow librarians to connect with others, discuss ideas in a group format, and meet other librarians. INTS-059 says: “I actually call people a lot and I text people and I follow people on their Instagrams. And then I actually like getting together with people in real life and having dinner…” Other librarians have also sought out mentors and connections with those outside the library field, such as teachers, professionals in STEM fields, parents of tweens and teens, and faculty within library schools, who provide unique insight from other areas of expertise.

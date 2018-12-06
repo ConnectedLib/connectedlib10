@@ -11,7 +11,7 @@ In this section we will discuss what community mapping is and why it is importan
 
 ## Learning Outcomes For This Section
 
-**After completing the Community Mapping module, you will be able to...**
+**After completing Section 1. Introduction, you will be able to...**
 <ul class="fancy">
   <li>Explain what a community asset map is</li>
   <li>Describe why community mapping is valuable to your library</li>

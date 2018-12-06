@@ -24,7 +24,7 @@ Here is a quick and easy checklist you can follow when evaluating your library�
 
 Once you have a clear understanding of the spaces in your library, there are a variety of options for augmenting your library’s space capacity using community assets. These can include using outside community spaces for library programs and outreach, or having volunteers help you move heavy bookshelves or tables to reconfigure library spaces. 
 
-Library Journal has also <a href="https://lj.libraryjournal.com/2011/08/buildings/10-steps-to-a-better-library-interior-tips-that-dont-have-to-cost-a-lot-library-by-design/#_">published tips</a> on how to optimize library interiors, including: 
+Library Journal has also [published tips](https://lj.libraryjournal.com/2011/08/buildings/10-steps-to-a-better-library-interior-tips-that-dont-have-to-cost-a-lot-library-by-design/#_) on how to optimize library interiors, including: 
 1. See with your customer’s eyes
 2. Remove barriers
 3. Use less displays

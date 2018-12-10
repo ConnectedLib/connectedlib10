@@ -70,6 +70,6 @@ Implementation of the new design or service is the final step after the iteratio
 <br>
 </div>
 
-## SECTION 2 ACTIVITIES 
+## SECTION 3 ACTIVITIES 
 
 ### 3A. Imagine, ideate, iterate

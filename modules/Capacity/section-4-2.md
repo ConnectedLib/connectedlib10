@@ -23,13 +23,13 @@ When assessing community needs it is important to collect information from as ma
 <tr><td style="background-color:#F5A750" width="40%" valign="top"><b>Informal Interviews</b></td><td>Informal interviews are open-ended interviews that  do not require you to use a tape recorder. Because of this, they can be an accessible way to interact with your community in a non-intimidating manner. <br> 
 Much like “On the Street Interviews,” informal interviews can be performed in your library, outside in the community, at the grocery store... the opportunities are endless.<br>
 Step 1: 
-<ul><li>Prepare a few questions to ask ahead of time</ul></li>
+<ul><li>Prepare a few questions to ask ahead of time</li></ul>
 Step 2:  
-<ul><li>Memorize the essence of one or two questions (it does not have to be word for word)</ul></li>
+<ul><li>Memorize the essence of one or two questions (it does not have to be word for word)</li></ul>
 Step 3:  
-<ul><li>Ask these questions on the fly while in conversation with your community</ul></li>
+<ul><li>Ask these questions on the fly while in conversation with your community</li></ul>
 Step 4: 
-<ul><li>Write a summary of the conversation afterwards for future reference</ul></li></td></tr>
+<ul><li>Write a summary of the conversation afterwards for future reference</li></ul></td></tr>
 
 <tr><td style="background-color:#F3CC4D" width="40%" valign="top"><b>Town Halls</b></td><td>Town Halls are planned get togethers with your community where you discuss current issues, events, and other information. These are similar to focus groups, which we covered in <a href="{{site.url}}{{site.baseurl}}/communitymapping/index.md">Community Mapping.</a><br><br>
 Town Halls can be formal or  informal, and can be conducted simply as community “get togethers” with coffee, snacks, and a few questions asked for the group to answer after you’ve done some mingling or tackled other library business.<br><br>

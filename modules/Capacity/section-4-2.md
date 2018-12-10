@@ -21,7 +21,7 @@ When assessing community needs it is important to collect information from as ma
 
 <table>
 <tr><td style="background-color:#F5A750" width="40%" valign="top"><b>Informal Interviews</b></td><td>Informal interviews are open-ended interviews that  do not require you to use a tape recorder. Because of this, they can be an accessible way to interact with your community in a non-intimidating manner. <br> 
-Much like “On the Street Interviews,” informal interviews can be performed in your library, outside in the community, at    the grocery store... the opportunities are endless.<br>
+Much like “On the Street Interviews,” informal interviews can be performed in your library, outside in the community, at the grocery store... the opportunities are endless.<br>
 Step 1: 
 <ul><li>Prepare a few questions to ask ahead of time</ul></li>
 Step 2:  
@@ -41,8 +41,8 @@ Here is an example of how Anne Arundel County Public Library performed formal to
  <ol><li>"<b>Postcard Surveys</b>” where you send a postcard with close ended questions and community members can mark it and mail it back</li>  
 <li>Using the “<b>Grape Vine</b>” by asking a key member of a certain organization to ask their members a few questions and get back to you with their answers</li>
 <li><b>Observation</b>: attending community events, organizations, schools, and other locations where your community meets and simply observing. What are some issues being raised?</li>
-</ol></td></tr>
-</table>
+</ol></td></tr></table>
+<br>
 
 Once you have used one or more of these methods to collect information about your community and their needs, you can map these out visually. Here is an example using our favorite midsize library:
 

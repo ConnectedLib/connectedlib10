@@ -67,6 +67,7 @@ You may have noticed that this map lists the needs of community members in relat
   </div>
 <br>
 
-#### Footnotes:
 
+#### Footnotes:
+<br>
 <a name="fn1">1</a>:  -- Kretzmann, J. P., & McKnight, J. L. (1993). Building from the inside out: A path toward finding and mobilizing a community’s assets. Chicago, IL: ACTA Publications. P. 13.

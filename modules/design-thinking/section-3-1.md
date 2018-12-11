@@ -32,21 +32,23 @@ Here are few general tips for both formal or informal interviews:
 - **Encourage stories and anecdotes**. Questions for eliciting stories might be: “Tell me about a time when…” or  “What was your experience in integrating this technology?”  
 - **Attempt to interview people in the context and environment in which they live or work**. Write down notes about the surroundings and body language.
 
+<br>
 <div class="case_study_box">  
 <p><span class="box-title">INTERVIEWING TARGET COMMUNITIES IN ACTION: LEVERAGING COMMUNITY PARTNERSHIPS</span></p>
 <p>Vanessa, a youth librarian at a suburban, Southern library focuses on involving community stakeholders in the process to understand her community. She says that she brainstorms with teens first and then brings their ideas to other partners for advice. She offers: “....even having the teens talk to other people in the community about, "Hey, what do you see as a need?" And, "Is this a good idea? Do you think from your perspective as a program manager at a Boys and Girls Club that this will be something that teens you know would be interested in?"</p>  
 </div> 
-<br>
+
 
 ### Interviewing Experts  
 
 Interviewing experts is another way for both you and youth to become inspired by the experiences of others. You might think about interviewing someone with deep experience or knowledge in a relevant area of your design challenge. Or perhaps your youth community has a hobby or career interest in a local industry or profession. For example, if teens are interested in a cooking or food project, you could speak with a professional chef (Cooper-Wright, 2015). 
 
+<br>
 <div class="case_study_box">  
 <p><span class="box-title">INTERVIEWING EXPERTS IN ACTION: [Text Wrapping Break]CONFRONTING THE LACK OF DIVERSITY IN LITERATURE</span></p>
 <p>Teens at a suburban Pacific Northwest library with a large Asian population discovered a distinct issue with what they were reading for the YA book club. They came to youth librarians, wondering: “There's nobody in these books that's like me. Why not?” Given these questions, teens and librarians developed a diversity panel that included authors of books about diversity and a book publisher. During the panel interview with literature professionals they discussed a pressing question: Why there isn't there more diversity in current literature? Throughout the panel, the youth produced all their own questions and learned directly from experts about the challenges of the writing industry.</p>  
 </div> 
-<br>
+
 
 ### Participatory Design 
 

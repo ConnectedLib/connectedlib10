@@ -37,7 +37,7 @@ Much of the time, your information needs can be met with one or two assessments.
 </div> 
 <br>
 
-#### Footnotes:
+**Footnotes**
 
 <a name="fn4">4</a>:  --  https://www.youtube.com/watch?v=WXbkeFIEN8Y&feature=youtu.be 5:15
 <br>

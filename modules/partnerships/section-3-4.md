@@ -15,12 +15,12 @@ Partnering with schools is particularly challenging for most of the librarians a
 
 <div class="resources"> 
 <span class="box-title">YALSA SNACK BREAK WITH AUDREY HOPKINS </span><br>
-<span><a href="https://www.youtube.com/watch?v=vJpQJKUoXio"><img src="https://github.com/ConnectedLib/Connected-Learning-Modules/blob/master/images/community_partners_video_section3-4.JPG"></a></span><br><br>
+<span><a href="https://www.youtube.com/watch?v=vJpQJKUoXio"><img src="https://img.youtube.com/vi/vJpQJKUoXio/0.jpg"></a></span><br><br>
 <p>YALSA. (2016). YALSA Snack Break: Audrey Hopkins on School and Public Library Partnerships for Teen Success. Retrieved from <a href="https://www.youtube.com/watch?v=vJpQJKUoXio">https://www.youtube.com/watch?v=vJpQJKUoXio</a></p>
 <iframe width="560" height="315" src="https://www.youtube.com/watch?v=vJpQJKUoXio" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 </div>
 <br>
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=vJpQJKUoXio" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
 >“We have to go looking for the information, and most the time when we do go looking for the information, there are district employees, or teachers, or librarians that will work with us. But we have to do a lot of digging to make that happen, and that once again comes down to the resources at our disposal and also the staff time it takes to make those in-roads.” -- Rural Western Library
 
 <table> 

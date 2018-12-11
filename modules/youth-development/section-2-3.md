@@ -1,7 +1,7 @@
 ---
 layout: module
 title: 2.3 Moral and Ethical Development
-module_name: youth_development
+module_name: youth-development
 module_full_name: Youth Development
 section: 2. Developing an Identity
 subsection: two-three

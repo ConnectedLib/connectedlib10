@@ -21,7 +21,9 @@ Just as the outcomes of connected learning are often nontraditional, so are the 
 <p><b>Don’t start with indicators!</b> Start by determining your desired outcomes. If you start with measures, you run the risk of defaulting to only the easiest and most obvious measures.<sup>15</sup> The outcomes of connected learning can be much richer than that. Start with the outcomes, and then figure out the best way to measure your progress towards those outcomes</p>
 <br>
 
-#### Footnotes
+
+**Footnotes**
+<br>
 
 <a name="fn14">14</a>:  -- PI guide p 51
 <br> 

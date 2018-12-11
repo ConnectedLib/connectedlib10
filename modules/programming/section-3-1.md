@@ -74,14 +74,14 @@ In addition to these categories of outcomes identified by YALSA, we found a few 
 
 
 -----
-[<a name="1" href="#1A">1</a>] YALSA, 2017. ["Teens First.”](http://www.ala.org/yalsa/teens-first) 
+<a name="1" href="#1A">[1]</a> YALSA, 2017. ["Teens First.”](http://www.ala.org/yalsa/teens-first) 
 
-[<a name="2" href="#2A">2</a>] Partnership for 21st Century Learning, 2015. [P21 Framework Definitions](http://www.p21.org/storage/documents/docs/P21_Framework_Definitions_New_Logo_2015.pdf)
+<a name="2" href="#2A">[2]</a> Partnership for 21st Century Learning, 2015. [P21 Framework Definitions](http://www.p21.org/storage/documents/docs/P21_Framework_Definitions_New_Logo_2015.pdf)
 
-[<a name="3" href="#3A">3</a>] Ross, M., Gatz, C., Ng, J., Kazis, R., & Svajleka, N. P., 2015. [Unemployment among young adults: Exploring employer-led solutions](https://www.brookings.edu/research/unemployment-among-young-adults-exploring-employer-led-solutions/)
+<a name="3" href="#3A">[3]</a> Ross, M., Gatz, C., Ng, J., Kazis, R., & Svajleka, N. P., 2015. [Unemployment among young adults: Exploring employer-led solutions](https://www.brookings.edu/research/unemployment-among-young-adults-exploring-employer-led-solutions/)
 
-[<a name="4" href="#4A">4</a>] Partnership for 21st Century Learning, 2012. ["Our History."](http://www.p21.org/about-us/our-history)
+<a name="4" href="#4A">[4]</a> Partnership for 21st Century Learning, 2012. ["Our History."](http://www.p21.org/about-us/our-history)
 
-[<a name="5" href="#5A">5</a>] National Research Council, 2012. _Education for Life and Work: Developing Transferable Knowledge and Skills in the 21st Century_. Edited by James W. Pellegrino, Margaret L. Hilton, and the Committee on Defining Deeper Learning and 21st Century Skills. Washington, D.C.: The National Academies Press. https://doi.org/10.17226/13398
+<a name="5" href="#5A">[5]</a> National Research Council, 2012. _Education for Life and Work: Developing Transferable Knowledge and Skills in the 21st Century_. Edited by James W. Pellegrino, Margaret L. Hilton, and the Committee on Defining Deeper Learning and 21st Century Skills. Washington, D.C.: The National Academies Press. https://doi.org/10.17226/13398
 
-[<a name="6" href="#6A">6</a>] Matthias, Cynthia, and Christy Mulligan. “Hennepin County Library’s Teen Tech Squad: Youth Leadership and Technology Free-for-All.” Young Adult Library Services 2010, no. Winter (2010): 13–16.
+<a name="6" href="#6A">[6]</a> Matthias, Cynthia, and Christy Mulligan. “Hennepin County Library’s Teen Tech Squad: Youth Leadership and Technology Free-for-All.” Young Adult Library Services 2010, no. Winter (2010): 13–16.

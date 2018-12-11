@@ -17,7 +17,7 @@ Some of the approaches used for measuring learning in a traditional classroom ca
 <div class="explanatory">
   <p><span class="box-title">PROGRAM EVALUATIONS FOR CONNECTED LEARNING</span></p> 
 <p>In this short trailer for his free online Program Evaluations for Connected Learning course, Dr. William Penuel from the University of Colorado at Boulder describes the class as well as some of the challenges and opportunities of evaluating connected learning programs.</p>
-<span><a href="https://youtu.be/u6rguxNk8kY" target="_blank"><img src="https://github.com/ConnectedLib/Connected-Learning-Modules/blob/master/images/assessment_section-1-0.jpg"/></span>
+<span><a href="https://youtu.be/u6rguxNk8kY" target="_blank"><img src="https://github.com/ConnectedLib/Connected-Learning-Modules/blob/master/images/assessment_section-1-0.jpg"></span>
 </div>
 <br>
 

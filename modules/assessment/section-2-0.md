@@ -40,7 +40,7 @@ An assessment is a way to answer a single question at one point in time. Assessm
 </div> 
 <br>
 
-#### Footnotes:
+**Footnotes:**
 
 <a name="fn3">3</a>:  -- Surrounded by Science: Learning Science in Informal Environments. (2010). Washington, D.C.: National Academies Press. https://doi.org/10.17226/12614 p 111
 <br> 

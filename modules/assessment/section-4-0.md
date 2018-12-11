@@ -28,7 +28,7 @@ The point of evaluation is to obtain information that can be used constructively
 
 
 
-#### Footnotes:
+**Footnotes:**
 
 <a name="fn17">17</a>:  -- W. K. Kellogg Foundation. (2004). W. K. Kellogg Foundation evaluation handbook. Battle Creek, MI: W. K. Kellogg Foundation. Retrieved from https://dmlcommons.net/wp-content/uploads/2015/12/Kellog-2006.pdf, p. 3
 <br> 

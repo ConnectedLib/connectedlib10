@@ -15,7 +15,7 @@ Libraries are centers for informal learning, so other informal learning institut
 <table> 
 <tr style="background-color:#000000"><th style="color: white;" colspan = "2">OPPORTUNITIES</th></tr> 
 <tr><th style="background-color:#E8B2AB">SIMILAR PROGRAMS AND GOALS</th><td>Since informal learning institutions often share similar missions, the programs they develop and they goals they set are often similar as well, making collaboration easier.<sup>17,18</sup></td></tr> 
-<tr><th style="background-color:#CCEDC3">OUTREACH STAFF</th><td>For smaller initiatives, possibly ones that can be pilot cases for larger collaborations, most of these institutions will have someone who focuses on outreach or even specifically on youth outreach—look for words like “education” or “public programs” in job titles or department names to help identify the right person to approach.<sup>19</sup></td></tr>
+<tr><th style="background-color:#CCEDC3">OUTREACH STAFF</th><td>For smaller initiatives, possibly ones that can be pilot cases for larger collaborations, most of these institutions will have someone who focuses on outreach or even specifically on youth outreach—look for words like “education” or “public programs” in job titles or department names to help identify the right person to approach.<sup>[19](#fn19)</sup></td></tr>
 <tr><th style="background-color:#D8C5E1">NEW AUDIENCES</th><td>Larger informal learning institutions are less likely to need or want the library to bring programming to their space, since they have probably developed their own programming, but may value the opportunity to reach new audiences through the library’s programing and marketing, or by distributing free or discount passes through the library.<sup>20</sup></td></tr>
 </table>
 

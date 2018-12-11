@@ -56,14 +56,14 @@ Instead of viewing children as miniature adults — a common attitude in his tim
   </div>
   <br>
   
-**PUTTING COGNITIVE DEVELOPMENT THEORY INTO PRACTICE 
+**PUTTING COGNITIVE DEVELOPMENT THEORY INTO PRACTICE** 
 
 Most tweens and teens will be in the concrete operational stage or the early formal operational stage. They can reason logically and apply specific knowledge to general contexts. They are probably moving towards or have already started applying logic and morality to abstract concepts, and constructing their own solutions to individual and societal problems. Ask yourself the following questions about your teen programming and services:  
 
 - What relevant **cognitive schemas** do the participants have? Do they reflect reality or are they skewed or distorted?  
 - Will the teens **assimilate** what they learn, or will they have to accommodate new information?  
 - Can you relate your program or activities to abstract societal issues, or should you focus on more concrete ideas? 
-- Are your participants in the early **formal operational** stage? If so, can you help them develop further by integrating abstract concepts with the help of **scaffolding** (see Section 2: Vygotsky’s Sociocultural Learning Theory)? 
+- Are your participants in the early **formal operational** stage? If so, can you help them develop further by integrating abstract concepts with the help of **scaffolding** (see Section 2: [Vygotsky’s Sociocultural Learning Theory]({{site.url}}{{site.baseurl}}/youth-development/section-2-0.html))? 
 
 <div class="reflection"> 
 

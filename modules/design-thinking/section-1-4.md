@@ -27,35 +27,35 @@ For example, activities with youth that center on design thinking might include 
 <p><b>Articles:</b></p>
 
 <ul>
-  <li>Braun, Linda W. (31, May, 2016). Using Design Thinking: Providing a framework for youth activities. https://americanlibrariesmagazine.org/2016/05/31/using-design-thinking/</li>
+  <li>Braun, Linda W. (31, May, 2016). Using Design Thinking: Providing a framework for youth activities. <a href="https://americanlibrariesmagazine.org/2016/05/31/using-design-thinking/" target="_blank">https://americanlibrariesmagazine.org/2016/05/31/using-design-thinking/</a></li>
 
 <li>Mills, J. E., Campana, K., & Clarke, R. I. (2016). Learning by design: Creating knowledge through library storytime production. Proceedings of the Association for Information Science and Technology, 53(1), 1-6. </li>
 
-<li>Schmidt, A. (2015). Library UX in Practice | The User Experience. http://lj.libraryjournal.com/2015/03/opinion/aaron-schmidt/library-ux-in-practice-the-user-experience/#_</li>
+<li>Schmidt, A. (2015). Library UX in Practice | The User Experience. <a href="http://lj.libraryjournal.com/2015/03/opinion/aaron-schmidt/library-ux-in-practice-the-user-experience/#_" target="_blank">http://lj.libraryjournal.com/2015/03/opinion/aaron-schmidt/library-ux-in-practice-the-user-experience/#_</a></li>
 
-<li>Wise, S. Design Thinking in Education: Empathy, Challenge, Discovery, and Sharing. https://www.edutopia.org/blog/design-thinking-empathy-challenge-discovery-sharing-susie-wise</li>
+<li>Wise, S. Design Thinking in Education: Empathy, Challenge, Discovery, and Sharing. <a href="https://www.edutopia.org/blog/design-thinking-empathy-challenge-discovery-sharing-susie-wise" target="_blank">https://www.edutopia.org/blog/design-thinking-empathy-challenge-discovery-sharing-susie-wise</a></li>
 </ul>
 <br>
 <p><b>Toolkits:</b></p>
 <ul>
-  <li>Design Thinking for Educators. http://www.designthinkingforeducators.com/</li>
+  <li>Design Thinking for Educators. <a href="http://www.designthinkingforeducators.com/" target="_blank">http://www.designthinkingforeducators.com/</a></li>
 
-<li>IDEO. (2015). Design Thinking for Libraries: A toolkit for patron-centered design. http://designthinkingforlibraries.com</li>
+<li>IDEO. (2015). Design Thinking for Libraries: A toolkit for patron-centered design. <a href="http://designthinkingforlibraries.com" target="_blank">http://designthinkingforlibraries.com</a></li>
 </ul>
 <br>
 <p><b>Guides and Playbooks:</b></p>
 <ul>
-  <li>d.school, K12 Lab wiki. Steps in Design Thinking Process. https://dschool.stanford.edu/groups/k12/wiki/17cff/Steps_in_a_Design_Thinking_Process.html</li>
+  <li>d.school, K12 Lab wiki. Steps in Design Thinking Process. <a href="https://dschool.stanford.edu/groups/k12/wiki/17cff/Steps_in_a_Design_Thinking_Process.html" target="_blank">https://dschool.stanford.edu/groups/k12/wiki/17cff/Steps_in_a_Design_Thinking_Process.html</a></li>
 </ul>
 <br>
 <p><b>Organizations and Schools:</b></p>
 <ul>
-  <li>d.school (2016). Stanford University Institute of Design Homepage. http://dschool.stanford.edu/our-point-of-view/</li>
+  <li>d.school (2016). Stanford University Institute of Design Homepage. <a href="http://dschool.stanford.edu/our-point-of-view/" target="_blank">http://dschool.stanford.edu/our-point-of-view/</a></li>
 </ul>
 <br>
 <p><b>Courses:</b></p>
 <ul>
-  <li>d.school’s Virtual Crash Course and Resource page (2016). http://dschool.stanford.edu/dgift/</li>
+  <li>d.school’s Virtual Crash Course and Resource page (2016). <a href="http://dschool.stanford.edu/dgift/" target="_blank">http://dschool.stanford.edu/dgift/</a></li>
 </ul>
 </div>
 

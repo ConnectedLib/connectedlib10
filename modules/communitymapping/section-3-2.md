@@ -23,17 +23,17 @@ Are there groups that are not currently at the table with you as you plan progra
 
   <div class="explanatory">
   <span class="box-title">ADDITIONAL RESOURCES</span>
-  <p><a href="https://www.census.gov/programs-surveys/acs/data.html">American Community Survey</a>. Updated yearly.</p>
+  <p><a href="https://www.census.gov/programs-surveys/acs/data.html" target="_blank">American Community Survey</a>. Updated yearly.</p>
 </div>
 <br>
 <div class="case_study_box">
   <p class="box-title">CASE STUDY: AFTER-SCHOOL INITIATIVE</p>
-  <p>The community of Danbury, Connecticut came together for an asset mapping project when their school lost funding for after-school programs. They had a clear goal: to identify existing resources in the community to provide safe after-school activities for students. Parents, students, and teachers worked together to create a solution. Read the whole story in the <a href="http://www.nurturedevelopment.org/wp-content/uploads/2016/01/Asset-Mapping-CCAMP_System_Handbook.pdf">CCAMP System Handbook</a>, pp. 24-25.</p>
+  <p>The community of Danbury, Connecticut came together for an asset mapping project when their school lost funding for after-school programs. They had a clear goal: to identify existing resources in the community to provide safe after-school activities for students. Parents, students, and teachers worked together to create a solution. Read the whole story in the <a href="http://www.nurturedevelopment.org/wp-content/uploads/2016/01/Asset-Mapping-CCAMP_System_Handbook.pdf" target="_blank">CCAMP System Handbook</a>, pp. 24-25.</p>
 </div>
 <br>
 <br>
 
 
-#### Footnotes:
+**Footnotes:**
 
 <a name="fn4">4</a>:  -- Collaborative For Neighborhood Transformation. (2016). What is asset based community development? ABCD Institute. Retrieved from https://resources.depaul.edu/abcd-institute/resources/Documents/WhatisAssetBasedCommunityDevelopment.pdf, p 3 

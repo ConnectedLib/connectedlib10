@@ -23,16 +23,16 @@ In this section, you will learn what mentoring is and how it can support connect
 
 Much of the time, your information needs can be met with one or two assessments. Other times, you have a bigger, deeper question that an assessment can address. In these cases, you can perform an evaluation. An evaluation makes a judgment about something, such as the value, quality, or efficacy of a program, partnership, or other activity, to provide information that will help with a decision about some future action.<sup>[5](#fn5)</sup>  It begins with questions, finds answers, and ends with conclusions or recommendations. The questions you have will help determine the type of evaluation you choose and how you use it. As you design your evaluation, think about the following factors: 
 
-- Why are you conducting an evaluation?  
-- Who are you doing it for?  
-- How do you want the findings to be used? 
+- *Why* are you conducting an evaluation?  
+- *Who* are you doing it for?  
+- *How* do you want the findings to be used? 
 
 <div class="case_study_box">  
 
 <p><span class="box-title">UTILIZATION-FOCUSED EVALUATION</span></p> 
 
 <p style="text-align:center">
-  The utilization-focused approach to evaluation maintains that an evaluation is only as good as it is useful. Design your evaluation in a way that will maximize its usefulness to its intended audience—whether that is your manager, a partner, or yourself. Learn more at <a href="http://www.betterevaluation.org/en/plan/approach/utilization_focused_evaluation">BetterEvaluation.org.</a></p>  
+  The utilization-focused approach to evaluation maintains that an evaluation is only as good as it is useful. Design your evaluation in a way that will maximize its usefulness to its intended audience—whether that is your manager, a partner, or yourself. Learn more at <a href="http://www.betterevaluation.org/en/plan/approach/utilization_focused_evaluation" target="_blank">BetterEvaluation.org.</a></p>  
 
 </div> 
 <br>
@@ -40,3 +40,5 @@ Much of the time, your information needs can be met with one or two assessments.
 #### Footnotes:
 
 <a name="fn4">4</a>:  --  https://www.youtube.com/watch?v=WXbkeFIEN8Y&feature=youtu.be 5:15
+<br>
+<a name="fn5">5</a>:  --  Surrounded by Science: Learning Science in Informal Environments. (2010). Washington, D.C.: National Academies Press. https://doi.org/10.17226/12614 p 111

@@ -15,7 +15,7 @@ Watch as Cormac Russell explains why it’s important to focus on the strengths 
 <br>
 <div class="explanatory">
   <p><span class="box-title">GUIDING PRINCIBLES OF ABCD</span></p>
-<p><a href="http://www.nurturedevelopment.org/wp-content/uploads/2016/01/Asset-Mapping-CCAMP_System_Handbook.pdf">Ryan & Bourke (2008, p114)</a> set forth the following guiding principles for an asset-based community development effort.</p>
+<p><a href="http://www.nurturedevelopment.org/wp-content/uploads/2016/01/Asset-Mapping-CCAMP_System_Handbook.pdf" target="_blank">Ryan & Bourke (2008, p114)</a> set forth the following guiding principles for an asset-based community development effort.</p>
 <ol>
 <li>Begin with the end in mind.</li>
 <li>Build relationships.</li>

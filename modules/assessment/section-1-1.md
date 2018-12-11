@@ -7,7 +7,6 @@ section: 1. Introduction
 subsection: one-one
 ---
 
-### What is an assessment?  
 
 Although the terms “evaluation” and “assessment” are often used interchangeably in everyday usage, in many fields (such as education and community development) they are distinct concepts.  
 

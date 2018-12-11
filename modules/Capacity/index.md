@@ -2,7 +2,7 @@
 layout: module
 title: Capacity
 module_name: capacity
-module_full_name: Capacity
+module_full_name: capacity
 section: Overview
 subsection: overview
 ---

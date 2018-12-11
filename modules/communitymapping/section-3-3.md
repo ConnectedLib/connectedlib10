@@ -14,7 +14,7 @@ This section discusses learning about individuals, associations, and institution
 You may already be pretty familiar with the young people who visit your library regularly. But are they representative of the community at large? Compare your community profile with the information about your “regulars.” Are there demographic groups that aren’t being served or aren’t represented?  
 
 <div class="explanatory">
-<span class="box-title">ADDITIONAL RESOURCES</span>
+<span class="box-title">RESOURCES</span>
 <p>
 <ul>
 <li><a href="http://www.diversitydatakids.org/">DiversityDataKids.org</a></li>
@@ -23,8 +23,7 @@ You may already be pretty familiar with the young people who visit your library 
 </ul>
 <br>
 Some of these resources were found through Know your <a href="http://www.slj.com/2014/06/public-libraries/know-your-neighborhood-a-community-needs-assessment-primer/#_">Neighborhood: A Community Needs Assessment Primer</a> by Lisa G. Kropp as well as <a href="http://www.ala.org/yalsa/professionaltools">YALSA’s Professional Tools</a>. 
-<p>
-</div>
+</div><br>
 
 As youth librarians, you are more likely than many people to recognize that youth have gifts and capacities to help their communities. Teens may know their communities as well as or better than adults, bring fresh ideas and perspectives to the table, and have connections to schools, families, and other teens. Youth may be seen as more credible than adults to their peers.<sup>[5](#fn5)</sup> Building Communities from the Inside Out provides many suggestions as to how youth can build productive connections with associations, organizations, and other individuals (Chapter 1, pages 33-44).
 
@@ -150,8 +149,8 @@ In addition, consider the following sources when you are identifying assets:
   <br>
 
 
-#### Footnotes:
-
+**Footnotes:**
+<br>
 <a name="fn5">5</a>:  --(Kretzmann & McKnight, 1993, p.30-31)
 <br>
 <a name="fn6">6</a>:  -- Green, G. P. (2014). Community asset mapping and surveys. In R. Phillips & R. Pittman (Eds.), An introduction to community development. New York, NY: Routledge. P222.

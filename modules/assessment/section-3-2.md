@@ -23,4 +23,4 @@ Outcomes are the differences your programs make for your library’s youth and f
 
 #### Footnotes:
 
-<a name="fn8">8</a>:  -- https://youtu.be/WXbkeFIEN8Y 28:40
+<a name="fn8">8</a>:  -- <a href="https://youtu.be/WXbkeFIEN8Y" target="_blank">https://youtu.be/WXbkeFIEN8Y</a> 28:40

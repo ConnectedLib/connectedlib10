@@ -88,11 +88,12 @@ Vygotsky’s sociocultural learning theory can be seen in the relationships and 
   <li>Activities the learner cannot achieve on their own</li>
   </ol>
 </div>
-
-
 <br>
 <br>
+
+
 **Footnotes:**
+
 <br>
 <a name="fn3">3</a>:  -- http://www.psy.cmu.edu/~siegler/vygotsky78.pdf
 <br>  

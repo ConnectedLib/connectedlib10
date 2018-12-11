@@ -20,7 +20,7 @@ While it would be great if library workers could be in many places at once, ther
 
  
 
-The ALA has a few great resources on volunteers in your library, including [tips](http://wikis.ala.org/professionaltips/index.php?title=Volunteers) on some best practices: 
+The ALA has a few great resources on volunteers in your library, including <a href="http://wikis.ala.org/professionaltips/index.php?title=Volunteers" target="_blank">tips</a> on some best practices: 
 1. Make sure the volunteer positions do not replace established staff positions
 2. Create a volunteer recognition program
 3. Develop and implement regular volunteer training programs
@@ -34,6 +34,6 @@ The ALA has a few great resources on volunteers in your library, including [tips
   <span class="box-title">ADDITIONAL RESOURCES</span>
   <ul>
    <li>Rita Pellen, & William Miller. (2014). Libraries Beyond Their Institutions: Partnerships That Work. Taylor and Francis.</li>
-   <li><a href="https://clalliance.org/publications/good-intentions-real-outcomes-equity-design-learning-technologies/">https://clalliance.org/publications/good-intentions-real-outcomes-equity-design-learning-technologies/</a></li>
-   <li><a href="http://www.techsoupforlibraries.org/blog">http://www.techsoupforlibraries.org/blog</a></li>
+   <li><a href="https://clalliance.org/publications/good-intentions-real-outcomes-equity-design-learning-technologies/" target="_blank">https://clalliance.org/publications/good-intentions-real-outcomes-equity-design-learning-technologies/</a></li>
+   <li><a href="http://www.techsoupforlibraries.org/blog" target="_blank">http://www.techsoupforlibraries.org/blog</a></li>
  </div>

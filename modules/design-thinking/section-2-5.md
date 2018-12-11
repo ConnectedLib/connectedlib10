@@ -52,7 +52,7 @@ As you close out a design challenge or studio experience, consider it as a chanc
 <ul>
   <li>d.school K12 Lab Wiki. (2016) Creating Design Challenges. https://dschool.stanford.edu/groups/k12/wiki/613e8/Creating_Design_Challenges.html</li>
   <li>d.school virtual crash course playbook. (2012) http://dschool.stanford.edu/wp-content/uploads/2012/02/crashcourseplaybookfinal3-1-120302015105-phpapp02.pdf</li>
-  <li>d.school Wallet project facilitator’s guide: https://dschool.stanford.edu/groups/designresources/wiki/4dbb2//li>
+  <li>d.school Wallet project facilitator’s guide: https://dschool.stanford.edu/groups/designresources/wiki/4dbb2/<li>
   <li>Makered Playbook (2013). http://makered.org/wp-content/uploads/2014/09/Makerspace-Playbook-Feb-2013.pdf</li>
 </ul>
 <br>
@@ -71,8 +71,9 @@ As you close out a design challenge or studio experience, consider it as a chanc
 
 <li>Library Journal. (2014). Design institute design challenges: Library by design, fall 2014. Library Journal. Accessed at http://bit.ly/2dbmMFn. PLA. (2016). Designing spaces for people, not collections. Public Library Association. Webinar. http://www.ala.org/pla/onlinelearning/webinars/pla2016rewind/spaces</li>
 </ul>
-<br>
 </div>
+<br>
+
 
 ## SECTION 2 ACTIVITIES 
 

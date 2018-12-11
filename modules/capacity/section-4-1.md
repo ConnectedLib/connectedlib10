@@ -7,7 +7,7 @@ section: 4. Determining Community Need
 subsection: four-one
 ---
 
-Community assets can be as broad as entire organizations, or as specific as individuals. In this module, assets will be very similar to those conceptualized in the <a href="{{site.url}}{{site.baseurl}}/communitymapping/index.html">Community Mapping module</a>. Here, they are framed in terms of their relation to your library’s capacity. The University of Kansas in their online <a href="https://ctb.ku.edu/en">Community Tool Box<a/> defines an asset as “anything that can be used to improve the quality of community life.” For our purposes today, we will define assets as follows: 
+Community assets can be as broad as entire organizations, or as specific as individuals. In this module, assets will be very similar to those conceptualized in the <a href="{{site.url}}{{site.baseurl}}/modules/communitymapping/index.html">Community Mapping module</a>. Here, they are framed in terms of their relation to your library’s capacity. The University of Kansas in their online <a href="https://ctb.ku.edu/en" target="_blank">Community Tool Box<a/> defines an asset as “anything that can be used to improve the quality of community life.” For our purposes today, we will define assets as follows: 
 
 **Individuals** are the backbone of communities. Often, your library might have individuals that volunteer to shelve books or organize “friends of the library” fundraising events. There might be a stay-at-home dad who organizes playgroups, or a retired bus driver that bakes large batches of her family’s famous cookies. Individuals in our communities are diverse in their strengths, and can help expand the staffing capacity of your library. 
 
@@ -20,11 +20,10 @@ Community assets can be as broad as entire organizations, or as specific as indi
 <div class="explanatory">
   <p><span class="box-title">Professor John McKnight on Community Assets</span></p>
 <p><a href="http://mn.gov/mnddc/mcKnight/johnMcKnight2_02.html" title="Professor John McKnight on Community Assets"><img src="https://github.com/ConnectedLib/Connected-Learning-Modules/blob/master/images/McKnight_section4.1.jpg?raw=true" alt="Professor John McKnight on Community Assets" /></a></p>
-</p>
 </div>
 
 
-Let’s take a moment to reflect on the community that your library serves. As you do this, bring up the map you created in the <a href="{{site.url}}{{site.baseurl}}/communitymapping/index.md">Community Mapping module</a>. Think about the people, places, services and businesses that make up your community that you marked on this map. It can be helpful to visualize your Community Map in relation to their strengths and assets, and can be done in a very similar way to assessing the capacity of your library. As you are doing this, keep in mind which assets and strengths might be the most helpful in relation to your library’s capacity. Here’s an example:
+Let’s take a moment to reflect on the community that your library serves. As you do this, bring up the map you created in the <a href="{{site.url}}{{site.baseurl}}/modules/communitymapping/index.md">Community Mapping module</a>. Think about the people, places, services and businesses that make up your community that you marked on this map. It can be helpful to visualize your Community Map in relation to their strengths and assets, and can be done in a very similar way to assessing the capacity of your library. As you are doing this, keep in mind which assets and strengths might be the most helpful in relation to your library’s capacity. Here’s an example:
 
 **Midsize Library Community Assets & Strengths**
 

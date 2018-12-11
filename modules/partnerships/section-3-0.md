@@ -20,4 +20,4 @@ In this section, we will look more closely at four common types of partners: (1)
 
 **IDENTIFYING POTENTIAL PARTNERS**
 
-You probably already have some potential partners in mind, but a community mapping project can help you identify more. See the [Community Mapping Module]({{site.url}}{{site.baseurl}}/communitymapping/index.md) for more.
+You probably already have some potential partners in mind, but a community mapping project can help you identify more. See the [Community Mapping Module]({{site.url}}{{site.baseurl}}/communitymapping/index.html) for more.

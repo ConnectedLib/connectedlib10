@@ -51,7 +51,7 @@ Read the rest of her post, <a href="http://www.cuppacocoa.com/the-zone-of-proxim
 </div>
 <br>
 
-**PUTTING SOCIOCULTURAL LEARNING THEORY INTO PRACTICE 
+**PUTTING SOCIOCULTURAL LEARNING THEORY INTO PRACTICE** 
 
 >“I really like group tasks. I like breaking people up into teams, I love the idea of peer-mentoring… That’s a great way to start building community.” -- INTS-059 
 

@@ -1,9 +1,9 @@
 ---
 layout: module
-title: 3.0 Overview
+title: 3.0 Core Research Methods
 module_name: design-thinking
 module_full_name: Design Thinking
-section: 1. Core Research Methods
+section: 3. Core Research Methods
 subsection: three-zero
 ---
 

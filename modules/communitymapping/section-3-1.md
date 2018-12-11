@@ -54,6 +54,7 @@ When you have assembled your team, make sure to get everyone on the same page du
 
 While you are planning and assembling your team (if not earlier) try to find out if someone from another organization has conducted a community mapping project before you. If so, try to find out if elements of it can be used in your project. Make sure you have a clear idea of what additional work needs to be done and why--perhaps the information is out of date, or didn’t cover an area you’re interested in. 
 
+<br>
 <div class="explanatory">
   <span class="box-title">EVALUATION</span>
   <p>Don’t forget to develop evaluation plans before you start collecting information. You should plan to evaluate the process (so you can know what to do better in the future), the outcome (the results you ended up with) and the impact -- what difference did your project make?<br>

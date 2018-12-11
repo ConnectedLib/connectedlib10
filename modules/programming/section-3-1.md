@@ -56,7 +56,7 @@ In addition to these categories of outcomes identified by YALSA, we found a few 
 
 - **Career readiness**. Connected learning programs, being opportunity oriented, can help learners build technical skills that employers are looking for. Volunteer and intern programs give teens something to put on their resume before entering the post-high school job market, and demonstrate that they have the interpersonal skills needed to be productive employees.<sup><a name="6A" href="#6">6</a></sup> Librarians and mentors can help teens turn their creative output into digital portfolios, or learn how to translate their activities into skills on their resumes. 
 
-
+<br/>
 
 <div class=“case_study_box”>
     <p class=“box-title”>Cities of Learning: Workforce development</p>

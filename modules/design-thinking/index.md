@@ -28,4 +28,4 @@ subsection: overview
 {% include how_to_use.html %}
 
 At the end of each section, there are additional resources for you to explore further on your own if you choose.
-Ready to get started? Let’s begin with Section 1: Introduction to Design Thinking.
+Ready to get started? Let’s begin with [Section 1: Introduction to Design Thinking](section-1.html).

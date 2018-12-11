@@ -21,7 +21,7 @@ In another example, librarians at the Kitsap Regional Public Library work closel
 
 Most of the youth librarians we talked to discuss how their role as a digital media mentor is more about collaborating and working through problems together, rather than being a technology expert. INTS-009 describes her approach to using technology with young people: “ ... if a teen comes to one of us and say ‘I want to do this thing’ and if none of us know how to do it, we sit down and we figure out how to do it together whether it be trying to find information in the book, looking up a tutorial on YouTube, reaching out to maybe another mentor or someone else in our life, who might know what's going on.” 
 
-[Braun and Vissner’s (2017) Ready to Code report](http://www.ala.org/advocacy/sites/ala.org.advocacy/files/content/pp/Ready_To_Code_Report_FINAL.pdf) outlines case studies of librarians as facilitators in learning with technology. For instance, a teen girl found the support and resources she needed to develop her own “Girls Just Wanna Compute” club in her local library. 
+<a href="http://www.ala.org/advocacy/sites/ala.org.advocacy/files/content/pp/Ready_To_Code_Report_FINAL.pdf" target="_blank">Braun and Vissner’s (2017) Ready to Code report</a> outlines case studies of librarians as facilitators in learning with technology. For instance, a teen girl found the support and resources she needed to develop her own “Girls Just Wanna Compute” club in her local library. 
 
 ### Providing support for family uses of digital media 
 

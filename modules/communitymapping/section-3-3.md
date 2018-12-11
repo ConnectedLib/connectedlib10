@@ -52,8 +52,8 @@ The most foundational assets of a community are the individuals that form it. Ev
 
 <div class="explanatory">
 <span class="box-title">DO ALL INDIVIDUALS HAVE CAPACITIES?</span>
-<p>Kretzmann & McKnight argue that need-focused labels, like “ex-convict”, “elderly,” “illiterate”, and “gang member” reflect and reinforce society’s belief that these “needy” people are “empty” and without anything to contribute to their community. Asset-based development means looking past labels to each individual’s specific gifts.<br>
-For example, “She is a pregnant teenager. She needs counseling, therapy, residential services, special education.” But also, “She is Mary Smith. She has a miraculously beautiful voice. We need her in the choir. She needs a record producer.” Her label, pregnant teenager, tells of emptiness and calls forth rejection, isolation and treatment. Her name, Mary Smith, tells of her gifts and evokes community and contributions.”<br>
+<p>Kretzmann & McKnight argue that need-focused labels, like “ex-convict”, “elderly,” “illiterate”, and “gang member” reflect and reinforce society’s belief that these “needy” people are “empty” and without anything to contribute to their community. Asset-based development means looking past labels to each individual’s specific gifts.<br><br>
+For example, “She is a pregnant teenager. She needs counseling, therapy, residential services, special education.” But also, “She is Mary Smith. She has a miraculously beautiful voice. We need her in the choir. She needs a record producer.” Her label, pregnant teenager, tells of emptiness and calls forth rejection, isolation and treatment. Her name, Mary Smith, tells of her gifts and evokes community and contributions.”<br><br>
 Kretzmann, J. P., & McKnight, J. L. (1993). Building from the inside out: A path toward finding and mobilizing a community’s assets. Chicago, IL: ACTA Publications. pp27-28</p>
 </div>
 <br>
@@ -92,8 +92,10 @@ Self-help groups <br>
 Service clubs <br> 
 Sports leagues <br> 
 Study groups <br> 
-Veteran groups<br> 
-    </td></tr></table><br>
+Veteran groups<br></td></tr>
+</table>
+<br>
+   
  <p>Kretzmann, J. P., & McKnight, J. L. (1993). Building from the inside out: A path toward finding and mobilizing a community’s assets. Chicago, IL: ACTA Publications. p110</p>
 </div>
 
@@ -119,7 +121,7 @@ Depending on your situation, you can use surveys or focus groups to learn more a
 <tr><th style="background-color:#F58F81" width="40%" align="center">FOCUS GROUPS</th><td>Focus groups allow you to guide the discussion around a specific question. It is important to have a diverse set of participants so that you don’t just hear one perspective. Focus groups may be cheaper and/or less time-consuming than extensive surveys (depending on how they are administered), and can provide deeper insights. However, you cannot hear from as many people in a focus group. 
 <br>
 <ul><li><a href="http://learn.webjunction.org/enrol/index.php?id=234">Beyond the Survey: A Practical Approach to Interviews and Focus Groups</a></li>
- li><a href= "https://my.rotary.org/en/document/community-assessment-tools">Community Assessment Tools </a></li>
+ <li><a href= "https://my.rotary.org/en/document/community-assessment-tools">Community Assessment Tools </a></li>
 </ul></td></tr>
 </table>
 

@@ -20,7 +20,7 @@ Questions to think about are:
 <br>
 <div class="explanatory">
   <span class="box-title">WHAT IS COMMUNITY</span><br>
-  <span><a href="https://www.youtube.com/watch?v=3UpOSFL5mq4&feature=youtu.be" target="_blank"><img src="https://github.com/ConnectedLib/Connected-Learning-Modules/blob/master/images/defining_community_capacity_3.1.jpg"/></a></span>
+  <span><a href="https://www.youtube.com/watch?v=3UpOSFL5mq4&feature=youtu.be" target="_blank"><img src="https://img.youtube.com/vi/3UpOSFL5mq4/0.jpg"></a></span>
 </div>
 <br>
 <br>
@@ -45,7 +45,7 @@ When you have assembled your team, make sure to get everyone on the same page du
 <br>
 <div class="explanatory">
   <span class="box-title">GETTING THE COMMUNITY INVOLVED</span>
-  <p>Adding more people to your mapping project makes it more complex, but there is a great deal of value in adding more community voices. Check out <a href="http://ctb.ku.edu/en/table-of-contents/evaluate/evaluation/intervention-research/main">Community-Based Participatory Research</a> (part of the Community Toolbox) to learn more.</p>
+  <p>Adding more people to your mapping project makes it more complex, but there is a great deal of value in adding more community voices. Check out <a href="http://ctb.ku.edu/en/table-of-contents/evaluate/evaluation/intervention-research/main" target="_blank">Community-Based Participatory Research</a> (part of the Community Toolbox) to learn more.</p>
 </div>
 <br>
 <br>
@@ -57,7 +57,7 @@ While you are planning and assembling your team (if not earlier) try to find out
 <div class="explanatory">
   <span class="box-title">EVALUATION</span>
   <p>Don’t forget to develop evaluation plans before you start collecting information. You should plan to evaluate the process (so you can know what to do better in the future), the outcome (the results you ended up with) and the impact -- what difference did your project make?<br>
-For more on evaluation, see the <a href="{{site.url}}{{site.baseurl}}/assesmentevaluation/index.md">Assessment and Evaluation module</a>.</p>
+For more on evaluation, see the <a href="{{site.url}}{{site.baseurl}}/modules/assesmentevaluation/index.md">Assessment and Evaluation module</a>.</p>
 </div>
 <br>
 <br>

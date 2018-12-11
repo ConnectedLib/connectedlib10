@@ -1,6 +1,6 @@
 ---
 layout: module
-title: 3.1 Designing a Mentorship-focused Program: A Step by Step Approach
+title: 3.1 Designing a Mentorship-focused Program- A Step by Step Approach
 module_name: mentoring
 module_full_name: Mentoring
 section: 3. Developing Mentors and Mentorship Programs
@@ -54,7 +54,7 @@ Think about your matching process:
 - What type of on-boarding or training will mentors be offered? 
 - Is there any incentive/recognition for the mentors? 
 
-Make a plan for launching or promoting the mentoring opportunities or connecting with possible community partners and organizations. Craft a message and talking points to deliver and present to local organizations [link to Community partnerships module]. 
+Make a plan for launching or promoting the mentoring opportunities or connecting with possible community partners and organizations. Craft a message and talking points to deliver and present to local organizations (see [Community partnerships]({{site.url}}{{site.baseurl}}/partnerships/index.html)). 
 
 ### STEP 3: Guide both your mentors and mentees. 
 

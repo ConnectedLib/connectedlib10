@@ -32,5 +32,5 @@ The point of evaluation is to obtain information that can be used constructively
 
 <a name="fn17">17</a>:  -- W. K. Kellogg Foundation. (2004). W. K. Kellogg Foundation evaluation handbook. Battle Creek, MI: W. K. Kellogg Foundation. Retrieved from https://dmlcommons.net/wp-content/uploads/2015/12/Kellog-2006.pdf, p. 3
 <br> 
-<a name="fn18">18</a>:  -- <a href="http://www.informalscience.org/evaluation/reporting-dissemination" target="_blank"<http://www.informalscience.org/evaluation/reporting-dissemination</a> 
+<a name="fn18">18</a>:  -- <a href="http://www.informalscience.org/evaluation/reporting-dissemination" target="_blank">http://www.informalscience.org/evaluation/reporting-dissemination</a> 
 <br> 

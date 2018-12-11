@@ -43,7 +43,7 @@ Different characteristics of the partnership may also vary from less to more int
 </ul>
 </div>
 
-<div class="reflection"> 
+<div class="explanatory"> 
 
 <span class="box-title">ADDITIONAL RESOURCES</span> 
 <ul>

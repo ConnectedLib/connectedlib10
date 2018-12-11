@@ -1,6 +1,6 @@
 ---
 layout: module
-title: 3.0 Overview
+title: 3.0 The Community Mapping Process
 module_name: communitymapping
 module_full_name: Community Mapping
 section: 3. The Community Mapping Process

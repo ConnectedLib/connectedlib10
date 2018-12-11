@@ -38,8 +38,8 @@ Now that you have a clear picture of the people and assets in your community, wh
   </div>
 <br>
 
-#### Footnotes:
-
+**Footnotes:**
+<br>
 <a name="fn11">11</a>:  --CSV Consulting. (2006). Community engagement in public libraries: A report on current practice and future developments. London, UK: Museums Libraries Archives Partnership. Retrieved from http://webarchive.nationalarchives.gov.uk/20080727054209/http://www.mla.gov.uk/resources/assets//C/community_engagement_report_9654.pdf
 <br>
 <a name="fn12">12</a>:  --Urban Libraries Council. (2011). Library priority: Community civic engagement (Leadership Brief). Urban Libraries Council. Retrieved from https://www.urbanlibraries.org/filebin/pdfs/ULC_Leadership_Brief_II_Full_4Pages.pdf

@@ -31,7 +31,7 @@ Don’t let the hard work you’ve done evaluating and assessing your initiative
 
   <p><span class="box-title">ADDITIONAL RESOURCES</span></p> 
 
-<ul><li>The <a href="http://diytoolkit.org/tools/learning-loop/">Learning Loop Tool</a> from the <a href="http://diytoolkit.org/tools/learning-loop/">DIY Toolkit</a> can help you use lessons learned from the past when creating a new initiative.</li></ul> 
+<ul><li>The <a href="http://diytoolkit.org/tools/learning-loop/" target="_blank">Learning Loop Tool</a> from the <a href="http://diytoolkit.org/tools/learning-loop/" target="_blank">DIY Toolkit</a> can help you use lessons learned from the past when creating a new initiative.</li></ul> 
 
   </div>
 

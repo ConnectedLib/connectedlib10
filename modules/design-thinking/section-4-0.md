@@ -29,7 +29,7 @@ Here are few common challenges--along with how to overcome them--in using design
 - Define the rules early on so youth have expectations about what they are to do. Lay out the goals. End results of a design session could be one prototype, sketch, or idea.  
 - Provide helpful examples or models of designs and outcomes so youth are given some structure or inspiration about what is possible.  
 - Describe to youth how design professionals typically work in a studio environment. For instance, they are often allowing team members to focus while also checking in with peers for feedback. 
-- Also see section on Facilitating Design Thinking.
+- Also see the section on [Facilitating Design Thinking]({{site.url}}{{site.baseurl}}/design-thinking/section-2-3.html).
 
 ## Section 4 Activities
 

@@ -35,9 +35,9 @@ Soviet psychologist Lev Vygotsky’s (1896-1934) **sociocultural learning theory
 
 <p>Blogger and former teacher JoEllen describes her personal experience with scaffolding and the ZPD in this excerpt from her <a href="http://www.cuppacocoa.com/">cuppacocoa</a> blog. She describes how she learned to parallel park:  
 
-<b>“It wasn’t until a friend sat in my car and gave me the crucial tip to wait until the side-view mirror lined up just so with the parked car in front, that I finally figured it out. He got in the driver’s seat and showed me, and then he then sat in the passenger’s seat and coached me while I tried again... <br>
+<b>“It wasn’t until a friend sat in my car and gave me the crucial tip to wait until the side-view mirror lined up just so with the parked car in front, that I finally figured it out. He got in the driver’s seat and showed me, and then he then sat in the passenger’s seat and coached me while I tried again... <br><br>
 
-I was in the zone of proximal development for parallel parking. There was a good amount of driving technique I had down, but I needed some coaching to get parallel parking down. A friend was there, he saw what I was doing, knew how to fix it, and showed me the way.”</b><br>
+I was in the zone of proximal development for parallel parking. There was a good amount of driving technique I had down, but I needed some coaching to get parallel parking down. A friend was there, he saw what I was doing, knew how to fix it, and showed me the way.”</b><br><br>
 
 Read the rest of her post, <a href="http://www.cuppacocoa.com/the-zone-of-proximal-development/">The Zone of Proximal Development</a>.</p>  
 </div> 

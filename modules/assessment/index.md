@@ -20,10 +20,10 @@ subsection: overview
 
 **After completing the Assessment and Evaluation module, you will be able to…**
 <ul class="fancy">
-	<li>Describe evaluation and assessment (<a href="{{site.url}}{{site.baseurl}}/assessment/section-1-0.md">Section 1: Introduction</a>).</li>
-	<li>Conduct an assessment of a connected learning project (<a href="{{site.url}}{{site.baseurl}}/assessment/section-2-0/">Section 2: Assessment</a>).</li>
-	<li>Conduct an evaluation of a connected learning project (<a href="{{site.url}}{{site.baseurl}}/assessment/section-3-0.md">Section 3: Evaluation</a>).</li>
-	<li>Share and use the results of your evaluation (<a href="{{site.url}}{{site.baseurl}}/assessment/section-4.md">Section 4: Now What?</a>).</li>
+	<li>Describe evaluation and assessment (<a href="{{site.url}}{{site.baseurl}}/assessment/section-1-0.html">Section 1: Introduction</a>).</li>
+	<li>Conduct an assessment of a connected learning project (<a href="{{site.url}}{{site.baseurl}}/assessment/section-2-0.html">Section 2: Assessment</a>).</li>
+	<li>Conduct an evaluation of a connected learning project (<a href="{{site.url}}{{site.baseurl}}/assessment/section-3-0.html">Section 3: Evaluation</a>).</li>
+	<li>Share and use the results of your evaluation (<a href="{{site.url}}{{site.baseurl}}/assessment/section-4-0.html">Section 4: Now What?</a>).</li>
 </ul>
 
 ### ACKNOWLEDGEMENTS 

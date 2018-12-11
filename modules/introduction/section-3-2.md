@@ -26,5 +26,5 @@ Another way connected learning builds capacity in teens is by affecting their se
 
 <p><i>“I feel I can do more now—more is loaded on me and I can get it done on a deadline time.”</i></p>
 
-<p>For the full study, see: Cybart, A. K. (2017). Resurrecting dinosaurs: How print journalism production using mobile phones impacts marginalized students in a high school classroom (Available from ProQuest Dissertations & Theses Global. (1907487050).). Teachers College, Columbia University, New York, NY. Retrieved from https://search.proquest.com/docview/1907487050?accountid=14696</p>
+<p>For the full study, see: Cybart, A. K. (2017). Resurrecting dinosaurs: How print journalism production using mobile phones impacts marginalized students in a high school classroom. Available from <a href="https://search.proquest.com/docview/1907487050?accountid=14696">ProQuest Dissertations & Theses Global</a>.</p>
 </div>

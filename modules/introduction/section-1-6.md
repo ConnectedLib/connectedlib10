@@ -7,6 +7,7 @@ title: Additional Resources
 subsection: one-six
 ---
 
+
 * [Connected Learning: An Agenda for Research and Design](https://dmlhub.net/publications/connected-learning-agenda-for-research-and-design/) is the white paper that started it all.
 
 * The [DML Research Hub](https://dmlhub.net/) is at the center of connected learning research.

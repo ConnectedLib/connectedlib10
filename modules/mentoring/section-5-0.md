@@ -1,6 +1,6 @@
 ---
 layout: module
-title: 5.0 Overview
+title: 5.0 Adult and Community Mentors
 module_name: mentoring
 module_full_name: Mentoring
 section: 5. Adult and Community Mentors

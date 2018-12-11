@@ -1,6 +1,6 @@
 ---
 layout: module
-title: 1.0 Overview
+title: 1.0 Introduction
 module_name: communitymapping
 module_full_name: Community Mapping
 section: 1. Introduction

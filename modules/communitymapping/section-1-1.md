@@ -15,7 +15,8 @@ Community asset maps take many forms, from simple lists that fit on a single pie
   <li>There is an example of a community asset map on page 38 of <a href="https://resources.depaul.edu/abcd-institute/publications/publications-by-topic/Documents/ULCReport.pdf#page=40" target="_blank">The Engaged Library: Chicago Stories of Community Building</a> from the Urban Libraries Council.</li>
   <li>This map from <a href="http://www.brighterfuturestogether.co.uk/wp-content/uploads/2012/02/assets-diagram-2-large.jpg target="_blank"">Brighter Futures Together</a> depicts assets of individuals alongside those of associations and organizations in the community.</li>
   <li>The <a href="http://healthpolicy.ucla.edu/programs/health-data/trainings/Documents/tw_cba20.pdf#page=8" target="_blank">UCLA Center for Health Policy Research</a> provides an example where the locations of assets are on a geographic map.</li>
-  </div>
+ </ul>
+ </div>
 
 Your map can be small and simple or complex and far-reaching. You can choose how detailed you want your map to be based on your needs and your resources. You can also consider it an iterative process—you could start by looking only at businesses within one mile of your library, for instance, with plans to add community organizations later, and then expand to two miles.
 <br>

@@ -37,4 +37,4 @@ Here are some questions to ask while doing evaluation:
 - What are the positives and negatives of your current inventory?
  
 
-While this is barely scratching the surface, these are important questions when assessing your technology capacity. For more information on technology evaluation in libraries, take a look at Tech Soup for Libraries’ information on <a href="http://www.techsoupforlibraries.org/Cookbooks/Planning%20for%20Success/Planning%20and%20Decision%20Making/technology-assessments">Technology Assessment</a>. 
+While this is barely scratching the surface, these are important questions when assessing your technology capacity. For more information on technology evaluation in libraries, take a look at Tech Soup for Libraries’ information on <a href="http://www.techsoupforlibraries.org/Cookbooks/Planning%20for%20Success/Planning%20and%20Decision%20Making/technology-assessments" target="_blank">Technology Assessment</a>. 

@@ -13,6 +13,7 @@ You need to collect data on your measure (or measures) in order to answer your q
 2. **What is the best method to obtain that information?** You have many choices for data collection—surveys, focus groups, interviews, and more.  
 3. **What is the best strategy for collecting that information via that method for this project?** From whom do you need to collect information? Where is the best place to reach them via the method(s) you’ve chosen? When should this happen? If there is a facilitator, whom should that be?  
 
+<br>
 <div class="case_study_box">  
 
 <p><span class="box-title">DATA COLLECTION EXAMPLES</span></p> 
@@ -57,7 +58,7 @@ The following table includes some—though certainly not all!—methods to colle
 <table>
   <tr style="background-color:#BBD0F8"><th colspan="2">ANALYZING ARTIFACTS</th></tr>
   <tr><td colspan="2">You can gain a great deal of insight from the items learners create through your initiatives, whether they are musical performances, poetry, or 3-D models. Knowledge, skill, development, attitudes, behaviors—these can all be observed in learners’ creations. You can also ask students to write about the learning experience or their creative process, and analyze their responses. </td></tr>
-<tr><td><b>Good for:</b><ul><li>Demonstrating achievement first-hand</li></td><td><b>Potential drawbacks: </b><ul><li>There can be a high level of subjectivity; be careful not to read too much into a creation (particularly a non-textual one) without input from the creator</li><li>People may not like being watched</li></ul></td></tr>
+  <tr><td><b>Good for:</b><ul><li>Demonstrating achievement first-hand</li></ul></td><td><b>Potential drawbacks: </b><ul><li>There can be a high level of subjectivity; be careful not to read too much into a creation (particularly a non-textual one) without input from the creator</li><li>People may not like being watched</li></ul></td></tr>
 </table>
 
 <table>
@@ -77,6 +78,8 @@ The following table includes some—though certainly not all!—methods to colle
   <tr><td colspan="2">Formal tests of knowledge or skills feel too much like school for a connected learning library setting, but you can find small, creative ways to “test” a teen’s progress without making it feel like an exam, such as integrating a competitive quiz towards the end of a program or presenting challenges for participants to work on. </td></tr>
   <tr><td><b>Good for:</b><ul><li>Directly assessing what a teen knows or can do</li></ul></td><td><b>Potential drawbacks: </b><ul><li>They can feel too formal and school-like</li><li>They can feel like too much pressure, especially for youth who are hanging out or messing around</li></ul></td></tr>
 </table>
+<br>
+
 
 Other methods are described in different modules; surveys and focus groups are covered in the Community Mapping module, and the Capacity module discusses interviews and town halls.   
 

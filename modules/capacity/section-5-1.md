@@ -74,6 +74,6 @@ Capacity assessment is about intimately learning about your library and its surr
 
 <div class="resources">
   <span class="box-title">IDENTIFYING COMMUNITY PARTNERSHIPS</span>
-  <p>Once you have a list of your library’s capacity needs, and have matched those needs with strengths in your community, it is time to use and build partnerships with your community to help to boost your library’s capacity. Luckily, we’ve already covered these next steps for you in the <a href="{{site.url}}{{site.baseurl}}/communitypartnerships/index.md">Community Partnerships module</a>!</p></div>
+  <p>Once you have a list of your library’s capacity needs, and have matched those needs with strengths in your community, it is time to use and build partnerships with your community to help to boost your library’s capacity. Luckily, we’ve already covered these next steps for you in the <a href="{{site.url}}{{site.baseurl}}/communitypartnerships/index.html">Community Partnerships module</a>!</p></div>
 
 Now that you have ideas on how to successfully leverage community strengths to help grow your toolbox broadly, let’s take a moment to focus on growing your library’s specific capacities in technology, space, and staffing. Each of these three aspects of your library’s unique capacity have their own considerations for leveraging community assets. 

@@ -1,6 +1,6 @@
 ---
 layout: module
-title: 6.0 Overview
+title: 6.0 Mentoring Challenges
 module_name: mentoring
 module_full_name: Mentoring
 section: 6. Mentoring Challenges

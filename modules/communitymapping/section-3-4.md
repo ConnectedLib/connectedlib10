@@ -1,6 +1,6 @@
 ---
 layout: module
-title: 3.4 Community Mapping Activiy: Record What You Learn
+title: 3.4 Community Mapping Activiy- Record What You Learn
 module_name: communitymapping
 module_full_name: Community Mapping
 section: 3. The Community Mapping Process

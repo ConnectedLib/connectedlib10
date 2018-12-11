@@ -34,7 +34,7 @@ In order to assess a library program, it is helpful to start with a simple table
 
 Notice how for each capacity area, the strengths and weaknesses were assessed for ways to improve the program. Each detail is helpful in understanding how the capacity of your library may affect your library programs, and how it contributes to the strengths and weaknesses of those programs. Thinking back to a past program can be very helpful in assessing the unique capacity of your library. 
 
-**Breaking Things Down** 
+### Breaking Things Down 
 
 Self-assessing your library’s capacity can also be done by breaking it down further into its parts: partnerships, technology (acquisition and use), space, and staffing. Here’s what something like that could look like visually:
 

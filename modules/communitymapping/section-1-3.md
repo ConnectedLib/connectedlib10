@@ -1,5 +1,14 @@
 ---
 layout: module
+title: 1.2 How does community mapping enhance connected learning?
+module_name: communitymapping
+module_full_name: Community Mapping
+section: 1. What is Community Mapping?
+subsection: one-two
+---
+
+---
+layout: module
 title: 1.3 Community mapping activity: Existing data
 module_name: communitymapping
 module_full_name: Community Mapping

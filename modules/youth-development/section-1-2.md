@@ -46,7 +46,7 @@ Read the rest of her post, <a href="http://www.cuppacocoa.com/the-zone-of-proxim
 <div class="explanatory">  
   <p><span class="box-title">SCAFFOLDING EXPLAINED</span></p> 
   <p>Scaffolding for Student Success [4:08] by Alberta Education</p>
-  <p><span><a href="https://youtu.be/CTR_snb-0nQ” target="_blank"><img src="https://img.youtube.com/vi/CTR_snb-0nQ/0.jpg"/></a></span>
+  <p><span><a href="https://youtu.be/CTR_snb-0nQ” target="_blank"><img src="https://img.youtube.com/vi/CTR_snb-0nQ/0.jpg"/></span>
 </p> 
 </div>
 <br>
@@ -91,6 +91,8 @@ Vygotsky’s sociocultural learning theory can be seen in the relationships and 
 
 
 <br>
+<br>
+**Footnotes:**
 <br>
 <a name="fn3">3</a>:  -- http://www.psy.cmu.edu/~siegler/vygotsky78.pdf
 <br>  

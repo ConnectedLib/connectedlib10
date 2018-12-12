@@ -29,5 +29,5 @@ Your map can be small and simple or complex and far-reaching. You can choose how
 
 <div class="explanatory">
   <p><span class="box-title">THE POWER OF A SIMPLE ASSET MAP</span></p>
-<span><a href="https://youtu.be/hX4pNY1S338" target="_blank"><img src="https://img.youtube.com/vi/hX4pNY1S338/0.jpg"></a> </span>
+<iframe width="560" height="315" src="https://youtu.be/hX4pNY1S338" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 </div>

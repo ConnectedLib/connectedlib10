@@ -10,7 +10,7 @@ subsection: two-one
 The asset-based community development (ABCD) model of community development,  developed by John Kretzmann and John McKnight, focuses on the strengths of a community, rather than its weaknesses, as is often typical in community development efforts. ABCD identifies five types of assets: individuals, associations (groups of individuals), institutions (formal and professional groups of people like government agencies), physical resources (like land or money), and — most importantly — connections (relationships between assets).  
 
 Watch as Cormac Russell explains why it’s important to focus on the strengths of communities, not the weaknesses: 
-<span><a href="https://www.youtube.com/watch?v=a5xR4QB1ADw&feature=youtu.be" target="_blank"><img src="https://img.youtube.com/vi/a5xR4QB1ADw/0.jpg"></a></span>
+<div><iframe width="560" height="315" src="https://www.youtube.com/watch?v=a5xR4QB1ADw&feature=youtu.be" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div>
 
 <br>
 <div class="explanatory">

@@ -61,7 +61,9 @@ Might we all have the opportunity to mentor another?
 How powerful is a single moment of validation to a young imagination? 
 Might your influence travel further than you might imagine? 
 
-<div><a href="https://vimeo.com/43862075" target="_blank"><img src="{{site.url}}{{site.baseurl}}/images/mentoring_section-1-0.jpg"></a></div>
+<div>
+<iframe width="560" height="315" src="https://vimeo.com/43862075" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+</div>
 
 
 

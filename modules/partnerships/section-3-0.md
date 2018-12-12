@@ -1,6 +1,6 @@
 ---
 layout: module
-title: 3.0 Overview
+title: 3.0 Types of Partners
 module_name: partnerships
 module_full_name: Community Partnerships
 section: 3. Types of Partners

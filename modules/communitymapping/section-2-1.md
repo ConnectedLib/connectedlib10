@@ -33,6 +33,6 @@ Watch as Cormac Russell explains why it’s important to focus on the strengths 
 <br>
 <div class="explanatory">
   <p><span class="box-title">STONE SOUP</span></p>
-  <span><a href="https://youtu.be/2X295Nnagvw" target="_blank"><img src="https://img.youtube.com/vi/2X295Nnagvw/0.jpg"></a></span>
+<iframe width="560" height="315" src="https://youtu.be/2X295Nnagvw" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
   <p>Ryan and Bourke (2008, p143) compare community assets to the ingredients of a “stone soup.” In isolation, an individual or organization might not think their “gifts” amount to much. But in combination, an entire community working together can produce something greater than the sum of its parts.</p>
 </div>

@@ -30,7 +30,7 @@ Young people are not just copying what they see: the act of observation leads th
 
 <div class="explanatory">  
   <p><span class="box-title">MENTORS</span></p> 
-  <p>Any adult or peer can model behavior, but the learning that occurs is often stronger when the model is someone who frequently interacts with a young person, or someone who the young person perceives as being similar to themselves (for instance, someone from the same cultural background, of the same gender or ethnicity, or having similar interests and passions).<sup>11</sup> These factors suggest that mentors can play a significant role in learning. (See the Mentoring module for more.)</p>
+  <p>Any adult or peer can model behavior, but the learning that occurs is often stronger when the model is someone who frequently interacts with a young person, or someone who the young person perceives as being similar to themselves (for instance, someone from the same cultural background, of the same gender or ethnicity, or having similar interests and passions).<sup><a href="#fn11">11</a></sup> These factors suggest that mentors can play a significant role in learning. (See the Mentoring module for more.)</p>
 </div>
 <br>
     
@@ -60,5 +60,5 @@ Young people are not just copying what they see: the act of observation leads th
 **Footnotes:**
 
 <a name="fn10">10</a>:  -- Bandura, A. (1986). Social foundations of thought and action: A social cognitive theory. Englewood Cliffs, NJ: Prentice-Hall.
-<br>  
+<br>
 <a name="fn11">11</a>:  --  Bandura, 1977. 

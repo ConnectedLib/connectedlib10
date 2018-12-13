@@ -77,6 +77,6 @@ Informed by both Piaget and Vygotsky, Seymour Papert (1928-2016, and a founding 
 <br>
 <a name="fn10">7</a>:  -- Wheeler, 2012, p. “How it can be applied in education”
 <br>
-<a name="fn8">8</a>:  -- (Papert & Harel, 1991)  
+<a name="fn8">8</a>:  -- (Papert & Harel, 1991)
 <br>
 <a name="fn9">9</a>:  -- Papert, 1980

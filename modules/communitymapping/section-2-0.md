@@ -1,6 +1,6 @@
 ---
 layout: module
-title: 2.0 Community Assets
+title: 2. Community Assets
 module_name: communitymapping
 module_full_name: Community Mapping
 section: 2. Community Assets

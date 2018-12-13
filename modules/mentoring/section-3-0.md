@@ -1,6 +1,6 @@
 ---
 layout: module
-title: 3.0 Developing Mentors and Mentorship Programs
+title: 3. Developing Mentors and Mentorship Programs
 module_name: mentoring
 module_full_name: Mentoring
 section: 3. Developing Mentors and Mentorship Programs

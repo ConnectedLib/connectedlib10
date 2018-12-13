@@ -1,6 +1,6 @@
 ---
 layout: module
-title: 2.0 Assessment
+title: 2. Assessment
 module_name: assessment
 module_full_name: Assessment and Evaluation
 section: 2. Assessment

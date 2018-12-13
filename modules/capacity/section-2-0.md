@@ -2,7 +2,7 @@
 layout: module
 module_name: capacity
 module_full_name: Capacity
-title: 2.0 Before You Start
+title: 2. Before You Start
 section: 2. Before You Start
 subsection: two-zero
 ---

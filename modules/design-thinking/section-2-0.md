@@ -1,6 +1,6 @@
 ---
 layout: module
-title: 2.0 Exploring a Design Challenge
+title: 2. Exploring a Design Challenge
 module_name: design-thinking
 module_full_name: Design Thinking
 section: 2. Exploring a Design Challenge

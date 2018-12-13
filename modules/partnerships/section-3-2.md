@@ -53,7 +53,7 @@ Private individuals, local businesses, and community groups that are not oriente
 
   <li>Beyond Public Exhibits to Partnerships (Norman Morton, 2005). American Libraries, 2005(November), 42–45.</li>
 
-  <li><a href="http://www.nisenet.org/catalog/guide-building-partnerships-between-science-museums-and-university-based-research-centers">A Guide to Building Partnerships Between Science Museums and University-Based Research Centers</a>. (Carol Lynn Alpert, 2013). Advice for working with universities, researchers, and academics. Available online: <a href="http://www.nisenet.org/catalog/guide-building-partnerships-between-science-museums-and-university-based-research-centers">http://www.nisenet.org/catalog/guide-building-partnerships-between-science-museums-and-university-based-research-centers</a></li>
+  <li><a href="http://www.nisenet.org/catalog/guide-building-partnerships-between-science-museums-and-university-based-research-centers" target="_blank">A Guide to Building Partnerships Between Science Museums and University-Based Research Centers</a>. (Carol Lynn Alpert, 2013). Advice for working with universities, researchers, and academics. Available online: <a href="http://www.nisenet.org/catalog/guide-building-partnerships-between-science-museums-and-university-based-research-centers" target="_blank">http://www.nisenet.org/catalog/guide-building-partnerships-between-science-museums-and-university-based-research-centers</a></li>
 </ul>
 </div>
 <br>

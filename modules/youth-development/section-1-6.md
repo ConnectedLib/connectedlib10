@@ -24,9 +24,7 @@ Each stage is marked a “crisis,” or tension, that must be resolved before fo
 <div class="case_study_box">  
   <p><span class="box-title">JUST FOR FUN: PSYCHOSOCIAL THEORY ANIMATED</span></p> 
   <p>Disney Pixar and Erik Erikson's Eight Stages of Development [5:47] by Alyssa O'Boyle, <a href="https://www.youtube.com/channel/UCpaHNJGTMPFtM-Rmd_RsfzA">Ryanne Ehrman</a>, & Jiarun He</p>
-  
-<p><span><a href="https://www.youtube.com/watch?v=OhBbE8hSz1I” target="_blank"><img src="https://img.youtube.com/vi/OhBbE8hSz1I/0.jpg"/></a></span></p>
-  <iframe width="560" height="315" src="https://www.youtube.com/watch?v=OhBbE8hSz1I" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OhBbE8hSz1I" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 <br>
     

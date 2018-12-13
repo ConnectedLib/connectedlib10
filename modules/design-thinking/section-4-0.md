@@ -1,6 +1,6 @@
 ---
 layout: module
-title: 4.0 Overcoming Challenges
+title: 4. Overcoming Challenges
 module_name: design-thinking
 module_full_name: Design Thinking
 section: 4. Overcoming Challenges

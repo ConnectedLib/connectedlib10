@@ -15,6 +15,7 @@ What is identity and how does it develop? There are two classic theoretical appr
 
 - **Sociological views of identity** treat identity as a social and cultural construction, arguing that we become ourselves as we interact and learn from people, culture, and society. Teens engage in **impression management**, particularly online, to manage other people’s perceptions of them. This is complicated when family, peer, and school contexts are present in an online space.  
 
+<br>
 <div class="explanatory">  
 
   <p><span class="box-title">ONLINE SELF EXPRESSION AND “THE PACKAGED SELF”</span></p> 
@@ -53,6 +54,7 @@ Researchers Denise Agosto and Sandra Hughes-Hassell study the “everyday life i
 
 These different selves reveal both the types of searches teens may engage in as well as the developmental needs that motivate their information behavior. 
 
+<br>
 <div class="reflection"> 
 
   <p><span class="box-title">REFLECTION</span></p> 

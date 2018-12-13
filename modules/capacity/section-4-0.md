@@ -2,7 +2,7 @@
 layout: module
 module_name: capacity
 module_full_name: Capacity
-title: 4.0 Determining Community Need
+title: 4. Determining Community Need
 section: 4. Determining Community Need
 subsection: four-zero
 ---

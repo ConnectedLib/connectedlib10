@@ -1,6 +1,6 @@
 ---
 layout: module
-title: 3.0 Introduction
+title: 3. Teens and Digital Media
 module_name: youth-development
 module_full_name: Youth Development
 section: 3. Teens and Digital Media

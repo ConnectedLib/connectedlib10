@@ -1,6 +1,6 @@
 ---
 layout: module
-title: 4.0 Youth as Mentors
+title: 4. Youth as Mentors
 module_name: mentoring
 module_full_name: Mentoring
 section: 4. Youth as Mentors

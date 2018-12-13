@@ -1,6 +1,6 @@
 ---
 layout: module
-title: 1.0 Introduction
+title: 1. Introduction
 module_name: assessment
 module_full_name: Assessment and Evaluation
 section: 1. Introduction

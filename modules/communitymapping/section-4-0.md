@@ -30,7 +30,7 @@ Now that you have a clear picture of the people and assets in your community, wh
 - **Continue working with the community.** Getting the community involved in your library is more than just talking to them and asking them questions, it is empowering them to help make a difference<sup>[11](#fn11)</sup>. If a public library puts the community’s voices at the center of their planning, the library will in turn become the center of the community. Public libraries are ideally positioned to be leaders of civic engagement in the community, and thoroughly understanding that community is a key part of that role<sup>[12](#fn12)</sup>. (See the Civic Engagement module to learn more.) 
 
 - **Share your work with the community.** Share your final product with the community, especially with the people and organizations you talked to while you were creating it. Continue to share the impacts the project has as time passes.
-
+<br>
 <div style="background-color:#BBD0F8">  
   <p><span class="box-title">PHEW, YOU'RE DONE...RIGHT?</span></p>
 <p>Although we’ve laid out a linear set of steps for a community mapping project, you’ll never be “done” learning about your community. Even within a single mapping effort, you will probably find yourself going back and forth among the concepts covered in other modules—like capacity, or partnerships—and you probably won’t complete steps 1, 2, and 3 as discrete steps. You should continually reference and update your community map as you develop connected learning programs and services for your teens. 
@@ -40,6 +40,6 @@ Now that you have a clear picture of the people and assets in your community, wh
 
 **Footnotes:**
 <br>
-<a name="fn11">11</a>:  --CSV Consulting. (2006). Community engagement in public libraries: A report on current practice and future developments. London, UK: Museums Libraries Archives Partnership. Retrieved from http://webarchive.nationalarchives.gov.uk/20080727054209/http://www.mla.gov.uk/resources/assets//C/community_engagement_report_9654.pdf
+<a name="fn11">11</a>:  --CSV Consulting. (2006). Community engagement in public libraries: A report on current practice and future developments. London, UK: Museums Libraries Archives Partnership. Retrieved from <a href="http://webarchive.nationalarchives.gov.uk/20080727054209/http://www.mla.gov.uk/resources/assets//C/community_engagement_report_9654.pdf"></a>
 <br>
-<a name="fn12">12</a>:  --Urban Libraries Council. (2011). Library priority: Community civic engagement (Leadership Brief). Urban Libraries Council. Retrieved from https://www.urbanlibraries.org/filebin/pdfs/ULC_Leadership_Brief_II_Full_4Pages.pdf
+<a name="fn12">12</a>:  --Urban Libraries Council. (2011). Library priority: Community civic engagement (Leadership Brief). Urban Libraries Council. Retrieved from <a href="https://www.urbanlibraries.org/filebin/pdfs/ULC_Leadership_Brief_II_Full_4Pages.pdf"></a>

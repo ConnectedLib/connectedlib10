@@ -41,12 +41,11 @@ Informed by both Piaget and Vygotsky, Seymour Papert (1928-2016, and a founding 
 
 **Production-centered** learning that is based on learners’ own **interests** are two principles of connected learning that were directly inspired by constructionism. Constructionist learning experiences can involve:  
 
--Learning that is characterized as learner-centered, active, hands-on, or project-based<sup>[6](#fn6)</sup>  
--Facilitators who guide learners but allow them to make decisions about the direction of their project 
--“Tools that can promote the making of objects<sup>[7](#fn7)</sup>” like robotics kits, 3D printers, or even a simple craft set 
--Self-directed learning that allows youth to experiment with tools and relate them to their own personal interests<sup>[8](#fn8)</sup>
-
--Technologies that provide flexibility and openness,<sup>[9](#fn9)</sup> like <a href="https://education.lego.com/en-us/middle-school/shop/products?gclid=Cj0KEQjwmcTJBRCYirao6oWPyMsBEiQA9hQPboKcMkN_KrvRpaYdsnS1_trkGgx4U2pmcwCIWt3b4t4aAmuL8P8HAQ" target="_blank">Lego Mindstorms</a>, which allow learners to build and program a robot themselves. (Lego Mindstorms were inspired by and named after Papert’s book <a href="https://mindstorms.media.mit.edu/" target="_blank">Mindstorms: Children, Computers, And Powerful Ideas</a>) 
+- Learning that is characterized as learner-centered, active, hands-on, or project-based<sup>[6](#fn6)</sup>  
+- Facilitators who guide learners but allow them to make decisions about the direction of their project 
+- “Tools that can promote the making of objects<sup>[7](#fn7)</sup>” like robotics kits, 3D printers, or even a simple craft set 
+- Self-directed learning that allows youth to experiment with tools and relate them to their own personal interests<sup>[8](#fn8)</sup>
+- Technologies that provide flexibility and openness,<sup>[9](#fn9)</sup> like <a href="https://education.lego.com/en-us/middle-school/shop/products?gclid=Cj0KEQjwmcTJBRCYirao6oWPyMsBEiQA9hQPboKcMkN_KrvRpaYdsnS1_trkGgx4U2pmcwCIWt3b4t4aAmuL8P8HAQ" target="_blank">Lego Mindstorms</a>, which allow learners to build and program a robot themselves. (Lego Mindstorms were inspired by and named after Papert’s book <a href="https://mindstorms.media.mit.edu/" target="_blank">Mindstorms: Children, Computers, And Powerful Ideas</a>) 
 
 <div class="reflection"> 
 

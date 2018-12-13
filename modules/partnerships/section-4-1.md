@@ -11,15 +11,18 @@ When you first approach your partner, you can bring a partnership idea to the ta
 
 Don’t underestimate the value of starting small, with informal conversations, a small pilot program or a trial collaboration.<sup>[33,](#fn33)</sup><sup>[34](#fn34)</sup> Starting off with a small or one-off collaboration can be a great way to test the waters of a partnership. Whereas a formal partnership with a larger organization may require paperwork and managerial support, smaller efforts are easier, less time-consuming, and can be evidence in support of a more extensive partnership if they go well.<sup>[35](#fn35)</sup> One way to start small is by finding community events that are already in the planning stages, and offering support or involvement from the library.<sup>[36](#fn36)</sup>
 
+
 **PREPARING YOUR PITCH**
 
 A community partnership should benefit all stakeholders — the library, the partner, and the community. When proposing a collaboration, it’s important to understand and articulate how the project will benefit each of these. Developing an “elevator speech” for your library or specifically for your youth services department will help you when you approach potential partners.<sup>[37](#fn37)</sup> Elevator speeches or pitches are “brief opportunities—maybe one minute or less—to pique the interest of anyone whose ear you’d like to bend about libraries.”<sup>[38](#fn38)</sup> The elevator speech should be specific to your library, and maybe even a single branch, and should highlight the unique contributions the library can bring to the partnership and the impact it can have on youth. Although you may need to tailor the pitch for each potential partner, crafting a flexible, reusable template will save time when you set up future partnerships. 
+
 
 **BUILDING A RELATIONSHIP**
 
 >“It was just a get-to-know-you lunch. Yet, unbeknownst to us, as we sipped soup and ordered sandwiches, we were laying the groundwork for a long, fruitful partnership.” -- Kathleen Baxter and Susan M. Haggberg<sup>[39](#fn39)</sup> 
 
-You can start building relationships with other organizations without a concrete or even a vague goal in mind. Networking with people who have a different perspective on the youth in your community is valuable in and of itself. It’s also a good idea to have an idea of what other organizations are doing for youth, so you don’t duplicate efforts. Informal relationships are often the catalyst for creative partnership ideas born out of simply chatting with each other about your work.  
+You can start building relationships with other organizations without a concrete or even a vague goal in mind. Networking with people who have a different perspective on the youth in your community is valuable in and of itself. It’s also a good idea to have an idea of what other organizations are doing for youth, so you don’t duplicate efforts. Informal relationships are often the catalyst for creative partnership ideas born out of simply chatting with each other about your work.
+
 
 **WHAT IF THEY SAY NO?**
 
@@ -27,7 +30,7 @@ You can start building relationships with other organizations without a concrete
 
 No matter how persuasive and well-crafted your pitch is, you may be turned down. Don’t take it personally. Turn it into a learning experience by understanding why the potential partner wasn’t on board. Did you start the conversation with a fully formed concept, without letting them share their input and expertise? Accept critical feedback with grace and an open mind, then determine if it is worth adjusting your approach moving forward. Perhaps you can even re-approach the same partner in the future.
 
-<div class="pointers"> 
+<div class="tips"> 
  <p><span class="box-title">QUESTIONS TO ASK YOUR PARTNER BEFORE MAKING PLANS</span></p>
   <p> You should adapt this list for each partner, but here are some questions to start with to help you understand your partner’s needs and situations.</p>
 <br>
@@ -53,7 +56,8 @@ No matter how persuasive and well-crafted your pitch is, you may be turned down.
 
 Depending on the size and formality of your project, a written agreement, contract, or memorandum of understanding may be useful or even required.<sup>[40,](#fn40)</sup><sup>[41](#fn41)</sup> Contracts are legally binding and are particularly important in situations that involve money, intellectual property, or other resources of value; a memorandum of understanding is not legally binding, but is useful for clarifying and recording agreements.<sup>[42,](#fn42)</sup> 
 
-<div class="pointers"> 
+<br>
+<div class="tips"> 
  <p><span class="box-title">WHAT GOES INTO A MOU?  </span></p>
   <p>Each memorandum of understanding, or MOU, may be a little different, depending on the organizations involved and the nature of the project, but here are some questions that they should usually answer: </p>
 <br>
@@ -76,7 +80,7 @@ Depending on the size and formality of your project, a written agreement, contra
 </div>
 <br>
 <br>
-<div class="resources"> 
+<div class="explanatory"> 
 
 <p><span class="box-title">ADDITIONAL RESOURCES</span></p> 
 
@@ -91,7 +95,7 @@ Depending on the size and formality of your project, a written agreement, contra
 
 <a name="fn31">31</a>:  -- Cassell, Kay Ann, and Kathleen Weibel. “Celebrating Women’s History Month at Your Library.” American Libraries, March 2010. 
 <br>
-<a name="fn32">32</a>:  -- McCarthy, Catherine, and Brad Herring. “Museum & Community Partnerships: Collaboration Guide for Museums Working with Community Youth-Serving Organizations.” NISE Network, 2015. http://www.nisenet.org/sites/default/files/NISE%20Network%20Collaboration%20Guide%2011-20-2015%20FINAL.pdf.  
+<a name="fn32">32</a>:  -- McCarthy, Catherine, and Brad Herring. “Museum & Community Partnerships: Collaboration Guide for Museums Working with Community Youth-Serving Organizations.” NISE Network, 2015. http://www.nisenet.org/sites/default/files/NISE%20Network%20Collaboration%20Guide%2011-20-2015%20FINAL.pdf.
 <br>
 <a name="fn33">33</a>:  -- Coalition to Advance Learning in Archives, Libraries and Museums. “Best Practices in Collaboration.” Coalition to Advance Learning in Archives, Libraries and Museums, 2016. http://www.coalitiontoadvancelearning.org/why-collaborate/best-practices-in-collaboration/.
 <br>

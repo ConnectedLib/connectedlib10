@@ -20,7 +20,7 @@ Questions to think about are:
 <br>
 <div class="explanatory">
   <span class="box-title">WHAT IS COMMUNITY</span><br>
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/3UpOSFL5mq" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UpOSFL5mq4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 <br>
 

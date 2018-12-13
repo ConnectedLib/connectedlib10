@@ -1,6 +1,6 @@
 ---
 layout: module
-title: 2.3 Community Mapping Activity: Potential Assets
+title: 2.3 Community Mapping Activity- Potential Assets
 module_name: communitymapping
 module_full_name: Community Mapping
 section: 2. Community Assets

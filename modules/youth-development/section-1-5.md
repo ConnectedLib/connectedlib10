@@ -30,6 +30,7 @@ Bronfenbrenner’s model is a series of nested contexts:
 
 Each of these systems interrelate and interact with one another, demonstrating the role of environmental factors in a young person’s development over time. 
 
+<br>
 <div class="explanatory">  
   <p><span class="box-title">DIGITAL TECHNOLOGY THROUGH AN ECOLOGICAL LENS</span></p> 
   <p>Excerpt from LIS 516: Youth Development and Behavior in a Digital Age [0:45] by Dr. Katie Davis and the University of Washington 

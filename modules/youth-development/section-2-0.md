@@ -1,6 +1,6 @@
 ---
 layout: module
-title: 2.0 Introduction
+title: 2. Developing an Identity
 module_name: youth-development
 module_full_name: Youth Development
 section: 2. Developing an Identity

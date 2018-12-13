@@ -22,7 +22,7 @@ Given the variety of methods and goals for assessing a connected learning initia
 <div class="explanatory">  
 
   <p><span class="box-title">QUANTITATIVE ANALYSIS</span></p> 
-<p><span><a href="https://youtu.be/2kVnsbGdanI" target="_blank"><img src="{{site.url}}{{site.baseurl}}/images/quant_analysis_assessment_2.0.jpg"/></a></span></p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2kVnsbGdanI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <p>In this 50-minute webinar, Wendi Ackerman from Upstate Health Service Library in provides a detailed overview of quantitative analysis in libraries.</p> 
 
   </div>

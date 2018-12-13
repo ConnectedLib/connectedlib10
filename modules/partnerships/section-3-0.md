@@ -11,7 +11,7 @@ Although each partnership will be unique and require tailored approaches, the ba
 
 ## Learning Outcomes For This Section
 
-**After completing Section 2, Types of Partners you will be able to...**
+**After completing Section 3. Types of Partners you will be able to...**
 <ul class="fancy">
   <li>Understand the opportunities and challenges involved in working with four different types of partners</li>
 </ul>
@@ -20,4 +20,4 @@ In this section, we will look more closely at four common types of partners: (1)
 
 **IDENTIFYING POTENTIAL PARTNERS**
 
-You probably already have some potential partners in mind, but a community mapping project can help you identify more. See the [Community Mapping Module]({{site.url}}{{site.baseurl}}/communitymapping/index.html) for more.
+You probably already have some potential partners in mind, but a community mapping project can help you identify more. See the [Community Mapping Module]({{site.url}}{{site.baseurl}}/modules/communitymapping/index.html) for more.

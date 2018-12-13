@@ -1,6 +1,6 @@
 ---
 layout: module
-title: 4.0 Now What?
+title: 4. Now What?
 module_name: assessment
 module_full_name: Assessment and Evaluation
 section: 4. Now What?

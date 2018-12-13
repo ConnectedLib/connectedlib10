@@ -1,6 +1,6 @@
 ---
 layout: module
-title: 1.0 Introduction
+title: 1. Theories of Youth Development
 module_name: youth-development
 module_full_name: Youth Development
 section: 1. Theories of Youth Development

@@ -9,10 +9,10 @@ subsection: two-three
 
 In this section, we will explore young people’s moral and ethical development. Networked technologies have presented new moral and ethical challenges. 
 
+
 **KOHLBERG’S STAGES OF MORAL DEVELOPMENT** 
 
 Inspired by Piaget, psychologist Lawrence Kohlberg (1927-1987) theorized that a child’s morality develops in tandem with their cognitive development. According to his model, young people become more adept at addressing moral dilemmas at each stage of moral development. 
-
 
 <table class="basic"> 
 
@@ -29,7 +29,6 @@ Inspired by Piaget, psychologist Lawrence Kohlberg (1927-1987) theorized that a 
   <tr><td>Universal ethical principles</td></tr> 
 
 </table>
-
 <br> 
 
 <div class="explanatory">  
@@ -58,7 +57,7 @@ In the book Disconnected: Youth, new media, and the ethics gap, researcher Carri
 - Capacity to multi-task 
 - Partial attention 
 
-In a study conducted by <a href="http://www.pz.harvard.edu/projects/the-good-play-project">The Good Play Project</a>, researchers examined how young people think about their online lives, make choices online, and respond to moral and ethical dilemmas they face in digital environments. During interviews with young people ages 10-25 as well as parents and teachers, the researchers posed hypothetical moral dilemmas that involved digital and networked technologies.  
+In a study conducted by <a href="http://www.pz.harvard.edu/projects/the-good-play-project" target="_blank">The Good Play Project</a>, researchers examined how young people think about their online lives, make choices online, and respond to moral and ethical dilemmas they face in digital environments. During interviews with young people ages 10-25 as well as parents and teachers, the researchers posed hypothetical moral dilemmas that involved digital and networked technologies.  
 
 The responses from young people interviewed uncovered three types of thinking when faced with online moral and ethical dilemmas: 
 
@@ -90,8 +89,6 @@ Young people are often bombarded with messaging about online safety from parents
 </div>
 <br>
 
-<br> 
-
 <div class="explanatory">  
 
   <p><span class="box-title">ADDITIONAL RESOURCES</span></p> 
@@ -99,8 +96,7 @@ Young people are often bombarded with messaging about online safety from parents
 <p><a href="https://www.chatelaine.com/living/features-living/social-media-teens/">https://www.chatelaine.com/living/features-living/social-media-teens/</a> <br>
 
 Explore the <a href="https://www.commonsense.org/education/digital-citizenship">Digital Literacy and Citizenship Classroom Curriculum</a>. Brainstorm some ways you can incorporate digital literacy and digital literacy into your programming or activities within a library setting. </p> 
-</div> 
-<br>
+</div>
 
 <br>
 <div class="reflection"> 
@@ -109,7 +105,7 @@ Explore the <a href="https://www.commonsense.org/education/digital-citizenship">
   <p>
   Kohlberg used the following scenario to explore moral reasoning. He was not interested in what people answered, but why they answered however they did.<br>
 
-A woman was on her deathbed. There was one drug that the doctors thought might save her. It was a form of radium that a druggist in the same town had recently discovered. The drug was expensive to make, but the druggist was charging ten times what the drug cost him to produce. He paid $200 for the radium and charged $2,000 for a small dose of the drug. The sick woman's husband, Heinz, went to everyone he knew to borrow the money, but he could only get together about $1,000 which is half of what it cost. He told the druggist that his wife was dying and asked him to sell it cheaper or let him pay later. But the druggist said: “No, I discovered the drug and I'm going to make money from it.” So Heinz got desperate and broke into the man's laboratory to steal the drug for his wife. Should Heinz have broken into the laboratory to steal the drug for his wife? Why or why not?<sup>21</sup> <br>
+A woman was on her deathbed. There was one drug that the doctors thought might save her. It was a form of radium that a druggist in the same town had recently discovered. The drug was expensive to make, but the druggist was charging ten times what the drug cost him to produce. He paid $200 for the radium and charged $2,000 for a small dose of the drug. The sick woman's husband, Heinz, went to everyone he knew to borrow the money, but he could only get together about $1,000 which is half of what it cost. He told the druggist that his wife was dying and asked him to sell it cheaper or let him pay later. But the druggist said: “No, I discovered the drug and I'm going to make money from it.” So Heinz got desperate and broke into the man's laboratory to steal the drug for his wife. Should Heinz have broken into the laboratory to steal the drug for his wife? Why or why not?<sup><a href="#fn21>21</a></sup> <br>
 
 Answer the question, making sure you write down why you think the man should or should not have stolen the drug. Then review the explanations on the <a href="https://en.wikipedia.org/wiki/Heinz_dilemma">Heinz dilemma Wikipedia page</a>, and identify which stage of moral reasoning you were using to come up with your answer.<br>
 
@@ -121,4 +117,4 @@ Explain the dilemma to other people (including some teens and children if possib
 
 **Footnotes:**
 
-<a name="fn21">21</a>:  -- https://en.wikipedia.org/wiki/Heinz_dilemma
+<a name="fn21">21</a>:  -- <a href="https://en.wikipedia.org/wiki/Heinz_dilemma" target="_blank">https://en.wikipedia.org/wiki/Heinz_dilemma</a>

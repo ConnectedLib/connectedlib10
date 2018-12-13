@@ -16,10 +16,9 @@ Private individuals, local businesses, and community groups that are not oriente
 <div class="resources"> 
 
 <span class="box-title">COMMUNITY PARTNERS: MAKING STUDENT LEARNING RELEVANT</span> 
-<img src="https://github.com/ConnectedLib/Connected-Learning-Modules/blob/master/images/community_partners_video_section3-2.JPG"><br>
-<p>Edutopia. Community Partners: Making Student Learning Relevant, 2016. <a href="https://www.youtube.com/watch?v=30oAIh5y3gE">https://www.youtube.com/watch?v=30oAIh5y3gE</a></p> 
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=30oAIh5y3gE" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 </div>
-
+<br>
 <table> 
 <tr style="background-color:#000000"><th style="color: white;" colspan = "2">OPPORTUNITIES</th></tr> 
 <tr><th style="background-color:#E8B2AB">MATERIALS AND EQUIPMENT</th><td>Businesses can easily contribute by providing access to equipment that the library doesn’t own, demoing or loaning products like gaming consoles or 3D printers.<sup>23,24</sup> They can donate craft materials, prizes, or even snacks — for instance, a game store could donate prizes for video game tournaments, and a cinema or grocery store could donate popcorn for movie night.</td></tr> 
@@ -27,8 +26,7 @@ Private individuals, local businesses, and community groups that are not oriente
 <tr><th style="background-color:#D8C5E1">PARENTS AND FAMILY MEMBERS</th><td>Parents and family members of teens who are already regular library users already know something about what the library does and what you have to offer teens. They can be valuable resources, either as volunteers themselves or as connections to businesses or community groups.</td></tr>
 <tr><th style="background-color:#59adc0">EXCHANGING EXPERTISE</th><td>Library staff can provide expertise that the partnering group doesn’t have, and vice versa. For instance, a community MakerSpace can help repair a library’s broken 3D printer, while the library staff can help Makers with grant writing.</td></tr>
 </table>
-
-
+<br>
 <table> 
 <tr style="background-color:#000000"><th style="color: white;" colspan = "2">CHALLENGES</th></tr> 
 <tr><th bgcolor="#cc3300">COPORATE POLICY</th><td>Be flexible; a business may have policies that prevent them from participating in your plan, but they may be able to help out another way.<sup>25</sup> Don’t be afraid to think big — a business may be more willing to sponsor a bigger project that makes an impression, even if it costs more.<sup>26</sup> If you’re interested in a partnership with a chain or corporation, start by talking to a manager or assistant manager at the local store, not the company headquarters.<sup>27</sup></td></tr> 
@@ -62,14 +60,14 @@ Private individuals, local businesses, and community groups that are not oriente
 
 #### Footnotes:
 
-<a name="fn22">22</a>:  --Hill, Chrystie, Merrilee Proffitt, and Sharon Streams, eds. IMLS Focus: Learning in Libraries. Kansas City, MO: Institute of Museum and Library Services, 2015, 11. <http://www.imls.gov/assets/1/AssetManager/IMLS_Focus_Learning_in_Libraries_Final_Report.pdf>.
+<a name="fn22">22</a>:  --Hill, Chrystie, Merrilee Proffitt, and Sharon Streams, eds. IMLS Focus: Learning in Libraries. Kansas City, MO: Institute of Museum and Library Services, 2015, 11. <a href="http://www.imls.gov/assets/1/AssetManager/IMLS_Focus_Learning_in_Libraries_Final_Report.pdf" target="_blank">http://www.imls.gov/assets/1/AssetManager/IMLS_Focus_Learning_in_Libraries_Final_Report.pdf</a>.
 <br>
-<a name="fn23">23</a>:  --Iser, Stephanie. “Partnerships for Teen Tech Week.” Young Adult Library Services, 2008. <https://www.questia.com/library/journal/1G1-176131699/partnerships-for-teen-tech-week>.
+<a name="fn23">23</a>:  --Iser, Stephanie. “Partnerships for Teen Tech Week.” Young Adult Library Services, 2008. <a href="https://www.questia.com/library/journal/1G1-176131699/partnerships-for-teen-tech-week" target="_blank">https://www.questia.com/library/journal/1G1-176131699/partnerships-for-teen-tech-week</a>.
 <br>
-<a name="fn24">24</a>:  --Strock, Adrienne L. “Reaching beyond Library Walls: Strengthening Services and Opportunities through Partnerships and Collaborations.” Young Adult Library Services, 2014. <https://www.questia.com/library/journal/1G1-389260588/reaching-beyond-library-walls-strengthening-services>.
+<a name="fn24">24</a>:  --Strock, Adrienne L. “Reaching beyond Library Walls: Strengthening Services and Opportunities through Partnerships and Collaborations.” Young Adult Library Services, 2014. <a href="https://www.questia.com/library/journal/1G1-389260588/reaching-beyond-library-walls-strengthening-services" target="_blank">https://www.questia.com/library/journal/1G1-389260588/reaching-beyond-library-walls-strengthening-services</a>.
 <br>
-<a name="fn25">25</a>:  --Iser, Stephanie. “Partnerships for Teen Tech Week.” Young Adult Library Services, 2008. <https://www.questia.com/library/journal/1G1-176131699/partnerships-for-teen-tech-week>.
+<a name="fn25">25</a>:  --Iser, Stephanie. “Partnerships for Teen Tech Week.” Young Adult Library Services, 2008. <a href="https://www.questia.com/library/journal/1G1-176131699/partnerships-for-teen-tech-week" target="_blank">https://www.questia.com/library/journal/1G1-176131699/partnerships-for-teen-tech-week</a>.
 <br>
 <a name="fn26">26</a>:  --Engelfried, Steven, and Angela Reynolds. “Sponsorship 101: How Partnerships Can Expand Summer Reading.” American Libraries, 2002.
 <br>
-<a name="fn27">27</a>:  -- Iser, Stephanie. “Partnerships for Teen Tech Week.” Young Adult Library Services, 2008. <https://www.questia.com/library/journal/1G1-176131699/partnerships-for-teen-tech-week.>
+<a name="fn27">27</a>:  -- Iser, Stephanie. “Partnerships for Teen Tech Week.” Young Adult Library Services, 2008. <a href="https://www.questia.com/library/journal/1G1-176131699/partnerships-for-teen-tech-week" target="_blank">https://www.questia.com/library/journal/1G1-176131699/partnerships-for-teen-tech-week</a>

@@ -11,7 +11,7 @@ subsection: four-two
 
 >“Communicate often and very far ahead of time.” -- Western Urban Library 
 
-New partnerships will always have an element of the unknown for both you and your partner, which may be stressful for both of you.44 As a rural midwestern library worker admitted frankly, “It's always a bit nerve-wracking the first couple of times that we have a partner in 'cause you make your follow-up calls, you do what you can, and then you find out how things go. And either they're excellent or….” The following strategies will increase the odds of an “excellent” partnership. 
+New partnerships will always have an element of the unknown for both you and your partner, which may be stressful for both of you.<sup>[44](#fn44)</sup> As a rural midwestern library worker admitted frankly, “It's always a bit nerve-wracking the first couple of times that we have a partner in 'cause you make your follow-up calls, you do what you can, and then you find out how things go. And either they're excellent or….” The following strategies will increase the odds of an “excellent” partnership. 
 
 <table> 
 <tr style="background-color:#000000"><th style="color: white;" colspan = "2">SUCCESSFUL PARTNERSHIPS RELY ON...</th></tr> 
@@ -30,10 +30,8 @@ Make sure you both understand what is needed to fill your roles successfully. Fo
 <p>The United Nations High Commissioner for Refugees (UNHCR) relies heavily on partnerships to coordinate help and services all over the world. From a wealth of experience, they developed a list of partnership best practices, some of which are listed below:</p>
 <ul> 
 
-<li>BUnderstand each partner’s point of view</li> 
-
-<li>RLearn from each other</li> 
-
+<li>Understand each partner’s point of view</li> 
+<li>Learn from each other</li> 
 <li>Commit jointly to excellence and improvement</li> 
 <li>Commit to transparency and information sharing</li>
 <li>Look for synergy (making the whole greater than the sum of its parts)</li>

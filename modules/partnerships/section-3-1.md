@@ -15,22 +15,22 @@ Libraries are centers for informal learning, so other informal learning institut
 <table> 
 <tr style="background-color:#000000"><th style="color: white;" colspan = "2">OPPORTUNITIES</th></tr> 
 <tr><th style="background-color:#E8B2AB">SIMILAR PROGRAMS AND GOALS</th><td>Since informal learning institutions often share similar missions, the programs they develop and they goals they set are often similar as well, making collaboration easier.<sup>17,18</sup></td></tr> 
-<tr><th style="background-color:#CCEDC3">OUTREACH STAFF</th><td>For smaller initiatives, possibly ones that can be pilot cases for larger collaborations, most of these institutions will have someone who focuses on outreach or even specifically on youth outreach—look for words like “education” or “public programs” in job titles or department names to help identify the right person to approach.<sup>[19](#fn19)</sup></td></tr>
+<tr><th style="background-color:#CCEDC3">OUTREACH STAFF</th><td>For smaller initiatives, possibly ones that can be pilot cases for larger collaborations, most of these institutions will have someone who focuses on outreach or even specifically on youth outreach—look for words like “education” or “public programs” in job titles or department names to help identify the right person to approach.<sup>19</sup></td></tr>
 <tr><th style="background-color:#D8C5E1">NEW AUDIENCES</th><td>Larger informal learning institutions are less likely to need or want the library to bring programming to their space, since they have probably developed their own programming, but may value the opportunity to reach new audiences through the library’s programing and marketing, or by distributing free or discount passes through the library.<sup>20</sup></td></tr>
 </table>
-
+<br>
 
 <table> 
 <tr style="background-color:#000000"><th style="color: white;" colspan = "2">CHALLENGES</th></tr> 
 <tr><th bgcolor="#cc3300">SIMILAR RESTRAINTS</th><td>Informal learning institutions and libraries frequently face similar staff, space, and budget restrictions, but they’ve also found creative ways to work around those challenges.<sup>21</sup></td></tr> 
 <tr><th style="background-color:#F6DEB7">MANAGEMENT APPROVAL</th><td>Establishing an official long-term partnership with an informal learning institution will probably need to involve the higher levels of management from both organizations.</td></tr>
 </table>
-
+<br>
 <div class="case_study_box"> 
   <p class="box-title">CASE STUDY: CHICAGO PUBLIC LIBRARY AND ADLER PLANETARIUM</p> 
 </div>
 
-<div class="resources"> 
+<div class="explanatory"> 
 
 <span class="box-title">ADDITIONAL RESOURCES</span> 
 

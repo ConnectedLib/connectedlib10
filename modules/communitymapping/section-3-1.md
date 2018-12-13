@@ -21,8 +21,8 @@ Questions to think about are:
 <div class="explanatory">
   <span class="box-title">WHAT IS COMMUNITY</span><br>
   <span><a href="https://www.youtube.com/watch?v=3UpOSFL5mq4&feature=youtu.be" target="_blank"><img src="https://img.youtube.com/vi/3UpOSFL5mq4/0.jpg"></a></span>
+  <iframe width="560" height="315" src="https://www.youtube.com/watch?v=3UpOSFL5mq4&feature=youtu.be" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 </div>
-<br>
 <br>
 
 ### Who will help you along the way?
@@ -36,18 +36,17 @@ Once you’ve decided what your goal for the project is, you can put together a 
 <br>
 <br>
 When you have assembled your team, make sure to get everyone on the same page during the planning process, understanding both the steps in the project and their roles in it. 
-<br>
+
 <br>
 <div class="extra">
 <p class="box-title">SCALE UP OR SCALE DOWN</p>
 <p>If it’s just you, that’s OK--just remember to set reasonable expectations for yourself. Ideally, other people will help you collect, analyze, and act on information. </p></div>
 <br>
-<br>
+
 <div class="explanatory">
   <span class="box-title">GETTING THE COMMUNITY INVOLVED</span>
   <p>Adding more people to your mapping project makes it more complex, but there is a great deal of value in adding more community voices. Check out <a href="http://ctb.ku.edu/en/table-of-contents/evaluate/evaluation/intervention-research/main" target="_blank">Community-Based Participatory Research</a> (part of the Community Toolbox) to learn more.</p>
 </div>
-<br>
 <br>
 
 ### Has anyone gone on this journey before?
@@ -60,7 +59,6 @@ While you are planning and assembling your team (if not earlier) try to find out
   <p>Don’t forget to develop evaluation plans before you start collecting information. You should plan to evaluate the process (so you can know what to do better in the future), the outcome (the results you ended up with) and the impact -- what difference did your project make?<br>
 For more on evaluation, see the <a href="{{site.url}}{{site.baseurl}}/modules/assesmentevaluation/index.md">Assessment and Evaluation module</a>.</p>
 </div>
-<br>
 <br>
 
 

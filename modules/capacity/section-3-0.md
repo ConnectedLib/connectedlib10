@@ -2,7 +2,7 @@
 layout: module
 module_name: capacity
 module_full_name: Capacity
-title: 3.0 Self-Assessing Capacity
+title: 3. Self-Assessing Capacity
 section: 3. Self-Assessing Capacity
 subsection: three-zero
 ---

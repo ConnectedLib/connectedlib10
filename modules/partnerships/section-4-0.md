@@ -1,6 +1,6 @@
 ---
 layout: module
-title: 4.0 Establishing a Parnership
+title: 4. Establishing a Parnership
 module_name: partnerships
 module_full_name: Community Partnerships
 section: 4. Establishing a Parnership

@@ -31,7 +31,7 @@ Step 3:
 Step 4: 
 <ul><li>Write a summary of the conversation afterwards for future reference</li></ul></td></tr>
 
-<tr><td style="background-color:#F3CC4D" width="40%" valign="top"><b>Town Halls</b></td><td>Town Halls are planned get togethers with your community where you discuss current issues, events, and other information. These are similar to focus groups, which we covered in <a href="{{site.url}}{{site.baseurl}}/modules/communitymapping/index.md">Community Mapping.</a><br><br>
+<tr><td style="background-color:#F3CC4D" width="40%" valign="top"><b>Town Halls</b></td><td>Town Halls are planned get togethers with your community where you discuss current issues, events, and other information. These are similar to focus groups, which we covered in <a href="{{site.url}}{{site.baseurl}}/modules/communitymapping/index.html">Community Mapping.</a><br><br>
 Town Halls can be formal or  informal, and can be conducted simply as community “get togethers” with coffee, snacks, and a few questions asked for the group to answer after you’ve done some mingling or tackled other library business.<br><br>
 This is an example of how an informal town hall event brought residents together into a shared space that was less intimidating:<br><a href="http://www.courant.com/community/bloomfield/hc-news-bloomfield-town-hall-meeting-20180123-story.html" target="_blank">http://www.courant.com/community/bloomfield/hc-news-bloomfield-town-hall-meeting-20180123-story.html</a><br>
 Here is an example of how Anne Arundel County Public Library performed formal town halls regarding budget cuts:<br>  
@@ -52,7 +52,7 @@ Once you have used one or more of these methods to collect information about you
 
 <tr><td><b>Groups</b></td><td><ul><li>Teens</li><li>Parents</li><li>Deaf Community</li><li>Autistic Community</li></ul></td><td>-Cooperative learning space<br>-Stroller parking<br>-ASL speakers<br>-Staff sensitivity training</td></tr>
 
-<tr><td><b>Associations</b></td><td><ul><li>Neighborhood Association 1</li><li>Neighborhood Association 2</li><li>PTA</li></li></ul></td><td>-More Farsi language books and materials<br>-New member recruitment through posters, etc.<br>-Additional meeting space<br></td></tr>
+<tr><td><b>Associations</b></td><td><ul><li>Neighborhood Association 1</li><li>Neighborhood Association 2</li><li>PTA</li></ul></td><td>-More Farsi language books and materials<br>-New member recruitment through posters, etc.<br>-Additional meeting space<br></td></tr>
 
 <tr><td><b>Institutions</b></td><td><ul><li>Parkland Elementary School</li><li>Harbor Middle School</li><li>Orchard Ridge High School</li></ul></td><td>-Technology programs for elementary students<br>-Tween library representation and materials<br>-Additional teen services outreach<br></td></tr>
 </table>

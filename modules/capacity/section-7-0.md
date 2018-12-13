@@ -2,7 +2,7 @@
 layout: module
 module_name: capacity
 module_full_name: Capacity
-title: 7.0 Summary
+title: 7. Summary
 section: 7 Summary
 subsection: seven-zero
 ---

@@ -11,9 +11,11 @@ subsection: four-four
 
 It’s tempting to move on to the next project once a collaboration has concluded, but taking the time to properly wrap-up will benefit both you and your partner. Collect any numbers, stories or artifacts that will help tell the story of your program. Have a debriefing meeting with everyone involved to discuss what went well and what could be improved. Make sure you thank the people you worked with directly, as well as any managers or administrators whose approval or cooperation was required. 
 
+
 **EVALUATION** 
 
 If you and your partner agreed on an evaluation plan at the beginning of the project, evaluating your collaborative effort should be easy. Share the results of your program evaluation with your partner at the end of the project so they know what kind of impact they had. Take those numbers and stories you gathered and communicate them to relevant stakeholders to illustrate the impact of your program. See the Assessments and Outcomes module for more.  
+
 
 **LAYING THE GROUNDWORK FOR THE NEXT COLLABORATION**
 

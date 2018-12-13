@@ -2,9 +2,9 @@
 layout: module
 module_name: capacity
 module_full_name: Capacity
-title: 5.2 Technology
+title: 5.3 Technology
 section: 5 Developing a Roadmap
-subsection: five-two
+subsection: five-three
 ---
 
 Technology and media might be the biggest capacity concern for libraries in this digital age. It seems that no matter what, technology continues to advance faster than we can acquire the materials to give patrons access to the latest and greatest. It can be difficult to know which technology to acquire, and perhaps equally difficult to have the resources for librarians to learn how to use--and then teach how to use to their patrons--new media and technology. This section is here to provide a brief guide to acquiring new technology, using technology, and evaluating technology: all using the unique strengths of your community. 

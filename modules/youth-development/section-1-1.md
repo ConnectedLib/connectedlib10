@@ -31,7 +31,7 @@ Drawing on his observations of children, Swiss psychologist Jean Piaget (1896-19
 
   <tr><td>We <b>accommodate</b> new information that doesn’t fit into our schemas by altering our beliefs. </td><td><i>Julia’s family moves to a new town and she enters a high school with students from many different ethnic and cultural backgrounds. Her interactions with new friends may result in experiences that do not fit into her existing schemas, prompting her to change or alter her beliefs to accommodate the new information.</i></td></tr> 
 </table>
-
+<br>
 <div class="explanatory">  
   <p><span class="box-title">STAGES OF COGNITIVE DEVELOPMENT</span></p> 
 
@@ -48,6 +48,7 @@ Instead of viewing children as miniature adults — a common attitude in his tim
 - **Concrete operational** (around ages 7 to 11): Children can perform inductive reasoning around concrete objects — that is, they can logically generalize from a specific experience. For instance, if they sneeze a lot around their friend’s dog, they may conclude that they will be allergic to other dogs as well. 
 - **Formal operational** (adolescence to adulthood): Teens and tweens start to be able to reason logically about abstract concepts like algebra, social justice, or freedom. They may begin to think more critically about moral or ethical issues, such as norms in an online community or principles regarding right or wrong. They are able to devise their own solutions and answers to problems without needing firsthand experience. 
 
+<br>
 <div class="explanatory">  
   <p><span class="box-title">UPDATING PIAGET</span></p> 
 
@@ -63,8 +64,9 @@ Most tweens and teens will be in the concrete operational stage or the early for
 - What relevant **cognitive schemas** do the participants have? Do they reflect reality or are they skewed or distorted?  
 - Will the teens **assimilate** what they learn, or will they have to accommodate new information?  
 - Can you relate your program or activities to abstract societal issues, or should you focus on more concrete ideas? 
-- Are your participants in the early **formal operational** stage? If so, can you help them develop further by integrating abstract concepts with the help of **scaffolding** (see Section 2: [Vygotsky’s Sociocultural Learning Theory]({{site.url}}{{site.baseurl}}/youth-development/section-2-0.html))? 
+- Are your participants in the early **formal operational** stage? If so, can you help them develop further by integrating abstract concepts with the help of **scaffolding** (see Section 2: [Vygotsky’s Sociocultural Learning Theory]({{site.url}}{{site.baseurl}}/modules/youth-development/section-2-0.html))? 
 
+<br>
 <div class="reflection"> 
 
   <p><span class="box-title">REFLECTION: TWEENS AND TEENS</span></p> 

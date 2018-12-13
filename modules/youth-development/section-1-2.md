@@ -46,8 +46,7 @@ Read the rest of her post, <a href="http://www.cuppacocoa.com/the-zone-of-proxim
 <div class="explanatory">  
   <p><span class="box-title">SCAFFOLDING EXPLAINED</span></p> 
   <p>Scaffolding for Student Success [4:08] by Alberta Education</p>
-  <p><span><a href="https://youtu.be/CTR_snb-0nQ” target="_blank"><img src="https://img.youtube.com/vi/CTR_snb-0nQ/0.jpg"></span></p>
-    <iframe width="560" height="315" src="https://youtu.be/CTR_snb-0nQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/CTR_snb-0nQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
  
 </div>
 <br>

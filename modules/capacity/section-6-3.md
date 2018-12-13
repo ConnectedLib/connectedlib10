@@ -11,11 +11,11 @@ Knowing your library team goes hand in hand with knowing your youth and their in
 
 **Connected Learning in Libraries Big and Small**
 
-Connected Learning focuses primarily on youth engagement and interest, building connections between program activities and real world skills and experiences, and providing opportunities for learning and growth by connecting through technology with peers and mentors. For more information on Connected Learning, take a look back to our <a href="{{site.url}}{{site.baseurl}}/modules/introduction/index.md">Connected Learning module</a>. 
+Connected Learning focuses primarily on youth engagement and interest, building connections between program activities and real world skills and experiences, and providing opportunities for learning and growth by connecting through technology with peers and mentors. For more information on Connected Learning, take a look back to our <a href="{{site.url}}{{site.baseurl}}/modules/introduction/index.html">Connected Learning module</a>. 
 
 While all libraries have unique capacities, each and every library can implement connected learning. Small libraries with low technology budgets can leverage community resources, as well as free software programs (such as the coding program, <a href="https://scratch.mit.edu/" target="_blank">Scratch</a>), to create youth-driven programs on a low budget within the library’s current capacity. Libraries that are small in space can also reach out to community organizations to find spaces outside the library to host programs, or provide special times where the library stays open late where youth in the program can have full use of the library’s space. For more inspiration about Connected Learning programs on a variety of budgets, visit <a href="http://nashvillepubliclibrary.org/studionpl/" target="_blank">Nashville Public Library’s Studio NPL</a> page. 
 
-**Capacity and Connected Learning in Your Library 
+**Capacity and Connected Learning in Your Library**
 
 <table>
   <tr><th colspan="2" style="background-color:#487EE8">Connected Learning and Library Capacity</th></tr>

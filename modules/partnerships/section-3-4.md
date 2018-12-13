@@ -47,7 +47,7 @@ Partnering with schools is particularly challenging for most of the librarians a
 <div class="pointers"> 
  <p><span class="box-title">GETTING STARTED: PARTNERING WITH SCHOOLS</span></p>
 <ul>
- <li>Brainstorm. Think of five ideas that you and your library can use in establishing, sustaining, or improving your relationship with local schools. Use the related readings, including <a href="http://www.ala.org/alsc/schoolplcoop">this list of school and public library cooperative activities</a> from the Association for Library Service to Children (ALSC), for inspiration. Write a few sentences for each idea, describing the concept and how your library might implement it.</li>
+ <li>Brainstorm. Think of five ideas that you and your library can use in establishing, sustaining, or improving your relationship with local schools. Use the related readings, including <a href="http://www.ala.org/alsc/schoolplcoop" target="_blank">this list of school and public library cooperative activities</a> from the Association for Library Service to Children (ALSC), for inspiration. Write a few sentences for each idea, describing the concept and how your library might implement it.</li>
 
 <li>Reach out to someone at the PTA. You can reach out to parent-teacher associations as well. They may be planning events the library can participate in, or have other ideas about how the library and the school can work together. And crucially, they may have more spare time than school employees.</li>
 
@@ -64,21 +64,21 @@ Partnering with schools is particularly challenging for most of the librarians a
 </div>
 <br>
 
-<div class="resources"> 
+<div class="explanatory"> 
 
 <span class="box-title">ADDITIONAL RESOURCES</span> 
 <ul>
-  <li>Library Partnerships: Making Connections Between School and Public Libraries (Tasha Squires, 2009). Information Today, Inc. First chapter available at: http://books.infotoday.com/books/Squires/Squires_Chapter1.pdf</li>
+  <li>Library Partnerships: Making Connections Between School and Public Libraries (Tasha Squires, 2009). Information Today, Inc. First chapter available at:<a href="http://books.infotoday.com/books/Squires/Squires_Chapter1.pdf" target="_blank"> http://books.infotoday.com/books/Squires/Squires_Chapter1.pdf</a></li>
 
-  <li>School/Public Library Cooperative Programs (Association for Library Service to Children). Available online: http://www.ala.org/alsc/schoolplcoop</li>
+  <li>School/Public Library Cooperative Programs (Association for Library Service to Children). Available online: <a href="http://www.ala.org/alsc/schoolplcoop" target="_blank">http://www.ala.org/alsc/schoolplcoop</a></li>
 
-  <li>The Future of Library Services For and With Teens: A Call to Action (Linda Braun, M. L. Hartman, Sandra Hughes-Hassell, Kafi Kumasi, & Beth Yoke, 2014). Chicago, IL: YALSA. Contains a review of the literature on public library and school library partnerships on pp. 48-49. Available online: http://www.ala.org/yaforum/future-library-services-and-teens-project-report</li>
+  <li>The Future of Library Services For and With Teens: A Call to Action (Linda Braun, M. L. Hartman, Sandra Hughes-Hassell, Kafi Kumasi, & Beth Yoke, 2014). Chicago, IL: YALSA. Contains a review of the literature on public library and school library partnerships on pp. 48-49. Available online: <a href="http://www.ala.org/yaforum/future-library-services-and-teens-project-report" target="_blank">http://www.ala.org/yaforum/future-library-services-and-teens-project-report</a></li>
 
-  <li>Partnerships Beyond Four Walls (Ashley J. Cooksey, 2017). American Libraries Magazine. Available online:  https://americanlibrariesmagazine.org/2017/01/03/school-public-library-partnerships-beyond-four-walls/</li>
+  <li>Partnerships Beyond Four Walls (Ashley J. Cooksey, 2017). American Libraries Magazine. Available online:  <a href="https://americanlibrariesmagazine.org/2017/01/03/school-public-library-partnerships-beyond-four-walls" target="_blank">https://americanlibrariesmagazine.org/2017/01/03/school-public-library-partnerships-beyond-four-walls</a></li>
   
  <li>Encouraging Community Service in the Public Library (N. Mulder, 2011). Young Adult Library Services, 2011(Fall), 25–27.</li>
   
- <li>Community Collaborations: School and Public Library Partnerships (Jenna Nemec-Loise, 2015). Discusses the challenges and opportunities of partnerships from the perspective of both school libraries and public libraries. Available online (free to YALSA members): http://www.ala.org/yalsa/yalsamemonly/webinars/yell-yalsa-e-learning-library-date</li>
+ <li>Community Collaborations: School and Public Library Partnerships (Jenna Nemec-Loise, 2015). Discusses the challenges and opportunities of partnerships from the perspective of both school libraries and public libraries. Available online (free to YALSA members): <a href="http://www.ala.org/yalsa/yalsamemonly/webinars/yell-yalsa-e-learning-library-date" target="_blank">http://www.ala.org/yalsa/yalsamemonly/webinars/yell-yalsa-e-learning-library-date</a></li>
 </ul>
 </div>
 <br>
@@ -87,6 +87,6 @@ Partnering with schools is particularly challenging for most of the librarians a
 
 <a name="fn28">28</a>:  --Squires, Tasha. Library Partnerships: Making Connections between School and Public Libraries. Medford, NJ: Information Today, Inc., 2009, xv.
 <br>
-<a name="fn29">29</a>:  --Cooksey, Ashley J. “Partnerships beyond Four Walls.” American Libraries Magazine, January 3, 2017. https://americanlibrariesmagazine.org/2017/01/03/school-public-library-partnerships-beyond-four-walls/.
+<a name="fn29">29</a>:  --Cooksey, Ashley J. “Partnerships beyond Four Walls.” American Libraries Magazine, January 3, 2017. <a href="https://americanlibrariesmagazine.org/2017/01/03/school-public-library-partnerships-beyond-four-walls/" target="_blank">https://americanlibrariesmagazine.org/2017/01/03/school-public-library-partnerships-beyond-four-walls/</a>.
 <br>
 <a name="fn30">30</a>:  --Squires, Tasha. Library Partnerships: Making Connections between School and Public Libraries. Medford, NJ: Information Today, Inc., 2009, 21.

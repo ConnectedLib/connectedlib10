@@ -22,7 +22,8 @@ A **community partnership** is a formal relationship between a library and a loc
 
 Partnerships are not formed by simple client and contractor relationships. Although a partnership may involve payment and contracts, it is a deeper collaboration. Partners work with the library to develop a unique offering.
 
-<div class="resources">
+<br>
+<div class="explanatory">
 <span class="box-title">IS THIS A GOOD PARTNERSHIP OPPORTUNITY? </span>
 <p>Answer these questions before launching a joint project.</p>
  <ul>
@@ -34,6 +35,7 @@ Partnerships are not formed by simple client and contractor relationships. Altho
    <li>What resources are needed to achieve this goal? Who will provide them? </li>
  </ul>
 </div>
+<br>
 
 **PARTNERSHIPS BENEFIT THE COMMUNITY, TOO**
 

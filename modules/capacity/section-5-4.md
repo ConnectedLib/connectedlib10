@@ -10,8 +10,7 @@ subsection: five-four
 The final piece of the capacity puzzle is staffing. Many librarians and library staff juggle multiple hats in the library that can make scheduling programs difficult. If you only have one teen librarian, but she is at the reference desk and provides support to the children’s librarian on top of her teen programming duties, how much time does she really have available for teen services and outreach? If 50 youth show up to a program that was staffed for 15, how does your capacity affect the strength of the library program? 
 
  
-
-Supplementing Staff Capacity 
+**Supplementing Staff Capacity**
 
 While it would be great if library workers could be in many places at once, there is not yet the technology that supports that. One of the best ways to supplement a library’s staff capacity is through the use of community volunteers. By forming volunteer partnerships with community organizations and individuals in your community, you library can expand its staff capacity dramatically. There are a variety of ways your community can help: 
 - Volunteers can perform shelving duties to help free up the workers in your library for other tasks 

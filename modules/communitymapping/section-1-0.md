@@ -1,6 +1,6 @@
 ---
 layout: module
-title: 1.0 What Is Community Mapping?
+title: 1. What Is Community Mapping?
 module_name: communitymapping
 module_full_name: Community Mapping
 section: 1. What Is Community Mapping?

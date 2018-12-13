@@ -33,21 +33,22 @@ Soviet psychologist Lev Vygotsky’s (1896-1934) **sociocultural learning theory
 
 <p><span class="box-title">THE ZONE OF PROXIMAL PARALLEL PARKING DEVELOPMENT</span></p> 
 
-<p>Blogger and former teacher JoEllen describes her personal experience with scaffolding and the ZPD in this excerpt from her <a href="http://www.cuppacocoa.com/">cuppacocoa</a> blog. She describes how she learned to parallel park:  
+<p>Blogger and former teacher JoEllen describes her personal experience with scaffolding and the ZPD in this excerpt from her <a href="http://www.cuppacocoa.com/" target="_blank">cuppacocoa</a> blog. She describes how she learned to parallel park:  
 
 <b>“It wasn’t until a friend sat in my car and gave me the crucial tip to wait until the side-view mirror lined up just so with the parked car in front, that I finally figured it out. He got in the driver’s seat and showed me, and then he then sat in the passenger’s seat and coached me while I tried again... <br><br>
 
 I was in the zone of proximal development for parallel parking. There was a good amount of driving technique I had down, but I needed some coaching to get parallel parking down. A friend was there, he saw what I was doing, knew how to fix it, and showed me the way.”</b><br><br>
 
-Read the rest of her post, <a href="http://www.cuppacocoa.com/the-zone-of-proximal-development/">The Zone of Proximal Development</a>.</p>  
+Read the rest of her post, <a href="http://www.cuppacocoa.com/the-zone-of-proximal-development/" target="_blank">The Zone of Proximal Development</a>.</p>  
 </div> 
 <br>
 
 <div class="explanatory">  
   <p><span class="box-title">SCAFFOLDING EXPLAINED</span></p> 
   <p>Scaffolding for Student Success [4:08] by Alberta Education</p>
-  <p><span><a href="https://youtu.be/CTR_snb-0nQ” target="_blank"><img src="https://img.youtube.com/vi/CTR_snb-0nQ/0.jpg"/></span>
-</p> 
+  <p><span><a href="https://youtu.be/CTR_snb-0nQ” target="_blank"><img src="https://img.youtube.com/vi/CTR_snb-0nQ/0.jpg"></span></p>
+    <iframe width="560" height="315" src="https://youtu.be/CTR_snb-0nQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+ 
 </div>
 <br>
 
@@ -63,6 +64,7 @@ Vygotsky’s sociocultural learning theory can be seen in the relationships and 
 - Encouraging youth to learn from each other through group discussions and projects 
 - Providing opportunities for peer feedback     
 
+<br>
 <div class="reflection"> 
 
   <p><span class="box-title">REFLECTION: COGNITIVE TOOLS</span></p> 
@@ -97,5 +99,5 @@ Vygotsky’s sociocultural learning theory can be seen in the relationships and 
 
 <br>
 <a name="fn3">3</a>:  -- http://www.psy.cmu.edu/~siegler/vygotsky78.pdf
-<br>  
+<br>
 <a name="fn4">4</a>:  -- https://www.edutopia.org/blog/scaffolding-lessons-six-strategies-rebecca-alber

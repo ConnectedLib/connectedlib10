@@ -15,7 +15,6 @@ What is identity and how does it develop? There are two classic theoretical appr
 
 - **Sociological views of identity** treat identity as a social and cultural construction, arguing that we become ourselves as we interact and learn from people, culture, and society. Teens engage in **impression management**, particularly online, to manage other people’s perceptions of them. This is complicated when family, peer, and school contexts are present in an online space.  
 
-<br>
 <div class="explanatory">  
 
   <p><span class="box-title">ONLINE SELF EXPRESSION AND “THE PACKAGED SELF”</span></p> 
@@ -25,12 +24,11 @@ What is identity and how does it develop? There are two classic theoretical appr
   </p> 
 
 </div> 
-
 <br> 
 
 Teens use different social media platforms in different ways, in an effort to individualize and explore other identities.  
 
-- Teens use online platforms like instagram to curate and craft identities through the content they share.,sup>[16](#fn16)</sup>  
+- Teens use online platforms like instagram to curate and craft identities through the content they share.<sup>[16](#fn16)</sup>  
 - Howard Gardner and Katie Davis, authors of The App Generation, describe the performative nature of online self expression as **“the packaged self.”** Selfies, likes, and status updates encourage **“personal branding”** activities that foster a romanticized depiction of teens’ lives.  
 - **Teens can face many pressures** in presenting a crafted, packaged self. For example, on Instagram many teens are focused on conveying a desirable image through their physical appearance and material possessions.  
 - Some teens are attempting to carve out more anonymous online spaces that place less emphasis on an idealized persona. Online spaces like fan communities may offer teens **greater freedom to express themselves**.  
@@ -83,5 +81,5 @@ How might forms of self expression through digital and networked technologies en
 #### Footnotes:
 
 <a name="fn16">16</a>:  -- (Davis & Weinstein, 2017)
-<br>  
+<br>
 <a name="fn17">17</a>:  -- Agosto, D., & Hughes-Hassell, S. (2006). Toward a Model of the Everyday Life Information Needs of Urban Teenagers, Part 1: Theoretical Model

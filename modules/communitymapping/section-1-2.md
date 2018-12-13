@@ -8,7 +8,7 @@ subsection: one-two
 ---
 
 A thorough knowledge of your community is critical for connected learning:
-
+<br>
 <table>
 <tr style="background-color:#E8B2AB"><th>Building Pathways Production-Centered</th><td>Community mapping can reveal assets to add to the network of resources you help teens connect to.</td></tr>
 <tr style="background-color:#F6DEB7"><th>Opportunity Interests</th><td>Community mapping can tell you what opportunities teens would like to have and help you find support for those opportunities and others. </td></tr>

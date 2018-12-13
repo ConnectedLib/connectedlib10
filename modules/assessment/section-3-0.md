@@ -1,6 +1,6 @@
 ---
 layout: module
-title: 3.0 Evaluation
+title: 3. Evaluation
 module_name: assessment
 module_full_name: Assessment and Evaluation
 section: 3. Evaluation

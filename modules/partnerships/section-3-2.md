@@ -13,7 +13,7 @@ Private individuals, local businesses, and community groups that are not oriente
 
 >“The library is considered not only a foundation to the community, but a good community supporter. We say, "How can the library partner with you?" And it brings them in and they want to work here, and they want to work with teens, and they want to give back... We're getting a lot of community people who want to come in. They want to help, and they want to see our teens succeed.” -- Southern Urban Library
 
-<div class="resources"> 
+<div class="explanatory"> 
 
 <span class="box-title">COMMUNITY PARTNERS: MAKING STUDENT LEARNING RELEVANT</span> 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/30oAIh5y3gE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

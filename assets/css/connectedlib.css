@@ -781,9 +781,9 @@ a .external {
   padding: 8px 35px 8px 40px;
   background-image: url(../img/learningExerciseIcon2.png);
   /* Learning by jai from the Noun Project, https://thenounproject.com/search/?q=learning&i=1236442 */
-/*  background-size: auto;
-  background-position: 10px top;
-  background-repeat: no-repeat; */
+  background-size: auto;
+  background-position: 15px 15px;
+  background-repeat: no-repeat; 
 }
 
 .box-title {

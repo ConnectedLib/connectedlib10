@@ -778,11 +778,11 @@ a .external {
   border-left: solid 2px #faf304; /* very bright yellow */
   border-radius: 2px;
   margin: 20px 20px 35px 20px;
-  padding: 8px 35px 8px 40px;
+  padding: 8px 35px 8px 55px;
   background-image: url(../img/learningExerciseIcon2.png);
   /* Learning by jai from the Noun Project, https://thenounproject.com/search/?q=learning&i=1236442 */
   background-size: auto;
-  background-position: 15px 15px;
+  background-position: 10px 10px;
   background-repeat: no-repeat; 
 }
 

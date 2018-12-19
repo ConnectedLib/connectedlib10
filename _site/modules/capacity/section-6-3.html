@@ -1,0 +1,245 @@
+<!DOCTYPE html>
+<html>
+
+    <!-- THIS IS THE INCLUDE FOR THE HEAD OF EVERY FILE -->
+
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>ConnectedLib - 6.3 Implementing Connected Learning in Your Library</title>
+    <!--<script src="https://infobyway.github.io/connectedlibtest2/assets/js/dropdown.js" type="text/javascript" charset="utf-8"></script>-->  
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="http://localhost:4000/Connected-Learning-Modules/assets/css/connectedlib.css"/>
+</head>
+
+
+    <body>
+
+            <div class="wrapper" mode="overview">
+
+	<!-- left navigation -->
+
+	<!-- Sidebar Nav for the Design Thinking Module -->
+<aside>
+<div class="image">   
+    <a href="http://localhost:4000/Connected-Learning-Modules"><img src="http://localhost:4000/Connected-Learning-Modules/assets/img/connectedlib_logo_noslogan.png" width="200px"></a>
+</div>  
+
+<p style="text-align:center;font-size:110%;font-weight:bold;">Capacity</h2>
+        
+<div id="six-three">
+
+    <ul class="agenda-navigation">
+<li class="overview sectionhead"><a href="index.html">Module Overview</a></li>
+
+<li class="one sectionhead"><a href="section-1-0.html">1. Introduction</a></li>       
+    <li class="one-one"><a href="section-1-1.html">1.1 Your Library's Capacity</a></li>
+
+<li class="two sectionhead"><a href="section-2-0.html">2. Before You Start</a></li>
+
+<li class="three sectionhead"><a href="section-3-0.html">3. Self Assessing Capacity</a></li>
+    <li class="three-one"><a href="section-3-1.html">Additional Resources</a></li>
+
+<li class="four sectionhead"><a href="section-4-0.html">4. Determining Community Need</a></li>
+    <li class="four-one"><a href="section-4-1.html">4.1 Community Assets</a></li>
+    <li class="four-two"><a href="section-4-2.html">4.2 Community Needs</a></li>
+
+<li class="five sectionhead"><a href="section-5-0.html">5. Developing A Roadmap</a></li>
+    <li class="five-one"><a href="section-5-1.html">5.1 Using Your Library's Capacity Assessment</a></li>
+    <li class="five-two"><a href="section-5-2.html">5.2 Technology</a></li>
+    <li class="five-three"><a href="section-5-3.html">5.3 Space</a></li>
+    <li class="five-four"><a href="section-5-4.html">5.4 Staffing</a></li>
+        
+<li class="six sectionhead"><a href="section-6-0.html">6-0. Continuing Forward</a></li>
+    <li class="six-one"><a href="section-6-1.html">6.1 Troubleshooting</a></li>
+    <li class="six-two"><a href="section-6-2.html">6.2 Optimization</a></li>
+    <li class="six-two"><a href="section-6-3.html">6.3 Implementing Connected Learning in Your Library</a></li>
+       
+<li class="seven sectionhead"><a href="section-7-0.html">7. Summary</a></li>
+</ul> 
+        </div>
+      </aside>
+
+
+	<article class="wrap">
+
+		<!-- Old Navbar
+<div class="clnavbar">
+      <p><a href="http://localhost:4000/Connected-Learning-Modules/">ConnectedLib</a> > <a href="index.html">Capacity</a> > <span class="navlink"> 6. Continuing Forward</span></p>
+</div>
+-->
+
+<style>
+      
+/* topnav css */
+.topnav {
+  overflow: hidden;
+  background-color: #333;
+}
+
+.topnav a {
+  float: left;
+  display: block;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.active {
+  background-color: #723d95;
+  color: white;
+}
+
+.topnav .icon {
+  display: none;
+}
+
+.dropdown {
+    float: left;
+    overflow: hidden;
+}
+
+.dropdown .dropbtn {
+    font-size: 17px;    
+    border: none;
+    outline: none;
+    color: white;
+    padding: 14px 16px;
+    background-color: inherit;
+    font-family: inherit;
+    margin: 0;
+}
+
+.dropdown-content {
+    display: none;
+    position: fixed;
+    background-color: #f9f9f9;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+}
+
+.dropdown-content a {
+    float: none;
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+    text-align: left;
+}
+
+.topnav a:hover, .dropdown:hover .dropbtn {
+  background-color: #555;
+  color: white;
+}
+
+.dropdown-content a:hover {
+    background-color: #ddd;
+    color: black;
+}
+
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+
+@media screen and (max-width: 600px) {
+  .topnav a:not(:first-child), .dropdown .dropbtn {
+    display: none;
+  }
+  .topnav a.icon {
+    float: right;
+    display: block;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  .topnav.responsive {position: relative;}
+  .topnav.responsive .icon {
+    position: absolute;
+    right: 0;
+    top: 0;
+  }
+  .topnav.responsive a {
+    float: none;
+    display: block;
+    text-align: left;
+  }
+  .topnav.responsive .dropdown {float: none;}
+  .topnav.responsive .dropdown-content {position: relative;}
+  .topnav.responsive .dropdown .dropbtn {
+    display: block;
+    width: 100%;
+    text-align: left;
+  }
+}
+</style>
+
+<div class="topnav" id="myTopnav">
+  <a href="http://localhost:4000/Connected-Learning-Modules/" class="active">ConnectedLib Home</a>
+  <div class="dropdown">
+    <button class="dropbtn">Modules 
+      <i class="fa fa-caret-down"></i>
+    </button>
+    <div class="dropdown-content">
+      <a href="http://localhost:4000/Connected-Learning-Modules/modules/introduction/">Introduction to Connected Learning</a>
+      <a href="http://localhost:4000/Connected-Learning-Modules/modules/programming/">Connected Learning Programming</a>
+      <a href="http://localhost:4000/Connected-Learning-Modules/modules/partnerships/">Partnerships</a>
+      <a href="http://localhost:4000/Connected-Learning-Modules/modules/mentoring/">Mentoring</a>
+      <a href="http://localhost:4000/Connected-Learning-Modules/modules/design-thinking/">Design Thinking</a>
+      <a href="http://localhost:4000/Connected-Learning-Modules/modules/youth-development/">Youth Development</a>
+      <a href="http://localhost:4000/Connected-Learning-Modules/modules/communitymapping/">Community Mapping</a>
+      <a href="http://localhost:4000/Connected-Learning-Modules/modules/assessment/">Assessment & Evaluation</a>
+      <a href="http://localhost:4000/Connected-Learning-Modules/modules/capacity/">Capacity</a>
+    </div>
+  </div> 
+  <a href="javascript:void(0);" style="font-size:15px;" class="icon" onclick="myFunction()">&#9776;</a>
+</div>
+
+<script>
+function myFunction() {
+    var x = document.getElementById("myTopnav");
+    if (x.className === "topnav") {
+        x.className += " responsive";
+    } else {
+        x.className = "topnav";
+    }
+}
+</script>
+
+
+		<article class="main">
+
+			<h1>6.3 Implementing Connected Learning in Your Library</h1>
+
+			<p>Knowing your library team goes hand in hand with knowing your youth and their interests so you can match the right team member for the job. Knowing and using interest driven programming is one of the key aspects of implementing connected learning in your library programs. This is done not only through building partnerships with your youth through outreach to schools and community organizations, but also by building strong partnerships with you community as a whole. By leveraging the tools found in our <a href="http://localhost:4000/Connected-Learning-Modules/modules/communitymapping/index.html">Community Mapping module</a>, <a href="http://localhost:4000/Connected-Learning-Modules/modules/partnerships/index.html">Community Partnerships module</a>, and now this Capacity module, making connections with your youth and outside community and bringing those connections into your library will help you to strengthen its capacity for connected learning.</p>
+
+<p><strong>Connected Learning in Libraries Big and Small</strong></p>
+
+<p>Connected Learning focuses primarily on youth engagement and interest, building connections between program activities and real world skills and experiences, and providing opportunities for learning and growth by connecting through technology with peers and mentors. For more information on Connected Learning, take a look back to our <a href="http://localhost:4000/Connected-Learning-Modules/modules/introduction/index.html">Connected Learning module</a>.</p>
+
+<p>While all libraries have unique capacities, each and every library can implement connected learning. Small libraries with low technology budgets can leverage community resources, as well as free software programs (such as the coding program, <a href="https://scratch.mit.edu/" target="_blank">Scratch</a>), to create youth-driven programs on a low budget within the library’s current capacity. Libraries that are small in space can also reach out to community organizations to find spaces outside the library to host programs, or provide special times where the library stays open late where youth in the program can have full use of the library’s space. For more inspiration about Connected Learning programs on a variety of budgets, visit <a href="http://nashvillepubliclibrary.org/studionpl/" target="_blank">Nashville Public Library’s Studio NPL</a> page.</p>
+
+<p><strong>Capacity and Connected Learning in Your Library</strong></p>
+
+<table>
+  <tr><th colspan="2" style="background-color:#487EE8">Connected Learning and Library Capacity</th></tr>
+  <tr style="background-color:#E8B2AB"><th valign="top" width="25%"><b>Multiple Pathways</b></th><td>Your library helps to create connections between youth’s normal learning environments (home, school, and library) and “real world” spaces, opening up a more diverse set of possible experiences and directions for learners. Building your library’s capacity for teen programs and outreach, either through community partnerships or volunteer efforts, helps strengthen these connections.</td></tr>
+  <tr style="background-color:#F6DEB7"><th valign="top" width="25%"><b>Opportunity Oriented</b></th><td>The capacity of your library determines how you provide expertise, mentorship, and offer real-world experience to youth that can help them achieve academically or prepare them to start a career.</td></tr>
+  <tr style="background-color:#FCFB9D"><th valign="top" width="25%">Interest Driven</th><td>You can bolster your library’s capacity in areas of interest for your youth by optimizing current programs and using your connections with the youth in your community.</td></tr>
+</table>
+
+
+		</article>
+
+	</article>
+
+</div>
+
+    </body>
+</html>

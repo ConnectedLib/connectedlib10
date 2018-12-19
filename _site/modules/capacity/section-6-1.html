@@ -1,0 +1,300 @@
+<!DOCTYPE html>
+<html>
+
+    <!-- THIS IS THE INCLUDE FOR THE HEAD OF EVERY FILE -->
+
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>ConnectedLib - 6.1 Troubleshooting</title>
+    <!--<script src="https://infobyway.github.io/connectedlibtest2/assets/js/dropdown.js" type="text/javascript" charset="utf-8"></script>-->  
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="http://localhost:4000/Connected-Learning-Modules/assets/css/connectedlib.css"/>
+</head>
+
+
+    <body>
+
+            <div class="wrapper" mode="overview">
+
+	<!-- left navigation -->
+
+	<!-- Sidebar Nav for the Design Thinking Module -->
+<aside>
+<div class="image">   
+    <a href="http://localhost:4000/Connected-Learning-Modules"><img src="http://localhost:4000/Connected-Learning-Modules/assets/img/connectedlib_logo_noslogan.png" width="200px"></a>
+</div>  
+
+<p style="text-align:center;font-size:110%;font-weight:bold;">Capacity</h2>
+        
+<div id="six-one">
+
+    <ul class="agenda-navigation">
+<li class="overview sectionhead"><a href="index.html">Module Overview</a></li>
+
+<li class="one sectionhead"><a href="section-1-0.html">1. Introduction</a></li>       
+    <li class="one-one"><a href="section-1-1.html">1.1 Your Library's Capacity</a></li>
+
+<li class="two sectionhead"><a href="section-2-0.html">2. Before You Start</a></li>
+
+<li class="three sectionhead"><a href="section-3-0.html">3. Self Assessing Capacity</a></li>
+    <li class="three-one"><a href="section-3-1.html">Additional Resources</a></li>
+
+<li class="four sectionhead"><a href="section-4-0.html">4. Determining Community Need</a></li>
+    <li class="four-one"><a href="section-4-1.html">4.1 Community Assets</a></li>
+    <li class="four-two"><a href="section-4-2.html">4.2 Community Needs</a></li>
+
+<li class="five sectionhead"><a href="section-5-0.html">5. Developing A Roadmap</a></li>
+    <li class="five-one"><a href="section-5-1.html">5.1 Using Your Library's Capacity Assessment</a></li>
+    <li class="five-two"><a href="section-5-2.html">5.2 Technology</a></li>
+    <li class="five-three"><a href="section-5-3.html">5.3 Space</a></li>
+    <li class="five-four"><a href="section-5-4.html">5.4 Staffing</a></li>
+        
+<li class="six sectionhead"><a href="section-6-0.html">6-0. Continuing Forward</a></li>
+    <li class="six-one"><a href="section-6-1.html">6.1 Troubleshooting</a></li>
+    <li class="six-two"><a href="section-6-2.html">6.2 Optimization</a></li>
+    <li class="six-two"><a href="section-6-3.html">6.3 Implementing Connected Learning in Your Library</a></li>
+       
+<li class="seven sectionhead"><a href="section-7-0.html">7. Summary</a></li>
+</ul> 
+        </div>
+      </aside>
+
+
+	<article class="wrap">
+
+		<!-- Old Navbar
+<div class="clnavbar">
+      <p><a href="http://localhost:4000/Connected-Learning-Modules/">ConnectedLib</a> > <a href="index.html">Capacity</a> > <span class="navlink"> 6 Continuing Forward</span></p>
+</div>
+-->
+
+<style>
+      
+/* topnav css */
+.topnav {
+  overflow: hidden;
+  background-color: #333;
+}
+
+.topnav a {
+  float: left;
+  display: block;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.active {
+  background-color: #723d95;
+  color: white;
+}
+
+.topnav .icon {
+  display: none;
+}
+
+.dropdown {
+    float: left;
+    overflow: hidden;
+}
+
+.dropdown .dropbtn {
+    font-size: 17px;    
+    border: none;
+    outline: none;
+    color: white;
+    padding: 14px 16px;
+    background-color: inherit;
+    font-family: inherit;
+    margin: 0;
+}
+
+.dropdown-content {
+    display: none;
+    position: fixed;
+    background-color: #f9f9f9;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+}
+
+.dropdown-content a {
+    float: none;
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+    text-align: left;
+}
+
+.topnav a:hover, .dropdown:hover .dropbtn {
+  background-color: #555;
+  color: white;
+}
+
+.dropdown-content a:hover {
+    background-color: #ddd;
+    color: black;
+}
+
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+
+@media screen and (max-width: 600px) {
+  .topnav a:not(:first-child), .dropdown .dropbtn {
+    display: none;
+  }
+  .topnav a.icon {
+    float: right;
+    display: block;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  .topnav.responsive {position: relative;}
+  .topnav.responsive .icon {
+    position: absolute;
+    right: 0;
+    top: 0;
+  }
+  .topnav.responsive a {
+    float: none;
+    display: block;
+    text-align: left;
+  }
+  .topnav.responsive .dropdown {float: none;}
+  .topnav.responsive .dropdown-content {position: relative;}
+  .topnav.responsive .dropdown .dropbtn {
+    display: block;
+    width: 100%;
+    text-align: left;
+  }
+}
+</style>
+
+<div class="topnav" id="myTopnav">
+  <a href="http://localhost:4000/Connected-Learning-Modules/" class="active">ConnectedLib Home</a>
+  <div class="dropdown">
+    <button class="dropbtn">Modules 
+      <i class="fa fa-caret-down"></i>
+    </button>
+    <div class="dropdown-content">
+      <a href="http://localhost:4000/Connected-Learning-Modules/modules/introduction/">Introduction to Connected Learning</a>
+      <a href="http://localhost:4000/Connected-Learning-Modules/modules/programming/">Connected Learning Programming</a>
+      <a href="http://localhost:4000/Connected-Learning-Modules/modules/partnerships/">Partnerships</a>
+      <a href="http://localhost:4000/Connected-Learning-Modules/modules/mentoring/">Mentoring</a>
+      <a href="http://localhost:4000/Connected-Learning-Modules/modules/design-thinking/">Design Thinking</a>
+      <a href="http://localhost:4000/Connected-Learning-Modules/modules/youth-development/">Youth Development</a>
+      <a href="http://localhost:4000/Connected-Learning-Modules/modules/communitymapping/">Community Mapping</a>
+      <a href="http://localhost:4000/Connected-Learning-Modules/modules/assessment/">Assessment & Evaluation</a>
+      <a href="http://localhost:4000/Connected-Learning-Modules/modules/capacity/">Capacity</a>
+    </div>
+  </div> 
+  <a href="javascript:void(0);" style="font-size:15px;" class="icon" onclick="myFunction()">&#9776;</a>
+</div>
+
+<script>
+function myFunction() {
+    var x = document.getElementById("myTopnav");
+    if (x.className === "topnav") {
+        x.className += " responsive";
+    } else {
+        x.className = "topnav";
+    }
+}
+</script>
+
+
+		<article class="main">
+
+			<h1>6.1 Troubleshooting</h1>
+
+			<p>Many libraries face capacity challenges that can make addressing community needs a challenge. These can include challenges in all aspects of capacity, including space, technology acquisition, technology use, staff, and partnerships. Our goal in this section is to make troubleshooting capacity challenges at your library accessible, so you can feel confident in your library’s capacity to provide connected learning infused programs.</p>
+
+<p>Here is a broad list of common capacity challenges:</p>
+<ul>
+  <li>Small library</li>
+  <li>Low technology budget</li>
+  <li>Low acquisitions budget</li>
+  <li>Small volunteer group</li>
+  <li>Minimal teen attendance</li>
+</ul>
+
+<p><strong>Addressing Common Capacity Challenges</strong></p>
+
+<table>
+  <tr><td style="background-color:#DD7D60" width="30%" valign="top"><b>Small Library</b></td><td><b>Small Libraries</b> often have difficulty providing space for engaging library programs, as well as compounding challenges that come hand in hand with having a smaller library, like a typically lower annual budget than larger libraries. Here, we will be focusing on space. How can you troubleshoot space capacity in a small library?<br /><br /> 
+Tips and tricks:
+<ul><li>Make use of community partnerships that have large meeting spaces
+   <ul><li>Determine which library programs or outreach programs can be done outside of the library</li></ul></li>
+ <li>Keep things mobile
+   <ul><li>Make use of furniture with wheels that can be reconfigured to suit a variety of uses</li></ul></li>
+ <li>Have smaller programs more often
+   <ul><li>If a certain library program is so popular you don’t have the space to host it, consider presenting the same program on multiple days and limiting the number of participants</li></ul></li>
+</ul><br />
+   Resource spotlight: <a href="http://libguides.ala.org/librarytech/small-libs" target="_blank">http://libguides.ala.org/librarytech/small-libs</a></td></tr>
+
+<tr><td style="background-color:#F2A3A8" width="30%" valign="top"><b>Low Technology Budget</b></td><td><b>Libraries with a small technology budget</b> often struggle to keep up with the media demands of their patrons. With technology constantly developing, it can be hard to keep up. It can also be difficult to afford enough computers to keep patrons happy. How can you troubleshoot technology acquisition with a small budget?<br /><br /> 
+Tips and tricks:
+<ul><li>Make use of community partnerships that have technology
+   <ul><li>Is there a community organization that would be willing to donate new technology to your library?</li></ul></li>
+ <li>Keep what you have running and up to date
+   <ul><li>Train staff to evaluate your current technology and provide computers and tablets with the latest updates</li></ul></li>
+ <li>Consider smaller program sizes
+   <ul><li>One way to run programs with limited access to technology is to have patrons pre-register for the program--but make sure to consider who might not be included in this if they don’t have an easy way to access the registration form</li></ul></li>
+</ul><br />
+   Resource spotlight: <a href="https://learn.webjunction.org/" target="_blank">https://learn.webjunction.org/</a></td></tr>
+
+<tr><td style="background-color:#F6CB90" width="30%" valign="top"><b>Low Acquisitions Budget</b></td><td><b>Libraries that cannot afford many new materials</b> are constantly on the lookout for ways to buy new books and licenses that will be the most impactful for their patrons. How can you troubleshoot new material acquisition with a small budget? <br /><br /> 
+Tips and tricks:
+<ul><li>Get community feedback on new materials
+   <ul><li>What new books and licenses are the most important to your community, in their own words?</li></ul></li>
+ <li>Leverage community partnerships
+   <ul><li>Book Drives, donations, and fundraisers can all help your library acquire new materials</li></ul></li>
+ <li>Make what you have accessible
+   <ul><li>Is your collection well organized? Do you have engaging, and rotating, book displays?</li></ul></li>
+</ul><br />
+  Resource spotlight: <b>Smallwood, C., &amp; American Library Association. (2011). The frugal librarian : Thriving in tough economic times. Chicago: American Library Association.</b></td></tr>
+  
+ <tr><td style="background-color:#F8E781" width="30%" valign="top"><b>Small Volunteer Group</b></td><td><b>Libraries with few volunteers</b> might have trouble keeping up with the demands on their staff and might not be able to focus on staffing new programs in their libraries. How can these libraries troubleshoot ways to increase their volunteer population?<br /><br /> 
+Tips and tricks:
+<ul><li>Work with your community
+   <ul><li>Talking to your community partnerships is the first step in growing your volunteer population</li></ul></li>
+ <li>Recruit through outreach
+   <ul><li>Schools, retirements homes, and even grocery stores are great places to visit, or place flyers, to get the word out that your library is looking for volunteers</li></ul></li>
+ <li>Provide volunteer rewards
+   <ul><li>Rewards can be something as simple as a special library tote bag or pin</li>
+   <li>Rewards can also include awards like “Volunteer of the Month”</li></ul></li>
+</ul><br />
+   Resource spotlight: <a href="https://americanlibrariesmagazine.org/2016/05/31/recruiting-retaining-library-volunteers/" target="_blank">https://americanlibrariesmagazine.org/2016/05/31/recruiting-retaining-library-volunteers/</a></td></tr>
+
+ <tr><td style="background-color:#94CBD0" width="30%" valign="top"><b>Minimal Teen Attendance</b></td><td><b>Libraries with very few teens</b> attending their programs often have trouble engaging their teenage patrons. What are some ways to increase the turnout of your library’s teens?:<br /><br /> 
+Tips and tricks:
+<ul><li>Outreach and more outreach
+   <ul><li>Visit teens at schools, after school clubs, and the skatepark to get to know them and pass out information about library programs and resources</li></ul></li>
+ <li>Form a teen advisory council
+   <ul><li>Knowing what teens want in terms of materials and programs, in their own words, is key to bringing teens into the library</li></ul></li>
+ <li>Create a space just for teens
+   <ul><li>If teens have their own space in the library to collaborate and interact in, they are more likely to feel welcome in the library</li></ul></li>
+</ul><br />
+   Resource spotlight: <a href="http://www.inthelibrarywiththeleadpipe.org/2013/what-i-wish-id-known-about-building-teen-services-from-scratch/" target="_blank">http://www.inthelibrarywiththeleadpipe.org/2013/what-i-wish-id-known-about-building-teen-services-from-scratch/</a></td></tr>
+   
+</table>
+
+
+		</article>
+
+	</article>
+
+</div>
+
+    </body>
+</html>

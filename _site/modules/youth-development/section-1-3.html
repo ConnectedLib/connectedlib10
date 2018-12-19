@@ -1,0 +1,305 @@
+<!DOCTYPE html>
+<html>
+
+    <!-- THIS IS THE INCLUDE FOR THE HEAD OF EVERY FILE -->
+
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>ConnectedLib - 1.3 Papert's Constructionism Theory</title>
+    <!--<script src="https://infobyway.github.io/connectedlibtest2/assets/js/dropdown.js" type="text/javascript" charset="utf-8"></script>-->  
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="http://localhost:4000/Connected-Learning-Modules/assets/css/connectedlib.css"/>
+</head>
+
+
+    <body>
+
+            <div class="wrapper" mode="overview">
+
+	<!-- left navigation -->
+
+	<!-- Sidebar Nav for the Design Thinking Module -->
+<aside>
+<div class="image">   
+    <a href="http://localhost:4000/Connected-Learning-Modules"><img src="http://localhost:4000/Connected-Learning-Modules/assets/img/connectedlib_logo_noslogan.png" width="200px"></a>
+</div>  
+
+<p style="text-align:center;font-size:110%;font-weight:bold;">Youth Development</h2>
+        
+<div id="one-three">
+
+    <ul class="agenda-navigation">
+<li class="overview sectionhead"><a href="index.html">Module Overview</a></li>
+
+<li class="one sectionhead"><a href="section-1-0.html">1. Theories of Youth Development</a></li>       
+    <li class="one-one"><a href="section-1-1.html">1.1 Piaget's Theory of Cognitive Development</a></li>
+    <li class="one-two"><a href="section-1-2.html">1.2 Vygotsky's Sociocultural Learning Theory</a></li>
+    <li class="one-three"><a href="section-1-3.html">1.3 Papert's Constructionism Theory</a></li>
+    <li class="one-four"><a href="section-1-4.html">1.4 Bandura's Social Cognitive Learning Theory</a></li>
+    <li class="one-five"><a href="section-1-5.html">1.5 Bronfenbrenner's Ecological Model</a></li>
+    <li class="one-six"><a href="section-1-6.html">1.6 Erikson's Psychosocial Theory</a></li>
+            
+<li class="two sectionhead"><a href="section-2-0.html">2. Developing an Identity</a></li>
+    <li class="two-one"><a href="section-2-1.html">2.1 Forming an Identity</a></li>
+    <li class="two-two"><a href="section-2-2.html">2.2 Relationships</a></li>
+    <li class="two-three"><a href="section-2-3.html">2.3 Moral and Ethical Development</a></li>
+
+<li class="three sectionhead"><a href="section-3-0.html">3. Teens and Digital Media</a></li>
+    <li class="three-one"><a href="section-3-1.html">3.1 Teens' Media Use</a></li>
+    <li class="three-two"><a href="section-3-2.html">3.2 Communicating Online</a></li>
+    <li class="three-three"><a href="section-3-3.html">3.3 Video Games</a></li>
+    <li class="three-four"><a href="section-3-4.html">3.4 Digital Media and Literacy</a></li>
+
+<li class="four sectionhead"><a href="section-4-0.html">4. Conclusion</a></li>
+
+</ul> 
+        </div>
+      </aside>
+
+
+	<article class="wrap">
+
+		<!-- Old Navbar
+<div class="clnavbar">
+      <p><a href="http://localhost:4000/Connected-Learning-Modules/">ConnectedLib</a> > <a href="index.html">Youth Development</a> > <span class="navlink"> 1. Theories of Youth Development</span></p>
+</div>
+-->
+
+<style>
+      
+/* topnav css */
+.topnav {
+  overflow: hidden;
+  background-color: #333;
+}
+
+.topnav a {
+  float: left;
+  display: block;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.active {
+  background-color: #723d95;
+  color: white;
+}
+
+.topnav .icon {
+  display: none;
+}
+
+.dropdown {
+    float: left;
+    overflow: hidden;
+}
+
+.dropdown .dropbtn {
+    font-size: 17px;    
+    border: none;
+    outline: none;
+    color: white;
+    padding: 14px 16px;
+    background-color: inherit;
+    font-family: inherit;
+    margin: 0;
+}
+
+.dropdown-content {
+    display: none;
+    position: fixed;
+    background-color: #f9f9f9;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+}
+
+.dropdown-content a {
+    float: none;
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+    text-align: left;
+}
+
+.topnav a:hover, .dropdown:hover .dropbtn {
+  background-color: #555;
+  color: white;
+}
+
+.dropdown-content a:hover {
+    background-color: #ddd;
+    color: black;
+}
+
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+
+@media screen and (max-width: 600px) {
+  .topnav a:not(:first-child), .dropdown .dropbtn {
+    display: none;
+  }
+  .topnav a.icon {
+    float: right;
+    display: block;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  .topnav.responsive {position: relative;}
+  .topnav.responsive .icon {
+    position: absolute;
+    right: 0;
+    top: 0;
+  }
+  .topnav.responsive a {
+    float: none;
+    display: block;
+    text-align: left;
+  }
+  .topnav.responsive .dropdown {float: none;}
+  .topnav.responsive .dropdown-content {position: relative;}
+  .topnav.responsive .dropdown .dropbtn {
+    display: block;
+    width: 100%;
+    text-align: left;
+  }
+}
+</style>
+
+<div class="topnav" id="myTopnav">
+  <a href="http://localhost:4000/Connected-Learning-Modules/" class="active">ConnectedLib Home</a>
+  <div class="dropdown">
+    <button class="dropbtn">Modules 
+      <i class="fa fa-caret-down"></i>
+    </button>
+    <div class="dropdown-content">
+      <a href="http://localhost:4000/Connected-Learning-Modules/modules/introduction/">Introduction to Connected Learning</a>
+      <a href="http://localhost:4000/Connected-Learning-Modules/modules/programming/">Connected Learning Programming</a>
+      <a href="http://localhost:4000/Connected-Learning-Modules/modules/partnerships/">Partnerships</a>
+      <a href="http://localhost:4000/Connected-Learning-Modules/modules/mentoring/">Mentoring</a>
+      <a href="http://localhost:4000/Connected-Learning-Modules/modules/design-thinking/">Design Thinking</a>
+      <a href="http://localhost:4000/Connected-Learning-Modules/modules/youth-development/">Youth Development</a>
+      <a href="http://localhost:4000/Connected-Learning-Modules/modules/communitymapping/">Community Mapping</a>
+      <a href="http://localhost:4000/Connected-Learning-Modules/modules/assessment/">Assessment & Evaluation</a>
+      <a href="http://localhost:4000/Connected-Learning-Modules/modules/capacity/">Capacity</a>
+    </div>
+  </div> 
+  <a href="javascript:void(0);" style="font-size:15px;" class="icon" onclick="myFunction()">&#9776;</a>
+</div>
+
+<script>
+function myFunction() {
+    var x = document.getElementById("myTopnav");
+    if (x.className === "topnav") {
+        x.className += " responsive";
+    } else {
+        x.className = "topnav";
+    }
+}
+</script>
+
+
+		<article class="main">
+
+			<h1>1.3 Papert's Constructionism Theory</h1>
+
+			<blockquote>
+  <p>“From constructivist theories of psychology we take a view of learning as a reconstruction rather than as a transmission of knowledge. Then we extend the idea of manipulative materials to the idea that learning is most effective when part of an activity the learner experiences as constructing a meaningful product.” – Seymour Papert<sup><a href="#fn5">5</a></sup></p>
+</blockquote>
+
+<p>Informed by both Piaget and Vygotsky, Seymour Papert (1928-2016, and a founding faculty member of the <a href="http://el.media.mit.edu/logo-foundation/what_is_logo/logo_programming.html" target="_blank">MIT Media Lab</a> developed the concept of <strong>constructionism</strong>. Based on Piaget’s constructivism, constructionism emphasizes the agency of young people as active participants in the construction of their own learning. Papert developed one of the first educational programming languages, known as <a href="http://el.media.mit.edu/logo-foundation/what_is_logo/logo_programming.html" target="_blank">LOGO</a>, which inspired the popular programming language <a href="https://scratch.mit.edu/" target="_blank">Scratch</a>. Papert’s work also led to the <a href="http://www.computerclubhouse.org/" target="_blank">Computer Clubhouse project</a>, a network of over 100 learning centers where youth from underserved communities learn to create and express themselves using emerging technologies.</p>
+
+<div class="explanatory">  
+  <p><span class="box-title">KEY CONCEPTS FROM PAPERT’S CONSTRUCTIONISM THEORY</span></p> 
+  <p>Excerpt from <i>LIS 516: Youth Development and Behavior in a Digital Age</i> [1:27] by Dr. Katie Davis and the University of Washington 
+  <br />
+[clip from Lecture 1 - 4:58 to 6:02 - 1:04]
+</p> 
+</div>
+<p><br /></p>
+
+<table> 
+  <tr><td>Learning happens through the <b>construction of something within a real-world setting</b>.</td><td>Staff at a small rural Western library created temporary makerspaces by partnering with a local business that provided a 3D printer. Their partners demonstrated designing for the 3D printer and helped participants learn the basics. </td></tr> 
+</table>
+<p><br /></p>
+
+<div class="explanatory">  
+  <p><span class="box-title">WHY CONSTRUCTIONISM? </span></p> 
+  <p>Constructionism [1:11] by <a href="https://www.youtube.com/channel/UCBVCi5JbYmfG3q5MEuoWdOw" target="_blank">Udacity</a> and <a href="https://www.udacity.com/course/educational-technology--ud915" target="_blank">Georgia Tech</a></p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-qsiqetMlCg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+<br />
+<p>This video is part of the <a href="https://www.udacity.com/course/educational-technology--ud915" target="_blank">Educational Technology course</a> offered by Georgia Tech through Udacity.</p>
+</div>
+<p><br /></p>
+
+<p><strong>PUTTING CONSTRUCTIONISM INTO PRACTICE</strong></p>
+
+<blockquote>
+  <p>“It’s your job to experiment, it’s your job to problem solve, your job to critically think. I’m here to guide you.” – Rural Western Library</p>
+</blockquote>
+
+<p><strong>Production-centered</strong> learning that is based on learners’ own <strong>interests</strong> are two principles of connected learning that were directly inspired by constructionism. Constructionist learning experiences can involve:</p>
+
+<ul>
+  <li>Learning that is characterized as learner-centered, active, hands-on, or project-based<sup><a href="#fn6">6</a></sup></li>
+  <li>Facilitators who guide learners but allow them to make decisions about the direction of their project</li>
+  <li>“Tools that can promote the making of objects<sup><a href="#fn7">7</a></sup>” like robotics kits, 3D printers, or even a simple craft set</li>
+  <li>Self-directed learning that allows youth to experiment with tools and relate them to their own personal interests<sup><a href="#fn8">8</a></sup></li>
+  <li>Technologies that provide flexibility and openness,<sup><a href="#fn9">9</a></sup> like <a href="https://education.lego.com/en-us/middle-school/shop/products?gclid=Cj0KEQjwmcTJBRCYirao6oWPyMsBEiQA9hQPboKcMkN_KrvRpaYdsnS1_trkGgx4U2pmcwCIWt3b4t4aAmuL8P8HAQ" target="_blank">Lego Mindstorms</a>, which allow learners to build and program a robot themselves. (Lego Mindstorms were inspired by and named after Papert’s book <a href="https://mindstorms.media.mit.edu/" target="_blank">Mindstorms: Children, Computers, And Powerful Ideas</a>)</li>
+</ul>
+
+<div class="reflection"> 
+
+  <p><span class="box-title">REFLECTION: CONSTRUCTIONISM</span></p> 
+
+  <p>Think about a library program you know about that involves constructing or creating something. What knowledge is the program helping learners to create? </p>
+</div>
+<p><br /></p>
+
+<div class="reflection"> 
+
+  <p><span class="box-title">TEST YOUR KNOWLEDGE</span></p> 
+
+  <p>Which of the following would best describe a constructionist approach to learning:</p> 
+  <ol type="A">
+  <li>Group discussions</li>
+  <li>Skill and drill practice</li>
+  <li>Step-by-step instructions</li>
+  <li>Learners taking creative control</li>
+  </ol>
+</div>
+<p><br />
+<br /></p>
+
+<p><strong>Footnotes:</strong></p>
+
+<p><a name="fn5">5</a>:  –  Sabelli, N. (2008). Constructionism: A New Opportunity for Elementary Science Education. DRL Division of Research on Learning in Formal and Informal Settings. pp. 193–206. 
+<br />
+<a name="fn6">6</a>:  –  (MIT, 2015).
+<br />
+<a name="fn10">7</a>:  – Wheeler, 2012, p. “How it can be applied in education”
+<br />
+<a name="fn8">8</a>:  – (Papert &amp; Harel, 1991)
+<br />
+<a name="fn9">9</a>:  – Papert, 1980</p>
+
+
+		</article>
+
+	</article>
+
+</div>
+
+    </body>
+</html>

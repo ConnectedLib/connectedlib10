@@ -1,0 +1,284 @@
+<!DOCTYPE html>
+<html>
+
+    <!-- THIS IS THE INCLUDE FOR THE HEAD OF EVERY FILE -->
+
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>ConnectedLib - 3.1 Teens' Media Use</title>
+    <!--<script src="https://infobyway.github.io/connectedlibtest2/assets/js/dropdown.js" type="text/javascript" charset="utf-8"></script>-->  
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="http://localhost:4000/Connected-Learning-Modules/assets/css/connectedlib.css"/>
+</head>
+
+
+    <body>
+
+            <div class="wrapper" mode="overview">
+
+	<!-- left navigation -->
+
+	<!-- Sidebar Nav for the Design Thinking Module -->
+<aside>
+<div class="image">   
+    <a href="http://localhost:4000/Connected-Learning-Modules"><img src="http://localhost:4000/Connected-Learning-Modules/assets/img/connectedlib_logo_noslogan.png" width="200px"></a>
+</div>  
+
+<p style="text-align:center;font-size:110%;font-weight:bold;">Youth Development</h2>
+        
+<div id="three-one">
+
+    <ul class="agenda-navigation">
+<li class="overview sectionhead"><a href="index.html">Module Overview</a></li>
+
+<li class="one sectionhead"><a href="section-1-0.html">1. Theories of Youth Development</a></li>       
+    <li class="one-one"><a href="section-1-1.html">1.1 Piaget's Theory of Cognitive Development</a></li>
+    <li class="one-two"><a href="section-1-2.html">1.2 Vygotsky's Sociocultural Learning Theory</a></li>
+    <li class="one-three"><a href="section-1-3.html">1.3 Papert's Constructionism Theory</a></li>
+    <li class="one-four"><a href="section-1-4.html">1.4 Bandura's Social Cognitive Learning Theory</a></li>
+    <li class="one-five"><a href="section-1-5.html">1.5 Bronfenbrenner's Ecological Model</a></li>
+    <li class="one-six"><a href="section-1-6.html">1.6 Erikson's Psychosocial Theory</a></li>
+            
+<li class="two sectionhead"><a href="section-2-0.html">2. Developing an Identity</a></li>
+    <li class="two-one"><a href="section-2-1.html">2.1 Forming an Identity</a></li>
+    <li class="two-two"><a href="section-2-2.html">2.2 Relationships</a></li>
+    <li class="two-three"><a href="section-2-3.html">2.3 Moral and Ethical Development</a></li>
+
+<li class="three sectionhead"><a href="section-3-0.html">3. Teens and Digital Media</a></li>
+    <li class="three-one"><a href="section-3-1.html">3.1 Teens' Media Use</a></li>
+    <li class="three-two"><a href="section-3-2.html">3.2 Communicating Online</a></li>
+    <li class="three-three"><a href="section-3-3.html">3.3 Video Games</a></li>
+    <li class="three-four"><a href="section-3-4.html">3.4 Digital Media and Literacy</a></li>
+
+<li class="four sectionhead"><a href="section-4-0.html">4. Conclusion</a></li>
+
+</ul> 
+        </div>
+      </aside>
+
+
+	<article class="wrap">
+
+		<!-- Old Navbar
+<div class="clnavbar">
+      <p><a href="http://localhost:4000/Connected-Learning-Modules/">ConnectedLib</a> > <a href="index.html">Youth Development</a> > <span class="navlink"> 3. Teens and Digital Media</span></p>
+</div>
+-->
+
+<style>
+      
+/* topnav css */
+.topnav {
+  overflow: hidden;
+  background-color: #333;
+}
+
+.topnav a {
+  float: left;
+  display: block;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.active {
+  background-color: #723d95;
+  color: white;
+}
+
+.topnav .icon {
+  display: none;
+}
+
+.dropdown {
+    float: left;
+    overflow: hidden;
+}
+
+.dropdown .dropbtn {
+    font-size: 17px;    
+    border: none;
+    outline: none;
+    color: white;
+    padding: 14px 16px;
+    background-color: inherit;
+    font-family: inherit;
+    margin: 0;
+}
+
+.dropdown-content {
+    display: none;
+    position: fixed;
+    background-color: #f9f9f9;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+}
+
+.dropdown-content a {
+    float: none;
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+    text-align: left;
+}
+
+.topnav a:hover, .dropdown:hover .dropbtn {
+  background-color: #555;
+  color: white;
+}
+
+.dropdown-content a:hover {
+    background-color: #ddd;
+    color: black;
+}
+
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+
+@media screen and (max-width: 600px) {
+  .topnav a:not(:first-child), .dropdown .dropbtn {
+    display: none;
+  }
+  .topnav a.icon {
+    float: right;
+    display: block;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  .topnav.responsive {position: relative;}
+  .topnav.responsive .icon {
+    position: absolute;
+    right: 0;
+    top: 0;
+  }
+  .topnav.responsive a {
+    float: none;
+    display: block;
+    text-align: left;
+  }
+  .topnav.responsive .dropdown {float: none;}
+  .topnav.responsive .dropdown-content {position: relative;}
+  .topnav.responsive .dropdown .dropbtn {
+    display: block;
+    width: 100%;
+    text-align: left;
+  }
+}
+</style>
+
+<div class="topnav" id="myTopnav">
+  <a href="http://localhost:4000/Connected-Learning-Modules/" class="active">ConnectedLib Home</a>
+  <div class="dropdown">
+    <button class="dropbtn">Modules 
+      <i class="fa fa-caret-down"></i>
+    </button>
+    <div class="dropdown-content">
+      <a href="http://localhost:4000/Connected-Learning-Modules/modules/introduction/">Introduction to Connected Learning</a>
+      <a href="http://localhost:4000/Connected-Learning-Modules/modules/programming/">Connected Learning Programming</a>
+      <a href="http://localhost:4000/Connected-Learning-Modules/modules/partnerships/">Partnerships</a>
+      <a href="http://localhost:4000/Connected-Learning-Modules/modules/mentoring/">Mentoring</a>
+      <a href="http://localhost:4000/Connected-Learning-Modules/modules/design-thinking/">Design Thinking</a>
+      <a href="http://localhost:4000/Connected-Learning-Modules/modules/youth-development/">Youth Development</a>
+      <a href="http://localhost:4000/Connected-Learning-Modules/modules/communitymapping/">Community Mapping</a>
+      <a href="http://localhost:4000/Connected-Learning-Modules/modules/assessment/">Assessment & Evaluation</a>
+      <a href="http://localhost:4000/Connected-Learning-Modules/modules/capacity/">Capacity</a>
+    </div>
+  </div> 
+  <a href="javascript:void(0);" style="font-size:15px;" class="icon" onclick="myFunction()">&#9776;</a>
+</div>
+
+<script>
+function myFunction() {
+    var x = document.getElementById("myTopnav");
+    if (x.className === "topnav") {
+        x.className += " responsive";
+    } else {
+        x.className = "topnav";
+    }
+}
+</script>
+
+
+		<article class="main">
+
+			<h1>3.1 Teens' Media Use</h1>
+
+			<p>Since teens’ media use is constantly evolving as technology and platforms change, we will not focus too much on precise numbers in this section. Rather, we will look at the broad patterns and trends in behavior as well as teens’ motivation for using digital media.</p>
+
+<p><strong>MOBILE</strong></p>
+
+<p>Research statistics show that mobile technologies have enabled teens’ widespread access to the internet.<sup><a href="#fn22">22</a></sup> In the United States today, it is safe to assume that virtually all teens have some kind of access to the internet, frequently via mobile devices. In 2015 91% of teens reported going online from mobile devices “at least occasionally.”<sup><a href="#fn23">23</a></sup></p>
+
+<p>Smartphone usage is widespread among teens of all demographics and socioeconomic statuses. Smartphones may be a way to bridge the digital divide for disadvantaged teens with limited internet access. However, as some of the librarians we spoke to pointed out, just because a teen has a smartphone doesn’t mean they have an adequate data plan - or any plan at all. Still, around 73% of teens with access to smartphones are using messaging apps like Kik or WhatsApp. Fully 33% of teens with phones have texting and messaging apps. Finally, texting is not the only activity; teens use their smartphones as an entertainment hub: sharing photos and videos, watching videos, playing games, listening to music.</p>
+
+<p>The Common Sense Media (2015) study also revealed a large “digital equity gap” as children in lower-income families are significantly less likely than their more affluent peers to live in homes with access to digital technologies (p.23).</p>
+
+<p><strong>WHAT ARE THEY DOING?</strong></p>
+
+<p>Teens and tweens spend a large amount of time using screen media (Common Sense Media, 2015). On average, teens spend approximately 9 hours a day using screen media, while tweens spend 6 hours (Common Sense Media, 2015). Tweens and teens spend a lot of time playing mobile games, watching TV and videos, using social media, and listening to music. Among both tweens and teens, boys and girls appear to have very different media preferences and habits. Boys were found to play more console video games and engage in less reading compared to girls. In addition to reading more, girls spend more time on social media.</p>
+
+<p>While digital media is used for reading, watching, playing, listening, communicating, and creating, few teens (only 3%) are engaged in “content creation” or actually making things online (p.23). As such, content creation activities during digital media use may be an opportunity for youth librarians. Content creation might be included in programming such as interactive media teen book clubs or video blog creation workshops (Martin, 2015).</p>
+
+<p><strong>TECHNOLOGY: MORE OR LESS FREEDOM FOR TEENS?</strong></p>
+
+<p><br />
+&lt;div class=explanatory”&gt;
+[Insert video clip of Katie discussing research on mobile tech as a digital tether]
+&lt;/div&gt;
+<br /></p>
+
+<p>Does technology like smartphones support or undermine the individual process? Pyschologist Sherry Turkle argues that mobile phones are “digital tethers” that enable parents to keep track of their child even when they aren’t in the same physical space. Other research have found that parents and youth are closer than ever,<sup><a href="#fn24">24</a></sup> which may undermine the autonomy that teens are seeking during adolescence. Still, technologies like smartphones may give youth opportunities for greater independence and mobility, allowing parents to feel more at ease allowing their teen to go places without them.</p>
+
+<p>Families can also use digital media to bring them together via joint media engagement–activities like watching movies or playing video games together. Some devices can get in the way of family closeness; for instance, family members may use mobile and tablet devices separately while at home instead of engaging with one another.<sup><a href="#fn25">25</a></sup></p>
+
+<p><br /></p>
+<div class="reflection"> 
+
+  <p><span class="box-title">REFLECTION</span></p> 
+  <p>
+  In what ways do you think mobile technologies have influenced tweens and teens “screen use” behaviors and patterns?
+  </p>
+</div>
+<p><br /></p>
+
+<div class="reflection"> 
+
+  <p><span class="box-title">EXERCISE</span></p> 
+  <p>
+  Brainstorm a few ways that content creation through digital media use, such as building and designing with digital tools and producing works online, could be incorporated into youth programming or workshops. 
+  </p>
+</div>
+<p><br /></p>
+
+<p><strong>Footnotes:</strong></p>
+
+<p><a name="fn22">22</a>:  – Pew and American Life
+<br />
+<a name="fn23">23</a>:  – (Lenhard, 2015)
+<br />
+<a name="fn24">24</a>:  – Cite?
+<br />
+<a name="fn25">25</a>:  – Blackwell, Gardiner, and Schoenebeck’s (2016) 
+<br /></p>
+
+
+
+		</article>
+
+	</article>
+
+</div>
+
+    </body>
+</html>

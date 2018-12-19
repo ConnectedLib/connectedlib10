@@ -1,0 +1,272 @@
+<!DOCTYPE html>
+<html>
+
+    <!-- THIS IS THE INCLUDE FOR THE HEAD OF EVERY FILE -->
+
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>ConnectedLib - 2.3 Analyzing Data</title>
+    <!--<script src="https://infobyway.github.io/connectedlibtest2/assets/js/dropdown.js" type="text/javascript" charset="utf-8"></script>-->  
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="http://localhost:4000/Connected-Learning-Modules/assets/css/connectedlib.css"/>
+</head>
+
+
+    <body>
+
+            <div class="wrapper" mode="overview">
+
+	<!-- left navigation -->
+
+	<!-- Sidebar Nav for the Design Thinking Module -->
+<aside>
+<div class="image">   
+    <a href="http://localhost:4000/Connected-Learning-Modules"><img src="http://localhost:4000/Connected-Learning-Modules/assets/img/connectedlib_logo_noslogan.png" width="200px"></a>
+</div>  
+
+<p style="text-align:center;font-size:110%;font-weight:bold;">Assessment and Evaluation</h2>
+        
+<div id="two-three">
+
+    <ul class="agenda-navigation">
+<li class="overview sectionhead"><a href="index.html">Module Overview</a></li>
+
+<li class="one sectionhead"><a href="section-1-0.html">1. Introduction</a></li>       
+    <li class="one-one"><a href="section-1-1.html">1.1 What is an assessment</a></li>
+    <li class="one-two"><a href="section-1-2.html">1.2 What is an evaluation</a></li>
+    <li class="one-three"><a href="section-1-3.html">Challenges and Opportunities of Evaluating and Assessing Connected Learning</a></li>
+    <li class="one-four"><a href="section-1-4.html">Additional Resources</a></li>
+            
+<li class="two sectionhead"><a href="section-2-0.html">2. Assessment</a></li>
+    <li class="two-one"><a href="section-2-1.html">2.1 Choosing What To Measure</a></li>
+    <li class="two-two"><a href="section-2-2.html">2.2 Collecting Data</a></li>
+    <li class="two-three"><a href="section-2-3.html">2.2 Analyzing Data</a></li>
+    <li class="two-four"><a href="section-2-4.html">Additional Resources</a></li>
+
+<li class="three sectionhead"><a href="section-3-0.html">3. Evaluation</a></li>
+    <li class="three-one"><a href="section-3-1.html">3.1 Stakeholders</a></li>
+    <li class="three-two"><a href="section-3-2.html">3.2 Outcomes</a></li>
+    <li class="three-three"><a href="section-3-3.html">3.3 Evaluation Questions</a></li>
+    <li class="three-four"><a href="section-3-4.html">3.4 Using Assessments in Evaluations</a></li>
+    <li class="three-five"><a href="section-3-5.html">3.5 Evaluation Plans</a></li>
+    <li class="three-six"><a href="section-3-6.html">Additional Resources</a></li>
+
+<li class="four sectionhead"><a href="section-4-0.html">4. Now What?</a></li>
+    <li class="four-one"><a href="section-4-1.html">4.1 Communicating Results</a></li>
+    <li class="four-two"><a href="section-4-2.html">4.2 Using the Results</a></li>
+</ul> 
+        </div>
+      </aside>
+
+
+	<article class="wrap">
+
+		<!-- Old Navbar
+<div class="clnavbar">
+      <p><a href="http://localhost:4000/Connected-Learning-Modules/">ConnectedLib</a> > <a href="index.html">Assessment and Evaluation</a> > <span class="navlink"> 2. Assessment</span></p>
+</div>
+-->
+
+<style>
+      
+/* topnav css */
+.topnav {
+  overflow: hidden;
+  background-color: #333;
+}
+
+.topnav a {
+  float: left;
+  display: block;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.active {
+  background-color: #723d95;
+  color: white;
+}
+
+.topnav .icon {
+  display: none;
+}
+
+.dropdown {
+    float: left;
+    overflow: hidden;
+}
+
+.dropdown .dropbtn {
+    font-size: 17px;    
+    border: none;
+    outline: none;
+    color: white;
+    padding: 14px 16px;
+    background-color: inherit;
+    font-family: inherit;
+    margin: 0;
+}
+
+.dropdown-content {
+    display: none;
+    position: fixed;
+    background-color: #f9f9f9;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+}
+
+.dropdown-content a {
+    float: none;
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+    text-align: left;
+}
+
+.topnav a:hover, .dropdown:hover .dropbtn {
+  background-color: #555;
+  color: white;
+}
+
+.dropdown-content a:hover {
+    background-color: #ddd;
+    color: black;
+}
+
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+
+@media screen and (max-width: 600px) {
+  .topnav a:not(:first-child), .dropdown .dropbtn {
+    display: none;
+  }
+  .topnav a.icon {
+    float: right;
+    display: block;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  .topnav.responsive {position: relative;}
+  .topnav.responsive .icon {
+    position: absolute;
+    right: 0;
+    top: 0;
+  }
+  .topnav.responsive a {
+    float: none;
+    display: block;
+    text-align: left;
+  }
+  .topnav.responsive .dropdown {float: none;}
+  .topnav.responsive .dropdown-content {position: relative;}
+  .topnav.responsive .dropdown .dropbtn {
+    display: block;
+    width: 100%;
+    text-align: left;
+  }
+}
+</style>
+
+<div class="topnav" id="myTopnav">
+  <a href="http://localhost:4000/Connected-Learning-Modules/" class="active">ConnectedLib Home</a>
+  <div class="dropdown">
+    <button class="dropbtn">Modules 
+      <i class="fa fa-caret-down"></i>
+    </button>
+    <div class="dropdown-content">
+      <a href="http://localhost:4000/Connected-Learning-Modules/modules/introduction/">Introduction to Connected Learning</a>
+      <a href="http://localhost:4000/Connected-Learning-Modules/modules/programming/">Connected Learning Programming</a>
+      <a href="http://localhost:4000/Connected-Learning-Modules/modules/partnerships/">Partnerships</a>
+      <a href="http://localhost:4000/Connected-Learning-Modules/modules/mentoring/">Mentoring</a>
+      <a href="http://localhost:4000/Connected-Learning-Modules/modules/design-thinking/">Design Thinking</a>
+      <a href="http://localhost:4000/Connected-Learning-Modules/modules/youth-development/">Youth Development</a>
+      <a href="http://localhost:4000/Connected-Learning-Modules/modules/communitymapping/">Community Mapping</a>
+      <a href="http://localhost:4000/Connected-Learning-Modules/modules/assessment/">Assessment & Evaluation</a>
+      <a href="http://localhost:4000/Connected-Learning-Modules/modules/capacity/">Capacity</a>
+    </div>
+  </div> 
+  <a href="javascript:void(0);" style="font-size:15px;" class="icon" onclick="myFunction()">&#9776;</a>
+</div>
+
+<script>
+function myFunction() {
+    var x = document.getElementById("myTopnav");
+    if (x.className === "topnav") {
+        x.className += " responsive";
+    } else {
+        x.className = "topnav";
+    }
+}
+</script>
+
+
+		<article class="main">
+
+			<h1>2.3 Analyzing Data</h1>
+
+			<p>Once you have collected data, you must somehow transform it into evidence that you can use to answer your assessment questions. Quantitative data can undergo quantitative analysis, and qualitative data can be analyzed either qualitatively or quantitatively.</p>
+
+<h4 id="qualitative-analysis">Qualitative analysis</h4>
+
+<p>Given the variety of methods and goals for assessing a connected learning initiative, not to mention the variation in connected learning programs in general, the exact process you follow to analyze your qualitative data will also vary. However, you will probably be conducting a form of content analysis, which occurs in four main phases.</p>
+
+<ol>
+  <li><strong>Prepare data for analysis</strong>. If your gathered data informally (via talkback boards, for instance, or short on-the-fly interviews), or if it is not textual data (in the case of creative artifacts) it is probably somewhat unstructured. Organize and give your data some structure to make a systematic analysis easier. This process might involve creating ID numbers for each item, typing up handwritten data, or dividing answers to different interview questions into columns on a spreadsheet.</li>
+  <li><strong>Create a coding schema</strong>. Codes are descriptive labels that are applied to specific parts of your data. You can probably put together an initial coding schema based on your evaluation questions. If multiple people are involved in analysis, make sure they agree on the codes and definitions so that you will have consistent results.</li>
+  <li><strong>Apply codes to the data</strong>. Be as broad or as specific as you need to ensure you end up with something useful and easy to understand. You may uncover new concepts and themes that require adjustments to your codebook—just make sure everyone agrees on  and knows how to apply the modified codes. However, you cannot and should not try to code for everything. Unless you find something truly unexpected and impactful, stay focused on what will help you answer your questions.</li>
+  <li><strong>Drawing evidence from the coded data</strong>. Even as you are coding data, you should be looking for themes and patterns. Once you’re done, take a step back and look at the big picture. What codes show up the most? Are there codes that are usually found together? Do some participant groups use certain codes more than other groups? How can you synthesize this data into evidence for the answer to your assessment question?</li>
+</ol>
+
+<div class="explanatory">  
+
+  <p><span class="box-title">QUANTITATIVE ANALYSIS</span></p> 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2kVnsbGdanI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+<p>In this 50-minute webinar, Wendi Ackerman from Upstate Health Service Library in provides a detailed overview of quantitative analysis in libraries.</p> 
+
+  </div>
+<div>
+
+</div>
+
+<h4 id="quantitative-analysis-of-qualitative-data">Quantitative analysis of qualitative data</h4>
+
+<p>It is often useful to use quantitative (number-based) analysis on qualitative data. For instance, you can count the number of teens who mentioned interest in a STEM career during their interviews, or what percentage of participants completed a challenge. Be careful not to misinterpret the numbers. For instance, a very talkative teen who gave a 10-minute interview might mention a STEM career more often than a quieter person who only talked for 3 minutes, but that doesn’t necessarily mean the talkative person is more interested in STEM careers.</p>
+
+<div class="explanatory">  
+
+  <p><span class="box-title">ADDITIONAL RESOURCES</span></p> 
+<ul>
+<li>The PEAR Institute’s <a href="http://www.pearweb.org/atis/reviews/420" target="_blank">Assessment Tools in Informal Science</a> is a database of assessment instruments, complete with user reviews.</li> 
+
+<li>The <a href="http://stelar.edc.org/resources" target="_blank">STEM Learning and Research Center</a> also has a database of assessment instruments.</li>  
+
+<li>The <a href="" target="_blank">Activation Lab</a> provides instruments to assess science learning activation, as well as an <a href="http://www.activationlab.org/wp-content/uploads/2014/07/ObservationProtocolFINAL.pdf" target="_blank">observation protocol</a> to measure engagement with learning.</li>  
+
+<li>IDEO has created a <a href="http://www.designkit.org/methods" target="_blank">Human-Centered Design Kit</a> with dozens of methods for gathering ideas and information, many of which can be used for creatively assessing connected learning programs.</li>  
+
+<li><a href="http://www.informalscience.org" target="_blank">InformalScience.org</a> has a collection of <a href="http://www.informalscience.org/evaluation/browse-evaluation?search_api_views_fulltext=&amp;sort_by=field_resource_date_value" target="_blank">evaluation materials</a> from informal STEM learning projects, including evaluation reports and assessment instruments.</li>
+</ul>
+</div>
+
+
+
+		</article>
+
+	</article>
+
+</div>
+
+    </body>
+</html>

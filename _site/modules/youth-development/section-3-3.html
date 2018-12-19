@@ -1,0 +1,303 @@
+<!DOCTYPE html>
+<html>
+
+    <!-- THIS IS THE INCLUDE FOR THE HEAD OF EVERY FILE -->
+
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>ConnectedLib - 3.3 Video Games</title>
+    <!--<script src="https://infobyway.github.io/connectedlibtest2/assets/js/dropdown.js" type="text/javascript" charset="utf-8"></script>-->  
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="http://localhost:4000/Connected-Learning-Modules/assets/css/connectedlib.css"/>
+</head>
+
+
+    <body>
+
+            <div class="wrapper" mode="overview">
+
+	<!-- left navigation -->
+
+	<!-- Sidebar Nav for the Design Thinking Module -->
+<aside>
+<div class="image">   
+    <a href="http://localhost:4000/Connected-Learning-Modules"><img src="http://localhost:4000/Connected-Learning-Modules/assets/img/connectedlib_logo_noslogan.png" width="200px"></a>
+</div>  
+
+<p style="text-align:center;font-size:110%;font-weight:bold;">Youth Development</h2>
+        
+<div id="three-three">
+
+    <ul class="agenda-navigation">
+<li class="overview sectionhead"><a href="index.html">Module Overview</a></li>
+
+<li class="one sectionhead"><a href="section-1-0.html">1. Theories of Youth Development</a></li>       
+    <li class="one-one"><a href="section-1-1.html">1.1 Piaget's Theory of Cognitive Development</a></li>
+    <li class="one-two"><a href="section-1-2.html">1.2 Vygotsky's Sociocultural Learning Theory</a></li>
+    <li class="one-three"><a href="section-1-3.html">1.3 Papert's Constructionism Theory</a></li>
+    <li class="one-four"><a href="section-1-4.html">1.4 Bandura's Social Cognitive Learning Theory</a></li>
+    <li class="one-five"><a href="section-1-5.html">1.5 Bronfenbrenner's Ecological Model</a></li>
+    <li class="one-six"><a href="section-1-6.html">1.6 Erikson's Psychosocial Theory</a></li>
+            
+<li class="two sectionhead"><a href="section-2-0.html">2. Developing an Identity</a></li>
+    <li class="two-one"><a href="section-2-1.html">2.1 Forming an Identity</a></li>
+    <li class="two-two"><a href="section-2-2.html">2.2 Relationships</a></li>
+    <li class="two-three"><a href="section-2-3.html">2.3 Moral and Ethical Development</a></li>
+
+<li class="three sectionhead"><a href="section-3-0.html">3. Teens and Digital Media</a></li>
+    <li class="three-one"><a href="section-3-1.html">3.1 Teens' Media Use</a></li>
+    <li class="three-two"><a href="section-3-2.html">3.2 Communicating Online</a></li>
+    <li class="three-three"><a href="section-3-3.html">3.3 Video Games</a></li>
+    <li class="three-four"><a href="section-3-4.html">3.4 Digital Media and Literacy</a></li>
+
+<li class="four sectionhead"><a href="section-4-0.html">4. Conclusion</a></li>
+
+</ul> 
+        </div>
+      </aside>
+
+
+	<article class="wrap">
+
+		<!-- Old Navbar
+<div class="clnavbar">
+      <p><a href="http://localhost:4000/Connected-Learning-Modules/">ConnectedLib</a> > <a href="index.html">Youth Development</a> > <span class="navlink"> 3. Teens and Digital Media</span></p>
+</div>
+-->
+
+<style>
+      
+/* topnav css */
+.topnav {
+  overflow: hidden;
+  background-color: #333;
+}
+
+.topnav a {
+  float: left;
+  display: block;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.active {
+  background-color: #723d95;
+  color: white;
+}
+
+.topnav .icon {
+  display: none;
+}
+
+.dropdown {
+    float: left;
+    overflow: hidden;
+}
+
+.dropdown .dropbtn {
+    font-size: 17px;    
+    border: none;
+    outline: none;
+    color: white;
+    padding: 14px 16px;
+    background-color: inherit;
+    font-family: inherit;
+    margin: 0;
+}
+
+.dropdown-content {
+    display: none;
+    position: fixed;
+    background-color: #f9f9f9;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+}
+
+.dropdown-content a {
+    float: none;
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+    text-align: left;
+}
+
+.topnav a:hover, .dropdown:hover .dropbtn {
+  background-color: #555;
+  color: white;
+}
+
+.dropdown-content a:hover {
+    background-color: #ddd;
+    color: black;
+}
+
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+
+@media screen and (max-width: 600px) {
+  .topnav a:not(:first-child), .dropdown .dropbtn {
+    display: none;
+  }
+  .topnav a.icon {
+    float: right;
+    display: block;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  .topnav.responsive {position: relative;}
+  .topnav.responsive .icon {
+    position: absolute;
+    right: 0;
+    top: 0;
+  }
+  .topnav.responsive a {
+    float: none;
+    display: block;
+    text-align: left;
+  }
+  .topnav.responsive .dropdown {float: none;}
+  .topnav.responsive .dropdown-content {position: relative;}
+  .topnav.responsive .dropdown .dropbtn {
+    display: block;
+    width: 100%;
+    text-align: left;
+  }
+}
+</style>
+
+<div class="topnav" id="myTopnav">
+  <a href="http://localhost:4000/Connected-Learning-Modules/" class="active">ConnectedLib Home</a>
+  <div class="dropdown">
+    <button class="dropbtn">Modules 
+      <i class="fa fa-caret-down"></i>
+    </button>
+    <div class="dropdown-content">
+      <a href="http://localhost:4000/Connected-Learning-Modules/modules/introduction/">Introduction to Connected Learning</a>
+      <a href="http://localhost:4000/Connected-Learning-Modules/modules/programming/">Connected Learning Programming</a>
+      <a href="http://localhost:4000/Connected-Learning-Modules/modules/partnerships/">Partnerships</a>
+      <a href="http://localhost:4000/Connected-Learning-Modules/modules/mentoring/">Mentoring</a>
+      <a href="http://localhost:4000/Connected-Learning-Modules/modules/design-thinking/">Design Thinking</a>
+      <a href="http://localhost:4000/Connected-Learning-Modules/modules/youth-development/">Youth Development</a>
+      <a href="http://localhost:4000/Connected-Learning-Modules/modules/communitymapping/">Community Mapping</a>
+      <a href="http://localhost:4000/Connected-Learning-Modules/modules/assessment/">Assessment & Evaluation</a>
+      <a href="http://localhost:4000/Connected-Learning-Modules/modules/capacity/">Capacity</a>
+    </div>
+  </div> 
+  <a href="javascript:void(0);" style="font-size:15px;" class="icon" onclick="myFunction()">&#9776;</a>
+</div>
+
+<script>
+function myFunction() {
+    var x = document.getElementById("myTopnav");
+    if (x.className === "topnav") {
+        x.className += " responsive";
+    } else {
+        x.className = "topnav";
+    }
+}
+</script>
+
+
+		<article class="main">
+
+			<h1>3.3 Video Games</h1>
+
+			<p>Some 70% of all teens play video games and 81% of them have a video game console or a way to access one (Lenhart, 2015). Since the inception of mainstream computer games, a continued debate has occurred concerning the effects of engaging with violent video game content. Research evidence on how and why video games can be beneficial or harmful has been conflicting. In examining the findings and viewpoints from a few key studies, scholars, and theories, we consider the overall impact of video games and youth development.</p>
+
+<p><strong>POSSIBLE BENEFITS OF VIDEO GAMES</strong></p>
+
+<p>Earlier in this module, we discussed how Vygotsky’s zone of proximal development (ZPD) is the “sweet spot” of learning, where a young person can problem solve independently to a point, but may need some support or guidance to continue as the task complexity increases. Outlining the benefits of video games, researchers Granic et al. (2014) describe the possible ways that video games may place young people right into the ZPD.</p>
+
+<p>Granic et al. identified key aspects of certain video games that make them motivating for players, including:</p>
+
+<ul>
+  <li><strong>Immediate and concrete feedback</strong>. Players know what they are doing and how well they are doing in the game as they play. The constant feedback and prompts throughout can scaffold and guide their experience.</li>
+  <li><strong>Balance between challenge and frustration</strong>. Video games can automatically calibrate to the player’s skill level. Challenges within the game keep the players motivated. However, they are not frustrated to the point where they want to quit. This balance between challenge and frustration enables players to stay engaged.</li>
+  <li><strong>Low cost of failure</strong>. Players do not worry about “messing up” because they can always start the game over again.</li>
+</ul>
+
+<p>Compare these aspects of certain video games with a traditional school setting. In what ways might a school setting differ from the learning environment afforded by video games?</p>
+
+<p><strong>POTENTIAL COGNITIVE BENEFITS</strong></p>
+
+<p>Granic et al. (2014) describe other suggestions on the cognitive benefits of certain types of video games. They argue that some games, such as puzzles or those with open-ended challenges, can foster problem-solving skills (Granic et al., 2014; Prensky, 2012). As a result of problem-solving activities in games, other potential benefits might include enhanced creativity. In games like Minecraft, players may also increase their spatial skills, or the ability to mentally manipulate two-dimensional or three-dimensional graphics.</p>
+
+<p>First person shooter games may also contribute to such spatial skills development (Green &amp; Seitz, 2015). Moreover, spatial skills may provide a foundation for interests and success in such STEM fields as architecture or civil engineering (Granic et al., 2014; Wai et al., 2010).</p>
+
+<p>While video games may offer many benefits, Granic et al. caution that “…enhanced cognitive performance is not documented for all video game genres” (p.69).</p>
+
+<p><strong>SOCIAL BENEFITS</strong></p>
+
+<p>A common viewpoint is that too much video game playing can lead to antisocial behavior. Yet, gaming communities and the gamers within them may feel otherwise. Granic et al. point out the social benefits of gaming. The multiplayer game, World of Warcraft, requires players to collaborate and compete with each other. Within online gaming communities, young people may learn how to effectively lead a group or work with other members in achieving a common goal. Some multiplayer games may remove some of the social pressures that teens and young adults face. In fact, many librarians we talked to have included video game-oriented programming. “Dave” a youth librarian at a East Coast library discussed his approach to video games in the library [INTK-005]: “…we make it a social occasion… half the kids who come to gaming, they’re hard core gamers, this is their social hour.”</p>
+
+<p>For young people on the autism spectrum, such online games as Minecraft may even encourage their social interaction and communication skills. “Autcraft,” a server set up exclusively for children with autism and their families, has over nearly 7000 members. The community serves as a space for young people to socialize and meet others. As such, some research has found that Minecraft participation encourages social skill development in an environment that removes some of the stress associated with in-person interactions (Rutkin, 2016).</p>
+
+<p><strong>EXECUTIVE FUNCTION</strong></p>
+
+<p>Executive function refers to the mental processes that enable us to focus our attention, remember instructions, and to multitask successfully (Center on the Developing Child at Harvard University, 2011).</p>
+
+<p>The following are skills associated with executive function.</p>
+
+<ul>
+  <li>Solve problems</li>
+  <li>Filter distractions</li>
+  <li>Switch gears</li>
+  <li>Make and revise plans</li>
+  <li>Control impulses</li>
+</ul>
+
+<p>In the debate on video games and harmful effects, a common viewpoint is that constant video game playing can lead to problems with executive function. Yet, some emerging research findings are showing that action video games, or first-person shooter games like Call of Duty, may provide players with some cognitive advantages. Researchers have examined gamers in terms of attention and improved ability to track objects. Daphne Bavelier, a cognitive scientist at the University of Rochester, says that her findings suggest that action video game players may be better than non-gamers with:</p>
+
+<ul>
+  <li>Vision</li>
+  <li>Cognitive flexibility (word/color conflict)</li>
+  <li>Tracking objects</li>
+  <li>Mental rotation, or the ability to mentally represent physical objects in their minds (Bavelier et al., 2012)</li>
+</ul>
+
+<p>In contrast to the popular narrative that video games negatively affect attention spans, first-person shooter may indeed lead to actual enhancements in attention and executive function. Beyond first-person shooter action games, other genres and types of video games and their effects on executive function remain unclear.</p>
+
+<p><strong>DO VIDEO GAMES MAKE CHILDREN VIOLENT?</strong></p>
+
+<p>For decades, both researchers and the public have been engaged in an ongoing debate on whether violent video games can be linked to real world aggression. On one hand, a body of research has pointed to a relationship between violent video games and aggressive behavior. The <a href="http://www.apa.org/pi/families/violent-media.aspx" target="_blank">APA Task Force on Violent Media</a> (2015) report provides a comprehensive review of research literature published between 2005 and 2013 that examined violent video game use. The report confirmed a link between playing violent video games and aggression. However, the group concludes that violent video games are just one of many risk factors that may lead to aggressive behavior. In addition, the report finds that not enough evidence exists to connect violent video game playing to criminal violence.</p>
+
+<p>On the other side of the debate, <a href="http://www.stetson.edu/other/faculty/profiles/christopher-ferguson.php" target="_blank">Christopher J. Ferguson</a> (2015), a professor of psychology who studies the media effects of violent video games, points out a few problems with the findings in the APA report. First, much of the research focused on college students rather than young children or adolescents. He also notes the potential of “confirmation bias,” or the tendency for researchers to acknowledge only results or studies that align with their personal beliefs. Ferguson recommends that people remain skeptical of extreme viewpoints on either side of the debate—both the claims that expound the harms of video games as well as the benefits.</p>
+
+<p>Moreover, many studies on violent video games have not explored other variables such as the impact of a violent home environment. Another issue to consider is desensitization. Could long term exposure to violent content contribute a young person becoming desensitized to certain violent acts? Further, many video games on the market contain misogynistic content. How might these depictions of women affect they way young girls see themselves? (Katie’s lecture, 2017). For instance, the “Gamergate” controversy revealed shifts in gaming culture. For young women who identify as gamers, they may face an online community that is less than welcoming to women’s growing presence in the gaming culture and industry. These are all issues and open questions that researchers have yet to fully explore.</p>
+
+<p><br /></p>
+<div class="reflection"> 
+
+  <p><span class="box-title">REFLECTION</span></p> 
+  <p>Your take. Read Christopher J. Ferguson’s article for the Huffington post: <a href="http://www.huffingtonpost.com/christopher-j-ferguson/do-angry-birds-make-for-angry-children_b_8276610.html" target="_blank">“Do Angry Birds Make for Angry Children?”</a> and the <a href="http://www.apa.org/news/press/releases/2015/08/violent-video-games.aspx" target="_blank">APA Task Force on Violent Media report</a>. What have you learned about the violence and video games debate? What questions do you still have?</p>
+</div>
+<p><br /></p>
+
+<div class="reflection"> 
+
+  <p><span class="box-title">EXERCISE</span></p> 
+  <p>Spend some time observing a school or public library in which young people have open access to video games, or multiplayer games, and jot your observations and reflections. What signs of learning are you witnessing? How can learning or social interaction be fostered through gaming?</p>
+</div>
+<p><br /></p>
+
+
+		</article>
+
+	</article>
+
+</div>
+
+    </body>
+</html>

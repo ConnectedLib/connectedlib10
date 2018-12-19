@@ -1,0 +1,293 @@
+<!DOCTYPE html>
+<html>
+
+    <!-- THIS IS THE INCLUDE FOR THE HEAD OF EVERY FILE -->
+
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>ConnectedLib - 3.1 Imagination</title>
+    <!--<script src="https://infobyway.github.io/connectedlibtest2/assets/js/dropdown.js" type="text/javascript" charset="utf-8"></script>-->  
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="http://localhost:4000/Connected-Learning-Modules/assets/css/connectedlib.css"/>
+</head>
+
+
+    <body>
+
+            <div class="wrapper" mode="overview">
+
+	<!-- left navigation -->
+
+	<!-- Sidebar Nav for the Design Thinking Module -->
+<aside>
+<div class="image">   
+    <a href="http://localhost:4000/Connected-Learning-Modules"><img src="http://localhost:4000/Connected-Learning-Modules/assets/img/connectedlib_logo_noslogan.png" width="200px"></a>
+</div>  
+
+<p style="text-align:center;font-size:110%;font-weight:bold;">Design Thinking</h2>
+        
+<div id="three-one">
+
+    <ul class="agenda-navigation">
+<li class="overview sectionhead"><a href="index.html">Module Overview</a></li>
+
+<li class="one sectionhead"><a href="section-1-0.html">1. Introduction</a></li>       
+    <li class="one-one"><a href="section-1-1.html">1.1 What Is Design Thinking?</a></li>
+    <li class="one-two"><a href="section-1-2.html">1.2 Design Thinking In the Youth Librarian Context</a></li>
+    <li class="one-three"><a href="section-1-3.html">1.3 The Design Thinking Process</a></li>
+    <li class="one-four"><a href="section-1-4.html">1.4 Design Thinking and Connected Learning</a></li>
+            
+<li class="two sectionhead"><a href="section-2-0.html">2. Exploring A Design Challenge</a></li>
+    <li class="two-one"><a href="section-2-1.html">2.1 Design Challenge Examples</a></li>
+    <li class="two-two"><a href="section-2-2.html">2.2 Initiating the Challenge</a></li>
+    <li class="two-three"><a href="section-2-3.html">2.3 Facilitating A Design Challenge Through Studio Experience</a></li>
+    <li class="two-four"><a href="section-2-4.html">2.4 Kick Off Or Warm Ups</a></li>
+    <li class="two-five"><a href="section-2-5.html">2.5 Closing Out The Challenge</a></li>
+    <li class="two-six"><a href="section-2-6.html">Additional Resources</a></li>
+
+<li class="three sectionhead"><a href="section-3-0.html">3. Core Research Methods</a></li>
+    <li class="three-one"><a href="section-3-1.html">3.1 Imagination</a></li>
+    <li class="three-two"><a href="section-3-2.html">3.2 Ideation</a></li>
+    <li class="three-three"><a href="section-3-3.html">3.3 Iteration</a></li>
+    <li class="two-four"><a href="section-3-4.html">Additional Resources</a></li>
+
+<li class="four sectionhead"><a href="section-4-0.html">4. Overcoming Challenges</a></li>
+
+</ul> 
+        </div>
+      </aside>
+
+
+	<article class="wrap">
+
+		<!-- Old Navbar
+<div class="clnavbar">
+      <p><a href="http://localhost:4000/Connected-Learning-Modules/">ConnectedLib</a> > <a href="index.html">Design Thinking</a> > <span class="navlink"> 1. Core Research Methods</span></p>
+</div>
+-->
+
+<style>
+      
+/* topnav css */
+.topnav {
+  overflow: hidden;
+  background-color: #333;
+}
+
+.topnav a {
+  float: left;
+  display: block;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.active {
+  background-color: #723d95;
+  color: white;
+}
+
+.topnav .icon {
+  display: none;
+}
+
+.dropdown {
+    float: left;
+    overflow: hidden;
+}
+
+.dropdown .dropbtn {
+    font-size: 17px;    
+    border: none;
+    outline: none;
+    color: white;
+    padding: 14px 16px;
+    background-color: inherit;
+    font-family: inherit;
+    margin: 0;
+}
+
+.dropdown-content {
+    display: none;
+    position: fixed;
+    background-color: #f9f9f9;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+}
+
+.dropdown-content a {
+    float: none;
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+    text-align: left;
+}
+
+.topnav a:hover, .dropdown:hover .dropbtn {
+  background-color: #555;
+  color: white;
+}
+
+.dropdown-content a:hover {
+    background-color: #ddd;
+    color: black;
+}
+
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+
+@media screen and (max-width: 600px) {
+  .topnav a:not(:first-child), .dropdown .dropbtn {
+    display: none;
+  }
+  .topnav a.icon {
+    float: right;
+    display: block;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  .topnav.responsive {position: relative;}
+  .topnav.responsive .icon {
+    position: absolute;
+    right: 0;
+    top: 0;
+  }
+  .topnav.responsive a {
+    float: none;
+    display: block;
+    text-align: left;
+  }
+  .topnav.responsive .dropdown {float: none;}
+  .topnav.responsive .dropdown-content {position: relative;}
+  .topnav.responsive .dropdown .dropbtn {
+    display: block;
+    width: 100%;
+    text-align: left;
+  }
+}
+</style>
+
+<div class="topnav" id="myTopnav">
+  <a href="http://localhost:4000/Connected-Learning-Modules/" class="active">ConnectedLib Home</a>
+  <div class="dropdown">
+    <button class="dropbtn">Modules 
+      <i class="fa fa-caret-down"></i>
+    </button>
+    <div class="dropdown-content">
+      <a href="http://localhost:4000/Connected-Learning-Modules/modules/introduction/">Introduction to Connected Learning</a>
+      <a href="http://localhost:4000/Connected-Learning-Modules/modules/programming/">Connected Learning Programming</a>
+      <a href="http://localhost:4000/Connected-Learning-Modules/modules/partnerships/">Partnerships</a>
+      <a href="http://localhost:4000/Connected-Learning-Modules/modules/mentoring/">Mentoring</a>
+      <a href="http://localhost:4000/Connected-Learning-Modules/modules/design-thinking/">Design Thinking</a>
+      <a href="http://localhost:4000/Connected-Learning-Modules/modules/youth-development/">Youth Development</a>
+      <a href="http://localhost:4000/Connected-Learning-Modules/modules/communitymapping/">Community Mapping</a>
+      <a href="http://localhost:4000/Connected-Learning-Modules/modules/assessment/">Assessment & Evaluation</a>
+      <a href="http://localhost:4000/Connected-Learning-Modules/modules/capacity/">Capacity</a>
+    </div>
+  </div> 
+  <a href="javascript:void(0);" style="font-size:15px;" class="icon" onclick="myFunction()">&#9776;</a>
+</div>
+
+<script>
+function myFunction() {
+    var x = document.getElementById("myTopnav");
+    if (x.className === "topnav") {
+        x.className += " responsive";
+    } else {
+        x.className = "topnav";
+    }
+}
+</script>
+
+
+		<article class="main">
+
+			<h1>3.1 Imagination</h1>
+
+			<blockquote>
+  <p>“Designers engage with users (people!) to understand their needs and gain insights about their lives.” (d.school, 2016)</p>
+</blockquote>
+
+<p>The imagination phase of the design process centers on understanding the people who may use your new design or experience. By observing and talking to people, you may find inspiration for new initiatives, uncover hidden challenges, or gain more insight into a community. Below are key research methods for exploring unfamiliar communities as well as understanding the people you want to impact.</p>
+
+<h3 id="observation">Observation</h3>
+
+<p>Look around you. What would you or youth like to change or improve about your library or community ? The research method of observation—watching how people behave and interact within spaces and places—can uncover needs of others, capture the context, and guide innovation efforts (d.school steps, 2016).</p>
+
+<div class="case_study_box">  
+<p><span class="box-title">OBSERVATION IN ACTION: LISTENING IN COMMUNITY SPACES</span></p>
+<p>Paul, a youth librarian at an urban, Northwestern library, discussed his approach to learning about youth interests by observing the culture of his community. He said: “I could be standing next to groups of teens outside of the movie theater, and always listening to the conversations to...the themes that they're talking about.” He also investigated the local entertainment industry, noting his community’s DJ culture. “Look, it's an entertainment industry, there's a lot of DJs in town. Why don't we start creating our own DJs?"</p>  
+</div>
+<p><br /></p>
+
+<h3 id="interviewing-target-communities-and-leveraging-community-partners">Interviewing Target Communities and Leveraging Community Partners</h3>
+
+<p>You can also talk directly with your target community or tap into community partners to understand others’ their lived experiences. While it’s not always possible to conduct a formal interview, you may have performed “informal interviewing”, or asked for information and advice from target communities or community partners.</p>
+
+<p>Here are few general tips for both formal or informal interviews:</p>
+
+<ul>
+  <li><strong>Seek out community opinions, advice, or personal experiences</strong>. For instance, if you are integrating a new technology in your teen space, ask your community partners if they’ve had experiences with it and what their impressions are about it. (See our Community Partnerships module for more information)</li>
+  <li><strong>Prepare your questions ahead of time</strong>. Start with broad questions (job, household demographics, daily activities) that people are comfortable with answering. After understanding more about their lifestyle, proceed with specific questions that might relate to your design challenge. (IDEO, design kit, 2016).</li>
+  <li><strong>Encourage stories and anecdotes</strong>. Questions for eliciting stories might be: “Tell me about a time when…” or  “What was your experience in integrating this technology?”</li>
+  <li><strong>Attempt to interview people in the context and environment in which they live or work</strong>. Write down notes about the surroundings and body language.</li>
+</ul>
+
+<p><br /></p>
+<div class="case_study_box">  
+<p><span class="box-title">INTERVIEWING TARGET COMMUNITIES IN ACTION: LEVERAGING COMMUNITY PARTNERSHIPS</span></p>
+<p>Vanessa, a youth librarian at a suburban, Southern library focuses on involving community stakeholders in the process to understand her community. She says that she brainstorms with teens first and then brings their ideas to other partners for advice. She offers: “....even having the teens talk to other people in the community about, "Hey, what do you see as a need?" And, "Is this a good idea? Do you think from your perspective as a program manager at a Boys and Girls Club that this will be something that teens you know would be interested in?"</p>  
+</div>
+
+<h3 id="interviewing-experts">Interviewing Experts</h3>
+
+<p>Interviewing experts is another way for both you and youth to become inspired by the experiences of others. You might think about interviewing someone with deep experience or knowledge in a relevant area of your design challenge. Or perhaps your youth community has a hobby or career interest in a local industry or profession. For example, if teens are interested in a cooking or food project, you could speak with a professional chef (Cooper-Wright, 2015).</p>
+
+<p><br /></p>
+<div class="case_study_box">  
+<p><span class="box-title">INTERVIEWING EXPERTS IN ACTION: [Text Wrapping Break]CONFRONTING THE LACK OF DIVERSITY IN LITERATURE</span></p>
+<p>Teens at a suburban Pacific Northwest library with a large Asian population discovered a distinct issue with what they were reading for the YA book club. They came to youth librarians, wondering: “There's nobody in these books that's like me. Why not?” Given these questions, teens and librarians developed a diversity panel that included authors of books about diversity and a book publisher. During the panel interview with literature professionals they discussed a pressing question: Why there isn't there more diversity in current literature? Throughout the panel, the youth produced all their own questions and learned directly from experts about the challenges of the writing industry.</p>  
+</div>
+
+<h3 id="participatory-design">Participatory Design</h3>
+
+<p>Participatory Design (PD), also called co-design, involves the stakeholders, designers, researchers and users of a new technology, product, program, or service in the design process. This approach helps to ensure that the final design meets the needs of its intended audience. Thus, the user of the service would participate in some aspect of the design process, whether it’s helping to brainstorm ideas, critique working design, or create mockups of new design. When working with youth, PD can be a way for youth to take an active role in designing which may lead to the development of a strong sense of accomplishment or even interest in design (Braun, 2003). As such, youth can be seen as “problem-solvers” and “experts” without formal design education and training (Subramaniam, 2016).</p>
+
+<p><strong>You may want to run a Participatory Design session or workshop if you want to:</strong></p>
+
+<ul>
+  <li>Understand how people or youth think about a given issue, technology, service or program in your library</li>
+  <li>Learn and observe things that may be difficult to discover in interviews or surveys</li>
+  <li>Ensure that teens are “equal partners in designing programming and services”(Subramaniam, 2016).</li>
+</ul>
+
+<p>Many techniques exist for designing with and for youth and Participatory Design exercises can be included into the design process with youth in a variety of ways. Some ideas include:</p>
+
+<ul>
+  <li><strong>Bags of stuff</strong> (low tech prototyping). Prototypes can be anything that takes a design idea and puts it into physical form (d.school, 2016). Using “bags of stuff” (e.g. arts and crafts materials such as construction paper, legos, and pipe cleaners), librarians can engage teens in building out their ideas visually or 3 dimensionally (Subramaniam, 2016). You can use this technique to help form ideas for such projects as designing makerspaces, teen spaces, and learning labs.</li>
+  <li><strong>Big Paper</strong>. Big pads or rolled sheets of paper can give you or your group the space to draw out ideas, plan out steps, or cross items out. Having a big piece of paper on a whiteboard allows you to step back and view the ideas front and center. Using big paper, it’s often easier to take photos of your brainstorming results for later review.</li>
+  <li><strong>Sticky Noting</strong>. “Teens use sticky noting to evaluate or critique a prototype or idea that is in development (such as a low-tech prototypes)”(Subramaniam, 2016). For this technique, pens/pencils and sticky notes (also known as Post-it notes) are needed. Adults and teen design partners use or view the idea or technology and display their likes, dislikes, surprises, and design ideas using sticky notes on a whiteboard (Subramaniam, 2016)”.</li>
+</ul>
+
+<p>In Participatory Design, youth should not focus on coming up with “correct answers”.  Instead, you can guide them to focus on building out their ideas and explaining their design concepts.</p>
+
+
+		</article>
+
+	</article>
+
+</div>
+
+    </body>
+</html>

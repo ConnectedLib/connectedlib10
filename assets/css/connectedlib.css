@@ -796,6 +796,49 @@ a .external {
   text-transform: uppercase;
 }
 
+/* grid for home page */
+
+.grid-container {
+  display: grid;
+  width:75%;
+  grid-template-columns: repeat( 3, minmax(33.33%, 1fr) );
+  grid-auto-rows: 1fr;
+ /* grid-template-columns: auto auto auto; */
+  grid-gap: 10px;
+  background-color: #ffffff;
+  padding: 10px;
+  font-family:'Comfortaa',Helvetica,Arial,sans-serif !important;
+}
+
+.grid-container a {
+  text-decoration: none;
+  color: #000000;
+}
+
+.grid-item a div {
+  width:100%;
+  height:100%;
+}
+
+.grid-container .grid-item {
+  background-color: #2CA198;
+  text-align: center;
+  padding: 20px 0;
+  font-size: 1.2em;
+  opacity:.70;
+  grid-column: span 1;
+}
+
+
+.grid-container .grid-item:hover {
+  background-color: #ffa32f;
+  opacity:1.0;
+}
+
+/* end grid for home page */
+
+
+
 .activity-menu {
   border-bottom: solid 1px rgba(0,0,0,0);
   background: #E81E25;

@@ -1,6 +1,6 @@
 ---
 layout: module
-title: 4.3 Additional Resources
+title: Additional Resources
 module_name: assessment
 module_full_name: Assessment and Evaluation
 section: 4. Now What?

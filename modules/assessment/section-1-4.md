@@ -7,10 +7,6 @@ section: 1. Introduction
 subsection: one-four
 ---
 
-<div class="explanatory">  
-
-  <p><span class="box-title">ADDITIONAL RESOURCES</span></p> 
-
 <ul>
   <li>The <a href="http://ctb.ku.edu/en/table-of-contents" target="_blank">Community Toolbox</a> provides a detailed <a href="http://ctb.ku.edu/en/table-of-contents/evaluate/evaluation" target="_blank">Introduction to Evaluation</a> from a community development perspective.</li>
 
@@ -32,11 +28,3 @@ subsection: one-four
 
   <li><a href="http://www.informalscience.org/evaluation" target="_blank">InformalScience.org</a> has a set of evaluation resources specifically designed for informal STEM learning.</li>
   </ul>
-  </div> 
-<br>
-
-
-
-**Footnotes:**
-
-<a name="fn2">2</a>:  -- https://youtu.be/u6rguxNk8kY 4:30

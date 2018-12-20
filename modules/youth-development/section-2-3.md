@@ -87,16 +87,6 @@ Young people are often bombarded with messaging about online safety from parents
   <li>What role should librarians play in addressing young people’s “blind spots” and “disconnects” when they use digital and networked technologies?</li>
   </ul>
 </div>
-<br>
-
-<div class="explanatory">  
-
-  <p><span class="box-title">ADDITIONAL RESOURCES</span></p> 
-
-<p><a href="https://www.chatelaine.com/living/features-living/social-media-teens/">https://www.chatelaine.com/living/features-living/social-media-teens/</a> <br>
-
-Explore the <a href="https://www.commonsense.org/education/digital-citizenship">Digital Literacy and Citizenship Classroom Curriculum</a>. Brainstorm some ways you can incorporate digital literacy and digital literacy into your programming or activities within a library setting. </p> 
-</div>
 
 <br>
 <div class="reflection"> 

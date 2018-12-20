@@ -56,9 +56,9 @@ body {
   font-size: 16px;
 }
 
-p, li, span {
-  color: rgba(0,0,0,.7);
-}
+ p, li, span {
+  color:#000000;
+} 
 
 .wrapper {
   display: flex;
@@ -66,20 +66,9 @@ p, li, span {
 }
 
 h1 {
-  font-size: 40px;
+  font-size: 3em;
   font-weight: normal;
-  position: relative;
-  margin: 0;
-}
-
-hr {
-  color: #000;
-  width: 50%;
-  height: 3px;
-  border: 1px;
-  margin: 35px 0 45px 0;
-  position: relative;
-  left: 25%;
+  margin-bottom: 25px;
 }
 
 .made-by {
@@ -100,11 +89,15 @@ hr {
 }
 
 blockquote {
-  border-left: solid 2px #225c59; /* very dark teal */
-  background: #c7e8e2; /* very light teal */
-  border-radius: 2px;
-  margin: 20px 0 35px 0;
-  padding: 8px 35px 8px 40px;
+  border-left: solid 10px #225c59; /* very dark teal */
+  /* background: #c7e8e2; very light teal */
+  background-color: #e5e5e5;
+  border-radius: 10px;
+  margin: 30px 0 35px 0;
+  padding: 40px 60px 40px 60px;
+  font-family:'Kalam';
+  font-size:1.3em;
+  color: #000000;
 }
 
 blockquote a {
@@ -125,14 +118,14 @@ blockquote a {
 }
 
 h2 {
-  color: rgba(0,0,0,.65);
+  /* color: rgba(0,0,0,.65); */
   margin: 30px 0 20px 0;
   font-size: 28px;
   font-weight: 500;
 }
 
 h3 {
-  color: rgba(0,0,0,.65);
+  /* color: rgba(0,0,0,.65); */
   margin: 40px 0 15px 0;
   font-size: 18px;
   font-weight: 700;
@@ -171,15 +164,19 @@ article.main {
   padding: 30px 40px 30px 50px;
 }
 
+article.main p, article.main ul {
+  margin-bottom:20px;
+}
+
 article.main *:not(.activity-menu) {
   max-width: 750px;
 }
 
-.time {
+.time, .videotime {
   color:#3fb58e;
   background: #caf6e6;
-  border-radius: 2px;
-  margin: 14px 0 0 0;
+  border-radius: 10px;
+  margin: 0px 0 0 0;
   display: inline-block;
   border-width: 0 0 0 2px;
   padding: 8px 13px 8px 34px;
@@ -187,6 +184,28 @@ article.main *:not(.activity-menu) {
   background-size: 18px;
   background-position: 10px center;
   background-repeat: no-repeat;
+}
+
+.videotime {
+  float:left;
+}
+
+.source { 
+  color:#710040;
+  background: #E58CBE;
+  border-radius: 10px;
+  margin-left: 25px;
+  display: inline-block;
+  border-width: 0 0 0 2px;
+  padding: 8px 13px 8px 13px;
+  /* background-image: url(../img/clock.svg);
+  background-size: 18px;
+  background-position: 10px center;
+  background-repeat: no-repeat; */
+}
+
+.source a, .source a:visited {
+  color:#710040;
 }
 
 .download-box {
@@ -356,6 +375,7 @@ aside {
   top: 0;
   left: 0;
   overflow-x: hidden;
+  margin-bottom:25px;
 }
 
 aside p a {
@@ -675,21 +695,21 @@ But there was no time to do more than jerry-rig an adaptation. */
 
 /* Fancy red list that is now blue */
 
-ul.fancy, ol.fancy {
-  background: #85c0fe; /* pale blue */ 
-  color: #000; 
-  border-radius: 2px;
-  margin: 20px 0 35px 0;
-  padding: 8px 35px 8px 40px;
-  border-left: solid 2px rgba(203,35,79,.2);
-}
+ ul.fancy, ol.fancy {
+  background: #85c0fe; /* pale blue */
+  color: #000000; 
+  border-radius: 10px;
+  margin: 30px 0 35px 0;
+  padding: 40px 60px 40px 60px;
+  border-left: solid 10px #0b4eab;
+} 
 
 ul.fancy {
   list-style-type: disc;
 }
 
 .fancy li, .agenda .fancy li {
-  color: #0b4eab; /* dark blue */
+  /* color: #0b4eab;  dark blue */
   border-bottom: solid 1px rgba(203,35,79,.15);
   padding: 14px 0 !important;
 }
@@ -759,28 +779,69 @@ a .external {
 }
 
 .case_study_box { 
-  background: #d4c1df; /* lilac */
-  border-left: solid 2px #3d244e; /* dark purple */
-  border-radius: 2px;
-  margin: 20px 0 35px 0;
-  padding: 8px 35px 8px 40px;
+  /* background: #d4c1df;  lilac */
+  background-color: #e5e5e5;
+  border-left: solid 10px #3d244e; /* dark purple */
+  border-radius: 10px;
+  margin: 30px 0 35px 0;
+  padding: 40px 60px 40px 60px;
 
 }
 
+
+blockquote {
+  border-left: solid 10px #225c59; /* very dark teal */
+  /* background: #c7e8e2; very light teal */
+  background-color: #e5e5e5;
+  border-radius: 10px;
+  margin: 30px 0 35px 0;
+  padding: 40px 60px 40px 60px;
+  font-family:'Kalam';
+  font-size:1.3em;
+}
+
+
 .explanatory { 
-  background: #8cea89; /* warm mint */
-  border-left: solid 2px #0ccc05;  /* bright green */
-  border-radius: 2px;
-  margin: 20px 0 35px 0;
-  padding: 8px 35px 8px 40px;
+  /* background: #8cea89; warm mint */
+  border-left: solid 10px #0ccc05;  /* bright green */
+  background-color: #e5e5e5;
+  border-radius: 10px;
+  margin: 30px 0 35px 0;
+  padding: 40px 60px 40px 60px;
+}
+
+.objectives ul, .reflection ul {
+    margin-top:15px;
+}
+
+.objectives li {
+  border-bottom: solid 1px rgba(203,35,79,.15);
+  padding: 14px 0 !important;
+}
+
+.objectives li a, .objectives li a:visited {
+ color: #0b4eab; /* dark blue */
+}
+
+.objectives li:last-child {
+  border-bottom: none;
+}
+
+.objectives { 
+  background: #85c0fe; /* pale blue */
+  color: #000000; 
+  border-radius: 10px;
+  margin: 30px 0 35px 0;
+  padding: 40px 60px 40px 60px;
+  border-left: solid 10px #0b4eab;
 }
 
 .tips { 
   background: #f69a77; /* pale rusty orange */
-  border-left: solid 2px #fc4305; /* rusty orange */
-  border-radius: 2px;
+  border-left: solid 10px #fc4305; /* rusty orange */
+  border-radius: 10px;
   margin: 20px 0 35px 0;
-  padding: 8px 35px 8px 40px;
+  padding: 20px 35px 35px 70px;
   background-image: url(../img/tipsTricksIcon.png);
   /* Star by chappara from the Noun Project, https://thenounproject.com/search/?q=star&i=1521252 */
   background-size: auto;
@@ -791,21 +852,39 @@ a .external {
 
 .reflection { 
   background: #fffd86; /* very pale yellow */
-  border-left: solid 2px #faf304; /* very bright yellow */
-  border-radius: 2px;
-  margin: 0px 0px 35px 0px;
-  padding: 8px 35px 8px 70px;
+  border-left: solid 10px #faf304; /* very bright yellow */
+  border-radius: 10px;
+  margin: 20px 0 35px 0;
+  padding: 20px 35px 25px 70px;
   background-image: url(../img/learningExerciseIcon2.png);
   /* Learning by jai from the Noun Project, https://thenounproject.com/search/?q=learning&i=1236442 */
   background-size: auto;
-  background-position: 10px 10px;
+  background-position: 10px 20px;
   background-repeat: no-repeat; 
 }
 
 .box-title {
   font-weight: bold;
-  text-transform: uppercase;
+  text-transform: lowercase;
+  /* font-family:'Comfortaa'; */
+  font-size:1.3em;
 }
+
+.video {
+  overflow: hidden; 
+  padding-top: 56.25%;
+  position: relative;
+}
+
+.video iframe {
+ border: 0; 
+ height: 100%; 
+ left: 0; 
+ position: absolute; 
+ top: 0; 
+ width: 100%;"
+}
+
 
 /* grid for home page */
 
@@ -847,6 +926,15 @@ a .external {
 }
 
 /* end grid for home page */
+
+/* tables */
+
+.worksheet, .worksheet td, .worksheet th {
+  border:1px solid #000000;
+  padding:10px;
+  font-family:'Courier New';
+  color: #000000;
+}
 
 
 

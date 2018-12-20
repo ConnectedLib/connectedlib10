@@ -13,7 +13,7 @@
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-    <link href="https://fonts.googleapis.com/css?family=Comfortaa" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Comfortaa|Kalam" rel="stylesheet">
     <link rel="stylesheet" href="http://localhost:4000/Connected-Learning-Modules/assets/css/connectedlib.css"/>
 </head>
 
@@ -28,10 +28,10 @@
 <aside>
 
 <div class="image" style="background-color:#ffffff;margin:15px;">
-    <img src="../../assets/img/programmingModuleIcon.png"/>
+    <img src="../../assets/img/introductionModuleIcon.png"/>
 
 
-<p style="text-align:center;font-size:1.25em;font-weight:bold;font-family:'Comfortaa';color:#000000;">introduction to<br/>connected learning</p>
+<p style="text-align:center;font-size:1.25em;font-weight:bold;color:#000000;">introduction to<br/>connected learning</p>
  </div>       
 <div id="one-four" class="sidebar">
 
@@ -82,13 +82,18 @@
 /* topnav css */
 .topnav {
   overflow: hidden;
-  background-color: #333;
+  background-color: #EFE7F3;
+  border-color: rgb(231, 231, 231);
+  font-family: "Open Sans," "Helvetica Neue",Helvetica;
+  font-size: 16px;
+  line-height: 22.85px;
+  color: #000000;
 }
 
 .topnav a {
   float: left;
   display: block;
-  color: #f2f2f2;
+  color: #000000;
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
@@ -96,7 +101,7 @@
 }
 
 .active {
-  background-color: #723d95;
+  background-color: #4bbcb3; /* teal */
   color: white;
 }
 
@@ -113,7 +118,7 @@
     font-size: 17px;    
     border: none;
     outline: none;
-    color: white;
+    color: #000000;
     padding: 14px 16px;
     background-color: inherit;
     font-family: inherit;
@@ -139,8 +144,8 @@
 }
 
 .topnav a:hover, .dropdown:hover .dropbtn {
-  background-color: #555;
-  color: white;
+  background-color: #ffa32f;
+  color: #000;
 }
 
 .dropdown-content a:hover {
@@ -222,16 +227,19 @@ function myFunction() {
 			<h1>1.4 Opportunity</h1>
 
 			<blockquote>
-  <p>“A college degree has become a requirement for most good jobs but is no longer a guarantee of acquiring one.”<sup>1</sup></p>
+  <p>“A college degree has become a requirement for most good jobs but is no longer a guarantee of acquiring one.”<sup><a href="#fn1" name="1">1</a></sup></p>
 </blockquote>
 
 <p>Opportunity-oriented learning is directed towards helping teens achieve academic, economic, or civic success, so they perform better in school, build skills that prepare them for a 21st century workplace, or connect with their communities. More importantly, connected learning emphasizes opportunity now, not just in the far-off, theoretical future of a post-school college or job market. Connected learning programs make the benefits to teens visible and tangible, motivating them to fully engage. Participants walk away with knowledge and skills they can use immediately.</p>
 
+<p>In the following TED Talk, Geoff Mulgan describes how the UK’s studio school model has taken teen sfrom the lowest to the highest grades by letting them “learn for real.”</p>
+
 <div class="case_study_box">
   <p class="box-title">Opportunity-oriented learning in action</p>
-  <p>In this TED Talk [6:16], Geoff Mulgan describes how the UK’s studio school model has taken teens from the lowest to the highest grades by letting them “learn for real.”</p>
+  <p class="videotime">6:16</p><p class="source">Geoff Mulgan</p>
+ <div class="video">
   
-<iframe src="https://embed.ted.com/talks/lang/en/geoff_mulgan_a_short_intro_to_the_studio_school" width="560" height="315" frameborder="0" scrolling="no" allowfullscreen=""></iframe></div>
+<iframe src="https://embed.ted.com/talks/lang/en/geoff_mulgan_a_short_intro_to_the_studio_school" frameborder="0" scrolling="no" allowfullscreen=""></iframe></div></div>
 
 <h2 id="what-does-opportunity-oriented-learning-look-like">What does opportunity-oriented learning look like?</h2>
 <ul>
@@ -244,14 +252,20 @@ function myFunction() {
 
 <div class="reflection">
   <p class="box-title">Reflection: Learn to DJ Lab</p>
-  <p>The Las Vegas-Clark County Library runs a popular Learn to DJ program for teenagers. Participants in the program have performed at public events and some have even earned money. Watch the video [4:01], then reflect on the questions below.</p>
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/ukdUrfo6LVM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen=""></iframe>
-  <ul><li>What is the immediate opportunity for the teen participants? </li>
+  
+<p>The Las Vegas-Clark County Library runs a popular Learn to DJ program for teenagers. Participants in the program have performed at public events and some have even earned money. Watch the video, then reflect on the questions below.</p>
+<p class="videotime">4:01</p><p class="source">Salvador Avila</p>
+ <div class="video">
+  
+<iframe src="https://www.youtube.com/embed/ukdUrfo6LVM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen=""></iframe></div>
+
+<ul><li>What is the immediate opportunity for the teen participants? </li>
     <li>What are the longer-term opportunities that the teens may have because of their participation in this program? </li>
 <li>How would you help a teen translate their experience with this program into bullet points for a resume? </li>
   </ul></div>
+
 <hr />
-<p><a name="fn1">1</a>: Ito, Mizuko, Kris Gutiérrez, Sonia Livingstone, Bill Penuel, Jean Rhodes, Katie Salen, Juliet Schor, Julian Sefton-Green, and S. Craig Watkins. <a href="https://dmlhub.net/publications/connected-learning-agenda-for-research-and-design/">Connected Learning: An Agenda for Research and Design</a>.</p>
+<p><a name="fn1" href="#1">1</a>: Ito, Mizuko, Kris Gutiérrez, Sonia Livingstone, Bill Penuel, Jean Rhodes, Katie Salen, Juliet Schor, Julian Sefton-Green, and S. Craig Watkins. <a href="https://dmlhub.net/publications/connected-learning-agenda-for-research-and-design/">Connected Learning: An Agenda for Research and Design</a>.</p>
 
 
 		</article>

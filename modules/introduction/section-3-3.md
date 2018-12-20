@@ -13,6 +13,7 @@ Connected learning also emphasizes community relationships, which the public lib
 
 <div class="explanatory">
 <p class="box-title">The power of participation</p>
-<p>Henry Jenkins talks about the power of participation [7:53]. </p>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1gPm-c1wRsQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-</div>
+<p class="videotime">7:53</p><p class="source">Henry Jenkins</p>
+<div class="video">
+<iframe src="https://www.youtube.com/embed/1gPm-c1wRsQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+</div></div>

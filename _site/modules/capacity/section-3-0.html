@@ -13,7 +13,7 @@
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-    <link href="https://fonts.googleapis.com/css?family=Comfortaa" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Comfortaa|Kalam" rel="stylesheet">
     <link rel="stylesheet" href="http://localhost:4000/Connected-Learning-Modules/assets/css/connectedlib.css"/>
 </head>
 
@@ -43,17 +43,18 @@
 <li class="two sectionhead"><a href="section-2-0.html">2. Before You Start</a></li>
 
 <li class="three sectionhead"><a href="section-3-0.html">3. Self Assessing Capacity</a></li>
-    <li class="three-one"><a href="section-3-1.html">Additional Resources</a></li>
-
+    
 <li class="four sectionhead"><a href="section-4-0.html">4. Determining Community Need</a></li>
     <li class="four-one"><a href="section-4-1.html">4.1 Community Assets</a></li>
     <li class="four-two"><a href="section-4-2.html">4.2 Community Needs</a></li>
+    <li class="four-three"><a href="section-4-3.html">Additional Resources</a></li>
 
 <li class="five sectionhead"><a href="section-5-0.html">5. Developing A Roadmap</a></li>
     <li class="five-one"><a href="section-5-1.html">5.1 Using Your Library's Capacity Assessment</a></li>
     <li class="five-two"><a href="section-5-2.html">5.2 Technology</a></li>
     <li class="five-three"><a href="section-5-3.html">5.3 Space</a></li>
     <li class="five-four"><a href="section-5-4.html">5.4 Staffing</a></li>
+    <li class="five-five"><a href="section-5-5.html">Additional Resources</a></li>
         
 <li class="six sectionhead"><a href="section-6-0.html">6-0. Continuing Forward</a></li>
     <li class="six-one"><a href="section-6-1.html">6.1 Troubleshooting</a></li>
@@ -79,13 +80,18 @@
 /* topnav css */
 .topnav {
   overflow: hidden;
-  background-color: #333;
+  background-color: #EFE7F3;
+  border-color: rgb(231, 231, 231);
+  font-family: "Open Sans," "Helvetica Neue",Helvetica;
+  font-size: 16px;
+  line-height: 22.85px;
+  color: #000000;
 }
 
 .topnav a {
   float: left;
   display: block;
-  color: #f2f2f2;
+  color: #000000;
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
@@ -93,7 +99,7 @@
 }
 
 .active {
-  background-color: #723d95;
+  background-color: #4bbcb3; /* teal */
   color: white;
 }
 
@@ -110,7 +116,7 @@
     font-size: 17px;    
     border: none;
     outline: none;
-    color: white;
+    color: #000000;
     padding: 14px 16px;
     background-color: inherit;
     font-family: inherit;
@@ -136,8 +142,8 @@
 }
 
 .topnav a:hover, .dropdown:hover .dropbtn {
-  background-color: #555;
-  color: white;
+  background-color: #ffa32f;
+  color: #000;
 }
 
 .dropdown-content a:hover {
@@ -249,42 +255,49 @@ function myFunction() {
 <p>Self-assessing your library’s capacity can also be done by breaking it down further into its parts: partnerships, technology (acquisition and use), space, and staffing. Here’s what something like that could look like visually:</p>
 
 <p><strong>Partnerships</strong></p>
+
 <table class="basic">
 <tr><th>Partnership</th><th>Strengths</th><th>Weaknesses</th><th>How can it be improved?</th></tr>
 <tr><td>Neighborhood Association 1</td><td>-Many bilingual - English/Farsi Speakers</td><td>Distance from library makes it difficult to volunteer</td><td>Work with the association to organize a carpool for volunteers</td></tr>
 <tr><td>School Partnership</td><td>-Teachers<br />-PTA<br />-Gym and Auditorium spaces</td><td>Busy schedule makes coordination difficult</td><td>Work with the teachers and PTA to make a shared calendar that is updated weekly</td></tr>
 <tr><td>Neighborhood Association 2</td><td>-Owns a building with a large meeting space<br />-Provides technology</td><td>Has few members</td><td>Collaborate with the association to help recruit more members in exchange for resources</td></tr>
 </table>
-<p><br />
-<strong>Technology</strong></p>
+<p><br /></p>
+
+<p><strong>Technology</strong></p>
+
 <table class="basic">
 <tr><th>Technology</th><th>Strengths</th><th>Weaknesses</th><th>How can it be improved?</th></tr>
 <tr><td>Acquisition</td><td>Technology partnership with Neighborhood Association 2</td><td>-Small budget<br />-Not up to date with current technologies</td><td>-Connect with tech industry about current technology<br />-Poll library users on what new acquisitions would be most useful</td></tr>
 <tr><td>Use</td><td>Knowledgeable staff</td><td>Computers next to silent reading area</td><td>Rearrange to make computer space more collaborative and less disruptive</td></tr>
 </table>
-<p><br />
-<strong>Space</strong></p>
+<p><br /></p>
+
+<p><strong>Space</strong></p>
+
 <table class="basic">
 <tr><th>Space</th><th>Strengths</th><th>Weaknesses</th><th>How can it be improved?</th></tr>
 <tr><td>Main Floor</td><td>Large open spaces</td><td>Few long tables for collaboration</td><td>Work with volunteers to move large tables from meeting room</td></tr>
 <tr><td>Meeting Room</td><td>50 person capacity</td><td>Large tables take up space, heavy to move</td><td>Work with volunteers to move large tables to the main floor</td></tr>
 <tr><td>Study Room</td><td>Collaborative work space for 2-5 people</td><td>Rarely used</td><td>Advertise the study space at the front desk</td></tr>
 </table>
-<p><br />
-<strong>Staffing</strong></p>
+<p><br /></p>
+
+<p><strong>Staffing</strong></p>
+
 <table class="basic">
 <tr><th>Staffing</th><th>Strengths</th><th>Weaknesses</th><th>How can it be improved?</th></tr>
 <tr><td>Adult Services</td><td>2 Adult Services Staff</td><td>Not enough staff for additional adult oriented programs and book groups</td><td>Leverage community partnerships and knowledgeagble volunteers to help staff programs</td></tr>
 <tr><td>Children's Services</td><td>-1 Children's Services staff<br />-Knowledgeable in early literacy</td><td>Large deaf community unable to access stroytime, no ASL speakers</td><td>Work with community to find an ASL speaking volunteer to translate storytime</td></tr>
 <tr><td>Teen Services</td><td>-1 Teen Services Staff</td><td>Large afterschool teen population is too big for 1 staff member</td><td>Leverage Library Associates, as well as community partnerships and knowledgeable volunteers to help staff programs</td></tr>
-<tr><td>Library Associateds</td><td>Collaborative work space for 2-5 people</td><td>Rarely used</td><td>Advertise the study space at the front desk</td></tr>
+<tr><td>Library Associates</td><td>Collaborative work space for 2-5 people</td><td>Rarely used</td><td>Advertise the study space at the front desk</td></tr>
 </table>
 <p><br /></p>
 <div class="reflection"><p class="box-title">REFLECTION</p>
 <p>Remember that while you are including the improvements you would like to make to your library’s capacity in different areas, those <b>improvements can and should be relatively modest and easily implemented with the resources you already have</b>. Focus on your library’s strengths. How can you use those strengths to make small improvements to your overall capacity?</p></div>
 <p><br /><br /></p>
 
-<p>Using your reflection from <a href="http://localhost:4000/Connected-Learning-Modules/Capacity/section-2-0.html">section 2</a>, you can get a broad view of the capacity of your library. As you look at the tools you have in each area, start to assess: where are the strengths of your library? Where might there be easy improvements that could increase your capacity in certain areas? Again, thinking back to past programs can be a helpful way to start mapping these out.</p>
+<p>Using your reflection from <a href="http://localhost:4000/Connected-Learning-Modulesmodules/capacity/section-2-0.html">section 2</a>, you can get a broad view of the capacity of your library. As you look at the tools you have in each area, start to assess: where are the strengths of your library? Where might there be easy improvements that could increase your capacity in certain areas? Again, thinking back to past programs can be a helpful way to start mapping these out.</p>
 
 
 		</article>

@@ -13,8 +13,9 @@ When learning is supported by relationships, teens aren’t just learning with e
 
 <div class="case_study_box">
   <p class="box-title">Learning through relationships</p>
-  <p>Peer-Supported, Social Connection [6:29] by <a href="https://www.youtube.com/channel/UCK3lhPDfexvG10DUROwVVhw" class="external">Chicago City of Learning</a></p>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/whc_ZivyEdA" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+  <p class="videotime">6:29</p> <p class="source"><a href="https://www.youtube.com/channel/UCK3lhPDfexvG10DUROwVVhw" class="external">Chicago City of Learning</a></p>
+  <div class="video">
+<iframe src="https://www.youtube.com/embed/whc_ZivyEdA" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div>
   </div>
 
 ## What does learning through relationships look like?  

@@ -39,6 +39,7 @@ Notice how for each capacity area, the strengths and weaknesses were assessed fo
 Self-assessing your library’s capacity can also be done by breaking it down further into its parts: partnerships, technology (acquisition and use), space, and staffing. Here’s what something like that could look like visually:
 
 **Partnerships**
+
 <table class="basic">
 <tr><th>Partnership</th><th>Strengths</th><th>Weaknesses</th><th>How can it be improved?</th></tr>
 <tr><td>Neighborhood Association 1</td><td>-Many bilingual - English/Farsi Speakers</td><td>Distance from library makes it difficult to volunteer</td><td>Work with the association to organize a carpool for volunteers</td></tr>
@@ -46,14 +47,18 @@ Self-assessing your library’s capacity can also be done by breaking it down fu
 <tr><td>Neighborhood Association 2</td><td>-Owns a building with a large meeting space<br>-Provides technology</td><td>Has few members</td><td>Collaborate with the association to help recruit more members in exchange for resources</td></tr>
 </table>
 <br>
+
 **Technology**
+
 <table class="basic">
 <tr><th>Technology</th><th>Strengths</th><th>Weaknesses</th><th>How can it be improved?</th></tr>
 <tr><td>Acquisition</td><td>Technology partnership with Neighborhood Association 2</td><td>-Small budget<br>-Not up to date with current technologies</td><td>-Connect with tech industry about current technology<br>-Poll library users on what new acquisitions would be most useful</td></tr>
 <tr><td>Use</td><td>Knowledgeable staff</td><td>Computers next to silent reading area</td><td>Rearrange to make computer space more collaborative and less disruptive</td></tr>
 </table>
 <br>
+
 **Space**
+
 <table class="basic">
 <tr><th>Space</th><th>Strengths</th><th>Weaknesses</th><th>How can it be improved?</th></tr>
 <tr><td>Main Floor</td><td>Large open spaces</td><td>Few long tables for collaboration</td><td>Work with volunteers to move large tables from meeting room</td></tr>
@@ -61,13 +66,15 @@ Self-assessing your library’s capacity can also be done by breaking it down fu
 <tr><td>Study Room</td><td>Collaborative work space for 2-5 people</td><td>Rarely used</td><td>Advertise the study space at the front desk</td></tr>
 </table>
 <br>
+
 **Staffing**
+
 <table class="basic">
 <tr><th>Staffing</th><th>Strengths</th><th>Weaknesses</th><th>How can it be improved?</th></tr>
 <tr><td>Adult Services</td><td>2 Adult Services Staff</td><td>Not enough staff for additional adult oriented programs and book groups</td><td>Leverage community partnerships and knowledgeagble volunteers to help staff programs</td></tr>
 <tr><td>Children's Services</td><td>-1 Children's Services staff<br>-Knowledgeable in early literacy</td><td>Large deaf community unable to access stroytime, no ASL speakers</td><td>Work with community to find an ASL speaking volunteer to translate storytime</td></tr>
 <tr><td>Teen Services</td><td>-1 Teen Services Staff</td><td>Large afterschool teen population is too big for 1 staff member</td><td>Leverage Library Associates, as well as community partnerships and knowledgeable volunteers to help staff programs</td></tr>
-<tr><td>Library Associateds</td><td>Collaborative work space for 2-5 people</td><td>Rarely used</td><td>Advertise the study space at the front desk</td></tr>
+<tr><td>Library Associates</td><td>Collaborative work space for 2-5 people</td><td>Rarely used</td><td>Advertise the study space at the front desk</td></tr>
 </table>
 <br>
 <div class="reflection"><p class="box-title">REFLECTION</p>

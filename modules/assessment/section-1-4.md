@@ -1,6 +1,6 @@
 ---
 layout: module
-title: 1.4 Additional Resources
+title: Additional Resources
 module_name: assessment
 module_full_name: Assessment and Evaluation
 section: 1. Introduction

@@ -34,20 +34,6 @@ Given the variety of methods and goals for assessing a connected learning initia
 
 It is often useful to use quantitative (number-based) analysis on qualitative data. For instance, you can count the number of teens who mentioned interest in a STEM career during their interviews, or what percentage of participants completed a challenge. Be careful not to misinterpret the numbers. For instance, a very talkative teen who gave a 10-minute interview might mention a STEM career more often than a quieter person who only talked for 3 minutes, but that doesn’t necessarily mean the talkative person is more interested in STEM careers.  
 
-<div class="explanatory">  
 
-  <p><span class="box-title">ADDITIONAL RESOURCES</span></p> 
-<ul>
-<li>The PEAR Institute’s <a href="http://www.pearweb.org/atis/reviews/420" target="_blank">Assessment Tools in Informal Science</a> is a database of assessment instruments, complete with user reviews.</li> 
-
-<li>The <a href="http://stelar.edc.org/resources" target="_blank">STEM Learning and Research Center</a> also has a database of assessment instruments.</li>  
-
-<li>The <a href="" target="_blank">Activation Lab</a> provides instruments to assess science learning activation, as well as an <a href="http://www.activationlab.org/wp-content/uploads/2014/07/ObservationProtocolFINAL.pdf" target="_blank">observation protocol</a> to measure engagement with learning.</li>  
-
-<li>IDEO has created a <a href="http://www.designkit.org/methods" target="_blank">Human-Centered Design Kit</a> with dozens of methods for gathering ideas and information, many of which can be used for creatively assessing connected learning programs.</li>  
-
-<li><a href="http://www.informalscience.org" target="_blank">InformalScience.org</a> has a collection of <a href="http://www.informalscience.org/evaluation/browse-evaluation?search_api_views_fulltext=&sort_by=field_resource_date_value" target="_blank">evaluation materials</a> from informal STEM learning projects, including evaluation reports and assessment instruments.</li>
-</ul>
-</div>
 
 

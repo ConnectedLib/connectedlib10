@@ -59,14 +59,6 @@ Once you have used one or more of these methods to collect information about you
 
 You may have noticed that this map lists the needs of community members in relation to our Midsize library. We encourage you, in your own assessment, to list the needs of your community members that don’t necessarily relate to your library in addition to this list. These can include needs like: resources access for your homeless community, musical instruments for the high school band, and more. While ways to support your community in these needs might not be obvious at first, knowing that the needs exist can help your library to provide supplemental resources. For example, while your library cannot provide laundry machines for your homeless youth, it can provide pamphlets with maps marking where safe facilities like that are freely available.
 
-<div class="explanatory">
-<p><span class="box-title">ADDITIONAL RESOURCES</span></p>
-<ul><li><a href="https://www.slj.com/2014/06/public-libraries/know-your-neighborhood-a-community-needs-assessment-primer/#_" target="_blank">https://www.slj.com/2014/06/public-libraries/know-your-neighborhood-a-community-needs-assessment-primer/#_</a></li>
-  <li><a href="https://ctb.ku.edu/en" target="_blank">https://ctb.ku.edu/en</a></li>
-  </ul>
-  </div>
-<br>
-
 
 **Footnotes:**
 <br>

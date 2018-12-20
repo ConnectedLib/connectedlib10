@@ -21,15 +21,6 @@ Research suggests providing closure or “ending rituals” or activities to ref
 
 Closure plan can include a way for youth and mentors to say goodbye and ask youth reflective questions (e.g., What did you like best about the experience?) 
 
-<div class="explanatory">  
-<p><span class="box-title">ADDITIONAL RESOURCES </span></p>
-<ul>
-<li><a href="">Resource Guide: Web Sites about the Juvenile Justice System and Troubled Youth</a></li>
-<li><a href="">Partnering with Homeless Serving Organizations</a></li>
-<li><a href="">TeenMentalHealth.org</a></li>
-</ul>
-</div>
-<br>
 
 #### Section 6 Activities 
 

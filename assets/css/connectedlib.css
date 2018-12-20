@@ -344,10 +344,11 @@ figure img {
 
 aside {
   /* background: #EDEDEE; */
-  background: #d4c1df; /* light purple from Milly's scheme */
+  /* background: #d4c1df;  light purple from Milly's scheme */
  /* flex-grow: 0;
   flex-shrink: 0;
   flex-basis: 300px;*/
+  background-color: #ffffff;
   width:275px;
   position:fixed;
   height: 100%; 
@@ -390,6 +391,10 @@ aside .image .attribution {
   transition: all .1s ease-out;
   background-repeat: no-repeat;
   border-radius: 2px;
+}
+
+aside .sidebar {
+    background: #EFE7F3; /*  lighter purple than Milly's scheme */
 }
 
 aside .image .attribution i {
@@ -499,11 +504,15 @@ ul.agenda {
 
 
 li.sectionhead {
-  position:relative;
-  left: -10px;
   font-weight:bold;
   margin-top:5px;
+  padding-right:0px;
+  position:relative;
+  left:-10px;
+}
 
+li.sectionhead a {
+  width:105%; 
 }
 
 .agenda-navigation li a {
@@ -517,8 +526,9 @@ li.sectionhead {
 }
 
 .agenda-navigation a:hover {
-  background: #3d244e; /* dark purple from Milly's scheme */
-  color: #fff !important;
+  /* background: #9060AC;  lighter dark purple than Milly's scheme 
+  color: #fff !important;*/
+  background-color: #ffa32f; /* experimenting with yellow */
 }
 
 /* This used to be a much more elegant way to highlight the selected section, before we had a single combined left nav. 
@@ -530,8 +540,9 @@ But there was no time to do more than jerry-rig an adaptation. */
 #three li.three a, #three-one li.three-one a,  #three-two li.three-two a, #three-three li.three-three a, #three-four li.three-four a, #three-five li.three-five a, #three-six li.three-six a,
 #four li.four a, #four-one li.four-one a,  #four-two li.four-two a, #four-three li.four-three a, #four-four li.four-four a, #four-five li.four-five a, #four-six li.four-six a
  {
-  background: #743e94; /* medium purple from Milly's scheme */
-  color: #fff #important;
+  /* background: #743e94;  medium purple from Milly's scheme 
+  color: #fff #important; */
+  background-color: #ffa32f; /* ConnectedLib yellow */
 }
 
 /* .agenda-navigation li.selected a {

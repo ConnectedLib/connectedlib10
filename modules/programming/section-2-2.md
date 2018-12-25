@@ -11,8 +11,13 @@ Once you have decided where you’re going, you need to figure out how to get th
 
 <div class="explanatory">
 	<p class="box-title">5 Steps to a Theory of Change</p>
-<p>In this video, Jay Memmot lists five steps to developing a theory of change [7:38].</p>
+<p class="videotime">7:38</p><p class="source">Jay Memmot</p>
+
+<div class="video">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/jiA0xO_HGNw" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+</div>
+
+
 </div>
 
 ## Learning Activity

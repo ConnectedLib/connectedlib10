@@ -6,8 +6,18 @@ layout: default
 
 	<!-- left navigation -->
 
+	<aside>
+
+		<div class="image" style="background-color:#ffffff;margin:15px;">
+    		<img src="../../assets/img/{{page.module_name}}ModuleIcon.png"/>
+			<p class="sidebarTitle">{{page.module_full_name}}</p>
+ 		</div>   
+<div id="{{ page.subsection }}" class="sidebar">
+
 	{% include {{page.module_name}}_nav.html %}
 
+</div>
+	</aside>
 	<article class="wrap">
 
 		{% include top_nav.html %}
@@ -20,6 +30,9 @@ layout: default
 
 		</article>
 
+<center>
+<img src="../../assets/img/swoosh.png" style="margin-bottom:25px;"/>
+</center>
 	</article>
 
 </div>

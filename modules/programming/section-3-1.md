@@ -35,39 +35,48 @@ Finally, literacy outcomes result in teens having the ability to use various too
 <div class="case_study_box">
 	<p class="box-title">Nichole Pinkard on Digital Literacy </p>
 
- <p>Watch as Nichole Pinkard explains the importance of digital literacy and describes her work to promote it with the youth of Chicago [7:06, Edutopia].</p>
+ <p>Nichole Pinkard explains the importance of digital literacy and describes promoting it with the youth of Chicago.</p>
 
- <iframe width="560" height="315" src="https://www.youtube.com/embed/Aya43MnWTxQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<p class="videotime">7:06</p><p class="source">Edutopia</p>
+
+<div class="video">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Aya43MnWTxQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+</div>
+
 </div>
 
 ## Other Categories
 
 In addition to these categories of outcomes identified by YALSA, we found a few more themes in our interviews with library staff. 
 
-- **21st century skills**. “21st century skills” is a broad term that describes a set of interrelated, transferable literacies and competencies that youth must develop “to succeed in college, career and life.”<sup><a name="4A" href="#4">4</a></sup> The National Research Council groups these skills into three major “domains of competence”: cognitive (including critical thinking, problem solving, and creativity), intrapersonal (involving self-regulation, conscientiousness, and intellectual openness), and interpersonal (involving communicating and working with others). 
-- **Academic enhancement**. Although connected learning is, by definition, not limited to the classroom, it can enhance knowledge of traditional academic subjects like math, science, history, and the arts. Library programming can help deepen students’ engagement with these topics or provide a new perspective. 
-- **Safety and security**. Libraries can provide physical and emotional security for vulnerable teens, as well as food security. Simply having a safe space to turn to can be a huge benefit to many teens who do not live in a safe neighborhood or who don’t have an ideal home life. Several youth librarians described their role as a non-teacher, non-parent adult that teens could turn to to discuss sensitive topics like gender identity and sexual orientation. Some libraries partner with local organizations to provide summer lunches or after-school snacks to combat hunger and its related performance and behavioral issues. Connected learning programs that celebrate teens’ interests and culture can help get at-risk teens into the supportive environment of the library.
+
+<ul>
+	<li><b>21st century skills</b>. “21st century skills” is a broad term that describes a set of interrelated, transferable literacies and competencies that youth must develop “to succeed in college, career and life.”<sup><a name="4A" href="#4">4</a></sup> The National Research Council groups these skills into three major “domains of competence”: cognitive (including critical thinking, problem solving, and creativity), intrapersonal (involving self-regulation, conscientiousness, and intellectual openness), and interpersonal (involving communicating and working with others). </li>
+	<li><b>Academic enhancement</b>. Although connected learning is, by definition, not limited to the classroom, it can enhance knowledge of traditional academic subjects like math, science, history, and the arts. Library programming can help deepen students’ engagement with these topics or provide a new perspective. </li>
+	<li><b>Safety and security</b>. Libraries can provide physical and emotional security for vulnerable teens, as well as food security. Simply having a safe space to turn to can be a huge benefit to many teens who do not live in a safe neighborhood or who don’t have an ideal home life. Several youth librarians described their role as a non-teacher, non-parent adult that teens could turn to to discuss sensitive topics like gender identity and sexual orientation. Some libraries partner with local organizations to provide summer lunches or after-school snacks to combat hunger and its related performance and behavioral issues. Connected learning programs that celebrate teens’ interests and culture can help get at-risk teens into the supportive environment of the library.</li>
+</ul>
 
 > "I wouldn't say that [playing board games at the library] is really achieving much besides they get to socialize in a safe space where no one's yelling at them.” — Urban Northeast Library
 
-- **Exploring interests**. Interest powered learning means creating programs around existing interests, but it can also mean helping teens explore new areas of learning and developing new interests. Adolescence is a time of exploration, and public libraries can provide low-commitment opportunities for teens to “mess around” with new subjects, technologies, and career options. These connections can be made in surprising ways. A worker from a western suburban library told us about a program involving the dismantling and then remixing of stuffed animals to create new hybrid species. What started as a “just for fun” program became a much deeper learning experience when a veterinarian joined in, demonstrated suturing techniques, and talked to the participants about being a vet, sparking their interest in both human and animal medicine and anatomy. 
+<ul>
+	<li><b>Exploring interests</b>. Interest powered learning means creating programs around existing interests, but it can also mean helping teens explore new areas of learning and developing new interests. Adolescence is a time of exploration, and public libraries can provide low-commitment opportunities for teens to “mess around” with new subjects, technologies, and career options. These connections can be made in surprising ways. A worker from a western suburban library told us about a program involving the dismantling and then remixing of stuffed animals to create new hybrid species. What started as a “just for fun” program became a much deeper learning experience when a veterinarian joined in, demonstrated suturing techniques, and talked to the participants about being a vet, sparking their interest in both human and animal medicine and anatomy. </li>
+</ul>
 
 > “Teens especially encounter a lot of resistance from different areas of public life, and so I'm really dedicated to… wanting teens to feel comfortable enough to really explore and get messy with things and fail in their experiments and then build on that to succeed later.” — Focus Group Participant
 
-- **Career readiness**. Connected learning programs, being opportunity oriented, can help learners build technical skills that employers are looking for. Volunteer and intern programs give teens something to put on their resume before entering the post-high school job market, and demonstrate that they have the interpersonal skills needed to be productive employees.<sup><a name="6A" href="#6">6</a></sup> Librarians and mentors can help teens turn their creative output into digital portfolios, or learn how to translate their activities into skills on their resumes. 
-
-<br/>
-
-<div class=“case_study_box”>
-    <p class=“box-title”>Cities of Learning: Workforce development</p>
-    <p>Experiential learning is an important part of building the well-rounded worker needed in the 21st century [6:05, Connected Learning Alliance].</p>
-	<iframe width="560" height="315" src="https://www.youtube.com/embed/yLIm2bKpUDI" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<ul>
+	<li><b>Career readiness</b>. Connected learning programs, being opportunity oriented, can help learners build technical skills that employers are looking for. Volunteer and intern programs give teens something to put on their resume before entering the post-high school job market, and demonstrate that they have the interpersonal skills needed to be productive employees.<sup><a name="6A" href="#6">6</a></sup> Librarians and mentors can help teens turn their creative output into digital portfolios, or learn how to translate their activities into skills on their resumes. </li>
+</ul><div class="case_study_box">
+    <p class="box-title">Cities of Learning: Workforce development</p>
+<p>Experiential learning is an important part of building the well-rounded worker needed in the 21st century.</p>
+<p class="videotime">6:05</p><p class="source">Connected Learning Alliance</p>
+<div class="video">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yLIm2bKpUDI" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+</div>
 </div>
 
-
-
-<div class=“reflection”>
-    <p class=“box-title”>Program design activity: Outcomes</p>
+<div class="reflection">
+    <p class="box-title">Program design activity: Outcomes</p>
     <p>Let's begin creating a plan for the program you are developing. What is the desired outcome of your program? Five years from now, when your participants look back at the experience, how will they say it helped them? Which category does the outcome (or outcomes) fall under?</p>
     <p><a href="docs/program_design_activity.docx">Download worksheet (DOCX)</a></p>
 </div>

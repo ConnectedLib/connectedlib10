@@ -11,15 +11,22 @@ subsection: two-one
  
 <div class="explanatory">
 	<p class="box-title">Backwards design explained</p>
-<p>In the following video, researchers from the University of Colorado Boulder explain backwards design in more detail [6:38].</p>
+<p class="videotime">6:38</p> <p class="source">CIRTL/University of Colorado Boulder</p>
+
+<div class="video">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/UUSojE3Gcto" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+</div>
+
 </div>
 
 <div class="case_study_box">
 	<p class="box-title">Youth involvement in program design</p>
-	<p>Youth can and should be involved in the process of designing a program. Pima County Public Library used an IMLS grant to create a Youth Design Team that helped plan new programs that resonated with their community’s teens [14:02].</p>
-
+	<p>Youth can and should be involved in the process of designing a program. Pima County Public Library used an IMLS grant to create a Youth Design Team that helped plan new programs that resonated with their community’s teens.</p>
+<p class="videotime">14:02</p><p class="source">Pima County Public Library</p>
+<div class="video">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/HrJ79-tdKGQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+</div>
+
 
 </div>
 

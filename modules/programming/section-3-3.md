@@ -11,10 +11,10 @@ Keep the **building pathways** and **production centered** principles of connect
 
 These categories are not mutually exclusive. Get creative! For instance, Chattanooga Public Library has “pop-up” volunteer opportunities on hand for teens who come in looking for something to do. Many libraries and other educational institutions have mobile learning labs that can travel to neighborhoods or events far from the physical library. 
 
-## Walk-up programming. 
+## Walk-up programming 
 Similar to an interactive museum exhibit, walk-up programming takes the form of a display or activity station that youth can walk up to and interact with as much or as little as they want. It can provide informal, interest-driven learning to youth with little or no guidance from library staff. Youth visit the station if it draws their interest, and are provided with enough instruction to mess around on their own. Board games, crafting activities, science experiments, and a set of writing prompts are examples of walk-up programming activities that have been used by libraries.,, 
 
-## One-offs vs. series. 
+## One-offs vs. series 
 Programs can be one-off or take place in series. One-off events may be good for testing an idea or partnership, but a series allows a group of teens to develop a big project or “geek out” on a topic. Another successful format is to have a regular time for your program — for instance, Saturdays, or Tuesday afternoons. You can vary the topic or repeat the same type of activity for as long as your teens are still interested. Having a regular program time makes it easy for teens to remember to show up, even if they don’t remember what the topic will be on that particular day. 
 
 ## Drop-in programming
@@ -46,7 +46,7 @@ Connected learning “programs” don’t always look like traditional library p
 Connected learning encourages thinking outside of the library and making connections to other parts of the community. Some libraries are using mobile labs to take the library to neighborhoods and events to reach new teens. Partnering with community organizations or institutions can open up new spaces, new resources, and new audiences for the library.  See the <a href="../partnerships/index.html">Community Partnerships module</a> for more. 
 
 
-<div class=“explanatory”>
+<div class="explanatory">
     <p class=“box-title”>Teen spaces in the library </p>
 
 <p><b><i>“We only have a few meeting rooms. We can take the false walls down and turn it into one large room, but it's still not large enough and it's awkwardly shaped... Everything that we do with the kids has to be something that we can easily and quickly set up and then put away somewhere in a storage closet. -- Rural Western Library</i></b></p>
@@ -58,8 +58,8 @@ Space restrictions are a common problem faced by youth librarians.<sup><a href="
 </div>
 
 
-<div class=“reflection”>
-    <p class=“box-title”>Program design activity: Formats</p>
+<div class="reflection">
+    <p class="box-title">Program design activity: Formats</p>
     <p>Describe the format of your program. What are the strengths and weaknesses of this format? Why is it appropriate for your participants and desired outcomes?</p>
     <p><a href="docs/program_design_activity.docx">Download worksheet (DOCX)</a></p>
 </div>

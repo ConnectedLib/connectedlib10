@@ -25,8 +25,8 @@ Some things to think about when you’re imagining your potential participants:
 
 > “We just made connection with [a school with] the students who don't fit in anywhere else, like they've gone through the whole system and they don't fit in. And we're having a really great time with them bringing them to the library, and bringing the programs to them.” -- Focus Group Participant
 
-<div class=“reflection”>
-    <p class=“box-title”>Program design activity: Participants</p>
+<div class="reflection">
+    <p class="box-title">Program design activity: Participants</p>
     <p>Let's begin creating a plan for the program you are developing. What is the desired outcome of your program? Five years from now, when your participants look back at the experience, how will they say it helped them? Which category does the outcome (or outcomes) fall under?</p>
     <p><a href="docs/program_design_activity.docx">Download worksheet (DOCX)</a></p>
 </div>

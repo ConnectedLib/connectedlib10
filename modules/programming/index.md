@@ -13,17 +13,16 @@ subsection: overview
 
 ## Module Overview
 
-<p class="summary">In this module, <b>Connected Learning Programming</b>, you will learn how connected learning fits in with a 21st century library. This module provides an overview of the program design process and offers some springboards to help inspire your next teen initiative. </p>
+In this module, **Connected Learning Programming**, you will learn how connected learning fits in with a 21st century library. This module provides an overview of the program design process and offers some springboards to help inspire your next teen initiative.
 
 
-### Learning Objectives For This Module
-
-**After completing the Connected Learning Programs module, you will be able to…**
-<ul class="fancy">
+<div class="objectives">
+	<span class="box-title">Learning Objectives for This Module</span>
+<ul>
 	<li>Explain how connected learning can help you create a 21st century library (<a href="section-1.html">Section 1: Introduction</a>).</li>
 	<li>Describe the process of creating a connected learning library program (<a href="section-2.html">Section 2: Program Design</a>).</li>
 	<li>Understand the diversity of connected learning program elements (<a href="section-3.html">Section 3: A Connected Learning Playbook</a>.)</li>
-</ul>
+</ul></div>
 
 Section 1 discusses the 21st century library and how connected learning fits in with one. Section 2 provides a high-level look at the process of developing a program, and Section 3 describes the variety of elements that can make up connected learning programs.
 

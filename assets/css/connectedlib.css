@@ -417,7 +417,7 @@ aside .sidebar {
     background: #EFE7F3; /*  lighter purple than Milly's scheme */
 }
 
-.sidebarTitle {
+p.sidebarTitle {
     text-transform:lowercase; 
     text-align:center;
     font-size:1.25em;

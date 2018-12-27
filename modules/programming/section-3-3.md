@@ -12,7 +12,7 @@ Keep the **building pathways** and **production centered** principles of connect
 These categories are not mutually exclusive. Get creative! For instance, Chattanooga Public Library has “pop-up” volunteer opportunities on hand for teens who come in looking for something to do. Many libraries and other educational institutions have mobile learning labs that can travel to neighborhoods or events far from the physical library. 
 
 ## Walk-up programming 
-Similar to an interactive museum exhibit, walk-up programming takes the form of a display or activity station that youth can walk up to and interact with as much or as little as they want. It can provide informal, interest-driven learning to youth with little or no guidance from library staff. Youth visit the station if it draws their interest, and are provided with enough instruction to mess around on their own. Board games, crafting activities, science experiments, and a set of writing prompts are examples of walk-up programming activities that have been used by libraries.,, 
+Similar to an interactive museum exhibit, walk-up programming takes the form of a display or activity station that youth can walk up to and interact with as much or as little as they want. It can provide informal, interest-driven learning to youth with little or no guidance from library staff. Youth visit the station if it draws their interest, and are provided with enough instruction to mess around on their own. Board games, crafting activities, science experiments, and a set of writing prompts are examples of walk-up programming activities that have been used by libraries. 
 
 ## One-offs vs. series 
 Programs can be one-off or take place in series. One-off events may be good for testing an idea or partnership, but a series allows a group of teens to develop a big project or “geek out” on a topic. Another successful format is to have a regular time for your program — for instance, Saturdays, or Tuesday afternoons. You can vary the topic or repeat the same type of activity for as long as your teens are still interested. Having a regular program time makes it easy for teens to remember to show up, even if they don’t remember what the topic will be on that particular day. 
@@ -24,7 +24,7 @@ Learning labs and MakerSpaces provide a set of resources are out and available t
 
 ## Pop-up programming
 
-Pop-up programming can be kept “on hand” and used when a library worker encounters a teen with a particular need or interest. “Pop-ups occur when conversations with our patrons may lead us to pull out our metal stamping equipment or a robot to code, to project a movie matinee, or get creative with our nail art supplies,” says Megan Emery of Chattanooga Public Library. INTS_031’s library system has created “programs in a box” that can be shared among branches. 
+Pop-up programming can be kept “on hand” and used when a library worker encounters a teen with a particular need or interest. “Pop-ups occur when conversations with our patrons may lead us to pull out our metal stamping equipment or a robot to code, to project a movie matinee, or get creative with our nail art supplies,” says Megan Emery of Chattanooga Public Library. One southern suburban library system has created “programs in a box” that can be shared among branches. 
 
 > “We just have kids who will just wander into the space and look around and be like, "Is there something for me to do here?" So what we've been trying to do is come up with a lot of small, in the moment, hands-on projects that someone could do in a half hour that we have materials for them to play with and try.” -- Focus Group Participant
 
@@ -45,14 +45,14 @@ Connected learning “programs” don’t always look like traditional library p
 
 Connected learning encourages thinking outside of the library and making connections to other parts of the community. Some libraries are using mobile labs to take the library to neighborhoods and events to reach new teens. Partnering with community organizations or institutions can open up new spaces, new resources, and new audiences for the library.  See the <a href="../partnerships/index.html">Community Partnerships module</a> for more. 
 
+## Tean Spaces in the Library
 
-<div class="explanatory">
-    <p class="box-title">Teen spaces in the library </p>
-
-<p><b><i>“We only have a few meeting rooms. We can take the false walls down and turn it into one large room, but it's still not large enough and it's awkwardly shaped... Everything that we do with the kids has to be something that we can easily and quickly set up and then put away somewhere in a storage closet. -- Rural Western Library</i></b></p>
+> “We only have a few meeting rooms. We can take the false walls down and turn it into one large room, but it's still not large enough and it's awkwardly shaped... Everything that we do with the kids has to be something that we can easily and quickly set up and then put away somewhere in a storage closet. -- Rural Western Library
 
 <p>Space restrictions are a common problem faced by youth librarians.<sup><a href="#1" name="1A">1</a></sup> A few of the librarians we spoke to had newly built or renovated teen spaces, but many spoke of the challenges of working with a teen space that was too small, not configured well, or simply nonexistent. Just as in the design of teen programming, though, teens should have a voice in how the teen space (or the space where the teens tend to gather, even if it is not a dedicated teen area). This will help ensure that all the unique needs of your teens will be met, and also give them a sense of ownership in the space.<sup><a href="#2" name="2A">2</a></sup> As you create your programs, consider how you can take advantage of your space’s strengths and compensate for its weaknesses. Don’t forget about your virtual spaces for teens.<sup><a href="#3" name="3A">3</a></sup></p>
 
+
+<div class="case_study_box">
 <p class="box-title">Creating a great space for teens</p>
 
 <p class="videotime">3:02</p><p class="source">YALSA Academy</p>

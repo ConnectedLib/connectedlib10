@@ -9,29 +9,35 @@ subsection: two-three
 
 Partners can have varying levels of engagement and commitment, from simply networking and sharing ideas to long-term co-management of projects. Different levels of engagement may be appropriate for different partners, depending on your respective goals and resources. Just because the partnership is less intense does not mean it is less valuable to your teens.
 
-<table>
-<tr><th width="30%">NETWORKING AND SHARING IDEAS</tH><td>Sharing ideas and knowledge with someone who has a different perspective on the community is valuable on its own.<sup>9</sup> Informal meetings or conversations, or simply attending another organization’s events, can be the first steps in forming a partnership.</td></tr>
+<table class="colorful-th">
+<tr><th width="30%">Networking and sharing ideas</tH><td>Sharing ideas and knowledge with someone who has a different perspective on the community is valuable on its own.<sup><a href="#fn1" name="1">1</a></sup> Informal meetings or conversations, or simply attending another organization’s events, can be the first steps in forming a partnership.</td></tr>
 
-<tr><th style="background-color:#DBDBDB" width="30%">COOPERATING AND COORDINATING</th><td>If you know what other organizations in your community are doing, you can coordinate your efforts to either build on each other’s work or avoid duplication. For instance, if the high school library has a vibrant reading group, you may not wish to set up a competing teen book club, but you might promote similar books in the library each month.</td></tr>
+<tr><th>Cooperating and coordinating</th><td>If you know what other organizations in your community are doing, you can coordinate your efforts to either build on each other’s work or avoid duplication. For instance, if the high school library has a vibrant reading group, you may not wish to set up a competing teen book club, but you might promote similar books in the library each month.</td></tr>
 
-<tr><th style="background-color:#B9B8B8" width="30%">INFORMING TEENS ABOUT PARTNERS</th><td>Connect teens with services and resources from partners — via information on the library website or in library spaces.<sup><a href="#fn10">10</a></sup> Partners can also be invited to set up a table in the teen area at scheduled times, giving the teens direct access to their services (for instance, providing legal or health information).<br></td></tr>
+<tr><th>Informing teens about partners</th><td>Connect teens with services and resources from partners — via information on the library website or in library spaces.<sup><a href="#fn2" name="2">2</a></sup> Partners can also be invited to set up a table in the teen area at scheduled times, giving the teens direct access to their services (for instance, providing legal or health information).<br></td></tr>
 
-<tr><th style="background-color:#929090" width="30%">COLLABORATING ON TEEN PROGRAMMING</th><td>Collaborating on teen programming with partners can create something more impactful than either partner working alone, as a short series or a one-time event.<sup><a href="#fn11">11</a></sup></td></tr>
+<tr><th>Collaborating on teen programming</th><td>Collaborating on teen programming with partners can create something more impactful than either partner working alone, as a short series or a one-time event.<sup><a href="#fn2">2</a>, <a href="#fn3" name="3">3</a></sup></td></tr>
 
-<tr><th style="background-color:#777676" width="30%">FORMING COMMUNITY COALITIONS</th><td>Libraries can form or join coalitions of organizations to support each other’s efforts and to have conversations about how they can all work together better to serve youth.<sup><a href="#fn12">12</a></sup> 
+<tr><th>Forming community coalitions</th><td>Libraries can form or join coalitions of organizations to support each other’s efforts and to have conversations about how they can all work together better to serve youth.<sup><a href="#fn2">2</a>, <a href="#fn3" name="3">3</a></sup> 
 
-<b>“It's a group of people… consisting of local museums and nonprofits that work with teens in an afterschool setting. So we also work with them, we help get word out about their programs, they help us get word out about our programs to their teens. And right now we're working together to offer a spring break event at the library.” -- INTS_018</b></td></tr>
+</td></tr>
 
-<tr><th style="background-color:#555454; color:white" width="30%">EMBEDDED PARTNERS</th><td>This term describes “fully invested” partners with whom the library has forged deep, long-term relationships that are embedded into the library’s regular services to teens.<sup><a href="#fn13">13</a></sup></td></tr>
+<tr>
+	<td colspan="2">
+		<blockquote>“It's a group of people… consisting of local museums and nonprofits that work with teens in an afterschool setting. So we also work with them, we help get word out about their programs, they help us get word out about our programs to their teens. And right now we're working together to offer a spring break event at the library.” -- Southern Suburban Library</blockquote>
+	</td>
+</tr>
 
-<tr><th style="background-color:#000000; color:white" width="30%">COLLECTIVE IMPACT</th><td>When disparate organizations unite to work on a particular community issue together, they are moving toward collective impact. The <b>collective impact</b> approach is characterized by a common goal, shared measurement of progress, mutually reinforcing activities, continuous communication, and a formalized support infrastructure.<sup>14</sup> The Strive Partnership in the Cincinnati area is an example of a successful collective impact program that brought together government officials, colleges and universities, private foundations, and many others to improve the educational system.<sup><a href="#fn15">15</a></sup></td></tr>
+<tr><th>Embedded partners</th><td>This term describes “fully invested” partners with whom the library has forged deep, long-term relationships that are embedded into the library’s regular services to teens.<sup><a href="#fn3">3</a></sup></td></tr>
+
+<tr><th>Collective impact</th><td>When disparate organizations unite to work on a particular community issue together, they are moving toward collective impact. The <b>collective impact</b> approach is characterized by a common goal, shared measurement of progress, mutually reinforcing activities, continuous communication, and a formalized support infrastructure.<sup><a href="#fn4" name="4">4</a></sup> The Strive Partnership in the Cincinnati area is an example of a successful collective impact program that brought together government officials, colleges and universities, private foundations, and many others to improve the educational system.<sup><a href="#fn15" name="5">5</a></sup></td></tr>
 </table>
 
-Different characteristics of the partnership may also vary from less to more intense along a spectrum.<sup>[16](#fn16)</sup> For instance, the structure of your relationship may be informal and undefined, or highly structured with well-defined roles. Communication can be once-in-a-while or frequent, decision-making can be one-sided or completely equal, and each partner’s commitment can be high or low. Of course, any given partnership effort can fall somewhere in the middle of those extremes as well. There is no single “correct” configuration—the right combination will depend on you, your partner, your resources, and your goals. 
+Different characteristics of the partnership may also vary from less to more intense along a spectrum.<sup><a href="#fn6" name="6">6</a></sup> For instance, the structure of your relationship may be informal and undefined, or highly structured with well-defined roles. Communication can be once-in-a-while or frequent, decision-making can be one-sided or completely equal, and each partner’s commitment can be high or low. Of course, any given partnership effort can fall somewhere in the middle of those extremes as well. There is no single “correct” configuration—the right combination will depend on you, your partner, your resources, and your goals. 
 
-<div class="reflection"> 
+<div class="tips"> 
 
-<span class="box-title">ARE YOU READY TO TAKE THE NEXT STEP</span> 
+<p class="box-title">Are you ready to take the next step?</p> 
 
 <p>Before you make bigger and better plans with your partner, here are some things to consider before taking that next step. (Adapted from Squires, Tasha. Library Partnerships: Making Connections between School and Public Libraries. Medford, NJ: Information Today, Inc., 2009, 80.)</p>
 <ul>
@@ -43,22 +49,26 @@ Different characteristics of the partnership may also vary from less to more int
 </ul>
 </div>
 
-<br>
-<br>
+<div class="reflection">
+	<p class="box-title">Activity: Your Library's Partners</p>
+<p>What community organizations, businesses, groups, or people does your youth services department partner with already? Who has partnered with your department in the past? List the partnerships on the worksheet provided, indicating the level of partnership for each. Then provide a short description of each partnership, making sure to include (1) what the library contributed to the partnership and (2) what the partner contributed.</p>
 
-**Footnotes:**
+<p>Insert link to worksheet</p>
+</div>
 
-<a name="fn9">9</a>:  --McCarthy, Catherine, and Brad Herring. “Museum & Community Partnerships: Collaboration Guide for Museums Working with Community Youth-Serving Organizations.” NISE Network, 2015. http://www.nisenet.org/sites/default/files/NISE%20Network%20Collaboration%20Guide%2011-20-2015%20FINAL.pdf.
-<br>
-<a name="fn10">10</a>:  --Braun, Linda W., Maureen L. Hartman, Sandra Hughes-Hassell, Kafi Kumasi, and Beth Yoke. “The Future of Library Services for and with Teens: A Call to Action.” Chicago, IL: YALSA, 2014, 13. http://www.ala.org/yaforum/future-library-services-and-teens-project-report. 
-<br>
-<a name="fn11">11</a>:  --Braun, Linda W., Maureen L. Hartman, Sandra Hughes-Hassell, Kafi Kumasi, and Beth Yoke. “The Future of Library Services for and with Teens: A Call to Action.” Chicago, IL: YALSA, 2014, 13. http://www.ala.org/yaforum/future-library-services-and-teens-project-report.; and Strock, Adrienne L. “Reaching beyond Library Walls: Strengthening Services and Opportunities through Partnerships and Collaborations.” Young Adult Library Services, 2014. https://www.questia.com/library/journal/1G1-389260588/reaching-beyond-library-walls-strengthening-services. <br>
-<a name="fn12">12</a>:  --Braun, Linda W., Maureen L. Hartman, Sandra Hughes-Hassell, Kafi Kumasi, and Beth Yoke. “The Future of Library Services for and with Teens: A Call to Action.” Chicago, IL: YALSA, 2014, 13. http://www.ala.org/yaforum/future-library-services-and-teens-project-report.; and Strock, Adrienne L. “Reaching beyond Library Walls: Strengthening Services and Opportunities through Partnerships and Collaborations.” Young Adult Library Services, 2014. https://www.questia.com/library/journal/1G1-389260588/reaching-beyond-library-walls-strengthening-services.  <br>
-<a name="fn13">13</a>:  --Strock, Adrienne L. “Reaching beyond Library Walls: Strengthening Services and Opportunities through Partnerships and Collaborations.” Young Adult Library Services, 2014. https://www.questia.com/library/journal/1G1-389260588/reaching-beyond-library-walls- 
-<br>
-<a name="fn14">14</a>:  --Kania, John, and Mark Kramer. “Collective Impact.” Stanford Social Innovation Review 2011, Winter (2011): 36–41. 
-<br>
-<a name="fn15">15</a>:  --KnowledgeWorks Foundation. “Strive Partnership.” Strive Partnership, 2017. http://www.strivepartnership.org/.
-<br>
-<a name="fn16">16</a>:  --McCarthy, Catherine, and Brad Herring. “Museum & Community Partnerships: Collaboration Guide for Museums Working with Community Youth-Serving Organizations.” NISE Network, 2015. http://www.nisenet.org/sites/default/files/NISE%20Network%20Collaboration%20Guide%2011-20-2015%20FINAL.pdf.
+
+
+<hr/>
+
+<a name="fn1" href="#1">[1]</a> McCarthy, Catherine, and Brad Herring. “[Museum & Community Partnerships: Collaboration Guide for Museums Working with Community Youth-Serving Organizations](http://www.nisenet.org/sites/default/files/NISE%20Network%20Collaboration%20Guide%2011-20-2015%20FINAL.pdf).” NISE Network, 2015. .
+
+<a name="fn2" href="#2">[2]</a> Braun, Linda W., Maureen L. Hartman, Sandra Hughes-Hassell, Kafi Kumasi, and Beth Yoke. “[The Future of Library Services for and with Teens: A Call to Action](http://www.ala.org/yaforum/future-library-services-and-teens-project-report).” Chicago, IL: YALSA, 2014, 13.
+
+<a name="fn3" href="#3">[3]</a>: Strock, Adrienne L. “Reaching beyond Library Walls: Strengthening Services and Opportunities through Partnerships and Collaborations.” Young Adult Library Services, 2014. https://www.questia.com/library/journal/1G1-389260588/reaching-beyond-library-walls-strengthening-services.
+
+<a name="fn4" href="#4">[4]</a>: Kania, John, and Mark Kramer. “Collective Impact.” Stanford Social Innovation Review 2011, Winter (2011): 36–41. 
+
+<a name="fn5" href="#5">[5]</a> KnowledgeWorks Foundation. “[Strive Partnership](http://www.strivepartnership.org/).” Strive Partnership, 2017.
+
+<a name="fn6" href="#6">[6]</a> McCarthy, Catherine, and Brad Herring. “[Museum & Community Partnerships: Collaboration Guide for Museums Working with Community Youth-Serving Organizations](http://www.nisenet.org/sites/default/files/NISE%20Network%20Collaboration%20Guide%2011-20-2015%20FINAL.pdf).” NISE Network, 2015.
 

@@ -48,7 +48,7 @@ The outcomes you want from your programs should align with your library’s stra
 Talk to your stakeholders as you develop outcomes. They should all agree that the outcomes are important and desired. They may even suggest surprising or nontraditional outcomes. By involving your stakeholders, you can get different perspectives on what outcomes are the most important. <sup><a href="#6" name="6A">6</a></sup>
 
 
-<div class="explanatory">
+<div class="tips">
 	<p class="box-title">Assessment and Evaluation</p>
 <p>By the time your program begins, you should have a clear idea and plan for the assessment of teens’ progress and the evaluation of the program as a whole. Keep the big picture in mind, especially when evaluating programs that seem to have failed. The program might have been a good idea that suffered from poor marketing or timing (or vice versa). See the <a href="../assessment/index.html">Assessment and Evaluation module</a> for more.</p>
 </div>

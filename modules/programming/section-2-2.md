@@ -10,25 +10,30 @@ subsection: two-two
 Once you have decided where you’re going, you need to figure out how to get there. A theory of change explains “how and why the program will work.”<sup><a href="#1" name="1A">1</a></sup>  It describes how your program will help you get from where you are to your desired outcomes in both narrative and graphic formats. A theory of change can be messy, recursive, and multidimensional, just like reality.<sup><a href="#2" name="2A">2</a></sup>  A different approach is to create a logic model, in which the “how and why” are broken down into components arranged in a more logical order. Connell and Kubisch<sup><a href="#3" name="3A">3</a></sup> describe a good theory of change as plausible, doable, and testable. In either case, work backwards from your outcomes until you reach the specific activities that will begin the change you want to see.
 
 <div class="explanatory">
-	<p class="box-title">5 Steps to a Theory of Change</p>
-<p class="videotime">7:38</p><p class="source">Jay Memmot</p>
+	<p class="box-title">Why Do You Need a Theory of Change?</p>
+<p class="videotime">3:40</p><p class="source">DIY Toolkit</p>
 
 <div class="video">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jiA0xO_HGNw" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6zRre_gB6A4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 </div>
 
 
 </div>
 
-## Learning Activity
-Choose a program at your library or another program you are familiar with. Can you analyze it to complete the simple theory of change worksheet? 
+<div class="reflection">
+	<p class="box-title">Learning Activity: Theory of Change</p>
+	<p>Choose a program at your library or another program you are familiar with. Can you analyze it to complete the simple theory of change worksheet? </p>
+	<p><a href="docs/activity_2_2.docx">Download worksheet (DOCX)</a></p>
+	<ul>
+		<li>What are the program's intended <b>outcomes</b>?</li>
+		<li>What <b>indicators</b> are measured to find out if the program is successfully leading to the desired outcomes?</li> 
+		<li>What <b>activities</b> are conducted that will lead to something measurable?</li>
+		<li>Create a graphic visualization of this theory of change. </li>
+	</ul>
 
-[Download worksheet (DOCX)](docs/activity_2_2.docx)
+</div>
 
-- What are the program's intended **outcomes**?
-- What **indicators** are measured to find out if the program is successfully leading to the desired outcomes? 
-- What **activities** are conducted that will lead to something measurable?
-- Create a graphic visualization of your theory of change. 
+
 
 -----
 

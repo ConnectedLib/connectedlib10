@@ -840,22 +840,26 @@ blockquote {
   color: #000000; 
   border-radius: 10px;
   margin: 30px 0 35px 0;
-  padding: 40px 60px 40px 60px;
+  padding: 40px 60px 30px 60px;
   border-left: solid 10px #0b4eab;
 }
 
 .tips { 
-  background: #f69a77; /* pale rusty orange */
+  background: #FFBBA2; /* pale rusty orange */
   border-left: solid 10px #fc4305; /* rusty orange */
   border-radius: 10px;
   margin: 20px 0 35px 0;
-  padding: 20px 35px 35px 70px;
+  padding: 20px 35px 25px 70px;
   background-image: url(../img/tipsTricksIcon.png);
   /* Star by chappara from the Noun Project, https://thenounproject.com/search/?q=star&i=1521252 */
   background-size: auto;
   background-position: 10px 10px;
   background-repeat: no-repeat; 
+}
 
+.tips a, .tips a:visited {
+  color: #641B00;
+  font-weight:bold;
 }
 
 .reflection { 
@@ -942,9 +946,73 @@ blockquote {
   padding:10px;
   font-family:'Courier New';
   color: #000000;
+  vertical-align:top;
 }
 
+.colorful, .colorful td, .colorful th {
+  border:none;
+  padding:20px;
+  color: #000000;
+  vertical-align:center;
+}
 
+.colorful th {
+  text-align:center;
+  font-weight:bold;
+
+}
+
+.colorful tr:nth-child(even) td, .colorful tr:nth-child(even) th {
+  background-color:#A4EBE6;
+  }
+
+.colorful tr:nth-child(odd) td, .colorful tr:nth-child(odd) th {
+  background-color:#DDDBDB;
+}
+
+.colorful-th, .colorful-th td, .colorful-th th {
+  padding:10px;
+  color: #000000;
+  vertical-align:middle;
+  border-spacing: 30px;
+  border-collapse: separate;
+}
+
+.colorful-th th {
+  font-size:125%;
+}
+
+.colorful-th tr:nth-child(1) th {
+  background-color:#FF827F;
+  }
+
+.colorful-th tr:nth-child(2) th {
+  background-color:#FF8845;
+}
+
+.colorful-th tr:nth-child(3) th {
+  background-color:#FFF570;
+  }
+
+.colorful-th tr:nth-child(4) th {
+  background-color:#6ACA1A;
+}
+
+.colorful-th tr:nth-child(5) th {
+  background-color:#4EBCD0;
+  }
+
+.colorful-th tr:nth-child(6) th {
+  background-color:#B084CD;
+}
+
+.colorful-th tr:nth-child(7) th {
+  background-color:#FF827F;
+  }
+
+.colorful-th tr:nth-child(8) th {
+    background-color:#FF8845;
+}
 
 .activity-menu {
   border-bottom: solid 1px rgba(0,0,0,0);

@@ -564,7 +564,7 @@ But there was no time to do more than jerry-rig an adaptation. */
 
 #overview .agenda-navigation li.overview a, 
 #one li.one a, #one-one .agenda-navigation li.one-one a, #one-two li.one-two a, #one-three li.one-three a, #one-four li.one-four a, #one-five li.one-five a, #one-six li.one-six a, 
-#two li.two a, #two-one li.two-one a,  #two-two li.two-two a, #two-three li.two-three a, #two-four li.two-four a, #two-give li.two-five a, #two-six li.two-six a,
+#two li.two a, #two-one li.two-one a,  #two-two li.two-two a, #two-three li.two-three a, #two-four li.two-four a, #two-five li.two-five a, #two-six li.two-six a,
 #three li.three a, #three-one li.three-one a,  #three-two li.three-two a, #three-three li.three-three a, #three-four li.three-four a, #three-five li.three-five a, #three-six li.three-six a,
 #four li.four a, #four-one li.four-one a,  #four-two li.four-two a, #four-three li.four-three a, #four-four li.four-four a, #four-five li.four-five a, #four-six li.four-six a
  {
@@ -882,6 +882,16 @@ blockquote {
   font-size:1.3em;
 }
 
+/* can replace box-title entirely I think */
+
+.reflection p:nth-child(1), .tips p:nth-child(1), .case_study_box p:nth-child(1) {
+  font-weight: bold;
+  text-transform: lowercase;
+  /* font-family:'Comfortaa'; */
+  font-size:1.3em;
+}
+
+
 .video {
   overflow: hidden; 
   padding-top: 56.25%;
@@ -982,37 +992,36 @@ blockquote {
   font-size:125%;
 }
 
-.colorful-th tr:nth-child(1) th {
+th.th-black {
+  background-color:#000000 !important;
+  color: #ffffff;
+  text-align:center;
+}
+
+.colorful-th tr:nth-child(1) th, .colorful-th tr:nth-child(7) th {
   background-color:#FF827F;
   }
 
-.colorful-th tr:nth-child(2) th {
+.colorful-th tr:nth-child(2) th, .colorful-th tr:nth-child(8) th {
   background-color:#FF8845;
 }
 
-.colorful-th tr:nth-child(3) th {
+.colorful-th tr:nth-child(3) th, .colorful-th tr:nth-child(9) th {
   background-color:#FFF570;
   }
 
-.colorful-th tr:nth-child(4) th {
+.colorful-th tr:nth-child(4) th, .colorful-th tr:nth-child(10) th {
   background-color:#6ACA1A;
 }
 
-.colorful-th tr:nth-child(5) th {
+.colorful-th tr:nth-child(5) th, .colorful-th tr:nth-child(11) th {
   background-color:#4EBCD0;
   }
 
-.colorful-th tr:nth-child(6) th {
+.colorful-th tr:nth-child(6) th, .colorful-th tr:nth-child(12) th {
   background-color:#B084CD;
 }
 
-.colorful-th tr:nth-child(7) th {
-  background-color:#FF827F;
-  }
-
-.colorful-th tr:nth-child(8) th {
-    background-color:#FF8845;
-}
 
 .activity-menu {
   border-bottom: solid 1px rgba(0,0,0,0);
@@ -1092,4 +1101,81 @@ blockquote {
 .activity-menu li> a {
   color: white;
 
+}
+
+
+
+/* collapsible, code from https://alligator.io/css/collapsible/ */
+
+.wrap-collabsible {
+  margin-bottom: 1.2rem 0;
+}
+
+input[type='checkbox'] {
+  display: none;
+}
+
+.lbl-toggle {
+  display: block;
+
+  font-weight: bold;
+  font-family: monospace;
+  font-size: 1.2rem;
+  text-transform: uppercase;
+  text-align: center;
+
+  padding: 1rem;
+
+  color: #A77B0E;
+  background: #FAE042;
+
+  cursor: pointer;
+
+  border-radius: 7px;
+  transition: all 0.25s ease-out;
+}
+
+.lbl-toggle:hover {
+  color: #7C5A0B;
+}
+
+.lbl-toggle::before {
+  content: ' ';
+  display: inline-block;
+
+  border-top: 5px solid transparent;
+  border-bottom: 5px solid transparent;
+  border-left: 5px solid currentColor;
+  vertical-align: middle;
+  margin-right: .7rem;
+  transform: translateY(-2px);
+
+  transition: transform .2s ease-out;
+}
+
+.toggle:checked + .lbl-toggle::before {
+  transform: rotate(90deg) translateX(-3px);
+}
+
+.collapsible-content {
+  max-height: 0px;
+  overflow: hidden;
+  transition: max-height .25s ease-in-out;
+}
+
+.toggle:checked + .lbl-toggle + .collapsible-content {
+  max-height: 350px;
+}
+
+.toggle:checked + .lbl-toggle {
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+}
+
+.collapsible-content .content-inner {
+  background: rgba(250, 224, 66, .2);
+  border-bottom: 1px solid rgba(250, 224, 66, .45);
+  border-bottom-left-radius: 7px;
+  border-bottom-right-radius: 7px;
+  padding: .5rem 1rem;
 }

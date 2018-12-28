@@ -12,19 +12,19 @@ When you first approach your partner, you can bring a partnership idea to the ta
 Don’t underestimate the value of starting small, with informal conversations, a small pilot program or a trial collaboration.<sup>[33,](#fn33)</sup><sup>[34](#fn34)</sup> Starting off with a small or one-off collaboration can be a great way to test the waters of a partnership. Whereas a formal partnership with a larger organization may require paperwork and managerial support, smaller efforts are easier, less time-consuming, and can be evidence in support of a more extensive partnership if they go well.<sup>[35](#fn35)</sup> One way to start small is by finding community events that are already in the planning stages, and offering support or involvement from the library.<sup>[36](#fn36)</sup>
 
 
-**PREPARING YOUR PITCH**
+## Preparing your pitch
 
 A community partnership should benefit all stakeholders — the library, the partner, and the community. When proposing a collaboration, it’s important to understand and articulate how the project will benefit each of these. Developing an “elevator speech” for your library or specifically for your youth services department will help you when you approach potential partners.<sup>[37](#fn37)</sup> Elevator speeches or pitches are “brief opportunities—maybe one minute or less—to pique the interest of anyone whose ear you’d like to bend about libraries.”<sup>[38](#fn38)</sup> The elevator speech should be specific to your library, and maybe even a single branch, and should highlight the unique contributions the library can bring to the partnership and the impact it can have on youth. Although you may need to tailor the pitch for each potential partner, crafting a flexible, reusable template will save time when you set up future partnerships. 
 
 
-**BUILDING A RELATIONSHIP**
+## Building a relationship
 
 >“It was just a get-to-know-you lunch. Yet, unbeknownst to us, as we sipped soup and ordered sandwiches, we were laying the groundwork for a long, fruitful partnership.” -- Kathleen Baxter and Susan M. Haggberg<sup>[39](#fn39)</sup> 
 
 You can start building relationships with other organizations without a concrete or even a vague goal in mind. Networking with people who have a different perspective on the youth in your community is valuable in and of itself. It’s also a good idea to have an idea of what other organizations are doing for youth, so you don’t duplicate efforts. Informal relationships are often the catalyst for creative partnership ideas born out of simply chatting with each other about your work.
 
 
-**WHAT IF THEY SAY NO?**
+## What if they say no?
 
 >“People are afraid of the ‘no,’ and that's truly the worst that can happen. I have been shut down so many times I'm like, ‘Alright, well, there's five more ice cream shops on this block, so I'll find something.’” -- Focus Group Participant 
 
@@ -50,13 +50,12 @@ No matter how persuasive and well-crafted your pitch is, you may be turned down.
 <br>
 <p>(Adapted from Squires, T. (2009). Library partnerships: Making connections between school and public libraries. Medford, NJ: Information Today, Inc., page 16).</p>
 </div>
-<br>
 
-**PUT IT IN WRITING**
+
+## Put it in writing
 
 Depending on the size and formality of your project, a written agreement, contract, or memorandum of understanding may be useful or even required.<sup>[40,](#fn40)</sup><sup>[41](#fn41)</sup> Contracts are legally binding and are particularly important in situations that involve money, intellectual property, or other resources of value; a memorandum of understanding is not legally binding, but is useful for clarifying and recording agreements.<sup>[42,](#fn42)</sup> 
 
-<br>
 <div class="tips"> 
  <p><span class="box-title">WHAT GOES INTO A MOU?  </span></p>
   <p>Each memorandum of understanding, or MOU, may be a little different, depending on the organizations involved and the nature of the project, but here are some questions that they should usually answer: </p>
@@ -89,9 +88,8 @@ Depending on the size and formality of your project, a written agreement, contra
  <li><b>Good Teen Librarians Make Great Library Advocates</b>. Maureen L. Hartman (2012). Tips to help teen services librarians form strategic partnerships. In Young Adult Library Services, 2012(Fall).  </li>
 </ul>
 </div>
-<br>
 
-#### Footnotes:
+<hr/>
 
 <a name="fn31">31</a>:  -- Cassell, Kay Ann, and Kathleen Weibel. “Celebrating Women’s History Month at Your Library.” American Libraries, March 2010. 
 <br>

@@ -9,7 +9,7 @@ subsection: four-two
 
 Now that we have briefly revisited how to assess community assets and strengths and reframed in terms of our library’s capacity, we are well prepared to think deeply about community needs. In the following section, we will also be covering how we might be able to leverage the strengths in our community to meet those needs. 
 
-**Leveraging Community Assets to Address Community Needs** 
+## Leveraging Community Assets to Address Community Needs
 
 > “Each time a person uses his or her capacity, the community is stronger and the person more powerful. That is why strong communities are basically places where the capacities of local residents are identified, valued, and used.” <sup>[1](#fn1)</sup>
 
@@ -19,8 +19,8 @@ Community needs and assets connect directly with assessing the capacity of your 
 
 When assessing community needs it is important to collect information from as many members of the community as possible. Luckily, you’ve already identified some tools to do this in our Community Mapping module, in section 3.3 “<a href="{{site.url}}{{site.baseurl}}/modules/communitymapping/section-3-3.html">Learn About Your Community Assets.</a>” In this section we will be discussing additional tools that you can use which are especially strong when assessing your library’s capacity and community needs. As a starting point, brainstorming about your community and identifying the groups that make up your community can be helpful. Talking with other workers in your library, as well as patrons, can help you to make sure you have not left any community members out of your analysis. From here, there are a variety of next steps that you can follow to assess the needs of your community: 
 
-<table>
-<tr><td style="background-color:#F5A750" width="40%" valign="top"><b>Informal Interviews</b></td><td>Informal interviews are open-ended interviews that  do not require you to use a tape recorder. Because of this, they can be an accessible way to interact with your community in a non-intimidating manner. <br> 
+<table class="colorful-th">
+<tr><th>Informal Interviews</th><td>Informal interviews are open-ended interviews that  do not require you to use a tape recorder. Because of this, they can be an accessible way to interact with your community in a non-intimidating manner. <br> 
 Much like “On the Street Interviews,” informal interviews can be performed in your library, outside in the community, at the grocery store... the opportunities are endless.<br>
 Step 1: 
 <ul><li>Prepare a few questions to ask ahead of time</li></ul>
@@ -31,22 +31,22 @@ Step 3:
 Step 4: 
 <ul><li>Write a summary of the conversation afterwards for future reference</li></ul></td></tr>
 
-<tr><td style="background-color:#F3CC4D" width="40%" valign="top"><b>Town Halls</b></td><td>Town Halls are planned get togethers with your community where you discuss current issues, events, and other information. These are similar to focus groups, which we covered in <a href="{{site.url}}{{site.baseurl}}/modules/communitymapping/index.html">Community Mapping.</a><br><br>
+<tr><th>Town Halls</th><td>Town Halls are planned get togethers with your community where you discuss current issues, events, and other information. These are similar to focus groups, which we covered in <a href="{{site.url}}{{site.baseurl}}/modules/communitymapping/index.html">Community Mapping.</a><br><br>
 Town Halls can be formal or  informal, and can be conducted simply as community “get togethers” with coffee, snacks, and a few questions asked for the group to answer after you’ve done some mingling or tackled other library business.<br><br>
 This is an example of how an informal town hall event brought residents together into a shared space that was less intimidating:<br><a href="http://www.courant.com/community/bloomfield/hc-news-bloomfield-town-hall-meeting-20180123-story.html" target="_blank">http://www.courant.com/community/bloomfield/hc-news-bloomfield-town-hall-meeting-20180123-story.html</a><br>
 Here is an example of how Anne Arundel County Public Library performed formal town halls regarding budget cuts:<br>  
 <a href="https://www.urbanlibraries.org/town-hall-meetings-innovation-246.php?page_id=103" target="_blank">https://www.urbanlibraries.org/town-hall-meetings-innovation-246.php?page_id=103</a></td></tr>
 
-<tr><td style="background-color:#B969A1" width="40%" valign="top"><b>Other Informal Methods</b></td><td>Other informal methods include: 
+<tr><th>Other Informal Methods</th><td>Other informal methods include: 
  <ol><li>"<b>Postcard Surveys</b>” where you send a postcard with close ended questions and community members can mark it and mail it back</li>  
 <li>Using the “<b>Grape Vine</b>” by asking a key member of a certain organization to ask their members a few questions and get back to you with their answers</li>
 <li><b>Observation</b>: attending community events, organizations, schools, and other locations where your community meets and simply observing. What are some issues being raised?</li>
 </ol></td></tr></table>
-<br>
+
 
 Once you have used one or more of these methods to collect information about your community and their needs, you can map these out visually. Here is an example using our favorite midsize library:
 
-<table class="basic">
+<table class="worksheet">
  <tr><th>Community</th><th>Name</th><th>Needs</th></tr>
 <tr><td><b>Individuals</b></td><td><ul><li>Carmen</li><li>Alan</li><li>Elaine</li></ul></td><td>-Better wheelchair access<br>-Resume and job training<br>-Sensory friendly lighting</td></tr>
 
@@ -60,6 +60,6 @@ Once you have used one or more of these methods to collect information about you
 You may have noticed that this map lists the needs of community members in relation to our Midsize library. We encourage you, in your own assessment, to list the needs of your community members that don’t necessarily relate to your library in addition to this list. These can include needs like: resources access for your homeless community, musical instruments for the high school band, and more. While ways to support your community in these needs might not be obvious at first, knowing that the needs exist can help your library to provide supplemental resources. For example, while your library cannot provide laundry machines for your homeless youth, it can provide pamphlets with maps marking where safe facilities like that are freely available.
 
 
-**Footnotes:**
-<br>
+<hr/>
+
 <a name="fn1">1</a>:  -- Kretzmann, J. P., & McKnight, J. L. (1993). Building from the inside out: A path toward finding and mobilizing a community’s assets. Chicago, IL: ACTA Publications. P. 13.

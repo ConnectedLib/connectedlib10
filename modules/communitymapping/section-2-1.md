@@ -11,11 +11,14 @@ The asset-based community development (ABCD) model of community development,  de
 
 <br>
 <div class="explanatory">
-<p>Watch as Cormac Russell explains why it’s important to focus on the strengths of communities, not the weaknesses:</p> 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/a5xR4QB1ADw" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+	<p>Cormac Russell on community strengths</p>
+
+<p class="videotime">18:08</p><p class="source">TedX Exeter</p>
+  <div class="video">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/a5xR4QB1ADw" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div>
+
 </div>
 
-<br>
 <div class="explanatory">
   <p><span class="box-title">GUIDING PRINCIBLES OF ABCD</span></p>
 <p><a href="http://www.nurturedevelopment.org/wp-content/uploads/2016/01/Asset-Mapping-CCAMP_System_Handbook.pdf" target="_blank">Ryan & Bourke (2008, p114)</a> set forth the following guiding principles for an asset-based community development effort.</p>
@@ -36,6 +39,11 @@ The asset-based community development (ABCD) model of community development,  de
 <br>
 <div class="explanatory">
   <p><span class="box-title">STONE SOUP</span></p>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2F2X295" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
   <p>Ryan and Bourke (2008, p143) compare community assets to the ingredients of a “stone soup.” In isolation, an individual or organization might not think their “gifts” amount to much. But in combination, an entire community working together can produce something greater than the sum of its parts.</p>
+  <p class="videotime">7:09</p><p class="source">iStorytime</p>
+
+  <div class="video">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/2X295Nnagvw" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div>
+
 </div>

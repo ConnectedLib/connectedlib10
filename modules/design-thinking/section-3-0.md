@@ -4,7 +4,7 @@ title: 3. Core Research Methods
 module_name: design-thinking
 module_full_name: Design Thinking
 section: 3. Core Research Methods
-subsection: three-zero
+subsection: three
 ---
 
 In this section, you will learn more ways to integrate the design thinking mindset into each phase of the design process.

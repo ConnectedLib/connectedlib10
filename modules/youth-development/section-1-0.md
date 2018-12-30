@@ -4,18 +4,18 @@ title: 1. Theories of Youth Development
 module_name: youth-development
 module_full_name: Youth Development
 section: 1. Theories of Youth Development
-subsection: one-zero
+subsection: one
 ---
 
 In this introduction, you will learn what mentoring is and how it can support connected learning in the library.
 
-## Learning Outcomes For This Section
-
-**After completing Section 1: Theories of Youth Development, you will be able to...**
-<ul class="fancy">
+<div class="objectives">
+<p>After completing this section, you will be able to...</p>
+<ul>
   <li>Describe six major theories of youth development</li>
   <li>Apply concepts from the theories of youth development to the creation of connected learning programs and services for teens</li>
 </ul>
+</div>
 
 Youth development can be approached from many perspectives. In this section, you will be introduced to key theories of child development. In particular, we focus on: 
 
@@ -29,9 +29,6 @@ Youth development can be approached from many perspectives. In this section, you
 You can draw on these theoretical perspectives to guide the design of your youth-centered programming and services.
 
 <div class="explanatory">  
-
-  <p><span class="box-title">WHICH THEORY IS RIGHT? </span></p> 
-
-<p>There is no single theory that accounts for every aspect of youth learning and development. The six theories described in the following sections have different strengths and weaknesses; many of them complement or build on each other. Each theory can teach us something different about to support youth development through library programming. </p> 
-
-  </div>
+  <p>Which Theory is Right?</p> 
+  <p>There is no single theory that accounts for every aspect of youth learning and development. The six theories described in the following sections have different strengths and weaknesses; many of them complement or build on each other. Each theory can teach us something different about to support youth development through library programming.</p> 
+</div>

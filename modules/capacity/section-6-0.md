@@ -4,7 +4,7 @@ module_name: capacity
 module_full_name: Capacity
 title: 6. Overview
 section: 6. Continuing Forward
-subsection: six-zero
+subsection: six
 ---
 
 ## Learning Outcomes For This Section

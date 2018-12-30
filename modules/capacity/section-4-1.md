@@ -25,11 +25,11 @@ Community assets can be as broad as entire organizations, or as specific as indi
 
 Let’s take a moment to reflect on the community that your library serves. As you do this, bring up the map you created in the <a href="{{site.url}}{{site.baseurl}}/modules/communitymapping/index.md">Community Mapping module</a>. Think about the people, places, services and businesses that make up your community that you marked on this map. It can be helpful to visualize your Community Map in relation to their strengths and assets, and can be done in a very similar way to assessing the capacity of your library. As you are doing this, keep in mind which assets and strengths might be the most helpful in relation to your library’s capacity. Here’s an example:
 
-**Midsize Library Community Assets & Strengths**
+## Midsize Library Community Assets & Strengths
 
 Let’s use the same midsize library from our example in the beginning of the module. First, we will make a list of our community assets in each category: 
 
-<table class="basic">
+<table class="worksheet">
 <tr><th></th><th>Asset Name</th></tr>
 <tr><td><b>Individuals</b></td><td><ul><li>Anne Park--Software engineer</li><li>Ray Neng--Renovator</li><li>Righard Bell--Commercial baker</li><li>Holly Lampard--Mechanical engineer</li></ul></td></tr>
 <tr><td><b>Places</b></td><td><ul><li>Parkland Elementary</li><li>Orchard Ridge High School</li><li>Red Mark Burgers</li><li>Parkland Church</li><li>Greenriver Park</li></ul></td></tr>
@@ -39,7 +39,7 @@ Let’s use the same midsize library from our example in the beginning of the mo
 
 Then, we will expand to list their strengths:
 
-<table class="basic">
+<table class="worksheet">
 <tr><th></th><th>Asset Name</th><th>Strengths</th></tr>
 <tr><td><b>Individuals</b></td><td><ul><li>Anne Park--Software engineer</li><li>Ray Neng--Renovator</li><li>Righard Bell--Commercial baker</li><li>Holly Lampard--Mechanical engineer</li></ul></td><td>-Technological knowledge<br>-Master carpenter<br>-Digital artist and knitter<br>-Engineer and 3D designer</td></tr>
 <tr><td><b>Places</b></td><td><ul><li>Parkland Elementary</li><li>Orchard Ridge High School</li><li>Red Mark Burgers</li><li>Parkland Church</li><li>Greenriver Park</li></ul></td><td>-Large community space<br>-Hi-tech theater, computer lab with over 30 seats<br>-Often hosts fundraisers<br>-Community Dinners<br>-Large open field</td></tr>
@@ -48,4 +48,4 @@ Then, we will expand to list their strengths:
 </table>
 
 <div class="reflection"><p class="box-title">REFLECTION</p>
-<p>Now it is your turn--what are the assets in your community? What strengths do they bring to the table? Take a moment to reflect, using your Community Map to help you.</p></div><br><br>
+<p>Now it is your turn--what are the assets in your community? What strengths do they bring to the table? Take a moment to reflect, using your Community Map to help you.</p></div>

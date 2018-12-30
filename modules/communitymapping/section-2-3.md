@@ -9,7 +9,7 @@ subsection: two-three
 
 Create a second mini-asset map with assets your library could connect with, but hasn’t yet. Add any helpful connections that might already exist. 
 
-<table style="width:80%">
+<table style="width:95%" class="worksheet">
 <tr><th>Type of Asset</th><th>List of Assets</th><th>Connections</th></tr>
 <tr height="150px"><th>Individuals</th><td></td><td></td></tr>
 <tr height="150px"><th>Associations</th><td></td><td></td></tr>

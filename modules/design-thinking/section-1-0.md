@@ -4,18 +4,19 @@ title: 1. Introduction
 module_name: design-thinking
 module_full_name: Design Thinking
 section: 1. Introduction
-subsection: one-zero
+subsection: one
 ---
 
 This section provides an introduction to the basic principles of design thinking.
 
-## Learning Outcomes For This Section
 
-**After completing Section 1: Introduction, you will be able to...**
-<ul class="fancy">
+<div class="objectives">
+<p>After completing Section 1: Introduction, you will be able to...</p>
+<ul>
   <li>Describe design thinking and the design thinking process</li>
   <li>Understand how design thinking relates to connected learning and to youth librarians</li>
 </ul>
+</div>
 
 Young people brainstorming and then sketching out imaginary homes inspired by books from local architects.  Teens partnering with librarians and historical centers to create personal community maps and learn about their city’s history in the process. Librarians experimenting with new styles of programming and activities through “pop up programming” and then refining and improving delivery.  
 

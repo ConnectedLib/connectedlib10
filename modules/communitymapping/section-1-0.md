@@ -4,19 +4,20 @@ title: 1. What Is Community Mapping?
 module_name: communitymapping
 module_full_name: Community Mapping
 section: 1. What Is Community Mapping?
-subsection: one-zero
+subsection: one
 ---
 
 In this section we will discuss what community mapping is and why it is important to your library. 
 
-## Learning Outcomes For This Section
+<div class="objectives">
+<p>After completing this section, you will be able to...</p>
 
-**After completing Section 1. Introduction, you will be able to...**
-<ul class="fancy">
+<ul>
   <li>Explain what a community asset map is</li>
   <li>Describe why community mapping is valuable to your library</li>
    <li>Begin the process of creating a community asset map</li>
 </ul>
+</div>
 
 >“You have to look at your local industry, study it carefully, interpret your local demographic, interpret your local workforce, and then try to find a newsworthy, best practice program that is hands-on, self-directed, project-based, and fun, and teens will come in.” -- Urban Western Library
 

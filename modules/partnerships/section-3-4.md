@@ -7,7 +7,7 @@ section: 3. Types of Partners
 subsection: three-four
 ---
 
->“This is such an obvious avenue for partnership that it is sometimes overlooked.” -- Tasha Squires<sup>[28](#fn28)</sup>
+>“This is such an obvious avenue for partnership that it is sometimes overlooked.” -- Tasha Squires<sup><a href="#fn1" name="1">1</a></sup>
 
 Almost all of a community’s youth can be found in local schools at some point. Reaching teens through their schools can get them more involved with the library before the steep drop-off in participation that many librarians have reported with older teens. Partnerships with schools also build bridges between a teen’s formal and informal learning spaces—an important element of connected learning.  
 
@@ -49,20 +49,19 @@ Partnering with schools is particularly challenging for most of the librarians a
 
 <li>Develop a way to stay in touch with teachers. Keeping teachers abreast of the latest library resources and programs for youth through a newsletter or email can help remind them to stay in touch with you about upcoming lessons and assignments.</li>
 
-<li>Start small. Working together on a one-time event can benefit both school and public library, and requires less time commitment than an ongoing partnership.<sup>29</sup> (Cooksey, 2017).</li>
+<li>Start small. Working together on a one-time event can benefit both school and public library, and requires less time commitment than an ongoing partnership.<sup><a href="#fn2" name="2">2</a></sup></li>
 
-<li>Be in it for the long haul. If a partnership with the school just doesn’t materialize, consider building that relationship anyway by simply helping out—you could assist with an event, volunteer to help in the library, or support advocacy efforts for the school and the school library.<sup>30</sup> This will help you learn more about the school and its needs, and may end up blossoming into a real partnership down the line.</li>
+<li>Be in it for the long haul. If a partnership with the school just doesn’t materialize, consider building that relationship anyway by simply helping out—you could assist with an event, volunteer to help in the library, or support advocacy efforts for the school and the school library.<sup><a href="#fn3" name="3">3</a></sup> This will help you learn more about the school and its needs, and may end up blossoming into a real partnership down the line.</li>
 </ul>
 </div>
 
-<div class="case_study_box"> 
- <p><a href="" class="external">CASE STUDY: CHARLOTTE MECKLENBURG LIBRARY AND THE NORTHWEST SCHOOL OF THE ARTS</a></p> 
-</div>
+{% include case_NWSFA.html %}
+
 
 <hr/>
 
-<a name="fn28">28</a>:  --Squires, Tasha. Library Partnerships: Making Connections between School and Public Libraries. Medford, NJ: Information Today, Inc., 2009, xv.
+<a name="fn1" href="#1">[1]</a>:  Squires, Tasha. Library Partnerships: Making Connections between School and Public Libraries. Medford, NJ: Information Today, Inc., 2009, xv.
 <br>
-<a name="fn29">29</a>:  --Cooksey, Ashley J. “Partnerships beyond Four Walls.” American Libraries Magazine, January 3, 2017. <a href="https://americanlibrariesmagazine.org/2017/01/03/school-public-library-partnerships-beyond-four-walls/" target="_blank">https://americanlibrariesmagazine.org/2017/01/03/school-public-library-partnerships-beyond-four-walls/</a>.
+<a name="fn2" href="#2">[2]</a>:  Cooksey, Ashley J. “Partnerships beyond Four Walls.” American Libraries Magazine, January 3, 2017. <a href="https://americanlibrariesmagazine.org/2017/01/03/school-public-library-partnerships-beyond-four-walls/" target="_blank">https://americanlibrariesmagazine.org/2017/01/03/school-public-library-partnerships-beyond-four-walls/</a>.
 <br>
-<a name="fn30">30</a>:  --Squires, Tasha. Library Partnerships: Making Connections between School and Public Libraries. Medford, NJ: Information Today, Inc., 2009, 21.
+<a name="fn3" href="#3">[3]</a>:  Squires, Tasha. Library Partnerships: Making Connections between School and Public Libraries. Medford, NJ: Information Today, Inc., 2009, 21.

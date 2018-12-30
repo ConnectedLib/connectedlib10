@@ -33,9 +33,6 @@ Research on how to encourage effective, long term mentoring places emphasis on t
 
 For more guidance on developing a formal mentoring program that meets your library and community needs, please review next section on Designing a Mentoring Program: Step by Step. 
 
-
-### Section 2 Activity
-
-**2A. Reflection prompts** 
-
-Have you ever considered yourself a mentor? Have you ever considered yourself a mentee? Describe what these past relationships looked like.
+<div class="reflection">
+<p>your experiences with mentoring</p>
+<p>Have you ever considered yourself a mentor? Have you ever considered yourself a mentee? Describe what these past relationships looked like.</p></div>

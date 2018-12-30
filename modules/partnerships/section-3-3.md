@@ -25,14 +25,13 @@ There are a wide variety of youth-serving organizations other than the informal 
 <blockquote>“It can be hard, because even if you develop a relationship, and then that person leaves after a year, you might have to start over. And there's a new person in that position, and they have a different idea of where they wanna go.” — Southern Suburban Library</blockquote></td></tr>
 </table>
 
+
+{% include case_youthOrgs.html %}
+
+
 <div class="case_study_box"> 
- <p><a href="" class="external">CASE STUDY: YOUTH SERVING ORGANIZATIONS</a></p> 
-</div>
-<br>
 
-<div class="resources"> 
-
-<span class="box-title">ADDITIONAL RESOURCES</span> 
+<p>Additional Resources</p> 
 <ul>
   <li>Beyond Books: Restorative Librarianship in Juvenile Detention. (Isaac Gilman, 2008). Public Libraries, 47(1). Available online: <a href="http://commons.pacificu.edu/libfac/1/?utm_source=commons.pacificu.edu%2Flibfac%2F1&utm_medium=PDF&utm_campaign=PDFCoverPages">http://commons.pacificu.edu/libfac/1/?utm_source=commons.pacificu.edu%2Flibfac%2F1&utm_medium=PDF&utm_campaign=PDFCoverPages</a></li>
 

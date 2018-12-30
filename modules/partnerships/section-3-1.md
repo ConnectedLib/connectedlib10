@@ -24,12 +24,16 @@ Libraries are centers for informal learning, so other informal learning institut
 </table>
  
 <div class="case_study_box"> 
-  <p class="box-title">CASE STUDY: CHICAGO PUBLIC LIBRARY AND ADLER PLANETARIUM</p> 
+  	<p>Adler Planetarium and Chicago Public Library</p> 
+	<p>Staff at Chicago Public Library worked closely with an outreach and education specialist at Adler Planetarium to develop extensive space-related programming for youth—including summer reading, field trips to the planetarium, and telescopes at the library. Planetarium staff trained CPL staff and teens to use telescopes and evaluated CPL branches to determine which were best situated for stargazing. The planetarium held “Scopes in the City” programs at several library branches.</p>
+	<ul>
+		<li>Learn more: Twiggs, K., Freitag, C., & Nichols, M. (2016). <a href="http://www.ala.org/yalsa/yalsamemonly/webinars/webinars">Partner with a local museum to reach more teens!</a> [YALSA members webinar].</li>
+	</ul> 
 </div>
 
-<div class="explanatory"> 
+<div class="case_study_box"> 
 
-<span class="box-title">ADDITIONAL RESOURCES</span> 
+<p>Additional Resources</p> 
 
 <ul>
   <li>The <a href="http://www.coalitiontoadvancelearning.org/">Coalition to Advance Learning in Archives, Libraries and Museums</a> has resources and advice for connecting informal learning institutions, including <a href="http://www.coalitiontoadvancelearning.org/why-collaborate/best-practices-in-collaboration/">best practices in collaboration</a>.</li>

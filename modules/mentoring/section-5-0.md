@@ -4,18 +4,17 @@ title: 5. Adult and Community Mentors
 module_name: mentoring
 module_full_name: Mentoring
 section: 5. Adult and Community Mentors
-subsection: five-zero
+subsection: five
 ---
 
 This section discusses how to develop and support adult mentors from your community.
 
-## Learning Outcomes For This Section
-
-**After completing Section 5: Adult and Community Mentors, you will be able to...**
-<ul class="fancy">
+<div class="objectives">
+	<p>After completing Section 5: Adult and Community Mentors, you will be able to...</p>
+<ul>
   <li>Develop and support adult mentors from your community</li> 
 </ul>
-<br>
+</div>
 
 Libraries have a longstanding tradition of providing youth with access to adult and community mentors. These experiences can help youth with employment efforts, technology training, and career development (Yohalem & Pittman, 2003). The first step is often identifying a potential community partner. As we mentioned in our section on Designing Mentorship-Focused Programming, youth are often the ones to first approach adults as potential mentors and helping to facilitate that relationship may be a first step.  
 
@@ -31,6 +30,6 @@ A few organizations that can help identify adult mentors and volunteers include:
 - <a href="http://mentoringcentral.net/" target="_blank">Mentoring Central</a>
 - <a href="https://www.millionwomenmentors.org/" target="_blank">Million Women Mentors</a>
 
-For example, INTS-059 used AmeriCorps Vista. Through their mentor coordinator, she gained assistance in identifying volunteers. Specifically, they helped her: 
+For example, an urban western library worked with used AmeriCorps Vista. Through their mentor coordinator, the library gained assistance in identifying volunteers. Specifically, they helped 
 
->“... find people from the community that will come in and either teach something that they're already passionate about, or if they just love being with youth, come over and just listen to the youth and then help them follow their passions.” [INTS-059].
+>“... find people from the community that will come in and either teach something that they're already passionate about, or if they just love being with youth, come over and just listen to the youth and then help them follow their passions.” -- Urban Western Library

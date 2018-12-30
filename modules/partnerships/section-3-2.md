@@ -35,16 +35,14 @@ Private individuals, local businesses, and community groups that are not oriente
 <tr><th>Inexperience with teens</th><td>The individual you’re working with may not have experience working with youth. Your skills in that area can be one of the contributions you make to the partnership. A rural western library worker says of working with a retired electrical engineer on a regular robotics program: “He kind of shies away from managing the kids and trying to keep their focus, but he does have the technical know-how. So, between both of us, we're able to keep the kids somewhat engaged.”</td></tr>
 </table>
 
-<div class="case_study_box"> 
- <p><a href="" class="external">CASE STUDY: LOCAL BUSINESSES</a></p> 
-</div>
-<br>
-<div class="case_study_box"> 
- <p><a href="" class="external">CASE STUDY: ADULT VOLUNTEERS</a></p> 
-</div>
-<br>
 
-<div class="resources"> 
+{% include case_localBusiness.html %}
+
+{% include case_volunteers.html %}
+
+
+
+<div class="case_study_box"> 
 
 <span class="box-title">ADDITIONAL RESOURCES</span> 
 <ul>

@@ -20,11 +20,13 @@ In the early 1960s, Albert Bandura’s (1925 - present) classic Bobo doll experi
 </div>
 <br>
 
-<table> 
+<table class="colorful-th"> 
+  <tr><th colspan="2">Social Learning</th></tr>
   <tr><td><b>Social learning</b> is learning that occurs not from direct experience, but from observing what other people do and the consequences of their actions. </td><td><i>At the robotics club meeting, Dominika noticed that Mateo overcame his struggles after studying Jane’s project. Dominika decides to pay more attention to what the other club members are making and try to pick up some useful insights.</i></td></tr>
+  <tr><th colspan="2">Modeling</th></tr>
   <tr><td><b>Modeling</b> means performing behaviors that those observing you will learn from. </td><td><i>Jacqui, the robotics club leader, wants the club members to learn to solve a new type of programming problem. Instead of giving step-by-step directions for everyone to follow together, she models the technique by “thinking aloud” while using the technique in an example. Mateo, Dominika, Jane, and the others learn how to “think like a programmer” by learning from Jacqui’s modeled behavior.</i></td></tr> 
 </table>
-<br>
+
 
 Young people are not just copying what they see: the act of observation leads them to make deep inferences about the world, learning the consequences of actions and creating mental models of how things work to make predictions (remember Piaget’s schemas?). Social cognitive learning theory also has similarities to sociocultural learning theory. Both emphasize learning through observation and imitation of more skilled individuals. 
 
@@ -54,10 +56,8 @@ Young people are not just copying what they see: the act of observation leads th
   <li>Reward and punishment </li>
   </ol>
 </div>
-<br>
-<br>
 
-**Footnotes:**
+<hr/>
 
 <a name="fn10">10</a>:  -- Bandura, A. (1986). Social foundations of thought and action: A social cognitive theory. Englewood Cliffs, NJ: Prentice-Hall.
 <br>

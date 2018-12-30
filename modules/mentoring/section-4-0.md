@@ -4,18 +4,17 @@ title: 4. Youth as Mentors
 module_name: mentoring
 module_full_name: Mentoring
 section: 4. Youth as Mentors
-subsection: four-zero
+subsection: four
 ---
 
 This section offers guidelines and prompts for designing a mentoring program that suits the needs of your youth community and library.
 
-## Learning Outcomes For This Section
-
-**After completing Section 4: Youth as Mentors, you will be able to...**
-<ul class="fancy">
+<div class="objectives">
+	<p>After completing Section 4: Youth as Mentors, you will be able to...</p>
+<ul>
   <li>Develop and support youth mentors at your library</li> 
 </ul>
-<br>
+</div>
 
 Youth mentors can offer mutual benefits to both the library and to teens, including; acquiring leadership skills and learning from the shared interactions with mentees. Within libraries, teens have helped each other prepare for college entrance exams, complete school projects, and experiment with new technologies (Larson, et al., 2013). Some libraries with limited resources may have to accommodate a wide range of ages in their youth programming, making it difficult to provide a deep learning experience for the older or savvier participants. Teen volunteers who serve as mentors can help address this challenge by providing additional support.   
 

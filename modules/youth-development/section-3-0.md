@@ -4,7 +4,7 @@ title: 3. Teens and Digital Media
 module_name: youth-development
 module_full_name: Youth Development
 section: 3. Teens and Digital Media
-subsection: three-zero
+subsection: three
 ---
 
 In this introduction, you will learn what mentoring is and how it can support connected learning in the library.

@@ -16,8 +16,3 @@ Here are a few ways to test and refine ideas during the iteration phase:
 - Apply any feedback and new research to revise and iterate as part of an ongoing process. Remember: Sometimes creating a new design or service is more about progress than perfection!  
 
 Implementation of the new design or service is the final step after the iteration phase. As you implement your new design or experience, take note of any user behavior and see just how people interact with your design in a real setting. At any point, you may wish to cycle back to different phases in the design process—refining and developing your project or new service over time. It may take several attempts at restructuring your new initiative before it reaches its final form.
-
-
-## SECTION 3 ACTIVITIES 
-
-### 3A. Imagine, ideate, iterate

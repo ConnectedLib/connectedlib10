@@ -9,7 +9,7 @@ subsection: two-three
 
 Once you have collected data, you must somehow transform it into evidence that you can use to answer your assessment questions. Quantitative data can undergo quantitative analysis, and qualitative data can be analyzed either qualitatively or quantitatively.  
 
-#### Qualitative analysis 
+## Qualitative analysis 
 
 Given the variety of methods and goals for assessing a connected learning initiative, not to mention the variation in connected learning programs in general, the exact process you follow to analyze your qualitative data will also vary. However, you will probably be conducting a form of content analysis, which occurs in four main phases.  
 
@@ -30,7 +30,7 @@ Given the variety of methods and goals for assessing a connected learning initia
 
 </div>
 
-#### Quantitative analysis of qualitative data 
+## Quantitative analysis of qualitative data 
 
 It is often useful to use quantitative (number-based) analysis on qualitative data. For instance, you can count the number of teens who mentioned interest in a STEM career during their interviews, or what percentage of participants completed a challenge. Be careful not to misinterpret the numbers. For instance, a very talkative teen who gave a 10-minute interview might mention a STEM career more often than a quieter person who only talked for 3 minutes, but that doesn’t necessarily mean the talkative person is more interested in STEM careers.  
 

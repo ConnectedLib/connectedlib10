@@ -4,19 +4,18 @@ title: 2. Exploring a Design Challenge
 module_name: design-thinking
 module_full_name: Design Thinking
 section: 2. Exploring a Design Challenge
-subsection: two-zero
+subsection: two
 ---
 
 This section provides an introduction to the basic principles of design thinking.
 
-## Learning Outcomes For This Section
-
-**After completing Section 2: Exploring a Design Challenge, you will be able to...**
-<ul class="fancy">
+<div class="objectives">
+<p>After completing Section 2: Exploring a Design Challenge, you will be able to...</p>
+<ul>
   <li>Create a design challenge</li>
   <li>Facilitate a design challenge through a studio experience</li>
 </ul>
-<br>
+</div>
 
 Design thinking techniques and research methods can be used in a variety of ways. As a youth librarian, you can use these techniques to tackle your own challenges, or you might integrate design thinking methods as a framework for youth to help them use the techniques of a designer. You can use the entire design thinking process or elements of it in your work with youth. This section discusses integrating design challenges into your work.  
 
@@ -57,4 +56,3 @@ For instance, you might think about how youth can work together to solve real wo
 <li>Is it related to current events, societal trends that young people care about in a meaningful way?</li>
 </ul> 
 </div>
-<br>

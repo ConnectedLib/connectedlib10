@@ -19,8 +19,7 @@ As you close out a design challenge or studio experience, consider it as a chanc
   - How might we revise or iterate on this challenge in the future?  
   - How might young people display and make the public aware of their work? Think about the use of social and digital platforms available to present and share both the design process and end results of a design experience.  
 
-## SECTION 2 ACTIVITIES 
-
-### 2A. Mapping out a design challenge 
-
-Use this outline to map out a design challenge—either to use with youth or to help you tackle your own design challenge in your library. 
+<div class="reflection">
+	<p>Mapping out a design challenge</p>
+	<p>Use this outline to map out a design challenge—either to use with youth or to help you tackle your own design challenge in your library.</p>
+</div>

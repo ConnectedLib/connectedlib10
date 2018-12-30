@@ -563,7 +563,7 @@ li.sectionhead a {
 But there was no time to do more than jerry-rig an adaptation. */
 
 #overview .agenda-navigation li.overview a, 
-#one li.one a, #one-one .agenda-navigation li.one-one a, #one-two li.one-two a, #one-three li.one-three a, #one-four li.one-four a, #one-five li.one-five a, #one-six li.one-six a, 
+#one li.one a, #one-one .agenda-navigation li.one-one a, #one-two li.one-two a, #one-three li.one-three a, #one-four li.one-four a, #one-five li.one-five a, #one-six li.one-six a, #one-seven li.one-seven a, 
 #two li.two a, #two-one li.two-one a,  #two-two li.two-two a, #two-three li.two-three a, #two-four li.two-four a, #two-five li.two-five a, #two-six li.two-six a,
 #three li.three a, #three-one li.three-one a,  #three-two li.three-two a, #three-three li.three-three a, #three-four li.three-four a, #three-five li.three-five a, #three-six li.three-six a,
 #four li.four a, #four-one li.four-one a,  #four-two li.four-two a, #four-three li.four-three a, #four-four li.four-four a, #four-five li.four-five a, #four-six li.four-six a
@@ -884,7 +884,7 @@ blockquote {
 
 /* can replace box-title entirely I think */
 
-.reflection p:nth-child(1), .tips p:nth-child(1), .case_study_box p:nth-child(1) {
+.reflection p:nth-child(1), .tips p:nth-child(1), .case_study_box p:nth-child(1), .objectives p:nth-child(1), .explanatory p:nth-child(1) {
   font-weight: bold;
   text-transform: lowercase;
   /* font-family:'Comfortaa'; */
@@ -951,11 +951,20 @@ blockquote {
 
 /* tables */
 
-.worksheet, .worksheet td, .worksheet th {
+.worksheet, .worksheet td {
   border:1px solid #000000;
   padding:10px;
   font-family:'Courier New';
   color: #000000;
+  vertical-align:top;
+}
+
+.worksheet th {
+  border:1px solid #000000;
+  padding:10px;
+  font-family:'Courier New';
+  color: #ffffff;
+  background-color: #000000;
   vertical-align:top;
 }
 
@@ -980,7 +989,7 @@ blockquote {
   background-color:#DDDBDB;
 }
 
-.colorful-th, .colorful-th td, .colorful-th th {
+.colorful-th, .colorful-th th {
   padding:10px;
   color: #000000;
   vertical-align:middle;
@@ -988,8 +997,16 @@ blockquote {
   border-collapse: separate;
 }
 
+.colorful-th td {
+  vertical-align:top;
+}
+
 .colorful-th th {
   font-size:125%;
+}
+
+valignTop tr, valignTop td {
+  vertical-align:top !important;
 }
 
 th.th-black {
@@ -1105,7 +1122,7 @@ th.th-black {
 
 
 
-/* collapsible, code from https://alligator.io/css/collapsible/ */
+/* original collapsible, code from https://alligator.io/css/collapsible/ 
 
 .wrap-collabsible {
   margin-bottom: 1.2rem 0;
@@ -1119,24 +1136,24 @@ input[type='checkbox'] {
   display: block;
 
   font-weight: bold;
-  font-family: monospace;
-  font-size: 1.2rem;
+  font-family: monospace; 
+  font-size: 1.2em;
   text-transform: uppercase;
   text-align: center;
 
   padding: 1rem;
 
-  color: #A77B0E;
-  background: #FAE042;
+  color: #000000;
+  background: #A4EBE6;
 
   cursor: pointer;
 
-  border-radius: 7px;
+  border-radius: 10px;
   transition: all 0.25s ease-out;
 }
 
 .lbl-toggle:hover {
-  color: #7C5A0B;
+  color: #333333;
 }
 
 .lbl-toggle::before {
@@ -1164,7 +1181,7 @@ input[type='checkbox'] {
 }
 
 .toggle:checked + .lbl-toggle + .collapsible-content {
-  max-height: 350px;
+  max-height: 1000px;
 }
 
 .toggle:checked + .lbl-toggle {
@@ -1175,6 +1192,81 @@ input[type='checkbox'] {
 .collapsible-content .content-inner {
   background: rgba(250, 224, 66, .2);
   border-bottom: 1px solid rgba(250, 224, 66, .45);
+  border-bottom-left-radius: 7px;
+  border-bottom-right-radius: 7px;
+  padding: .5rem 1rem;
+}
+
+*/
+
+.wrap-collabsible {
+  background-color: #e5e5e5;
+  border-left: solid 10px #3d244e; /* dark purple */
+  border-radius: 10px;
+  margin: 30px 0 35px 0;
+  padding: 40px 60px 40px 60px;
+}
+
+input[type='checkbox'] {
+  display: none;
+}
+
+.lbl-toggle {
+  display: block;
+
+  font-weight: bold; 
+  font-size: 1.2em;
+  text-transform: lowercase;
+  padding: 1rem;
+
+  color: #000000;
+
+  cursor: pointer;
+
+  border-radius: 10px;
+  transition: all 0.25s ease-out;
+}
+
+.lbl-toggle:hover {
+  color: #333333;
+}
+
+.lbl-toggle::before {
+  content: ' ';
+  display: inline-block;
+
+  border-top: 5px solid transparent;
+  border-bottom: 5px solid transparent;
+  border-left: 5px solid currentColor;
+  vertical-align: middle;
+  margin-right: .7rem;
+  transform: translateY(-2px);
+
+  transition: transform .2s ease-out;
+}
+
+.toggle:checked + .lbl-toggle::before {
+  transform: rotate(90deg) translateX(-3px);
+}
+
+.collapsible-content {
+  max-height: 0px;
+  overflow: hidden;
+  transition: max-height .25s ease-in-out;
+}
+
+.toggle:checked + .lbl-toggle + .collapsible-content {
+  max-height: 1000px;
+}
+
+.toggle:checked + .lbl-toggle {
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+}
+
+.collapsible-content .content-inner {
+  /* background: rgba(250, 224, 66, .2);
+  border-bottom: 1px solid rgba(250, 224, 66, .45);*/
   border-bottom-left-radius: 7px;
   border-bottom-right-radius: 7px;
   padding: .5rem 1rem;

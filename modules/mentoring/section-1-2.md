@@ -14,16 +14,20 @@ Where does mentoring fit within Connected Learning? Mentoring within libraries h
 - **Academically oriented**. Mentoring experiences and programs can be designed to support academic success, build career-related skills, or increase community or political engagement. 
 - **Interest Driven**. Mentors support and guide youth to engage in their passions and interests, encouraging them to “geek out” (Ito et al., 2010). 
 
-From the Connected Learning Alliance, check out this video [8:33 min.] from filmmaker Nic Askew. The interview subject is Brother Mike, YouMedia Coordinator and Lead Mentor for the Digital Youth Network. The films asks:  
 
-Might we all have the opportunity to mentor another?
+<div class="case_study_box">
+	<p>Inspiring Mentors and Peers</p>
 
-How powerful is a single moment of validation to a young imagination? 
-
-Might your influence travel further than you might imagine? 
-
+<p>Check out this video from filmmaker Nic Askew. The interview subject is Brother Mike, YouMedia Coordinator and Lead Mentor for the Digital Youth Network. The films asks: </p> 
+<ul>
+	<li>Might we all have the opportunity to mentor another?</li>
+	<li>How powerful is a single moment of validation to a young imagination?</li>
+	<li>Might your influence travel further than you might imagine?</li>
+</ul>
+<p class="videotime">8:33</p><p class="source">Connected Learning Alliance</p>
 <div>
 <iframe src="https://player.vimeo.com/video/43862075?portrait=0" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-<p><a href="https://vimeo.com/43862075">Connected Learning: Inspiring Mentors and Peers</a> from <a href="https://vimeo.com/theclalliance">Connected Learning Alliance</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+
 </div>
+
 

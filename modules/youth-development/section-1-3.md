@@ -20,10 +20,10 @@ Informed by both Piaget and Vygotsky, Seymour Papert (1928-2016, and a founding 
 </div>
 <br>
 
-<table> 
+<table class="colorful-th"> 
+  <tr><th colspan="2">Real-World Learning</th></tr>
   <tr><td>Learning happens through the <b>construction of something within a real-world setting</b>.</td><td>Staff at a small rural Western library created temporary makerspaces by partnering with a local business that provided a 3D printer. Their partners demonstrated designing for the 3D printer and helped participants learn the basics. </td></tr> 
 </table>
-<br>
 
 <div class="explanatory">  
   <p><span class="box-title">WHY CONSTRUCTIONISM? </span></p> 
@@ -32,9 +32,8 @@ Informed by both Piaget and Vygotsky, Seymour Papert (1928-2016, and a founding 
 <br>
 <p>This video is part of the <a href="https://www.udacity.com/course/educational-technology--ud915" target="_blank">Educational Technology course</a> offered by Georgia Tech through Udacity.</p>
 </div>
-<br>
     
-**PUTTING CONSTRUCTIONISM INTO PRACTICE**
+## Putting constructionism into practice
 
 >“It's your job to experiment, it's your job to problem solve, your job to critically think. I'm here to guide you." -- Rural Western Library  
 
@@ -66,10 +65,8 @@ Informed by both Piaget and Vygotsky, Seymour Papert (1928-2016, and a founding 
   <li>Learners taking creative control</li>
   </ol>
 </div>
-<br>
-<br>
 
-**Footnotes:**
+<hr/>
 
 <a name="fn5">5</a>:  --  Sabelli, N. (2008). Constructionism: A New Opportunity for Elementary Science Education. DRL Division of Research on Learning in Formal and Informal Settings. pp. 193–206. 
 <br>

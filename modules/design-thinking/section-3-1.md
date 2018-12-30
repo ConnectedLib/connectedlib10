@@ -11,7 +11,7 @@ subsection: three-one
 
 The imagination phase of the design process centers on understanding the people who may use your new design or experience. By observing and talking to people, you may find inspiration for new initiatives, uncover hidden challenges, or gain more insight into a community. Below are key research methods for exploring unfamiliar communities as well as understanding the people you want to impact.  
 
-### Observation  
+## Observation  
 
 Look around you. What would you or youth like to change or improve about your library or community ? The research method of observation—watching how people behave and interact within spaces and places—can uncover needs of others, capture the context, and guide innovation efforts (d.school steps, 2016).
 
@@ -21,7 +21,7 @@ Look around you. What would you or youth like to change or improve about your li
 </div> 
 <br>
 
-### Interviewing Target Communities and Leveraging Community Partners  
+## Interviewing Target Communities and Leveraging Community Partners  
 
 You can also talk directly with your target community or tap into community partners to understand others’ their lived experiences. While it’s not always possible to conduct a formal interview, you may have performed “informal interviewing”, or asked for information and advice from target communities or community partners.  
 
@@ -32,25 +32,24 @@ Here are few general tips for both formal or informal interviews:
 - **Encourage stories and anecdotes**. Questions for eliciting stories might be: “Tell me about a time when…” or  “What was your experience in integrating this technology?”  
 - **Attempt to interview people in the context and environment in which they live or work**. Write down notes about the surroundings and body language.
 
-<br>
+
 <div class="case_study_box">  
 <p><span class="box-title">INTERVIEWING TARGET COMMUNITIES IN ACTION: LEVERAGING COMMUNITY PARTNERSHIPS</span></p>
 <p>Vanessa, a youth librarian at a suburban, Southern library focuses on involving community stakeholders in the process to understand her community. She says that she brainstorms with teens first and then brings their ideas to other partners for advice. She offers: “....even having the teens talk to other people in the community about, "Hey, what do you see as a need?" And, "Is this a good idea? Do you think from your perspective as a program manager at a Boys and Girls Club that this will be something that teens you know would be interested in?"</p>  
 </div> 
 
 
-### Interviewing Experts  
+## Interviewing Experts  
 
 Interviewing experts is another way for both you and youth to become inspired by the experiences of others. You might think about interviewing someone with deep experience or knowledge in a relevant area of your design challenge. Or perhaps your youth community has a hobby or career interest in a local industry or profession. For example, if teens are interested in a cooking or food project, you could speak with a professional chef (Cooper-Wright, 2015). 
 
-<br>
 <div class="case_study_box">  
-<p><span class="box-title">INTERVIEWING EXPERTS IN ACTION: [Text Wrapping Break]CONFRONTING THE LACK OF DIVERSITY IN LITERATURE</span></p>
+<p><span class="box-title">INTERVIEWING EXPERTS IN ACTION: CONFRONTING THE LACK OF DIVERSITY IN LITERATURE</span></p>
 <p>Teens at a suburban Pacific Northwest library with a large Asian population discovered a distinct issue with what they were reading for the YA book club. They came to youth librarians, wondering: “There's nobody in these books that's like me. Why not?” Given these questions, teens and librarians developed a diversity panel that included authors of books about diversity and a book publisher. During the panel interview with literature professionals they discussed a pressing question: Why there isn't there more diversity in current literature? Throughout the panel, the youth produced all their own questions and learned directly from experts about the challenges of the writing industry.</p>  
 </div> 
 
 
-### Participatory Design 
+## Participatory Design 
 
 Participatory Design (PD), also called co-design, involves the stakeholders, designers, researchers and users of a new technology, product, program, or service in the design process. This approach helps to ensure that the final design meets the needs of its intended audience. Thus, the user of the service would participate in some aspect of the design process, whether it’s helping to brainstorm ideas, critique working design, or create mockups of new design. When working with youth, PD can be a way for youth to take an active role in designing which may lead to the development of a strong sense of accomplishment or even interest in design (Braun, 2003). As such, youth can be seen as “problem-solvers” and “experts” without formal design education and training (Subramaniam, 2016).  
 

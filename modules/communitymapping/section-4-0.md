@@ -4,7 +4,7 @@ title: 4. Now What?
 module_name: communitymapping
 module_full_name: Community Mapping
 section: 4. Now What? 
-subsection: four-zero
+subsection: four
 ---
 
 

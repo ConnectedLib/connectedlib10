@@ -37,8 +37,8 @@ Once you have decided where you’re going, you need to figure out how to get th
 
 -----
 
-<a href="#1A" name="1">[1]</a> Weiss, C. H. (1995). Nothing as practical as good theory: Exploring theory-based evaluation for comprehensive community initiatives for children and families. New Approaches to Evaluating Community Initiatives: Concepts, Methods, and Contexts, 1, 65–92.
+<a href="#1A" name="1">1</a>: _Nothing as practical as good theory: Exploring theory-based evaluation for comprehensive community initiatives for children and families_. By C. H. Weiss, 1995. In New Approaches to Evaluating Community Initiatives: Concepts, Methods, and Contexts, 65–92.
 
-<a href="#2A" name="2">[2]</a> Ann-Murray Brown, 2016. [Differences Between the Theory of Change and the Logic Model](https://www.annmurraybrown.com/single-post/2016/03/20/Theory-of-Change-vsThe-Logic-Model-Never-Be-Confused-Again)
+<a href="#2A" name="2">2</a>: [Differences Between the Theory of Change and the Logic Model](https://www.annmurraybrown.com/single-post/2016/03/20/Theory-of-Change-vsThe-Logic-Model-Never-Be-Confused-Again). By Ann-Murray Brown, 2016. 
 
-<a href="#3A" name="3">[3]</a> Connell, J. P., & Kubisch, A. C. (1998). Applying a theory of change approach to the evaluation of comprehensive community initiatives: progress, prospects, and problems.
+<a href="#3A" name="3">3</a>: Applying a theory of change approach to the evaluation of comprehensive community initiatives: progress, prospects, and problems. By J.P. Connell & A. C. Kubisch (1998). 

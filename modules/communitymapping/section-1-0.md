@@ -19,9 +19,9 @@ In this section we will discuss what community mapping is and why it is importan
 </ul>
 </div>
 
->“You have to look at your local industry, study it carefully, interpret your local demographic, interpret your local workforce, and then try to find a newsworthy, best practice program that is hands-on, self-directed, project-based, and fun, and teens will come in.” -- Urban Western Library
+>“You have to look at your local industry, study it carefully, interpret your local demographic, interpret your local workforce, and then try to find a newsworthy, best practice program that is hands-on, self-directed, project-based, and fun, and teens will come in.”<br/>— Urban Western Library
 
-Community mapping is a systematic approach to getting to know the people, places, and resources that surround your library. It is a way to take stock of “the gifts, skills and capacities of individuals, voluntary associations, institutions, physical assets, local economy assets and stories in the community” (Denver Public Library, 2014).The community mapping process may draw on, among other sources of information, 
+Community mapping is a systematic approach to getting to know the people, places, and resources that surround your library. It is a way to take stock of “the gifts, skills and capacities of individuals, voluntary associations, institutions, physical assets, local economy assets and stories in the community.”<sup><a href="#fn1" name="1">1</a></sup> The community mapping process may draw on, among other sources of information, 
 - Interviews
 - Surveys
 - Focus groups
@@ -35,9 +35,18 @@ Learning more about the people in your community (and not just those that alread
 - Uncover groups that are not being reached by the library
 
 Getting to know the associations, businesses, and other resources in your community can help you
-- Find experts to mentor your teens or help with programs</li>
-- Discover physical resources you can leverage</li>
-- Understand what is available to your community from sources outside the library</li>
+- Find experts to mentor your teens or help with programs
+- Discover physical resources you can leverage
+- Understand what is available to your community from sources outside the library
 - Identify or form relationships that can lead to partnerships
 
 Community mapping focuses on the strengths and assets of a community instead of on weaknesses and gaps, leading to unconventional programs that leverage a community’s unique strengths. This module will walk you through the steps of the mapping process, whether you are planning a large initiative that will take several months, or setting aside an afternoon by yourself.
+
+<div class="reflection">
+<p>Learning Aid: Community mapping KWL</p>
+<p>Complete this worksheet by first describing your experience (if any) with community mapping. Then create a list of what you already know (the K in KWL) about community mapping. In the second column, write down what you want (W) to learn in this module. You’ll fill out the last column, what you learned (L) when you have completed this module. </p>
+<p><a href="docs/CommunityMapping_1A.docx">Download Worksheet (DOCX)</a></p>
+</div>
+<hr/>
+
+<a href="#1" name="fn1">1</a>: Denver Public Library, 2014. 

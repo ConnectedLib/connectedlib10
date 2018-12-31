@@ -11,16 +11,16 @@ Community asset maps take many forms, from simple lists that fit on a single pie
 
 <div class="case_study_box">
   <p class="box-title">EXAMPLES OF COMMUNITY ASSET MAPS</p>
-  <ul>
-  <li>There is an example of a community asset map on page 38 of <a href="https://resources.depaul.edu/abcd-institute/publications/publications-by-topic/Documents/ULCReport.pdf#page=40" target="_blank">The Engaged Library: Chicago Stories of Community Building</a> from the Urban Libraries Council.</li>
-  <li>This map from <a href="http://www.brighterfuturestogether.co.uk/wp-content/uploads/2012/02/assets-diagram-2-large.jpg target="_blank"">Brighter Futures Together</a> depicts assets of individuals alongside those of associations and organizations in the community.</li>
-  <li>The <a href="http://healthpolicy.ucla.edu/programs/health-data/trainings/Documents/tw_cba20.pdf#page=8" target="_blank">UCLA Center for Health Policy Research</a> provides an example where the locations of assets are on a geographic map.</li>
- </ul>
- </div>
+  <table>
+  	<tr><td style="padding:10px;text-align:center;"><a href="https://resources.depaul.edu/abcd-institute/publications/publications-by-topic/Documents/ULCReport.pdf#page=40"><img src="docs/CommunityMapping_1_1_A.png" height="100px"/></a></td><td>There is an example of a community asset map on page 38 of <a href="https://resources.depaul.edu/abcd-institute/publications/publications-by-topic/Documents/ULCReport.pdf#page=40" target="_blank">The Engaged Library: Chicago Stories of Community Building</a> from the Urban Libraries Council.</td></tr>
+  	<tr><td style="padding:10px;text-align:center;"><a href="http://www.brighterfuturestogether.co.uk/wp-content/uploads/2012/02/assets-diagram-2-large.jpg"><img src="docs/CommunityMapping_1_1_B.png" height="100px"/></a></td><td>This map from <a href="http://www.brighterfuturestogether.co.uk/wp-content/uploads/2012/02/assets-diagram-2-large.jpg" target="_blank">Brighter Futures Together</a> depicts assets of individuals alongside those of associations and organizations in the community.</td></tr>
+  	<tr><td style="padding:10px;text-align:center;"><a href="http://healthpolicy.ucla.edu/programs/health-data/trainings/Documents/tw_cba20.pdf#page=8"><img src="docs/CommunityMapping_1_1_C.png" height="100px"/></a></td><td>The <a href="http://healthpolicy.ucla.edu/programs/health-data/trainings/Documents/tw_cba20.pdf#page=8">UCLA Center for Health Policy Research</a> locates assets are on a geographic map.</td></tr>
+</table>
+</div>
 
 Your map can be small and simple or complex and far-reaching. You can choose how detailed you want your map to be based on your needs and your resources. You can also consider it an iterative process—you could start by looking only at businesses within one mile of your library, for instance, with plans to add community organizations later, and then expand to two miles.
 <br>
-<div class="extra">
+<div class="tips">
 <p class="box-title">SCALE UP OR SCALE DOWN</p>
 <p>Since every community is different, the community mapping process will vary from library to library. A large urban library in a big city may go through an extensive process involving focus groups and interviews with dozens of community members and representatives of local organizations, but a busy “everything librarian” in a rural one-room library can benefit from a scaled-down version involving an afternoon with a search engine and some reflection. This module will teach you the principles of community mapping and suggest strategies for scaling the process up or down so you can make a plan that will fit your library, your community, and your resources.</p>
 </div>

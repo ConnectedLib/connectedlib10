@@ -8,18 +8,19 @@ subsection: one-three
 ---
 
 Some of the approaches used for measuring learning in a traditional classroom can be difficult or impossible to apply in connected learning settings. For example, 
-- Without mandatory assessments that are possible in formal learning settings, collecting information about individual learners can be more difficult 
-- While teachers can assess a student throughout a school year, before-and-after or longitudinal assessment of individuals can be virtually impossible—especially with drop-in experiences<sup>[2]<#fn2)</sup> 
+- Without mandatory assessments that are possible in formal learning settings, collecting information about individual learners can be more difficult
+- While teachers can assess a student throughout a school year, before-and-after or longitudinal assessment of individuals can be virtually impossible—especially with drop-in experiences<sup><a href="#fn1" name="1">1</a></sup> 
 - Rigorous experimental designs are difficult because learners’ motivations, prior knowledge, and experiences can vary even more than they do in schools where students are grouped by age 
 - Connected learning encompasses a broader definition of “learning,” and there may not be an existing instrument that can assess the impact of the learning experiences that you are providing to your teens 
 - By definition, connected learning occurs across multiple contexts, not just at the library 
 
-<div class="explanatory">
-  <p><span class="box-title">PROGRAM EVALUATIONS FOR CONNECTED LEARNING</span></p> 
-<p>In this short trailer for his free online Program Evaluations for Connected Learning course, Dr. William Penuel from the University of Colorado at Boulder describes the class as well as some of the challenges and opportunities of evaluating connected learning programs.</p>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/u6rguxNk8kY" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-</div>
-<br>
+<div class="case_study_box">
+  <p class="box-title">Program Evaluations for Connected Learning</p>
+  <p>In this short trailer for his free online <a href="https://dmlcommons.net/2016-course/">Program Evaluations for Connected Learning</a> course, Dr. William Penuel from the University of Colorado at Boulder describes the class as well as some of the challenges and opportunities of evaluating connected learning programs.</p>
+  <p class="videotime">7:52</p> <p class="source"><a href="https://www.youtube.com/channel/UCK3lhPDfexvG10DUROwVVhw" class="external">Connected Learning Alliance</a></p>
+  <div class="video">
+<iframe src="https://www.youtube.com/embed/u6rguxNk8kY" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div>
+  </div>
 
 These challenges are not insurmountable! They’re just unfamiliar—for now. Fortunately, connected learning initiatives also present opportunities to be creative and flexible in the ways you evaluate and assess them. Your approach can be tailored for your library’s unique situation and context. Some of these opportunities include:  
 - You have the ability to conduct assessments that are shorter, more flexible, and on-the-fly 
@@ -32,14 +33,6 @@ These challenges are not insurmountable! They’re just unfamiliar—for now. Fo
 
 By the end of this module, you will feel confident about evaluating and assessing connected learning and connected learning initiatives at your library.  
 
-### Section 1 Activities 
+<hr/>
 
-1A. Evaluation and assessment KWL  
-
-1B. Evaluation project 
-
-
-
-**Footnotes:**
-
-<a name="fn2">2</a>:  -- https://youtu.be/u6rguxNk8kY 4:30
+<a name="fn1" href="#1">1</a>: [Course Teaser: Program Evaluations for Connected Learning](https://youtu.be/u6rguxNk8kY) (4:30). 

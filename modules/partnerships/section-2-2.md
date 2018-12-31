@@ -7,7 +7,7 @@ section: 2. What is a Community Partnership
 subsection: two-two
 ---
 
->“I've been most recently working with the Boys & Girls Club... to try and get more library programming over there for them and to help them sort of build their capacity for doing programming, either with me or without me.” -- Suburban Midwest Library
+>“I've been most recently working with the Boys & Girls Club... to try and get more library programming over there for them and to help them sort of build their capacity for doing programming, either with me or without me.”<br/>— Suburban Midwest Library
 
 The benefits of a partnership to the library are clear, but what about the benefit to the partnering organization or individual? Remember that a partnership supports the goals of both organizations, not just the library. When you approach a potential partner you should present the ways they will benefit as well as what the library and the youth stand to gain.  
 
@@ -47,8 +47,8 @@ The benefits of a partnership to the library are clear, but what about the benef
 </td></tr>
 
 
-<tr><th>Libraries can provide or facilitate service opportunities</th><td>Through teen volunteer programs, libraries can offer opportunities for organizations that require their teens to perform community service, such as high schools or Interact.<sup><a href="#fn2" name="2">2</a></sup> Libraries can also connect youth to volunteer opportunities with other organizations, particularly teens who have learned skills through labs or workshops at the library.  
-Teens aren’t the only ones who need or want to volunteer. Libraries provide opportunities for adults, often retirees, to share their professional skills and knowledge with youth. Librarians interviewed for the ConnectedLib project mentioned individuals in their community who found fulfillment through volunteering to work with youth in areas as diverse as robotics, programming, and knitting.</td></tr>
+<tr><th>Libraries can provide or facilitate service opportunities</th><td><p>Through teen volunteer programs, libraries can offer opportunities for organizations that require their teens to perform community service, such as high schools or Interact.<sup><a href="#fn2" name="2">2</a></sup> Libraries can also connect youth to volunteer opportunities with other organizations, particularly teens who have learned skills through labs or workshops at the library. </p><p>
+Teens aren’t the only ones who need or want to volunteer. Libraries provide opportunities for adults, often retirees, to share their professional skills and knowledge with youth. Librarians interviewed for the ConnectedLib project mentioned individuals in their community who found fulfillment through volunteering to work with youth in areas as diverse as robotics, programming, and knitting.</p></td></tr>
 
  <tr><td colspan="2">
 {% include case_volunteers.html %}
@@ -57,7 +57,7 @@ Teens aren’t the only ones who need or want to volunteer. Libraries provide op
 
 <hr/>
 
-<a name="fn1" href="#1">[1]</a> Eggers, Dave. [My Wish: Once upon a School](https://www.ted.com/talks/dave_eggers_makes_his_ted_prize_wish_once_upon_a_school). TED, 2008.
+<a name="fn1" href="#1">1</a>: [My Wish: Once upon a School](https://www.ted.com/talks/dave_eggers_makes_his_ted_prize_wish_once_upon_a_school). Dave Eggers/TED, 2008.
 
-<a name="fn2" href="#2">[2]</a> Mulder, Natalie. “[Encouraging Community Service in the Public Library](https://www.questia.com/library/journal/1G1-272078177/encouraging-community-service-in-the-public-library).” Young Adult Library Services, 2011. 
+<a name="fn2" href="#2">2</a>: [Encouraging Community Service in the Public Library](https://www.questia.com/library/journal/1G1-272078177/encouraging-community-service-in-the-public-library), by Natlie Mulder. “ Young Adult Library Services, 2011. 
 

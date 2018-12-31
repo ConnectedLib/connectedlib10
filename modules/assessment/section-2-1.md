@@ -11,13 +11,10 @@ When you know the question that needs to be answered, the next step is to decide
 
 <div class="case_study_box">  
 
-<p><span class="box-title">INDICATOR EXAMPLES</span></p> 
+<p>INDICATOR EXAMPLES</p> 
 
-<p style="text-align:center">
-  <i>Participants’ performance on a number of questions at the end of the program</i><br>
-
-  <i>The number of times participants form collaborative groups in a lab session</i>
-
-  <i>Teen’s behaviors and conversations when collaborating?</i></p>  
+<p style="text-align:center">Participants’ performance on a number of questions at the end of the program</p>
+<p style="text-align:center">The number of times participants form collaborative groups in a lab session</p>
+<p style="text-align:center">Teen’s behaviors and conversations when collaborating?</p>
 
 </div> 

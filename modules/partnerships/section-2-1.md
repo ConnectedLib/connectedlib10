@@ -12,7 +12,7 @@ subsection: two-one
 There are many ways that community partnerships can benefit libraries. Partners can broaden the opportunities available to youth and can even increase the youth audience of the library by bringing the library and its services to youth who might not have experienced them otherwise. 
 
 <table class="colorful-th" cellspacing="10px">
-<tr><th width="30%">Partners can expose teens to new careers, opportunities, and interests</th><td>One of the most powerful ways partners can help libraries is by letting teens experience a diverse range of careers, opportunities, and interests. A professional can share expertise and real-world insight beyond what even the most accomplished teen services librarian can provide. Partners can mentor youth or library staff, and can be resources for programming. <br>
+<tr><th width="30%">Partners can expose teens to new careers, opportunities, and interests</th><td>One of the most powerful ways partners can help libraries is by letting teens experience a diverse range of careers, opportunities, and interests. A professional can share expertise and real-world insight beyond what even the most accomplished teen services librarian can provide. Partners can mentor youth or library staff, and can be resources for programming.
  </td></tr>
 
   <tr><td colspan="2">
@@ -57,6 +57,6 @@ There are many ways that community partnerships can benefit libraries. Partners 
 
 <hr/>
 
-<a name="fn1" href="#1">[1]</a> Turner, Ali. [Bring Your Dreams to the Library](http://leonline.com/yals/12n1_fall2013.pdf). Young Adult Library Services, 2013. 
+<a name="fn1" href="#1">1</a>: [Bring Your Dreams to the Library](http://leonline.com/yals/12n1_fall2013.pdf), by Ali Turner. _Young Adult Library Services_, 2013. 
 
-<a name="fn2" href="2">[2]</a> Braun, Linda W., Maureen L. Hartman, Sandra Hughes-Hassell, Kafi Kumasi, and Beth Yoke. “[The Future of Library Services for and with Teens: A Call to Action](http://www.ala.org/yaforum/future-library-services-and-teens-project-report).” Chicago, IL: YALSA, 2014, 16.
+<a href="#2" name="fn2">2</a>: _The Future of Library Services for and with Teens: A Call to Action_, p16. By Linda W. Braun, Maureen L. Hartman, Sandra Hughes-Hassell, Kafi Kumasi, and Beth Yoke. YALSA, 2014. 

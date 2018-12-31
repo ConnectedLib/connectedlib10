@@ -10,7 +10,7 @@ subsection: one
 In this section we will discuss what community mapping is and why it is important to your library. 
 
 <div class="objectives">
-	<p class="box-title">Objectives For This Section</p>
+	<p>After completing this section, you will be able to...</p>
 <ul>
   <li>Describe how an effective community partnership can support connected learning </li>
 </ul>
@@ -44,9 +44,8 @@ In order to prepare youth with the 21st-century skills they need in today’s in
 
 <hr/>
 
-<a href="#1" name="fn1">[1]</a> Braun, Linda W., Maureen L. Hartman, Sandra Hughes-Hassell, Kafi Kumasi, and Beth Yoke. “The Future of Library Services for and with Teens: A Call to Action.” Chicago, IL: YALSA, 2014, 8. 
+<a href="#1" name="fn1">1</a>: _The Future of Library Services for and with Teens: A Call to Action_, p8. By Linda W. Braun, Maureen L. Hartman, Sandra Hughes-Hassell, Kafi Kumasi, and Beth Yoke. YALSA, 2014. 
 
-<a name="fn2" href="#2">[2]</a> Hoffman, Kelly M., Mega Subramaniam, Saba Kawas, Ligaya Scaff, and Katie Davis. “Connected Libraries: Surveying the Current Landscape and Charting the Path to the Future.” College Park, MD: University of Maryland, College Park, and Seattle, WA: University of Washington, 2016. http://connectedlib.ischool.uw.edu/connected-learning-in-libraries.
+<a name="fn2" href="#2">2</a>: [_Connected Libraries: Surveying the Current Landscape and Charting the Path to the Future_ ](http://connectedlib.ischool.uw.edu/connected-learning-in-libraries) By Kelly M. Hoffman, Mega Subramaniam, Saba Kawas, Ligaya Scaff, and Katie Davis. University of Maryland, College Park/University of Washington, 2016.
 
-
-<a name="fn3" href="#3">[3]</a> Ching, Dixie, Rafi Santo, Chris Hoadley, and Kylie Peppler. “On-Ramps, Lane Changes, Detours and Destinations: Building Connected Learning Pathways in Hive NYC through Brokering Future Learning Opportunities.” Hive Research Lab, 2015. https://hiveresearchlab.org/2015/04/13/on-ramps-lane-changes-detours-and-destinations-new-community-developed-white-paper-on-supporting-pathways-through-brokering/.
+<a name="fn3" href="#3">3</a>: [_On-Ramps, Lane Changes, Detours and Destinations: Building Connected Learning Pathways in Hive NYC through Brokering Future Learning Opportunities_](https://hiveresearchlab.org/2015/04/13/on-ramps-lane-changes-detours-and-destinations-new-community-developed-white-paper-on-supporting-pathways-through-brokering/). By Dixie Ching, Rafi Santo, Chris Hoadley, and Kylie Peppler. Hive Research Lab, 2015.

@@ -10,7 +10,7 @@ subsection: two
 In this section, you will learn what mentoring is and how it can support connected learning in the library.
 
 <div class="objectives">
-	<p>After completing Section 2: Assessment, you will be able to...</p>
+	<p>After completing this section, you will be able to...</p>
 <ul>
   <li>Determine an assessment question</li>
   <li>Decide what to measure that will answer your question</li>
@@ -20,9 +20,7 @@ In this section, you will learn what mentoring is and how it can support connect
 </ul>
 </div>
 
->"We've had a wall where customers can put up Post-It notes on certain topics, like, ‘What was your favorite book? What do you love about the library?’ So it's kind of like an informal kind of subjective opinion gathering rather than a formal assessment." -- Southern Suburban Library
-
- 
+>"We've had a wall where customers can put up Post-It notes on certain topics, like, ‘What was your favorite book? What do you love about the library?’ So it's kind of like an informal kind of subjective opinion gathering rather than a formal assessment."<br/>— Southern Suburban Library
 
 An assessment is a way to answer a single question at one point in time. Assessment can be a quick and easy process if you have a simple question, or it can be more extensive if you need to assess something large or complicated. Multiple assessments can be conducted to answer questions that involve comparisons, such as before-and-after questions, or to provide multiple perspectives. Assessments focus on the state or extent of something, such as what or how much individuals are learning, without digging deeper into value-based judgments like are participants learning enough? or how can we make this partnership more productive?<sup><a href="#fn1" name="1">1</a></sup> 
 
@@ -36,4 +34,4 @@ An assessment is a way to answer a single question at one point in time. Assessm
 
 <hr/>
 
-<a name="fn1" href="1">[1]</a> Surrounded by Science: Learning Science in Informal Environments. (2010). Washington, D.C.: National Academies Press. https://doi.org/10.17226/12614 p 111
+<a name="fn1" href="1">1</a>: Surrounded by Science: Learning Science in Informal Environments. (2010). Washington, D.C.: National Academies Press. https://doi.org/10.17226/12614 p 111.

@@ -10,7 +10,7 @@ subsection: three
 In this section, you will learn what mentoring is and how it can support connected learning in the library.
 
 <div class="objectives">
-<p>After completing Section 3: Evaluation, you will be able to...</p>
+<p>After completing this section, you will be able to...</p>
 <ul>
   <li>Identify the stakeholders for your evaluation</li>
   <li>Develop evaluation questions</li>
@@ -19,7 +19,7 @@ In this section, you will learn what mentoring is and how it can support connect
 </ul>
 </div>
 
->"Evaluation is about judging the value of an initiative.” -- Dr. William Penuel (University of Colorado at Boulder)<sup><a href="#fn1" name="1">1</a></sup> 
+>"Evaluation is about judging the value of an initiative.”<br/>— Dr. William Penuel (University of Colorado at Boulder)<sup><a href="#fn1" name="1">1</a></sup> 
 
 Much of the time, your information needs can be met with one or two assessments. Other times, you have a bigger, deeper question that an assessment can address. In these cases, you can perform an evaluation. An evaluation makes a judgment about something, such as the value, quality, or efficacy of a program, partnership, or other activity, to provide information that will help with a decision about some future action.<sup><a href="#fn2" name="2">2</a></sup> It begins with questions, finds answers, and ends with conclusions or recommendations. The questions you have will help determine the type of evaluation you choose and how you use it. As you design your evaluation, think about the following factors: 
 
@@ -27,17 +27,17 @@ Much of the time, your information needs can be met with one or two assessments.
 - *Who* are you doing it for?  
 - *How* do you want the findings to be used? 
 
-<div class="case_study_box">  
+<div class="tips">  
 
-<p><span class="box-title">UTILIZATION-FOCUSED EVALUATION</span></p> 
+<p>UTILIZATION-FOCUSED EVALUATION</p> 
 
-<p style="text-align:center">
+<p>
   The utilization-focused approach to evaluation maintains that an evaluation is only as good as it is useful. Design your evaluation in a way that will maximize its usefulness to its intended audience—whether that is your manager, a partner, or yourself. Learn more at <a href="http://www.betterevaluation.org/en/plan/approach/utilization_focused_evaluation" target="_blank">BetterEvaluation.org.</a></p>  
 
 </div> 
 
 <hr/>
 
-<a name="fn1">1</a> https://www.youtube.com/watch?v=WXbkeFIEN8Y&feature=youtu.be 5:15
-<br>
-<a name="fn2">25</a> Surrounded by Science: Learning Science in Informal Environments. (2010). Washington, D.C.: National Academies Press. https://doi.org/10.17226/12614 p 111
+<a name="fn1">1</a>: [Introduction to Program Evaluations for Connected Learning](Introduction to Program Evaluations for Connected Learning), 5:15. 
+
+<a name="fn2">2</a>: Surrounded by Science: Learning Science in Informal Environments. (2010). Washington, D.C.: National Academies Press. https://doi.org/10.17226/12614 p 111

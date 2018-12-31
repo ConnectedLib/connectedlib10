@@ -8,7 +8,7 @@ subsection: three-one
 ---
 
 
->“It's very important to the art museum that they attract more local families and teens, so they have actually sent their education department to our different branches to do programs with families and then they have paid for the transportation... to take those families from the individual branches to the art museum for a field trip.” -- Urban Midwest Library
+>“It's very important to the art museum that they attract more local families and teens, so they have actually sent their education department to our different branches to do programs with families and then they have paid for the transportation... to take those families from the individual branches to the art museum for a field trip.”<br/>— Urban Midwest Library
 
 Libraries are centers for informal learning, so other informal learning institutions—museums, science centers, archives, botanical gardens, and more—make natural partners. These organizations  often share a library’s mission to empower the public through knowledge and learning. 
 
@@ -33,7 +33,7 @@ Libraries are centers for informal learning, so other informal learning institut
 
 <div class="case_study_box"> 
 
-<p>Additional Resources</p> 
+<p>More resources for partnering with informal learning institutions</p> 
 
 <ul>
   <li>The <a href="http://www.coalitiontoadvancelearning.org/">Coalition to Advance Learning in Archives, Libraries and Museums</a> has resources and advice for connecting informal learning institutions, including <a href="http://www.coalitiontoadvancelearning.org/why-collaborate/best-practices-in-collaboration/">best practices in collaboration</a>.</li>
@@ -47,8 +47,8 @@ Libraries are centers for informal learning, so other informal learning institut
 
 <hr/>
 
-<a name="fn1" href="#1">[1]</a> Educopia Institute. Spanning Our Field Boundaries: Mindfully Managing LAM Collaborations. Atlanta, GA: Educopia Institute, 2015. https://educopia.org/publications/spanning-our-field-boundaries-mindfully-managing-lam-collaborations
+<a name="fn1" href="#1">1</a>: [Spanning Our Field Boundaries: Mindfully Managing LAM Collaborations](https://educopia.org/publications/spanning-our-field-boundaries-mindfully-managing-lam-collaborations). Educopia Institute, 2015. 
 
-<a name="fn2" href="#2">[2]</a> Twiggs, Korie, Christina Freitag, and Michelle Nichols. Partner with a Local Museum to Reach More Teens! Adobe Connect recording. YeLL! YALSA e-Learning Library. Chicago, IL: YALSA, 2016. http://www.ala.org/yalsa/yalsamemonly/webinars/webinars. (Requires YALSA membership.)
+<a name="fn2" href="#2">2</a>: [Partner with a Local Museum to Reach More Teens!](http://www.ala.org/yalsa/yalsamemonly/webinars/webinars) (Requires YALSA membership.) By Korie Twiggs, Christina Freitag, and Michelle Nichols. YALSA, 2016.
 
-<a name="fn3" href="#3">[3]</a> Hill, Chrystie, Merrilee Proffitt, and Sharon Streams, eds. IMLS Focus: Learning in Libraries. Kansas City, MO: Institute of Museum and Library Services, 2015, 11. http://www.imls.gov/assets/1/AssetManager/IMLS_Focus_Learning_in_Libraries_Final_Report.pdf.
+<a name="fn3" href="#3">3</a>: [IMLS Focus: Learning in Libraries](http://www.imls.gov/assets/1/AssetManager/IMLS_Focus_Learning_in_Libraries_Final_Report.pdf.), p11. By Chrystie Hill, Merrilee Proffitt, and Sharon Streams, eds. IMLS Focus: Learning in Libraries. Institute of Museum and Library Services, 2015. 

@@ -17,14 +17,12 @@ In this module, **Connected Learning Programming**, you will learn how connected
 
 
 <div class="objectives">
-	<span class="box-title">Learning Objectives for This Module</span>
+	<p>After completing this module, you will be able to...</p>
 <ul>
-	<li>Explain how connected learning can help you create a 21st century library (<a href="section-1.html">Section 1: Introduction</a>).</li>
-	<li>Describe the process of creating a connected learning library program (<a href="section-2.html">Section 2: Program Design</a>).</li>
-	<li>Understand the diversity of connected learning program elements (<a href="section-3.html">Section 3: A Connected Learning Playbook</a>.)</li>
+	<li>Explain how connected learning can help you create a 21st century library (<a href="section-1.html">Section 1: Introduction</a>)</li>
+	<li>Describe the process of creating a connected learning library program (<a href="section-2.html">Section 2: Program Design</a>)</li>
+	<li>Understand the diversity of connected learning program elements (<a href="section-3.html">Section 3: A Connected Learning Playbook</a>)</li>
 </ul></div>
-
-Section 1 discusses the 21st century library and how connected learning fits in with one. Section 2 provides a high-level look at the process of developing a program, and Section 3 describes the variety of elements that can make up connected learning programs.
 
 <div class="reflection">
 	<p><span class="box-title">Learning aid: Programming KWL</span></p>

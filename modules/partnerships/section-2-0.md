@@ -11,7 +11,7 @@ In this section, you’ll learn how community partnerships can benefit the libra
 
 <div class="objectives">
 
-<p class="box-title">Objectives for this Section</p>
+<p>After completing this section, you will be able to...</p>
 
 <ul>
   <li>Describe the ways that partnerships can benefit libraries</li>

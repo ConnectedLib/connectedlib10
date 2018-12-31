@@ -21,19 +21,14 @@ Given the variety of methods and goals for assessing a connected learning initia
  
 <div class="explanatory">  
 
-  <p><span class="box-title">QUANTITATIVE ANALYSIS</span></p> 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2kVnsbGdanI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<p>In this 50-minute webinar, Wendi Ackerman from Upstate Health Service Library in provides a detailed overview of quantitative analysis in libraries.</p> 
+  <p>QUANTITATIVE ANALYSIS</p> 
+  <p>In this 50-minute webinar, Wendi Ackerman from Upstate Health Service Library in New York provides a detailed overview of quantitative analysis in libraries.</p> 
 
-  </div>
-<div>
-
-</div>
+  <p class="videotime">50:14</p> <p class="source">Empire State Library Network</p>
+  <div class="video">
+<iframe src="https://www.youtube.com/embed/2kVnsbGdanI" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div>
+ </div>
 
 ## Quantitative analysis of qualitative data 
 
 It is often useful to use quantitative (number-based) analysis on qualitative data. For instance, you can count the number of teens who mentioned interest in a STEM career during their interviews, or what percentage of participants completed a challenge. Be careful not to misinterpret the numbers. For instance, a very talkative teen who gave a 10-minute interview might mention a STEM career more often than a quieter person who only talked for 3 minutes, but that doesn’t necessarily mean the talkative person is more interested in STEM careers.  
-
-
-
-

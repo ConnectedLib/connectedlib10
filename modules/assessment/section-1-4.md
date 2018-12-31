@@ -7,6 +7,8 @@ section: 1. Introduction
 subsection: one-four
 ---
 
+## General Assessment and Evaluation Resources
+
 <ul>
   <li>The <a href="http://ctb.ku.edu/en/table-of-contents" target="_blank">Community Toolbox</a> provides a detailed <a href="http://ctb.ku.edu/en/table-of-contents/evaluate/evaluation" target="_blank">Introduction to Evaluation</a> from a community development perspective.</li>
 
@@ -15,9 +17,10 @@ subsection: one-four
   <li><a href="http://www.betterevaluation.org/" target="_blank">BetterEvaluation</a> is an extensive collection of information for every stage and aspect of evaluation.</li>
 
   <li>IMLS (2015) has collected a list of <a href="https://www.imls.gov/research-evaluation/evaluation-resources" target="_blank">Evaluation Resources</a> from a variety of sources.</li>
+</ul>
 
-<br><b>Evaluating and Assessing Informal Learning</b>
-
+## Assessing and Evaluating in Informal Learning Contexts
+<ul>
   <li>See Chapter 6 of <a href="http://www.nap.edu/catalog/12614" target="_blank">Surrounded by Science</a> (Marilyn Fenichel & Heidi A. Schweingruber, 2010) for a discussion of “Assessing Learning Outcomes.”</li>
 
   <li>The <a href="http://www.informalscience.org/evaluation/pi-guide" target="_blank">Principal Investigator’s Guide: Managing Evaluation in Informal STEM Education Projects</a> (CAISE, 2011) was written for NSF-funded projects, but it contains extensive advice and examples that are useful for any informal learning context.</li> 

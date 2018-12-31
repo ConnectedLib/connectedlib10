@@ -9,7 +9,6 @@ subsection: two-one
 
 The asset-based community development (ABCD) model of community development,  developed by John Kretzmann and John McKnight, focuses on the strengths of a community, rather than its weaknesses, as is often typical in community development efforts. ABCD identifies five types of assets: individuals, associations (groups of individuals), institutions (formal and professional groups of people like government agencies), physical resources (like land or money), and — most importantly — connections (relationships between assets).  
 
-<br>
 <div class="explanatory">
 	<p>Cormac Russell on community strengths</p>
 
@@ -20,8 +19,8 @@ The asset-based community development (ABCD) model of community development,  de
 </div>
 
 <div class="explanatory">
-  <p><span class="box-title">GUIDING PRINCIBLES OF ABCD</span></p>
-<p><a href="http://www.nurturedevelopment.org/wp-content/uploads/2016/01/Asset-Mapping-CCAMP_System_Handbook.pdf" target="_blank">Ryan & Bourke (2008, p114)</a> set forth the following guiding principles for an asset-based community development effort.</p>
+  <p>GUIDING PRINCIBLES OF ABCD</p>
+<p>In the <a href="http://www.nurturedevelopment.org/wp-content/uploads/2016/01/Asset-Mapping-CCAMP_System_Handbook.pdf" target="_blank">CCAMP System Handbook</a> Ryan and Bourke set forth the following guiding principles for an asset-based community development effort:</p>
 <ol>
 <li>Begin with the end in mind.</li>
 <li>Build relationships.</li>
@@ -36,11 +35,11 @@ The asset-based community development (ABCD) model of community development,  de
 </ol>
 <p>For more about each principle, see pages 114-115 of the <a href="http://www.nurturedevelopment.org/wp-content/uploads/2016/01/Asset-Mapping-CCAMP_System_Handbook.pdf" target="_blank">CCAMP System Handbook</a>.</p>
   </div>
-<br>
-<div class="explanatory">
-  <p><span class="box-title">STONE SOUP</span></p>
 
-  <p>Ryan and Bourke (2008, p143) compare community assets to the ingredients of a “stone soup.” In isolation, an individual or organization might not think their “gifts” amount to much. But in combination, an entire community working together can produce something greater than the sum of its parts.</p>
+<div class="explanatory">
+  <p>STONE SOUP</p>
+
+  <p>Ryan and Bourke compare community assets to the ingredients of a “stone soup.” In isolation, an individual or organization might not think their “gifts” amount to much. But in combination, an entire community working together can produce something greater than the sum of its parts.</p>
   <p class="videotime">7:09</p><p class="source">iStorytime</p>
 
   <div class="video">

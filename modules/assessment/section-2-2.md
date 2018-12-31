@@ -9,22 +9,23 @@ subsection: two-two
 
 You need to collect data on your measure (or measures) in order to answer your question. Data collection can be resource-intensive, so choose your data sources and collection strategy wisely. Ask the following questions (adapted from page 53 of the <a href="https://projectoutcome.org/surveys-resources/informed-consent-guidelines" target="_blank">Principal Investigator’s Guide</a>) to guide you through the process:  
 
-1. **What kind of information do you need?** Do you need to know about opinions or attitudes? Knowledge levels? Details about implementation?  
-2. **What is the best method to obtain that information?** You have many choices for data collection—surveys, focus groups, interviews, and more.  
-3. **What is the best strategy for collecting that information via that method for this project?** From whom do you need to collect information? Where is the best place to reach them via the method(s) you’ve chosen? When should this happen? If there is a facilitator, whom should that be?  
+
+- **What kind of information do you need?** Do you need to know about opinions or attitudes? Knowledge levels? Details about implementation?  
+- **What is the best method to obtain that information?** You have many choices for data collection—surveys, focus groups, interviews, and more.  
+- **What is the best strategy for collecting that information via that method for this project?** From whom do you need to collect information? Where is the best place to reach them via the method(s) you’ve chosen? When should this happen? If there is a facilitator, whom should that be?  
 
 <br>
 <div class="case_study_box">  
 <p>DATA COLLECTION EXAMPLES</p> 
-<p>How many questions participants get right in a Jeopardy! game at the end of the program</p>
-<p>A staff member uses an observation form to record the number of times participants form collaborative groups</p>
-<p>A staff member writes field notes based on the interactions they observe</p>
+<p style="text-align:center;">How many questions participants get right in a Jeopardy! game at the end of the program</p>
+<p style="text-align:center;">A staff member uses an observation form to record the number of times participants form collaborative groups</p>
+<p style="text-align:center;">A staff member writes field notes based on the interactions they observe</p>
 
 </div>
 
 ## Quantitative or qualitative 
 
-To put it simply, quantitative data means numbers, and qualitative data means anything else—usually text or spoken words, but could also include things like images, sounds, or behaviors. Traditional library assessments tend to be quantitative in nature, like the number of items borrowed or the number of program participants. Collecting qualitative data by listening to or observing people can better capture individual experiences, thoughts, and attitudes. Your assessment may include both—a survey can have both quantitative and qualitative questions, and an observation protocol may involve both counting the number of times something happens and listening to someone’s comments. You can also quantitatively analyze qualitative data (see the section on [analyzing data]({{site.url}}{{site.baseurl}}/assessment/section-2-3.html)).  
+To put it simply, quantitative data means numbers, and qualitative data means anything else—usually text or spoken words, but could also include things like images, sounds, or behaviors. Traditional library assessments tend to be quantitative in nature, like the number of items borrowed or the number of program participants. Collecting qualitative data by listening to or observing people can better capture individual experiences, thoughts, and attitudes. Your assessment may include both—a survey can have both quantitative and qualitative questions, and an observation protocol may involve both counting the number of times something happens and listening to someone’s comments. You can also quantitatively analyze qualitative data (see the section on [analyzing data](section-2-3.html)).  
 
 ## Data collection instruments 
 

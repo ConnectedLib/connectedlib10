@@ -24,7 +24,7 @@ Partners can have varying levels of engagement and commitment, from simply netwo
 
 <tr>
 	<td colspan="2">
-		<blockquote>“It's a group of people… consisting of local museums and nonprofits that work with teens in an afterschool setting. So we also work with them, we help get word out about their programs, they help us get word out about our programs to their teens. And right now we're working together to offer a spring break event at the library.” -- Southern Suburban Library</blockquote>
+		<blockquote>“It's a group of people… consisting of local museums and nonprofits that work with teens in an afterschool setting. So we also work with them, we help get word out about their programs, they help us get word out about our programs to their teens. And right now we're working together to offer a spring break event at the library.”<br/>— Southern Suburban Library</blockquote>
 	</td>
 </tr>
 
@@ -33,7 +33,7 @@ Partners can have varying levels of engagement and commitment, from simply netwo
 <tr><th>Collective impact</th><td>When disparate organizations unite to work on a particular community issue together, they are moving toward collective impact. The <b>collective impact</b> approach is characterized by a common goal, shared measurement of progress, mutually reinforcing activities, continuous communication, and a formalized support infrastructure.<sup><a href="#fn4" name="4">4</a></sup> The Strive Partnership in the Cincinnati area is an example of a successful collective impact program that brought together government officials, colleges and universities, private foundations, and many others to improve the educational system.<sup><a href="#fn15" name="5">5</a></sup></td></tr>
 </table>
 
-Different characteristics of the partnership may also vary from less to more intense along a spectrum.<sup><a href="#fn6" name="6">6</a></sup> For instance, the structure of your relationship may be informal and undefined, or highly structured with well-defined roles. Communication can be once-in-a-while or frequent, decision-making can be one-sided or completely equal, and each partner’s commitment can be high or low. Of course, any given partnership effort can fall somewhere in the middle of those extremes as well. There is no single “correct” configuration—the right combination will depend on you, your partner, your resources, and your goals. 
+Different characteristics of the partnership may also vary from less to more intense along a spectrum.<sup><a href="#fn1">1</a></sup> For instance, the structure of your relationship may be informal and undefined, or highly structured with well-defined roles. Communication can be once-in-a-while or frequent, decision-making can be one-sided or completely equal, and each partner’s commitment can be high or low. Of course, any given partnership effort can fall somewhere in the middle of those extremes as well. There is no single “correct” configuration—the right combination will depend on you, your partner, your resources, and your goals. 
 
 <div class="tips"> 
 
@@ -53,22 +53,20 @@ Different characteristics of the partnership may also vary from less to more int
 	<p class="box-title">Activity: Your Library's Partners</p>
 <p>What community organizations, businesses, groups, or people does your youth services department partner with already? Who has partnered with your department in the past? List the partnerships on the worksheet provided, indicating the level of partnership for each. Then provide a short description of each partnership, making sure to include (1) what the library contributed to the partnership and (2) what the partner contributed.</p>
 
-<p>Insert link to worksheet</p>
+<p><a href="docs/Partnerships_2A.docx">Download Worksheet (DOCX)</a></p>
 </div>
 
 
 
 <hr/>
 
-<a name="fn1" href="#1">[1]</a> McCarthy, Catherine, and Brad Herring. “[Museum & Community Partnerships: Collaboration Guide for Museums Working with Community Youth-Serving Organizations](http://www.nisenet.org/sites/default/files/NISE%20Network%20Collaboration%20Guide%2011-20-2015%20FINAL.pdf).” NISE Network, 2015. .
+<a name="fn1" href="#1">1</a>: [_Museum & Community Partnerships: Collaboration Guide for Museums Working with Community Youth-Serving Organizations_](http://www.nisenet.org/sites/default/files/NISE%20Network%20Collaboration%20Guide%2011-20-2015%20FINAL.pdf). By Catherine McCarthy and Brad Herring. NISE Network, 2015.
 
-<a name="fn2" href="#2">[2]</a> Braun, Linda W., Maureen L. Hartman, Sandra Hughes-Hassell, Kafi Kumasi, and Beth Yoke. “[The Future of Library Services for and with Teens: A Call to Action](http://www.ala.org/yaforum/future-library-services-and-teens-project-report).” Chicago, IL: YALSA, 2014, 13.
+<a href="#2" name="fn2">2</a>: _The Future of Library Services for and with Teens: A Call to Action_, p13. By Linda W. Braun, Maureen L. Hartman, Sandra Hughes-Hassell, Kafi Kumasi, and Beth Yoke. YALSA, 2014. 
 
-<a name="fn3" href="#3">[3]</a>: Strock, Adrienne L. “Reaching beyond Library Walls: Strengthening Services and Opportunities through Partnerships and Collaborations.” Young Adult Library Services, 2014. https://www.questia.com/library/journal/1G1-389260588/reaching-beyond-library-walls-strengthening-services.
+<a name="fn3" href="#3">3</a>: “[Reaching beyond Library Walls: Strengthening Services and Opportunities through Partnerships and Collaborations](https://www.questia.com/library/journal/1G1-389260588/reaching-beyond-library-walls-strengthening-services).” By Adrienne L. Strock. Young Adult Library Services, 2014.
 
-<a name="fn4" href="#4">[4]</a>: Kania, John, and Mark Kramer. “Collective Impact.” Stanford Social Innovation Review 2011, Winter (2011): 36–41. 
+<a name="fn4" href="#4">4</a>: “Collective Impact.” By John Kania and Mark Kramer. Stanford Social Innovation Review 2011, Winter (2011): 36–41. 
 
-<a name="fn5" href="#5">[5]</a> KnowledgeWorks Foundation. “[Strive Partnership](http://www.strivepartnership.org/).” Strive Partnership, 2017.
-
-<a name="fn6" href="#6">[6]</a> McCarthy, Catherine, and Brad Herring. “[Museum & Community Partnerships: Collaboration Guide for Museums Working with Community Youth-Serving Organizations](http://www.nisenet.org/sites/default/files/NISE%20Network%20Collaboration%20Guide%2011-20-2015%20FINAL.pdf).” NISE Network, 2015.
+<a name="fn5" href="#5">5</a>: [Strive Partnership](http://www.strivepartnership.org/).
 

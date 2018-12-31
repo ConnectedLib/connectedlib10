@@ -145,8 +145,9 @@ b, strong {
 }
 
 a {
-  color: #3897c1;
+  color: #0E5D57;
   text-decoration: none;
+  font-weight:bold;
 }
 
 a:hover {
@@ -272,6 +273,7 @@ figure img {
   color: white;
   padding: 14px 16px;
   text-decoration: underline;
+  fong-weight:normal;
 }
 
 .clnavbar .navlink {
@@ -318,6 +320,7 @@ figure img {
   padding: 14px 16px;
   text-decoration: none;
   font-size: 17px;
+  font-weight:normal;
 }
 
 .active {
@@ -382,6 +385,7 @@ aside p a {
 
   color: #3d244e; /* dark purple from Milly's scheme */
   padding-left: 10px;
+  font-weight:normal;
 
 }
 
@@ -523,6 +527,7 @@ ul.agenda {
   text-decoration: none;
   color: rgb(51, 51, 51);
   transition: background .1s ease-out;
+  font-weight:normal;
 }
 
 /* .agenda-navigation li.selected a {
@@ -571,6 +576,7 @@ But there was no time to do more than jerry-rig an adaptation. */
   /* background: #743e94;  medium purple from Milly's scheme 
   color: #fff #important; */
   background-color: #ffa32f; /* ConnectedLib yellow */
+  font-weight:bold;
 }
 
 /* .agenda-navigation li.selected a {

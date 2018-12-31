@@ -7,7 +7,7 @@ section: 1. What is Connected Learning?
 subsection: one-one
 ---
 
-> “Connected learning is realized when a young person is able to pursue a personal interest or passion with the support of friends and caring adults, and is in turn able to link this learning and interest to academic achievement, career success or civic engagement.” <sup>[1](#fn1)</sup>
+> “Connected learning is realized when a young person is able to pursue a personal interest or passion with the support of friends and caring adults, and is in turn able to link this learning and interest to academic achievement, career success or civic engagement.”<br/>-- Mimi Ito et al.<sup><a href="#fn1" name="1">1</a></sup>
 
 Connected learning is an educational framework—an approach to creating learning experiences. Connected learning is driven by learners’ interests, supported by their relationships, and oriented towards academic, economic, or civic opportunity. 
 
@@ -22,7 +22,7 @@ At the heart of connected learning is an “equity agenda” to help close the c
 
 ## What does connected learning connect?
 
-Teens’ learning occurs primarily in three different contexts, or spheres: their relationships, their unique personal interests, and their academic, work, or community settings.<sup>[1](#fn1)</sup> When the spheres are connected, teens’ quality of learning and engagement with learning increases. 
+Teens’ learning occurs primarily in three different contexts, or spheres: their relationships, their unique personal interests, and their academic, work, or community settings.<sup><a href="#fn1">1</a></sup> When the spheres are connected, teens’ quality of learning and engagement with learning increases. 
 
 - **Relationships**: Teens learning with and from other teens as well as adults
 - **Interests**: Aligned with teens’ goals and motivations
@@ -33,8 +33,8 @@ Learning that engages all of these spheres is no longer learning teens have to d
 <div class="explanatory">
   <p><span class="box-title">History of Connected Learning</span></p>
 <p>In the first decade of the 21st century, many organizations, projects, and researchers contributed to the movement towards more social, participatory, and interest-driven learning that led to connected learning—the MacArthur Foundation, the Digital Youth Network, the DML Research Hub, Howard Gardner, Henry Jenkins, Katie Salen, Bill Penuel, Nichole Pinkard, Joseph Kahne, and more. The framework itself was developed in the early 2010s by Mimi Ito and her colleagues after extensively researching and working with teens. Connected learning is now at the center of a vibrant community of researchers and practitioners centered around the Connected Learning Alliance. 
-For more about the history of connected learning, see Connected Libraries: Surveying the Current Landscape and Charting the Path to the Future (2016).</p>
+For more about the history of connected learning, see <a href="https://connectedlib.ischool.uw.edu/connected-learning-in-libraries" target="_blank" title="Connected Libraries">Connected Libraries: Surveying the Current Landscape and Charting the Path to the Future</a>.</p>
   </div>
 
-<hr class="cl"/>
-<a name="fn1">1</a>: Ito, Mizuko, Kris Gutiérrez, Sonia Livingstone, Bill Penuel, Jean Rhodes, Katie Salen, Juliet Schor, Julian Sefton-Green, and S. Craig Watkins. [Connected Learning: An Agenda for Research and Design](https://dmlhub.net/publications/connected-learning-agenda-for-research-and-design/).
+<hr/>
+<a name="fn1" href="#1">1</a>: [Connected Learning: An Agenda for Research and Design](https://dmlhub.net/publications/connected-learning-agenda-for-research-and-design/), by Mizuko Ito, Kris Gutiérrez, Sonia Livingstone, Bill Penuel, Jean Rhodes, Katie Salen, Juliet Schor, Julian Sefton-Green, and S. Craig Watkins.

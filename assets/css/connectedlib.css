@@ -571,7 +571,9 @@ But there was no time to do more than jerry-rig an adaptation. */
 #one li.one a, #one-one .agenda-navigation li.one-one a, #one-two li.one-two a, #one-three li.one-three a, #one-four li.one-four a, #one-five li.one-five a, #one-six li.one-six a, #one-seven li.one-seven a, 
 #two li.two a, #two-one li.two-one a,  #two-two li.two-two a, #two-three li.two-three a, #two-four li.two-four a, #two-five li.two-five a, #two-six li.two-six a,
 #three li.three a, #three-one li.three-one a,  #three-two li.three-two a, #three-three li.three-three a, #three-four li.three-four a, #three-five li.three-five a, #three-six li.three-six a,
-#four li.four a, #four-one li.four-one a,  #four-two li.four-two a, #four-three li.four-three a, #four-four li.four-four a, #four-five li.four-five a, #four-six li.four-six a
+#four li.four a, #four-one li.four-one a,  #four-two li.four-two a, #four-three li.four-three a, #four-four li.four-four a, #four-five li.four-five a, #four-six li.four-six a,
+#five li.five a, #five-one li.five-one a,  #five-two li.five-two a, #five-three li.five-three a, #five-four li.five-four a, #five-five li.five-five a, #five-six li.five-six a,
+#six li.six a, #six-one li.six-one a,  #six-two li.six-two a, #six-three li.six-three a, #six-four li.six-four a, #six-five li.six-five a, #six-six li.six-six a
  {
   /* background: #743e94;  medium purple from Milly's scheme 
   color: #fff #important; */
@@ -792,15 +794,33 @@ a .external {
   font-weight: bold !important; 
 }
 
-.case_study_box { 
-  /* background: #d4c1df;  lilac */
-  background-color: #e5e5e5;
-  border-left: solid 10px #3d244e; /* dark purple */
-  border-radius: 10px;
-  margin: 30px 0 35px 0;
-  padding: 40px 60px 40px 60px;
 
+.case_study_box { 
+  border-left: solid 10px #3d244e; /* dark purple */
+  background-color: #e5e5e5;
+  border-radius: 10px;
+  margin: 20px 0 35px 0;
+  padding: 20px 35px 25px 70px;
+  background-image: url(../img/caseStudyIcon.png);
+  background-size: auto;
+  background-position: 10px 10px;
+  background-repeat: no-repeat; 
 }
+
+.explanatory { 
+  border-left: solid 10px #0ccc05;  /* bright green */
+  background-color: #e5e5e5;
+  border-radius: 10px;
+  margin: 20px 0 35px 0;
+  padding: 35px 35px 25px 70px;
+  background-image: url(../img/infoIcon.png);
+  background-size: auto;
+  background-position: 10px 10px;
+  background-repeat: no-repeat; 
+}
+
+
+
 
 
 blockquote {
@@ -812,16 +832,6 @@ blockquote {
   padding: 40px 60px 40px 60px;
   font-family:'Kalam';
   font-size:1.3em;
-}
-
-
-.explanatory { 
-  /* background: #8cea89; warm mint */
-  border-left: solid 10px #0ccc05;  /* bright green */
-  background-color: #e5e5e5;
-  border-radius: 10px;
-  margin: 30px 0 35px 0;
-  padding: 40px 60px 40px 60px;
 }
 
 .objectives ul, .reflection ul {
@@ -1209,8 +1219,12 @@ input[type='checkbox'] {
   background-color: #e5e5e5;
   border-left: solid 10px #3d244e; /* dark purple */
   border-radius: 10px;
-  margin: 30px 0 35px 0;
-  padding: 40px 60px 40px 60px;
+  margin: 20px 0 35px 0;
+  padding: 20px 35px 25px 70px;
+  background-image: url(../img/caseStudyIcon.png);
+  background-size: auto;
+  background-position: 10px 10px;
+  background-repeat: no-repeat; 
 }
 
 input[type='checkbox'] {

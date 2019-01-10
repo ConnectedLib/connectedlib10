@@ -31,7 +31,7 @@ Libraries are centers for informal learning, so other informal learning institut
 	</ul> 
 </div>
 
-<div class="case_study_box"> 
+<div class="explanatory"> 
 
 <p>More resources for partnering with informal learning institutions</p> 
 

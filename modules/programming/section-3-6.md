@@ -45,7 +45,7 @@ Fun themes can be drawn from television, film, literature, sports, or other elem
 	</div>
 </div>
 
-> “[I] listen to the kids that come into the teen scene, try to really track what they're talking to me about, what they're interested in… that's why I have a Doctor Who party, and I've done Minecraft.” — Western Suburban Library
+> [I] listen to the kids that come into the teen scene, try to really track what they're talking to me about, what they're interested in… that's why I have a Doctor Who party, and I've done Minecraft.<br/>— Western Suburban Library
 
 ## Current events
 Current events can be a great way to not only attract teens’ attention, but also to help them make connections between what they’re learning and real-world applications.
@@ -57,4 +57,4 @@ Current events can be a great way to not only attract teens’ attention, but al
 
 <hr/>
 
-<a name="fn1" href="#1">[1]</a> Velasquez, Jennifer, and YALSA, 2016. [Teen Programming Development: Making It About the Teens from Start to Finish](https://www.youtube.com/watch?v=A6pO_M_8hLM).
+<a name="fn1" href="#1">1</a>: Velasquez, Jennifer, and YALSA, 2016. [Teen Programming Development: Making It About the Teens from Start to Finish](https://www.youtube.com/watch?v=A6pO_M_8hLM).

@@ -9,7 +9,7 @@ subsection: three-five
 
 An evaluation plan is a roadmap for the activities and assessments you will conduct to answer your questions. If your evaluation plan will be used only internally, you may not need every section. If you are working with a partner, make sure you are both onboard with the plan. 
 
-#### Overview and Background Information  
+## Overview and Background Information  
 
 If you will be sharing it with people who aren’t deeply familiar with the project, introduce the project and the reason for the evaluation. After reading these sections, your readers should have a general sense of what is being evaluated and why.  
 
@@ -18,7 +18,7 @@ If you will be sharing it with people who aren’t deeply familiar with the proj
 - **Purpose of the evaluation**. Describe the general reason you are conducting an evaluation and what you hope to get out of it. A detailed examination of your evaluation questions comes later, so don’t get too granular here.  
 - **Key stakeholders**. Introduce your readers to the key people involved with or affected by your project (see Section X). You can also introduce key project staff here.  
 
-#### Program Outcomes 
+## Program Outcomes 
 
 These sections explain in greater detail what your program does, and how and why you expect it to achieve what you want.  
 
@@ -26,7 +26,7 @@ These sections explain in greater detail what your program does, and how and why
 - **Theory of change or logic model**. This section explains “how and why the program will work”<sup>[16](#fn16)</sup> in both narrative and graphic formats. (For more about developing theories of change, see the Connected Learning Programs module.) 
 - **Activities**. Include a list of all the activities that will take place as part of the project being evaluated. You may break them into categories—e.g., activities that staff will complete, activities the partner will complete, and activities the program participants will complete. 
 
-#### About the Evaluation  
+## About the Evaluation  
 
 Explain exactly what you are evaluating, why, and how.  
 
@@ -35,16 +35,14 @@ Explain exactly what you are evaluating, why, and how.
 - **Indicators**. Describe the indicators you will be looking at, and explain how they relate to your outcomes.  
 - **Data sources for evaluation**. Finally, describe the data sources you will draw from and how they relate to your indicators.  
 
-#### Methodology 
+## Methodology 
 
 This is the “nitty gritty” section that lays out the details of how you will collect your data.  
 
 - **Data collection strategy**. Describe how your data will be collected, by whom, and from whom. If there was any uncertainty or dispute about data collection in your planning process, explain why you made the choices you did. Will you be conducting formative assessments throughout the course of the project? Include that information here.  
 - **Evaluation tools to use**. Describe any instruments or resources you will use for data collection. If you have created custom instruments (interview protocols, etc.), you can describe them here, and include them as appendices to the evaluation plan. 
 - **Reporting strategy**. How will you communicate the results to your stakeholders? Will you use different strategies for different audiences? What elements will be included for each group? For instance, youth participants probably don’t care whether your partnership project was within budget, but they might like to know how many of their peers participated. This information could be disseminated through a display in your library, a newsletter, or on the library’s social media accounts.
-<br>
 
-
-#### Footnotes:
+<hr/>
 
 <a name="fn16">16</a>:  -- Weiss, C. H. (1995). Nothing as practical as good theory: Exploring theory-based evaluation for comprehensive community initiatives for children and families. New Approaches to Evaluating Community Initiatives: Concepts, Methods, and Contexts, 1, 65–92.

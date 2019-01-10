@@ -11,7 +11,7 @@ subsection: three-two
 
 Private individuals, local businesses, and community groups that are not oriented towards youth or social services may not be obvious potential partners, but they are rich and often untapped assets for a library’s teen services. These types of partnerships are some of the most valuable for providing professional expertise in a variety of areas that teens might be interested in, thus extending the capacity of the library’s youth services without requiring extensive staff training or new hires. 
 
->“The library is considered not only a foundation to the community, but a good community supporter. We say, "How can the library partner with you?" And it brings them in and they want to work here, and they want to work with teens, and they want to give back... We're getting a lot of community people who want to come in. They want to help, and they want to see our teens succeed.” -- Southern Urban Library
+>“The library is considered not only a foundation to the community, but a good community supporter. We say, "How can the library partner with you?" And it brings them in and they want to work here, and they want to work with teens, and they want to give back... We're getting a lot of community people who want to come in. They want to help, and they want to see our teens succeed.”<br/>— Southern Urban Library
 
 <div class="case_study_box"> 
 
@@ -58,11 +58,11 @@ Private individuals, local businesses, and community groups that are not oriente
 
 <hr/>
 
-<a name="fn1" href="#1">[1]</a> Hill, Chrystie, Merrilee Proffitt, and Sharon Streams, eds. IMLS Focus: Learning in Libraries. Kansas City, MO: Institute of Museum and Library Services, 2015, 11. <a href="http://www.imls.gov/assets/1/AssetManager/IMLS_Focus_Learning_in_Libraries_Final_Report.pdf" target="_blank">http://www.imls.gov/assets/1/AssetManager/IMLS_Focus_Learning_in_Libraries_Final_Report.pdf</a>.
+<a name="fn1" href="#1">1</a>: Hill, Chrystie, Merrilee Proffitt, and Sharon Streams, eds. IMLS Focus: Learning in Libraries. Kansas City, MO: Institute of Museum and Library Services, 2015, 11. <a href="http://www.imls.gov/assets/1/AssetManager/IMLS_Focus_Learning_in_Libraries_Final_Report.pdf" target="_blank">http://www.imls.gov/assets/1/AssetManager/IMLS_Focus_Learning_in_Libraries_Final_Report.pdf</a>.
 
-<a name="fn2" href="#2">[2]</a> Iser, Stephanie. “Partnerships for Teen Tech Week.” Young Adult Library Services, 2008. <a href="https://www.questia.com/library/journal/1G1-176131699/partnerships-for-teen-tech-week" target="_blank">https://www.questia.com/library/journal/1G1-176131699/partnerships-for-teen-tech-week</a>.
+<a name="fn2" href="#2">2</a>: Iser, Stephanie. “Partnerships for Teen Tech Week.” Young Adult Library Services, 2008. <a href="https://www.questia.com/library/journal/1G1-176131699/partnerships-for-teen-tech-week" target="_blank">https://www.questia.com/library/journal/1G1-176131699/partnerships-for-teen-tech-week</a>.
 
-<a name="fn3">[3]</a> Strock, Adrienne L. “Reaching beyond Library Walls: Strengthening Services and Opportunities through Partnerships and Collaborations.” Young Adult Library Services, 2014. <a href="https://www.questia.com/library/journal/1G1-389260588/reaching-beyond-library-walls-strengthening-services" target="_blank">https://www.questia.com/library/journal/1G1-389260588/reaching-beyond-library-walls-strengthening-services</a>.
+<a name="fn3">3</a>: Strock, Adrienne L. “Reaching beyond Library Walls: Strengthening Services and Opportunities through Partnerships and Collaborations.” Young Adult Library Services, 2014. <a href="https://www.questia.com/library/journal/1G1-389260588/reaching-beyond-library-walls-strengthening-services" target="_blank">https://www.questia.com/library/journal/1G1-389260588/reaching-beyond-library-walls-strengthening-services</a>.
 
 
-<a name="fn4" href="4">[4]</a>:  --Engelfried, Steven, and Angela Reynolds. “Sponsorship 101: How Partnerships Can Expand Summer Reading.” American Libraries, 2002.
+<a name="fn4" href="4">4</a>:  Engelfried, Steven, and Angela Reynolds. “Sponsorship 101: How Partnerships Can Expand Summer Reading.” American Libraries, 2002.

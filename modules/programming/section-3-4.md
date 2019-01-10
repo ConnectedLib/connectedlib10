@@ -24,7 +24,7 @@ The connected learning framework calls for production oriented experiences. Inst
 
 </div>
 
-> “We have these teen vloggers who make videos of themselves reviewing books, and we've been putting them on our website and they've been really well received.”  — Focus Group Participant
+> We have these teen vloggers who make videos of themselves reviewing books, and we've been putting them on our website and they've been really well received.<br/>— Focus Group Participant
 
 ## Sharing and competing
 Art displays, film festivals, literary magazines, open mic nights, and other activities that showcase creative work give teens a venue to express themselves. Adding an element of competition can motivate teens to participate. These kinds of activities can follow or be integrated into activities that are focused directly on creating or performing. For instance, a public play can follow a series of drama workshops; a series of movie-making classes can culminate in a film festival showcasing what participants created. 
@@ -70,7 +70,7 @@ When youth are hanging out, they probably don’t even realize they’re learnin
 
 Notice that “sitting still and listening to an adult lecture” does not fit into any of these categories! Passive programming, with teens receiving information but not engaging with it, is not part of connected learning. Youth librarians are well aware that programs that feel like school are neither effective nor popular. “Teens will vote with their feet,” says Jennifer Velasquez.<sup><a href="#fn1" name="1">1</a></sup> Constance Steinkuehler puts in another way: “If it smells like school, they’re not going to touch it.”<sup><a href="#fn2" name="2">2</a></sup> 
 
-> “I’m serving 14 different middle schools and six high schools that are all pretty substantial in size. So one of the big important things for me, 'cause we're right in the center of the city, is the opportunity to bring together kids who are separated otherwise. I love creating teams and committees that are made up of kids from a lot of different high schools and different backgrounds and different ethnic groups, and giving them a project to work on together… I see it as a way to really build our community by having these kids get to know each other. Even if their high schools are natural rivals or whatever, they have these positive experiences with each other. So collaboration is a big part of how I plan my programming.” — Western Suburban Library 
+> I’m serving 14 different middle schools and six high schools that are all pretty substantial in size. So one of the big important things for me, 'cause we're right in the center of the city, is the opportunity to bring together kids who are separated otherwise. I love creating teams and committees that are made up of kids from a lot of different high schools and different backgrounds and different ethnic groups, and giving them a project to work on together… I see it as a way to really build our community by having these kids get to know each other. Even if their high schools are natural rivals or whatever, they have these positive experiences with each other. So collaboration is a big part of how I plan my programming.<br/>— Western Suburban Library 
 
 <div class="case_study_box">
 	<p class="box-title">Hartford Public Library YOUMedia</p>
@@ -90,7 +90,7 @@ Notice that “sitting still and listening to an adult lecture” does not fit i
 
 <hr/>
 
-<a name="fn1" href="#1">[1]</a> Velasquez, Jennifer, and YALSA, 2016. [Teen Programming Development: Making It About the Teens from Start to Finish](https://www.youtube.com/watch?v=A6pO_M_8hLM).
+<a name="fn1" href="#1">1</a>: Velasquez, Jennifer, and YALSA, 2016. [Teen Programming Development: Making It About the Teens from Start to Finish](https://www.youtube.com/watch?v=A6pO_M_8hLM).
 
 
-<a name="fn2" href="#2">[2]</a> Edutopia. [Constance Steinkuehler on Interest-Driven Learning](https://www.youtube.com/watch?v=3wMk8SqFoEk). Big Thinkers. Edutopia, 2013.
+<a name="fn2" href="#2">2</a>: [Constance Steinkuehler on Interest-Driven Learning](https://www.youtube.com/watch?v=3wMk8SqFoEk). Edutopia, 2013.

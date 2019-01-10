@@ -17,3 +17,9 @@ Connected learning also emphasizes community relationships, which the public lib
 <div class="video">
 <iframe src="https://www.youtube.com/embed/1gPm-c1wRsQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 </div></div>
+
+<div class="reflection">
+	<p>Learning Activity: Teen Employment in Your Area</p>
+	<p>Read <a href="https://www.brookings.edu/research/employment-and-disconnection-among-teens-and-young-adults-the-role-of-place-race-and-education/">Employment and Disconnection Among Teens and Young Adults</a> from the Brookings Institution. Explore the interactive feature, using the closest metropolitan area to you as a filter. 
+	</p>
+</div>

@@ -7,7 +7,7 @@ title: 3.1 Promoting Equity
 subsection: three-one
 ---
 
-> “It's not that I think people who are wealthy don't deserve library services, but I think that part of our mission is to bring them... fairly to everyone, which doesn't always mean exactly equal.” -- Southern Suburban Library
+> “It's not that I think people who are wealthy don't deserve library services, but I think that part of our mission is to bring them... fairly to everyone, which doesn't always mean exactly equal.”<br/>-- Southern Suburban Library
 
 Success does not, and should not, look the same for every learner. The traditional model of success is to excel in the educational pipeline (the more well-funded the schools, the better), bolstered with as many extra-curricular enrichment activities as parents can afford, then proceeding to a four-year university (perhaps aided by a legacy preference), after which the learner obtains a high-paying job or goes on to earn a professional degree (like a J.D. or M.D.). 
 

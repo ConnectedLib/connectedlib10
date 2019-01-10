@@ -7,8 +7,6 @@ section: 3. Elements of a Connected Learning Program
 subsection: three
 ---
 
-{% include license.html %}
-
 In this section, we’ll discuss six major elements of a connected learning program: outcomes, participants, program format, activities, facilitators, and themes. 
 
 <div class="objectives">

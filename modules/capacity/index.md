@@ -11,9 +11,7 @@ subsection: overview
 
 <p class="time">90 minutes</p>
 
-## Module Overview
-
-In this module, <b>Capacity</b>, you will learn how to self-assess the unique capacity of your library and infuse connected learning into programs for libraries big and small.
+In the <b>Capacity</b> module, you will learn how to self-assess the unique capacity of your library and infuse connected learning into programs for libraries big and small.
 
 <div class="objectives">
 	<p>After completing this module, you will be able to...</p>

@@ -7,10 +7,6 @@ section: 4. Putting it All Together
 subsection: four
 ---
 
-{% include license.html %}
-
-<p class="time">20 minutes</p>
-
 ## Section Overview
 
 Now that you've thought through each aspect of your program, it's time to put it all together in a final version. 

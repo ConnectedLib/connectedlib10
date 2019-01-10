@@ -41,7 +41,7 @@ Jenniver Velasquez describes teen participation in programming on a spectrum fro
 	</div>
 </div>
 
-> “You do want the students to be the ones that are in charge of it, but it works better when you can have multiple mentors that can be there so when the students do get stuck, they have someone they can ask.” — Western Rural Library
+> You do want the students to be the ones that are in charge of it, but it works better when you can have multiple mentors that can be there so when the students do get stuck, they have someone they can ask.<br/>— Western Rural Library
 
 <div class="reflection">
 	<p class="box-title">Program Design Activity: Facilitators</p>
@@ -51,8 +51,8 @@ Jenniver Velasquez describes teen participation in programming on a spectrum fro
 <hr/>
 
 
-<a name="fn1" href="#1">[1]</a> Koke, Judy, and Lynn Dierking. Museums and Libraries Engaging America’s Youth: Final Report of a Study of IMLS Youth Programs, 1998-2003. Washington, DC: Institute of Museum and Library Services, 2007.
+<a name="fn1" href="#1">1</a>: Koke, Judy, and Lynn Dierking. Museums and Libraries Engaging America’s Youth: Final Report of a Study of IMLS Youth Programs, 1998-2003. Washington, DC: Institute of Museum and Library Services, 2007.
 
-<a name="fn2" href="#2">[2]</a> Velasquez, Jennifer, and YALSA, 2016. [Teen Programming Development: Making It About the Teens from Start to Finish](https://www.youtube.com/watch?v=A6pO_M_8hLM).
+<a name="fn2" href="#2">2</a>: Velasquez, Jennifer, and YALSA, 2016. [Teen Programming Development: Making It About the Teens from Start to Finish](https://www.youtube.com/watch?v=A6pO_M_8hLM).
 
-<a name="fn3" href="#3">[3]</a> Matthias, Cynthia, and Christy Mulligan. “Hennepin County Library’s Teen Tech Squad: Youth Leadership and Technology Free-for-All.” Young Adult Library Services 2010, no. Winter (2010): 13–16.
+<a name="fn3" href="#3">3</a>: Matthias, Cynthia, and Christy Mulligan. “Hennepin County Library’s Teen Tech Squad: Youth Leadership and Technology Free-for-All.” Young Adult Library Services 2010, no. Winter (2010): 13–16.

@@ -14,7 +14,7 @@ Some of the approaches used for measuring learning in a traditional classroom ca
 - Connected learning encompasses a broader definition of “learning,” and there may not be an existing instrument that can assess the impact of the learning experiences that you are providing to your teens 
 - By definition, connected learning occurs across multiple contexts, not just at the library 
 
-<div class="case_study_box">
+<div class="explanatory">
   <p class="box-title">Program Evaluations for Connected Learning</p>
   <p>In this short trailer for his free online <a href="https://dmlcommons.net/2016-course/">Program Evaluations for Connected Learning</a> course, Dr. William Penuel from the University of Colorado at Boulder describes the class as well as some of the challenges and opportunities of evaluating connected learning programs.</p>
   <p class="videotime">7:52</p> <p class="source"><a href="https://www.youtube.com/channel/UCK3lhPDfexvG10DUROwVVhw" class="external">Connected Learning Alliance</a></p>

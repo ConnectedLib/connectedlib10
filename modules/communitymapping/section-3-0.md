@@ -9,7 +9,7 @@ subsection: three
 
 <div class="objectives">
 
-<p>After completing Section 3: The Community Mapping Process, you will be able to...</p>
+<p>After completing this section, you will be able to...</p>
 <ul>
   <li>Describe what you need to do before starting your community map</li>
    <li>Assemble a team to help you create a community map</li>
@@ -18,4 +18,4 @@ subsection: three
 
 </div>
 
->“Libraries can play an essential role in the process of community-building and should be seen as vital assets that exist at the very heart of community life.” -- Kretzmann & McKnight, p 191
+>“Libraries can play an essential role in the process of community-building and should be seen as vital assets that exist at the very heart of community life.”<br/>— Kretzmann & McKnight, p 191

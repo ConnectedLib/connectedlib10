@@ -7,11 +7,11 @@ title: 3.2 Building Capacity For Learning
 subsection: three-two
 ---
 
-> “I'd love to have an ongoing Minecraft club, but I'm getting a little pushback from my team because they don't see Minecraft as a library service. They don't see building things in a 3D environment as related to libraries, but who knows what the jobs of five years are gonna be? For all we know, we could rebrand it as job skills development. The jobs of five years from now don't exist today, so who knows?” -- Southern Suburban Library
+> “I'd love to have an ongoing Minecraft club, but I'm getting a little pushback from my team because they don't see Minecraft as a library service. They don't see building things in a 3D environment as related to libraries, but who knows what the jobs of five years are gonna be? For all we know, we could rebrand it as job skills development. The jobs of five years from now don't exist today, so who knows?”<br/>-- Southern Suburban Library
 
 Many of the librarians we spoke to expressed anxiety about their ability to keep up with the rate of technological change. Today’s hot new gadget, app, or programming language may be dated or obsolete in a few years. Fortunately, connected learning treats technology as a means to an end--building a teen’s capacity to learn--rather as an end in itself. In other words, the emphasis is on learning how to learn, rather than learning facts about using a specific technology. Connected learning certainly embraces new technology, often with mentors and teens learning side by side, but its value lies in what it lets them do--making, curating, and remixing their own creative media as part of a new “participatory culture.” 
 
-> “It’s not domain-specific knowledge that we should be looking at as much as an underlying disposition for learning and capacity for future learning that’s the most important outcome.” -- Mimi Ito
+> “It’s not domain-specific knowledge that we should be looking at as much as an underlying disposition for learning and capacity for future learning that’s the most important outcome.”<br/>-- Mimi Ito
 
 By emphasizing the hows and whys behind the use of technology, rather than the specific whats, connected learning builds skills that will transfer to whatever new developments are around the corner. A variety of skills, from computational thinking to photo composition, can be learned just as well on simple or even analog technologies as they can be learned with the latest edtech--and will be useful for years or even decades to come. 
 

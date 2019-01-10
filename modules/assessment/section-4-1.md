@@ -7,7 +7,7 @@ section: 4. Now What?
 subsection: four-one
 ---
 
-#### The evaluation report 
+## The evaluation report 
 
 The evaluation report will mirror the evaluation plan to some extent. Your report should include:  
 
@@ -20,7 +20,7 @@ The evaluation report will mirror the evaluation plan to some extent. Your repor
 - Results of the analysis 
 - Recommendations indicated by the results (see Section X) 
 
-#### Other ways to communicate results 
+## Other ways to communicate results 
 
 There are many other ways you can share your evaluation results to interested audiences.  
 

@@ -4,19 +4,19 @@ title: 4. Now What?
 module_name: assessment
 module_full_name: Assessment and Evaluation
 section: 4. Now What?
-subsection: four-zero
+subsection: four
 ---
 
 In this section, you will learn what mentoring is and how it can support connected learning in the library.
 
-## Learning Outcomes For This Section
-
-**After completing Section 4: Now What?, you will be able to...**
-<ul class="fancy">
+<div class="objectives">
+	<p>After completing this section, you will be able to...</p>
+<ul>
   <li>Use your results</li>
   <li>Develop evaluation questions</li>
   <li>Communicate your results to important stakeholders</li>
 </ul>
+</div>
 
 >“Evaluation should not be conducted simply to prove that a project worked, but also to improve the way it works.” - W. K. Kellogg Foundation<sup>[17](#fn17)</sup> 
 
@@ -26,9 +26,7 @@ An evaluation is only as good as it is useful—and actually used! Presenting re
 
 The point of evaluation is to obtain information that can be used constructively moving forward, so be honest. If something was less than successful, don’t try to sweep it under the rug—figure out why and what you or someone else can do about it next time. 
 
-
-
-**Footnotes:**
+<hr/>
 
 <a name="fn17">17</a>:  -- W. K. Kellogg Foundation. (2004). W. K. Kellogg Foundation evaluation handbook. Battle Creek, MI: W. K. Kellogg Foundation. Retrieved from https://dmlcommons.net/wp-content/uploads/2015/12/Kellog-2006.pdf, p. 3
 <br> 

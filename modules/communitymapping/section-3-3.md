@@ -9,7 +9,7 @@ subsection: three-three
 
 This section discusses learning about individuals, associations, and institutions in your community. 
 
-### Learning About Your Youth Patrons
+## Learning About Your Youth Patrons
 
 You may already be pretty familiar with the young people who visit your library regularly. But are they representative of the community at large? Compare your community profile with the information about your “regulars.” Are there demographic groups that aren’t being served or aren’t represented?  
 
@@ -27,7 +27,7 @@ You may already be pretty familiar with the young people who visit your library 
 
 As youth librarians, you are more likely than many people to recognize that youth have gifts and capacities to help their communities. Teens may know their communities as well as or better than adults, bring fresh ideas and perspectives to the table, and have connections to schools, families, and other teens. Youth may be seen as more credible than adults to their peers.<sup>[5](#fn5)</sup> Building Communities from the Inside Out provides many suggestions as to how youth can build productive connections with associations, organizations, and other individuals (Chapter 1, pages 33-44).
 
-### Learning about other individuals
+## Learning about other individuals
 
 >“Each time a person uses his or her capacity, the community is stronger and the person more powerful. That is why strong communities are basically places where the capacities of local residents are identified, valued, and used.” -- Kretzmann, J. P., & McKnight, J. L. (1993). Building from the inside out: A path toward finding and mobilizing a community’s assets. Chicago, IL: ACTA Publications. P. 13. 
 
@@ -57,7 +57,7 @@ The most foundational assets of a community are the individuals that form it. Ev
 </div>
 <br>
 
-### Associations
+## Associations
 
 Associations are groups of community members who gather together voluntarily around a common interest or goal. Associations are key to getting the community involved in your teen services.  
 
@@ -70,7 +70,7 @@ Associations are groups of community members who gather together voluntarily aro
 <div class="explanatory">
 <span class="box-title">TYPES OF ASSOCIATIONS</span>
 <p>Kretzmann & McKnight have identified many different types of associations, including:</p>
-<table>
+<table class="colorful-th">
   <tr><td>Artistic organizations 
 Business organizations<br>
 Charitable groups & drives<br>
@@ -98,7 +98,7 @@ Veteran groups<br></td></tr>
  <p>Kretzmann, J. P., & McKnight, J. L. (1993). Building from the inside out: A path toward finding and mobilizing a community’s assets. Chicago, IL: ACTA Publications. p110</p>
 </div>
 
-### Institutions 
+## Institutions 
 
 Institutions (as defined by ABCD) are groups of people brought together professionally -- such as business, schools, government agencies. They often have many resources that can be shared with the community.  
 
@@ -107,17 +107,17 @@ Institutions (as defined by ABCD) are groups of people brought together professi
 - An institution’s hiring practices can be one of its assets<sup>[6](#fn6)</sup>.
 
 
-### Methods for learning more  
+## Methods for learning more  
 
 Depending on your situation, you can use surveys or focus groups to learn more about your community’s assets. You can also use the methods described in the Capacity module (interviews and town halls), or any combination of methods.
 
-<table>
-<tr><th style="background-color:#8DC87C" width="40%" align="center">SURVEYS</th><td>Surveys are a good option for getting succinct information from a large number of people, especially quantitative information. The response rate is often low, however, and you may not always be able to follow-up with respondents to get a better understanding of their responses.For people who are not literate and people who primarily speak other languages, you may need to conduct in-person interviews or provide the survey in multiple languages<sup><a href="#fn7">7</a></sup>. Surveys can be conducted face-to-face, online, by mail, by phone, or on paper that is distributed in the library or at library events<sup><a href="#fn8">8</a></sup>.<br> 
+<table class="colorful-th">
+<tr><th>SURVEYS</th><td>Surveys are a good option for getting succinct information from a large number of people, especially quantitative information. The response rate is often low, however, and you may not always be able to follow-up with respondents to get a better understanding of their responses.For people who are not literate and people who primarily speak other languages, you may need to conduct in-person interviews or provide the survey in multiple languages<sup><a href="#fn7">7</a></sup>. Surveys can be conducted face-to-face, online, by mail, by phone, or on paper that is distributed in the library or at library events<sup><a href="#fn8">8</a></sup>.<br> 
 <ul><li><a href="http://learn.webjunction.org/enrol/index.php?id=234" target="_blank">Beyond the Survey: A Practical Approach to Interviews and Focus Groups</a></li>
  <li><a href= "http://learn.webjunction.org/enrol/index.php?id=234" target="_blank">Library Surveys for Success</a></li>
  <li>Webjunction has a <a href="http://www.webjunction.org/documents/webjunction/Sample_Information_Gathering_Tools.html" target="_blank">collection of sample library surveys</a> for both adults and teens.</li>
 </ul></td></tr>
-<tr><th style="background-color:#F58F81" width="40%" align="center">FOCUS GROUPS</th><td>Focus groups allow you to guide the discussion around a specific question. It is important to have a diverse set of participants so that you don’t just hear one perspective. Focus groups may be cheaper and/or less time-consuming than extensive surveys (depending on how they are administered), and can provide deeper insights. However, you cannot hear from as many people in a focus group. 
+<tr><th>FOCUS GROUPS</th><td>Focus groups allow you to guide the discussion around a specific question. It is important to have a diverse set of participants so that you don’t just hear one perspective. Focus groups may be cheaper and/or less time-consuming than extensive surveys (depending on how they are administered), and can provide deeper insights. However, you cannot hear from as many people in a focus group. 
 <br>
 <ul>
 <li><a href="http://learn.webjunction.org/enrol/index.php?id=234" target="_blank">Beyond the Survey: A Practical Approach to Interviews and Focus Groups</a></li>
@@ -131,35 +131,27 @@ In addition, consider the following sources when you are identifying assets:
 - Your local **newspaper** or community newsletter, along with community bulletin boards in coffeehouses, community centers and other gathering places<sup>[10](#fn10)</sup>.
  - **Existing networks--** do you already have partners that can help you identify assets and reach out to contacts? You can also try making new connections to ask for help--civic associations, clubs and coalitions, etc.
  - **Other Community Institutions** like hospitals, churches, and parks and recreation facilities.
- <br>
-<br>
 
 <div class="explanatory">
 <span class="box-title">DATA RESOURCES</span>
  <ul><li><a href="https://youth.gov/map-my-community" target="_blank">Map My Community (Youth.gov)</a></li></ul>
 </div>
-<br>
-<br>
-
 
 <div class="extra">
 <p>For a small project, focus on pre-existing resources (directories, databases). For more in-depth information, focus on people who are easy to reach out to (patrons, partners) or who are key community members.
 </p>
   </div>
-  <br>
-  <br>
 
+<hr/>
 
-**Footnotes:**
-<br>
 <a name="fn5">5</a>:  --(Kretzmann & McKnight, 1993, p.30-31)
-<br>
+
 <a name="fn6">6</a>:  -- Green, G. P. (2014). Community asset mapping and surveys. In R. Phillips & R. Pittman (Eds.), An introduction to community development. New York, NY: Routledge. P222.
-<br>
+
 <a name="fn7">7</a>:  -- Rotary International. (2015). Community assessment tools: A resource for Rotary projects. Evanston, IL: Rotary International. Retrieved from https://my.rotary.org/en/document/community-assessment-tools
-<br>
+
 <a name="fn8">8</a>:  -- Green, G. P. (2014). Community asset mapping and surveys. In R. Phillips & R. Pittman (Eds.), An introduction to community development. New York, NY: Routledge. P217
-<br>
+
 <a name="fn9">9</a>:  -- Green, G. P. (2014). Community asset mapping and surveys. In R. Phillips & R. Pittman (Eds.), An introduction to community development. New York, NY: Routledge. P217
-<br>
+
 <a name="fn10">10</a>:  -- Green, G. P. (2014). Community asset mapping and surveys. In R. Phillips & R. Pittman (Eds.), An introduction to community development. New York, NY: Routledge. P217

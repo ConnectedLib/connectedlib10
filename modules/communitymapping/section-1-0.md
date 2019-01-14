@@ -46,7 +46,12 @@ Community mapping focuses on the strengths and assets of a community instead of 
 <p>Learning Aid: Community mapping KWL</p>
 <p>Complete this worksheet by first describing your experience (if any) with community mapping. Then create a list of what you already know (the K in KWL) about community mapping. In the second column, write down what you want (W) to learn in this module. You’ll fill out the last column, what you learned (L) when you have completed this module. </p>
 <p><a href="docs/CommunityMapping_1A.docx">Download Worksheet (DOCX)</a></p>
+<ul>
+		<li>What do you already know about connected learning programming?</li>
+		<li>What do you want to learn about connected learning programming?</li>
+		<li><i>What did you learn from this module about connected learning programming? (You will answer this question at the end of the module.)</i></li>
+	</ul>
 </div>
 <hr/>
 
-<a href="#1" name="fn1">1</a>: Denver Public Library, 2014. 
+<a href="#1" name="fn1">1</a>: [Teen Asset Mapping Report: A Report and Recommendations from the Denver Public Library](http://www.ala.org/pla/sites/ala.org.pla/files/content/about/fellows/TAMFinalReport.pdf). Denver Public Library, 2014.

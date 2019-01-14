@@ -58,4 +58,7 @@ While you are planning and assembling your team (if not earlier) try to find out
 
 <hr/>
 
-<a name="fn1">1</a>:  Ryan, G., & Bourke, C. (2008). CCAMP system handbook. Connecticut Assets Network. Retrieved from http://www.nurturedevelopment.org/wp-content/uploads/2016/01/Asset-Mapping-CCAMP_System_Handbook.pdf Page 23
+<a name="fn1">1</a>: [CCAMP System Handbook](http://www.nurturedevelopment.org/wp-content/uploads/2016/01/Asset-Mapping-CCAMP_System_Handbook.pdf), page 23. By Gregory Ryan and Cate Bourke, 2008. Connecticut Assets Network.
+
+
+

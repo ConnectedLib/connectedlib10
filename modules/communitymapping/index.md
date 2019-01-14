@@ -11,8 +11,6 @@ subsection: overview
 
 <p class="time">90 minutes</p>
 
-## Module Overview
-
 In this module you will get to know your teens, your neighborhood, and the community assets that can help you create connected learning experiences in your library.
 
 <div class="objectives">

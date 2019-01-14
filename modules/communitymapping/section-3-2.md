@@ -36,4 +36,4 @@ Are there groups that are not currently at the table with you as you plan progra
 
 <hr/>
 
-<a name="fn1">1</a>: Collaborative For Neighborhood Transformation. (2016). What is asset based community development? ABCD Institute. Retrieved from https://resources.depaul.edu/abcd-institute/resources/Documents/WhatisAssetBasedCommunityDevelopment.pdf, p 3 
+<a name="fn1">1</a>: [What is asset based community development?](https://resources.depaul.edu/abcd-institute/resources/Documents/WhatisAssetBasedCommunityDevelopment.pdf), p. 3. Collaborative For Neighborhood Transformation/ABCD Institute, 2016.

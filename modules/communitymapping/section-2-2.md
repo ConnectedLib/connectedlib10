@@ -8,7 +8,7 @@ subsection: two-two
 ---
 
 
-There are five types of community assets: individuals, associations, institutions, physical assets, and connections. We will discuss these in more detail in section 3.
+There are five types of community assets: individuals, associations, institutions, physical assets, and connections.
 
 <table class="colorful-th">
 <tr><th colspan="2" class="th-black">TYPES OF COMMUNITY ASSETS</th></tr>
@@ -16,9 +16,13 @@ There are five types of community assets: individuals, associations, institution
   <tr><th>Associations</th><td>Association are groups of community members who gather together voluntarily around a common interest. Associations are key to getting the community involved in your teen services. </td></tr>
   <tr><th>Institutions</th><td>Institutions are groups of people brought together professionally -- such as business, schools, government agencies. They often have many resources that can be shared with the community. </td></tr>
 <tr><th>Physical Assets</th><td>Individuals, associations, and institutions can all provide gifts in the form of physical assets, like land, buildings, equipment, and money.</td></tr>
-<tr><th>Connections</th><td>Connections are the relationships between the other types of assets. Creating new connections between community assets can greatly increase the opportunities for connected learning in your library. You can think of connections as an expression of social capital.2 </td></tr>
+<tr><th>Connections</th><td>Connections are the relationships between the other types of assets. Creating new connections between community assets can greatly increase the opportunities for connected learning in your library. You can think of connections as an expression of social capital.<sup><a href="#fn1" name="1">1</a></sup></td></tr>
 </table>
 
 <div class="reflection">
   <p>REFLECTION: A STORY OF TWO COMMUNITIES</p>
   <p>Read <a href="https://sustainingcommunity.wordpress.com/2013/01/30/community-a-and-communityb/" target="_blank">A Story of Two Communities</a>. How has your library approached your community in the past—by focusing on needs or by focusing on assets? </p></div>
+
+  <hr/>
+
+  <a name="fn1" href="#1">1</a>: [What is asset based community development?](https://resources.depaul.edu/abcd-institute/resources/Documents/WhatisAssetBasedCommunityDevelopment.pdf), page 4. Collaborative For Neighborhood Transformation/ABCD Institute, 2016.

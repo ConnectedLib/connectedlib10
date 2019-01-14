@@ -7,7 +7,9 @@ section: 3. The Community Mapping Process
 subsection: three-four
 ---
 
-As you learn about the assets in your community from various sources, keep track of what you find! This will make it easier to update the information in the future. You can use the following worksheet to record what you learn:
+As you learn about the assets in your community from various sources, keep track of what you find! This will make it easier to update the information in the future. You can use the following worksheet to record what you learn.
+
+<p><a href="docs/CommunityMapping_1A.docx">Download Worksheet (DOCX)</a></p>
 
 <table class="worksheet">
 <tr>

@@ -9,9 +9,7 @@ subsection: overview
 
 {% include license.html %}
 
-<p class="time">90 minutes</p>
-
-## Module Overview
+<p class="time">2.5 hours</p>
 
 In this module, **Connected Learning Programming**, you will learn how connected learning fits in with a 21st century library. This module provides an overview of the program design process and offers some springboards to help inspire your next teen initiative.
 
@@ -21,7 +19,7 @@ In this module, **Connected Learning Programming**, you will learn how connected
 <ul>
 	<li>Explain how connected learning can help you create a 21st century library (<a href="section-1.html">Section 1: Introduction</a>)</li>
 	<li>Describe the process of creating a connected learning library program (<a href="section-2.html">Section 2: Program Design</a>)</li>
-	<li>Understand the diversity of connected learning program elements (<a href="section-3.html">Section 3: A Connected Learning Playbook</a>)</li>
+	<li>Explain the diversity of connected learning program elements (<a href="section-3.html">Section 3: A Connected Learning Playbook</a>)</li>
 </ul></div>
 
 <div class="reflection">

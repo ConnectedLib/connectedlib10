@@ -33,10 +33,10 @@ Some things to think about when you’re imagining your potential participants:
 
 
 -----
-<a name="1" href="#1A">1</a> YALSA. Teen Programming Guidelines. Chicago, IL: YALSA, 2015. http://www.ala.org/yalsa/teen-programming-guidelines.
+<a name="1" href="#1A">1</a> [YALSA Teen Programming Guidelines](http://www.ala.org/yalsa/teen-programming-guidelines). YALSA, 2015.
 
-<a name="2" href="#2A">2</a> Karen Jensen, 2011. [A Teen programming primer](http://www.teenlibrariantoolbox.com/2011/07/a-teen-programming-primer/)
+<a name="2" href="#2A">2</a> [A Teen programming primer](http://www.teenlibrariantoolbox.com/2011/07/a-teen-programming-primer/). Karen Jensen, 2011. 
 
-<a name="3" href="#3A">3</a> Linda W. Braun, Maureen L. Hartman, Sandra Hughes-Hassell, Kafi Kumasi, and Beth Yoke, 2014. [The Future of Library Services for and with Teens: A Call to Action](http://www.ala.org/yaforum/future-library-services-and-teens-project-report). YALSA.
+<a name="3" href="#3A">3</a> [The Future of Library Services for and with Teens: A Call to Action](http://www.ala.org/yaforum/future-library-services-and-teens-project-report). Linda W. Braun, Maureen L. Hartman, Sandra Hughes-Hassell, Kafi Kumasi, and Beth Yoke, 2014. 
 
-<a name="4" href="#4A">4</a> Jamie Campbell Naidoo and Luis Francisco Vargas. “Libraries Bridging the Borderlands: Reaching Latino Tweens and Teens with Targeted Programming and Collections.” _Young Adult Library Services_, Summer (2011): 13–20.
+<a name="4" href="#4A">4</a> Libraries Bridging the Borderlands: Reaching Latino Tweens and Teens with Targeted Programming and Collections. Jamie Campbell Naidoo and Luis Francisco Vargas, _Young Adult Library Services_, Summer (2011): 13–20.

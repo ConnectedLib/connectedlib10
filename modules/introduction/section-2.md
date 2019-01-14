@@ -10,7 +10,7 @@ subsection: two
 In order to connect teen’s interests, relationships, and opportunity, connected learning programs follow a set of design principles: they are production centered, build pathways, sponsor youth interests, and create a sense of shared purpose. This section examines those principles. 
 
 <div class="objectives">
-<p class="box-title">Learning Outcomes For This Section</p>
+<p class="box-title">After completing this section, you will be able to...</p>
 <ul><li>Name and describe the connected learning design principles: production, multiple pathways, shared purpose, and sponsorship.</li>
 <li>Recognize implementations of each principle in youth programs</li>
 <li>Evaluate your own programs to see how well they connect these spheres</li>
@@ -22,3 +22,9 @@ While the three spheres describe learning contexts, the four design principles d
 - **Multiple Pathways**: Providing teens with resources and pathways to success
 - **Shared Purpose**: Connecting teens to an effort that is bigger than themselves
 - **Sponsorship**: Peers and adults validating teens’ interests through mentorship and other support
+
+<div class="reflection">
+	<p>Self-assessment worksheet</p>
+	<p>As you read through this section, think about your library’s youth services and programs. How well do they incorporate the spheres of teen learning and design principles of connected learning? Use the worksheet to conduct your assessment.</p>
+	<p><a href="docs/Intro_SelfAssessment.docx">Download Worksheet (DOCX)</a></p>
+</div>

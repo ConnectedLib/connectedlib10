@@ -13,7 +13,7 @@ The theme of your program can facilitate peer supported and interest driven lear
 
 <div class="case_study_box">
 	<p class="box-title">Scidentity</p>
-	<p>The <a href="http://scidentity.umd.edu/">SciDentity project</a> at the University of Maryland used a superhero theme to encourage learners to identify themselves as scientists.</p>
+	<p>The <a href="http://ahnjune.com/wp-content/uploads/2014/04/ICLS2014-Sci-Dentity-camera-ready.pdf">SciDentity project</a> at the University of Maryland used a superhero theme to encourage learners to identify themselves as scientists.</p>
 </div>
 
 

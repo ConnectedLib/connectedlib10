@@ -14,7 +14,7 @@ It’s tempting to move on to the next project once a collaboration has conclude
 
 ## Evaluation
 
-If you and your partner agreed on an evaluation plan at the beginning of the project, evaluating your collaborative effort should be easy. Share the results of your program evaluation with your partner at the end of the project so they know what kind of impact they had. Take those numbers and stories you gathered and communicate them to relevant stakeholders to illustrate the impact of your program. See the [Evaluation & Assessments module](../assessment/index.html) for more.    
+If you and your partner agreed on an evaluation plan at the beginning of the project, evaluating your collaborative effort should be easy. Share the results of your program evaluation with your partner at the end of the project so they know what kind of impact they had. Take those numbers and stories you gathered and communicate them to relevant stakeholders to illustrate the impact of your program. See the [Assessment & Evaluation](../assessment/index.html) module for more.    
 
 ## Laying the groundwork for the next collaboration
 

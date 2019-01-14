@@ -15,14 +15,14 @@ Opportunity-oriented learning is directed towards helping teens achieve academic
 * Teens are connected to mentors with professional experience
 * Programs relate to civic, economic, or academic development
 * Teens see immediate value in activities
-* Activities result in items or performances teens can use to demonstrate their achievements to teachers or future employers…
+* Activities result in items or performances teens can use to demonstrate their achievements to teachers or future employers...
 * ... and library staff or mentors help teens understand the connections between their specific activities and broader marketable skills
 
 
 
 <div class="case_study_box">
   <p class="box-title">Opportunity-oriented learning in action</p>
-  <p>In the following TED Talk, Geoff Mulgan describes how the UK's studio school model has taken teen sfrom the lowest to the highest grades by letting them "learn for real."</p>
+  <p>In the following TED Talk, Geoff Mulgan describes how the UK's studio school model has taken teens from the lowest to the highest grades by letting them "learn for real."</p>
   <p class="videotime">6:16</p><p class="source">Geoff Mulgan</p>
  <div class="video">
   

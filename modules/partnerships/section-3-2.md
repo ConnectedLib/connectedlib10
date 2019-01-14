@@ -38,9 +38,6 @@ Private individuals, local businesses, and community groups that are not oriente
 
 {% include case_localBusiness.html %}
 
-{% include case_volunteers.html %}
-
-
 
 <div class="case_study_box"> 
 

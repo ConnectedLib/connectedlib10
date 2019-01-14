@@ -42,10 +42,6 @@ The benefits of a partnership to the library are clear, but what about the benef
 {% include case_youthOrgs.html %}
 </td></tr>
 
- <tr><td colspan="2">
-{% include case_localBusiness.html %}
-</td></tr>
-
 
 <tr><th>Libraries can provide or facilitate service opportunities</th><td><p>Through teen volunteer programs, libraries can offer opportunities for organizations that require their teens to perform community service, such as high schools or Interact.<sup><a href="#fn2" name="2">2</a></sup> Libraries can also connect youth to volunteer opportunities with other organizations, particularly teens who have learned skills through labs or workshops at the library. </p><p>
 Teens aren’t the only ones who need or want to volunteer. Libraries provide opportunities for adults, often retirees, to share their professional skills and knowledge with youth. Librarians interviewed for the ConnectedLib project mentioned individuals in their community who found fulfillment through volunteering to work with youth in areas as diverse as robotics, programming, and knitting.</p></td></tr>

@@ -14,7 +14,7 @@ In this section, we will look more closely at four common types of partners: (1)
 <div class="objectives">
 	<p>after completing this section, you will be able to...</p>
 	<ul>
-  		<li>Understand the opportunities and challenges involved in working with four different types of partners</li>
+  		<li>Identify the opportunities and challenges involved in working with four different types of partners</li>
 	</ul>
 </div>
 

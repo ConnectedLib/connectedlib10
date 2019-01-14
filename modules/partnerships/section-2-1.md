@@ -59,4 +59,4 @@ There are many ways that community partnerships can benefit libraries. Partners 
 
 <a name="fn1" href="#1">1</a>: [Bring Your Dreams to the Library](http://leonline.com/yals/12n1_fall2013.pdf), by Ali Turner. _Young Adult Library Services_, 2013. 
 
-<a href="#2" name="fn2">2</a>: _The Future of Library Services for and with Teens: A Call to Action_, p16. By Linda W. Braun, Maureen L. Hartman, Sandra Hughes-Hassell, Kafi Kumasi, and Beth Yoke. YALSA, 2014. 
+<a href="#2" name="fn2">2</a>: [**The Future of Library Services For and With Teens: A Call to Action**](http://www.ala.org/yaforum/future-library-services-and-teens-project-report), p16. By Linda W. Braun, Maureen L. Hartman, Sandra Hughes-Hassell, Kafi Kumasi, and Beth Yoke. YALSA, 2014. 

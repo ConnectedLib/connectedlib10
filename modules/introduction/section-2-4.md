@@ -13,3 +13,4 @@ Connected learning programs foster sponsorship of learners’ interests. Adults,
 * Mentors (adults or experienced peers) are found for teens based on their common interests
 * Adults “broker” connections to other people and resources that support teens’ interests
 * Adults help teens gain access to the tools and spaces they need at the library or elsewhere
+

@@ -26,7 +26,7 @@ In order to prepare youth with the 21st-century skills they need in today’s in
 
 <table class="colorful-th">
 	<tr><th colspan="2" class="th-black">Connected Learning and Community Partnerships</th></tr>
-	<tr><th>Multiple Pathways</th><td>Partners can help create connections between youth’s normal learning environments (home, school, and library) and “real world” spaces, opening up a more diverse set of possible experiences and directions for learners.</td></tr>
+	<tr><th>Multiple Pathways</th><td>Partners can help create connections between youth’s everyday learning environments (home, school, and library) and “real world” spaces, opening up a more diverse set of possible experiences and directions for learners.</td></tr>
   	<tr><th>Opportunity Oriented</th><td>A partner can share expertise, provide mentorship, and offer real-world experience to youth that can help them achieve academically or prepare them to start a career.</td></tr>
   	<tr><th>Interest Driven</th><td>Partners can help youth learn more about areas of interest and even new career options related to those areas.</td></tr>
 	<tr><th>Production Centered</th><td>By providing access to materials, equipment, or expertise that the library lacks, partners can expose youth to new creative experiences.</td></tr>
@@ -44,7 +44,7 @@ In order to prepare youth with the 21st-century skills they need in today’s in
 
 <hr/>
 
-<a href="#1" name="fn1">1</a>: _The Future of Library Services for and with Teens: A Call to Action_, p8. By Linda W. Braun, Maureen L. Hartman, Sandra Hughes-Hassell, Kafi Kumasi, and Beth Yoke. YALSA, 2014. 
+<a href="#1" name="fn1">1</a>: [**The Future of Library Services For and With Teens: A Call to Action**](http://www.ala.org/yaforum/future-library-services-and-teens-project-report), p8. By Linda W. Braun, Maureen L. Hartman, Sandra Hughes-Hassell, Kafi Kumasi, and Beth Yoke. YALSA, 2014. 
 
 <a name="fn2" href="#2">2</a>: [_Connected Libraries: Surveying the Current Landscape and Charting the Path to the Future_ ](http://connectedlib.ischool.uw.edu/connected-learning-in-libraries) By Kelly M. Hoffman, Mega Subramaniam, Saba Kawas, Ligaya Scaff, and Katie Davis. University of Maryland, College Park/University of Washington, 2016.
 

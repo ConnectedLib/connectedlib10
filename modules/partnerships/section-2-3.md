@@ -62,7 +62,7 @@ Different characteristics of the partnership may also vary from less to more int
 
 <a name="fn1" href="#1">1</a>: [_Museum & Community Partnerships: Collaboration Guide for Museums Working with Community Youth-Serving Organizations_](http://www.nisenet.org/sites/default/files/NISE%20Network%20Collaboration%20Guide%2011-20-2015%20FINAL.pdf). By Catherine McCarthy and Brad Herring. NISE Network, 2015.
 
-<a href="#2" name="fn2">2</a>: _The Future of Library Services for and with Teens: A Call to Action_, p13. By Linda W. Braun, Maureen L. Hartman, Sandra Hughes-Hassell, Kafi Kumasi, and Beth Yoke. YALSA, 2014. 
+<a href="#2" name="fn2">2</a>: [**The Future of Library Services For and With Teens: A Call to Action**](http://www.ala.org/yaforum/future-library-services-and-teens-project-report), p13. By Linda W. Braun, Maureen L. Hartman, Sandra Hughes-Hassell, Kafi Kumasi, and Beth Yoke. YALSA, 2014. 
 
 <a name="fn3" href="#3">3</a>: “[Reaching beyond Library Walls: Strengthening Services and Opportunities through Partnerships and Collaborations](https://www.questia.com/library/journal/1G1-389260588/reaching-beyond-library-walls-strengthening-services).” By Adrienne L. Strock. Young Adult Library Services, 2014.
 

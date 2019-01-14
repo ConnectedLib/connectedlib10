@@ -47,7 +47,7 @@ In addition to these categories of outcomes identified by YALSA, we found a few 
 
 
 <ul>
-	<li><b>21st century skills</b>. “21st century skills” is a broad term that describes a set of interrelated, transferable literacies and competencies that youth must develop “to succeed in college, career and life.”<sup><a name="4A" href="#4">4</a></sup> The National Research Council groups these skills into three major “domains of competence”: cognitive (including critical thinking, problem solving, and creativity), intrapersonal (involving self-regulation, conscientiousness, and intellectual openness), and interpersonal (involving communicating and working with others). </li>
+	<li><b>21st century skills</b>. “21st century skills” is a broad term that describes a set of interrelated, transferable literacies and competencies that youth must develop “to succeed in college, career and life.”<sup><a name="2A" href="#2">2</a></sup> The National Research Council<sup><a name="4A" href="#4">4</a></sup> groups these skills into three major “domains of competence”: cognitive (including critical thinking, problem solving, and creativity), intrapersonal (involving self-regulation, conscientiousness, and intellectual openness), and interpersonal (involving communicating and working with others). </li>
 	<li><b>Academic enhancement</b>. Although connected learning is, by definition, not limited to the classroom, it can enhance knowledge of traditional academic subjects like math, science, history, and the arts. Library programming can help deepen students’ engagement with these topics or provide a new perspective. </li>
 	<li><b>Safety and security</b>. Libraries can provide physical and emotional security for vulnerable teens, as well as food security. Simply having a safe space to turn to can be a huge benefit to many teens who do not live in a safe neighborhood or who don’t have an ideal home life. Several youth librarians described their role as a non-teacher, non-parent adult that teens could turn to to discuss sensitive topics like gender identity and sexual orientation. Some libraries partner with local organizations to provide summer lunches or after-school snacks to combat hunger and its related performance and behavioral issues. Connected learning programs that celebrate teens’ interests and culture can help get at-risk teens into the supportive environment of the library.</li>
 </ul>
@@ -61,7 +61,7 @@ In addition to these categories of outcomes identified by YALSA, we found a few 
 > “Teens especially encounter a lot of resistance from different areas of public life, and so I'm really dedicated to… wanting teens to feel comfortable enough to really explore and get messy with things and fail in their experiments and then build on that to succeed later.”<br/>— Focus Group Participant
 
 <ul>
-	<li><b>Career readiness</b>. Connected learning programs, being opportunity oriented, can help learners build technical skills that employers are looking for. Volunteer and intern programs give teens something to put on their resume before entering the post-high school job market, and demonstrate that they have the interpersonal skills needed to be productive employees.<sup><a name="6A" href="#6">6</a></sup> Librarians and mentors can help teens turn their creative output into digital portfolios, or learn how to translate their activities into skills on their resumes. </li>
+	<li><b>Career readiness</b>. Connected learning programs, being opportunity oriented, can help learners build technical skills that employers are looking for. Volunteer and intern programs give teens something to put on their resume before entering the post-high school job market, and demonstrate that they have the interpersonal skills needed to be productive employees.<sup><a name="5A" href="#5">5</a></sup> Librarians and mentors can help teens turn their creative output into digital portfolios, or learn how to translate their activities into skills on their resumes. </li>
 </ul><div class="case_study_box">
     <p class="box-title">Cities of Learning: Workforce development</p>
 <p>Experiential learning is an important part of building the well-rounded worker needed in the 21st century.</p>
@@ -81,12 +81,10 @@ In addition to these categories of outcomes identified by YALSA, we found a few 
 <hr/>
 <a name="1" href="#1A">1</a>: ["Teens First”](http://www.ala.org/yalsa/teens-first). YALSA.
 
-<a name="2" href="#2A">2</a>: [P21 Framework Definitions](http://www.p21.org/storage/documents/docs/P21_Framework_Definitions_New_Logo_2015.pdf). Partnership for 21st Century Learning, 2015. 
+<a name="2" href="#2A">2</a>: Partnership for 21st Century Learning. Retrieved from http://www.p21.org/ (no longer available).
 
 <a name="3" href="#3A">3</a>: [Unemployment among young adults: Exploring employer-led solutions](https://www.brookings.edu/research/unemployment-among-young-adults-exploring-employer-led-solutions/). By M. Ross, C. Gatz, J. Ng, R. Kazis, & N.P. Svajleka. Brookings, 2015.
 
-<a name="4" href="#4A">4</a>: Partnership for 21st Century Learning, 2012. ["Our History."](http://www.p21.org/about-us/our-history)
+<a name="4" href="#4A">4</a>: National Research Council, 2012. _Education for Life and Work: Developing Transferable Knowledge and Skills in the 21st Century_. Edited by James W. Pellegrino, Margaret L. Hilton, and the Committee on Defining Deeper Learning and 21st Century Skills. Washington, D.C.: The National Academies Press. https://doi.org/10.17226/13398
 
-<a name="5" href="#5A">5</a>: National Research Council, 2012. _Education for Life and Work: Developing Transferable Knowledge and Skills in the 21st Century_. Edited by James W. Pellegrino, Margaret L. Hilton, and the Committee on Defining Deeper Learning and 21st Century Skills. Washington, D.C.: The National Academies Press. https://doi.org/10.17226/13398
-
-<a name="6" href="#6A">6</a>: Matthias, Cynthia, and Christy Mulligan. “Hennepin County Library’s Teen Tech Squad: Youth Leadership and Technology Free-for-All.” Young Adult Library Services 2010, no. Winter (2010): 13–16.
+<a name="5" href="#5A">5</a>: Matthias, Cynthia, and Christy Mulligan. “Hennepin County Library’s Teen Tech Squad: Youth Leadership and Technology Free-for-All.” Young Adult Library Services 2010, no. Winter (2010): 13–16.

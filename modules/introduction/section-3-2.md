@@ -13,7 +13,7 @@ Many of the librarians we spoke to expressed anxiety about their ability to keep
 
 > “It’s not domain-specific knowledge that we should be looking at as much as an underlying disposition for learning and capacity for future learning that’s the most important outcome.”<br/>-- Mimi Ito
 
-By emphasizing the hows and whys behind the use of technology, rather than the specific whats, connected learning builds skills that will transfer to whatever new developments are around the corner. A variety of skills, from computational thinking to photo composition, can be learned just as well on simple or even analog technologies as they can be learned with the latest edtech--and will be useful for years or even decades to come. 
+By emphasizing the hows and whys behind the use of technology, rather than the specific whats, connected learning builds skills that will transfer to whatever new developments are around the corner. A variety of skills, from computational thinking to photo composition, can be learned just as well on simple or even analog technologies as they can be learned with the latest edtech and will be useful for years or even decades to come. 
 
 Another way connected learning builds capacity in teens is by affecting their sense of self through both production and shared purpose elements. Through creative experiences and interactions with experts, teens can begin to see themselves as learners, creators, or professionals. This changed perception of themselves inspires and empowers them to continue being learners, creators, and professionals. For teens who believe that certain opportunities—like a STEM career or college—are not available to them, a change in self-concept can be a powerful catalyst for growth and development.’ 
 

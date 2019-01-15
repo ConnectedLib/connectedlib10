@@ -40,4 +40,4 @@ Much of the time, your information needs can be met with one or two assessments.
 
 <a name="fn1">1</a>: [Introduction to Program Evaluations for Connected Learning](Introduction to Program Evaluations for Connected Learning), 5:15. 
 
-<a name="fn2">2</a>: Surrounded by Science: Learning Science in Informal Environments. (2010). Washington, D.C.: National Academies Press. https://doi.org/10.17226/12614 p 111
+<a name="fn2" href="2">2</a>: [Surrounded by Science: Learning Science in Informal Environments](https://doi.org/10.17226/12614) by Marilyn Fenichel and Heidi A. Schweingruber, p. 111. National Academies Press, 2010. 

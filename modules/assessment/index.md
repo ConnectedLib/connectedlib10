@@ -11,9 +11,6 @@ subsection: overview
 
 <p class="time">90 minutes</p>
 
-
-## Module Overview
-
 Are your learning initiatives accomplishing what you want? What do you want to be able to say about what participants learned? How would you find out what they learned? In this module, you will discover how to assess learning and evaluate connected learning initiatives.
 
 <div class="objectives">
@@ -36,4 +33,4 @@ The ConnectedLib team would like to thank Michelle Fellows, William Penuel, Kati
 {% include how_to_use.html %} 
 
 At the end of each section, there are additional resources for you to explore further on your own if you choose.
-Ready to get started? Let’s begin with Section 1: Introduction to Assessment and Evaluation.
+Ready to get started? Let’s begin with [Section 1: Introduction to Assessment & Evaluation](section-1-0.html).

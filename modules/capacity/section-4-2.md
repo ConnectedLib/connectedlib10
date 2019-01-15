@@ -31,17 +31,19 @@ Step 3:
 Step 4: 
 <ul><li>Write a summary of the conversation afterwards for future reference</li></ul></td></tr>
 
-<tr><th>Town Halls</th><td>Town Halls are planned get togethers with your community where you discuss current issues, events, and other information. These are similar to focus groups, which we covered in <a href="{{site.url}}{{site.baseurl}}/modules/communitymapping/index.html">Community Mapping.</a><br><br>
-Town Halls can be formal or  informal, and can be conducted simply as community “get togethers” with coffee, snacks, and a few questions asked for the group to answer after you’ve done some mingling or tackled other library business.<br><br>
-This is an example of how an informal town hall event brought residents together into a shared space that was less intimidating:<br><a href="http://www.courant.com/community/bloomfield/hc-news-bloomfield-town-hall-meeting-20180123-story.html" target="_blank">http://www.courant.com/community/bloomfield/hc-news-bloomfield-town-hall-meeting-20180123-story.html</a><br>
-Here is an example of how Anne Arundel County Public Library performed formal town halls regarding budget cuts:<br>  
-<a href="https://www.urbanlibraries.org/town-hall-meetings-innovation-246.php?page_id=103" target="_blank">https://www.urbanlibraries.org/town-hall-meetings-innovation-246.php?page_id=103</a></td></tr>
+<tr><th>Town Halls</th><td><p>Town Halls are planned get togethers with your community where you discuss current issues, events, and other information. These are similar to focus groups, which we covered in <a href="{{site.url}}{{site.baseurl}}/modules/communitymapping/index.html">Community Mapping.</a></p>
+<p>Town Halls can be formal or  informal, and can be conducted simply as community “get togethers” with coffee, snacks, and a few questions asked for the group to answer after you’ve done some mingling or tackled other library business.</p>
+<ul>
+	<li>An informal town hall event can <a href="http://www.courant.com/community/bloomfield/hc-news-bloomfield-town-hall-meeting-20180123-story.html" target="_blank">bring residents together into a shared space</a> that is less intimidating</li>
+	<li>Anne Arundel County Public Library performed <a href="https://www.urbanlibraries.org/town-hall-meetings-innovation-246.php?page_id=103" target="_blank">formal town halls</a> regarding budget cuts</li></ul>
+
+		</td></tr>
 
 <tr><th>Other Informal Methods</th><td>Other informal methods include: 
- <ol><li>"<b>Postcard Surveys</b>” where you send a postcard with close ended questions and community members can mark it and mail it back</li>  
+ <ul><li>"<b>Postcard Surveys</b>” where you send a postcard with close ended questions and community members can mark it and mail it back</li>  
 <li>Using the “<b>Grape Vine</b>” by asking a key member of a certain organization to ask their members a few questions and get back to you with their answers</li>
 <li><b>Observation</b>: attending community events, organizations, schools, and other locations where your community meets and simply observing. What are some issues being raised?</li>
-</ol></td></tr></table>
+</ul></td></tr></table>
 
 
 Once you have used one or more of these methods to collect information about your community and their needs, you can map these out visually. Here is an example using our favorite midsize library:
@@ -62,4 +64,4 @@ You may have noticed that this map lists the needs of community members in relat
 
 <hr/>
 
-<a name="fn1">1</a>:  -- Kretzmann, J. P., & McKnight, J. L. (1993). Building from the inside out: A path toward finding and mobilizing a community’s assets. Chicago, IL: ACTA Publications. P. 13.
+<a name="fn1" href="#1">1</a>: _Building communities from the inside out: A path toward finding and mobilizing a community’s assets_, pg. 13. By John Kretzmann and John McKnight, 1993. Chicago, IL: ACTA Publications.

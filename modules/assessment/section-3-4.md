@@ -23,6 +23,6 @@ Just as the outcomes of connected learning are often nontraditional, so are the 
 
 <hr/>
 
-<a name="fn1">1</a>:  -- PI guide p 51
+<a name="fn1">1</a>: [Principal Investigator’s Guide: Managing Evaluation in Informal STEM Education Projects](http://www.informalscience.org/evaluation/pi-guide), by R. Bonney, K. Ellenbogen, L. Goodyear, & R. Hellenga, p. 51. Center for Advancement of Informal Science Education, 2001.
 
-<a name="fn2">2</a>:  -- Kellogg p33
+<a name="fn2">2</a>: [W. K. Kellogg Foundation Evaluation Handbook](https://dmlcommons.net/wp-content/uploads/2015/12/Kellog-2006.pdf), p. 33. 

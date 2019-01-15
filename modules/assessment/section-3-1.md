@@ -16,7 +16,7 @@ An evaluation can have several stakeholders. After yourself, the most prominent 
 - Other community members who are impacted by the initiative.  
 - People who may want to participate in the future.  
 
-Your stakeholders should be involved in the evaluation process—defining values, identifying essential measures, and collecting or providing data. They may have different perspectives on what the outcomes should be and ways to measure them. You may not be able to speak to every individual stakeholder, but try to get input from representatives of each group, at least. However, don’t fall into the trap of thinking you have to follow every recommendation from every group—as the saying goes, if you try to please everyone, you end up pleasing no one.<sup>[6](#fn6)</sup> The purpose of an evaluation is to inform a decision, not dictate the path forward.<sup>[7](#fn7)</sup> 
+Your stakeholders should be involved in the evaluation process—defining values, identifying essential measures, and collecting or providing data. They may have different perspectives on what the outcomes should be and ways to measure them. You may not be able to speak to every individual stakeholder, but try to get input from representatives of each group, at least. However, don’t fall into the trap of thinking you have to follow every recommendation from every group — as the saying goes, if you try to please everyone, you end up pleasing no one.<sup>[1](#fn1)</sup> The purpose of an evaluation is to inform a decision, not dictate the path forward.<sup>[1](#fn1)</sup> 
 
 The answer to the question should be something one or more of your stakeholder groups can use to make a decision (such as continuing to fund a program or ending a partnership). 
 
@@ -31,6 +31,4 @@ The answer to the question should be something one or more of your stakeholder g
 
 <hr/>
 
-<a name="fn6">6</a>:  -- Bonney, R., Ellenbogen, K., Goodyear, L., & Hellenga, R. (Eds.). (2001). Principal investigator’s guide: Managing evaluation in informal STEM education projects. Washington, D.C.: Center for Advancement of Informal Science Education. Retrieved from http://www.informalscience.org/evaluation/pi-guide (p3)
-<br> 
-<a name="fn7">7</a>:  -- Bonney, R., Ellenbogen, K., Goodyear, L., & Hellenga, R. (Eds.). (2001). Principal investigator’s guide: Managing evaluation in informal STEM education projects. Washington, D.C.: Center for Advancement of Informal Science Education. Retrieved from http://www.informalscience.org/evaluation/pi-guide (p4)
+<a name="fn1">1</a>: [Principal Investigator’s Guide: Managing Evaluation in Informal STEM Education Projects](http://www.informalscience.org/evaluation/pi-guide), by R. Bonney, K. Ellenbogen, L. Goodyear, & R. Hellenga, pp. 3-4. Center for Advancement of Informal Science Education, 2001.

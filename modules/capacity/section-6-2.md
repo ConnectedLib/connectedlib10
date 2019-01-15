@@ -9,7 +9,7 @@ subsection: six-two
 
 The previous sections have identified how to troubleshoot challenges using the strengths and assets of your library and surrounding community. In this section, we will focus on how to optimize your library’s current capacity with the resources your library already has. 
 
-**How to Make it Work**
+## How to Make it Work
 
 You have the ability to run strong programs with the resources that you library already has. Knowing your library’s unique capacity allows you to leverage your resources in new ways that can feel like the library just got a new operating budget--when in reality it was because of the intimate knowledge of your current resources!  
 

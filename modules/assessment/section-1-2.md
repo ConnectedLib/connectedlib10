@@ -1,6 +1,6 @@
 ---
 layout: module
-title: 1.2 What is an Evaluation
+title: 1.2 What is an Evaluation?
 module_name: assessment
 module_full_name: Assessment and Evaluation
 section: 1. Introduction

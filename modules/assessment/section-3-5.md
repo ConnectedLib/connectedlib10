@@ -23,7 +23,7 @@ If you will be sharing it with people who aren’t deeply familiar with the proj
 These sections explain in greater detail what your program does, and how and why you expect it to achieve what you want.  
 
 - **Program goals**. Introduce the impacts and outcomes you hope your project will have.  
-- **Theory of change or logic model**. This section explains “how and why the program will work”<sup>[16](#fn16)</sup> in both narrative and graphic formats. (For more about developing theories of change, see the Connected Learning Programs module.) 
+- **Theory of change or logic model**. This section explains “how and why the program will work”<sup>[1](#fn1)</sup> in both narrative and graphic formats. (For more about developing theories of change, see the Connected Learning Programs module.) 
 - **Activities**. Include a list of all the activities that will take place as part of the project being evaluated. You may break them into categories—e.g., activities that staff will complete, activities the partner will complete, and activities the program participants will complete. 
 
 ## About the Evaluation  
@@ -45,4 +45,4 @@ This is the “nitty gritty” section that lays out the details of how you will
 
 <hr/>
 
-<a name="fn16">16</a>:  -- Weiss, C. H. (1995). Nothing as practical as good theory: Exploring theory-based evaluation for comprehensive community initiatives for children and families. New Approaches to Evaluating Community Initiatives: Concepts, Methods, and Contexts, 1, 65–92.
+<a name="fn1">1</a>:  _Nothing as Practical as Good Theory: Exploring Theory-Based Evaluation for Comprehensive Community Initiatives for Children and Families_, pp. 65-92, by C. H. Weiss. In _New Approaches to Evaluating Community Initiatives: Concepts, Methods, and Contexts_.

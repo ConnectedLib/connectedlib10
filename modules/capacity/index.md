@@ -9,7 +9,7 @@ subsection: overview
 
 {% include license.html %}
 
-<p class="time">90 minutes</p>
+<p class="time">120 minutes</p>
 
 In the <b>Capacity</b> module, you will learn how to self-assess the unique capacity of your library and infuse connected learning into programs for libraries big and small.
 

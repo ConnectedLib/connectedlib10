@@ -5,7 +5,7 @@ title: "ConnectedLib"
 description: "Helping librarians use digital media with teens."
 analytics: #Google analytics code in the format XX-nnnnnnnn-n
 url: "https://connectedlib.github.io"
-baseurl: "/Connected-Learning-Modules" #important: start with /
+baseurl: "/" #important: start with /
 
 # Build settings
 markdown: kramdown

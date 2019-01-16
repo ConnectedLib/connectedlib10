@@ -1,6 +1,6 @@
 ---
 layout: module
-title: 3.1 Designing a Mentorship-focused Program- A Step by Step Approach
+title: 3.1 Designing a Mentorship-focused Program&#58; A Step-by-Step Approach
 module_name: mentoring
 module_full_name: Mentoring
 section: 3. Developing Mentors and Mentorship Programs
@@ -9,7 +9,7 @@ subsection: three-one
 
 There are four steps in designing a mentorship-focused program:
 
-### STEP 1: Design your program and develop a mentoring roadmap. 
+## STEP 1: Design your program and develop a mentoring roadmap. 
 
 What are your goals? What participants are you looking for? Different individuals can play a role in mentoring. For initial ideas, we outline three different types of mentoring roles that can happen within libraries:  
 
@@ -38,15 +38,15 @@ During the planning of your mentoring roadmap, evaluate the following elements:
 - Format of the program (One-on-one or group mentoring, workshop setting, virtual or in person, partnership with a community organization or school, mentorship included into an established program) 
 - Commitments expected: (e.g., In our program, we are looking for someone to share an hour of their time each week to____) 
 
-### STEP 2: Connect with mentors/mentees. 
+## STEP 2: Connect with mentors/mentees. 
 
 The Young Adult Library Services Association (YALSA) outlines some key competencies to look for in mentors, including: 
 
 - Interest in helping others learn, both in one-on-one and in small group situations 
 - Demonstrated commitment to lifelong learning 
-- Time commitment to participate in all aspects of the program (YALSA, 2012) 
+- Time commitment to participate in all aspects of the program<sup><a name="1" href="#fn1">1</a></sup>
 
-In addition, consider that "youth are often the ones to approach adults as potential mentors" (Shannon L. Interview 4-17). You might be able to help facilitate the connection. Talk to and observe your youth community and their interests. Perhaps you can help introduce potential mentees to mentors who can help them reach their goals. 
+In addition, consider that "youth are often the ones to approach adults as potential mentors."<sup><a name="2" href="#fn2">2</a></sup> You might be able to help facilitate the connection. Talk to and observe your youth community and their interests. Perhaps you can help introduce potential mentees to mentors who can help them reach their goals. 
 
 Think about your matching process: 
 
@@ -54,9 +54,9 @@ Think about your matching process:
 - What type of on-boarding or training will mentors be offered? 
 - Is there any incentive/recognition for the mentors? 
 
-Make a plan for launching or promoting the mentoring opportunities or connecting with possible community partners and organizations. Craft a message and talking points to deliver and present to local organizations (see [Community partnerships]({{site.url}}{{site.baseurl}}/partnerships/index.html)). 
+Make a plan for launching or promoting the mentoring opportunities or connecting with possible community partners and organizations. Craft a message and talking points to deliver and present to local organizations (see [Community partnerships](../partnerships/index.html)). 
 
-### STEP 3: Guide both your mentors and mentees. 
+## STEP 3: Guide both your mentors and mentees. 
 
 For longer term situations, how do you plan to support the mentors and mentee relationships over time? Some ideas include: 
 
@@ -68,11 +68,11 @@ For longer term situations, how do you plan to support the mentors and mentee re
   - Expectations and boundaries; What the mentor's role is and isn’t 
   - Best practices for communicating with youth 
   - Suggestions for building rapport 
-  - Factors affecting teen development (see our Youth Development module for ideas) 
+  - Factors affecting teen development (see [Youth Development](../youth-development/) for ideas) 
 
-For longer term situations, research evidence suggests providing ways that mentors and mentees can have a “closure ritual”, or final meeting and activity to positively, rather than abruptly, end the mentoring relationship (Dubois & Karcher, 2013). 
+For longer term situations, research evidence suggests providing ways that mentors and mentees can have a “closure ritual”, or final meeting and activity to positively, rather than abruptly, end the mentoring relationship.<sup><a name="3" href="#fn3">3</a></sup> 
 
-### STEP 4: Checking in or evaluating the relationship 
+## STEP 4: Checking in or evaluating the relationship 
 
 How will you evaluate mentoring programs/relationships? Here are few questions to ask: 
 
@@ -80,3 +80,12 @@ How will you evaluate mentoring programs/relationships? Here are few questions t
 - What were the mentor and mentee's goals? Are they reaching them? 
 - If desired or appropriate, how can we sustain the relationship over time? 
 - Are both parties satisfied with the relationship?
+
+<hr/>
+
+
+<a name="fn1" href="#1">1</a>:  [Teen Services Competencies for Library Staff](http://www.ala.org/yalsa/guidelines/yacompetencies2010). YALSA, 2017.
+
+<a name="fn2" href="#2">2</a>:  Personal interview with Shannon Lake, April 7, 2017.
+
+<a name="fn3" href="#3">3</a>:  DuBois, D. L., & Karcher, M. J. (Eds.). (2013). _Handbook of youth mentoring_. SAGE. 

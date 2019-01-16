@@ -11,8 +11,6 @@ subsection: overview
 
 <p class="time">90 minutes</p>
 
-## Module Overview
-
 This module provides broad guidelines surrounding how the design experiences of youth librarians and young people can be supported. 
 
 <div class="objectives">
@@ -26,5 +24,6 @@ This module provides broad guidelines surrounding how the design experiences of 
 </div>
 {% include how_to_use.html %}
 
-At the end of each section, there are additional resources for you to explore further on your own if you choose.
-Ready to get started? Let’s begin with [Section 1: Introduction to Design Thinking](section-1.html).
+At the end of each module, there are additional resources for you to explore further on your own if you choose.
+
+Ready to get started? Let’s begin with [Section 1: Introduction to Design Thinking](section-1-0.html).

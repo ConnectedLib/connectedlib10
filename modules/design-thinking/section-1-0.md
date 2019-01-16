@@ -11,7 +11,7 @@ This section provides an introduction to the basic principles of design thinking
 
 
 <div class="objectives">
-<p>After completing Section 1: Introduction, you will be able to...</p>
+<p>After completing this section, you will be able to...</p>
 <ul>
   <li>Describe design thinking and the design thinking process</li>
   <li>Understand how design thinking relates to connected learning and to youth librarians</li>

@@ -10,13 +10,13 @@ subsection: five
 This section discusses how to develop and support adult mentors from your community.
 
 <div class="objectives">
-	<p>After completing Section 5: Adult and Community Mentors, you will be able to...</p>
+	<p>After completing this section, you will be able to...</p>
 <ul>
   <li>Develop and support adult mentors from your community</li> 
 </ul>
 </div>
 
-Libraries have a longstanding tradition of providing youth with access to adult and community mentors. These experiences can help youth with employment efforts, technology training, and career development (Yohalem & Pittman, 2003). The first step is often identifying a potential community partner. As we mentioned in our section on Designing Mentorship-Focused Programming, youth are often the ones to first approach adults as potential mentors and helping to facilitate that relationship may be a first step.  
+Libraries have a longstanding tradition of providing youth with access to adult and community mentors. These experiences can help youth with employment efforts, technology training, and career development.<sup><a name="1" href="#fn1">1</a></sup>  The first step is often identifying a potential community partner. As we mentioned in our section on Designing Mentorship-Focused Programming, youth are often the ones to first approach adults as potential mentors and helping to facilitate that relationship may be a first step.  
 
 Some communities have coalitions of youth-serving organizations that can either help identify mentors or make recommendations and introductions to potential mentors. For more information about how to connect with community partners, please review our Community Partnerships module.  
 
@@ -33,3 +33,7 @@ A few organizations that can help identify adult mentors and volunteers include:
 For example, an urban western library worked with used AmeriCorps Vista. Through their mentor coordinator, the library gained assistance in identifying volunteers. Specifically, they helped 
 
 >“... find people from the community that will come in and either teach something that they're already passionate about, or if they just love being with youth, come over and just listen to the youth and then help them follow their passions.” -- Urban Western Library
+
+<hr/>
+
+<a name="fn1" href="#1">1</a>: [Public Libraries as Partners in Youth Development: Lessons and Voices from the Field](http://forumfyi.org/files/PublicLibrariesYD.pdf), by Nicole Yohalem and Karen Pittman. Forum for Youth Investment, 2003.

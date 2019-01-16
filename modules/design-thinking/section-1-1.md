@@ -17,4 +17,4 @@ Design thinking is also a method for generating and developing ideas that center
 
 <hr/>
 
-<a name="fn1" href="#1">[1]</a> Susan Wise, [Design Thinking in Education: Empathy, Challenge, Discovery, and Sharing](https://www.edutopia.org/blog/design-thinking-empathy-challenge-discovery-sharing-susie-wise). 
+<a name="fn1" href="#1">1</a>: [Design Thinking in Education: Empathy, Challenge, Discovery, and Sharing](https://www.edutopia.org/blog/design-thinking-empathy-challenge-discovery-sharing-susie-wise), by Susan Wise. 

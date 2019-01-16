@@ -11,16 +11,14 @@ subsection: overview
 
 <p class="time">90 minutes</p>
 
-## Module Overview
-
 Explore what’s going on in a teen’s mind — literally — and learn how to apply a developmental lens to your youth programming. 
 
 <div class="objectives">
-<p>After completing the Assessment and Evaluation module, you will be able to...</p>
+<p>After completing this module, you will be able to...</p>
 <ul>
-	<li>Describe major theories of youth development and apply them to the creation of connected learning programs for teens (<a href="{{site.url}}{{site.baseurl}}/modules/youth-development/section-1-0.md">Section 1: Theories of Youth Development</a>).</li>
-	<li>Understand how identity, relationships, and morality affect a teen’s developmen (<a href="{{site.url}}{{site.baseurl}}/modules/youth-development/section-2-0/">Section 2: Developing an Identity</a>).</li>
-	<li>Summarize trends in teens’ use of digital media and explain how the role of teen services in libraries is changing (<a href="{{site.url}}{{site.baseurl}}/modules/youth-development/section-3-0.md">Section 3: Teens and Digital Media</a>).</li>
+	<li>Describe major theories of youth development and apply them to the creation of connected learning programs for teens (<a href="section-1-0.html">Section 1: Theories of Youth Development</a>).</li>
+	<li>Understand how identity, relationships, and morality affect a teen’s developmen (<a href="section-2-0.html">Section 2: Developing an Identity</a>).</li>
+	<li>Summarize trends in teens’ use of digital media and explain how the role of teen services in libraries is changing (<a href="section-3-0.html">Section 3: Teens and Digital Media</a>).</li>
 </ul>
 </div>
 
@@ -28,5 +26,6 @@ In this module, we’ll explore how youth grow and learn, develop their own iden
 
 {% include how_to_use.html %} 
 
-At the end of each section, there are additional resources for you to explore further on your own if you choose.
+At the end of each module, there are additional resources for you to explore further on your own if you choose.
+
 Ready to get started? Let’s begin with Section 1: Introduction to Assessment and Evaluation.

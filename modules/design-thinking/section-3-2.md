@@ -9,13 +9,13 @@ subsection: three-two
 
 The ideation phase focuses on refining your ideas. You don’t need to use expensive or cutting-edge tools. Many of the following ideation techniques can be completed using paper and pen. Thus, the following section focuses on everyday tools and techniques you can integrate into your work with youth.  
 
-### Brainstorming 
+# Brainstorming 
 
 The brainstorming technique often occurs throughout the different stages of the design process or within a Participatory Design session. You’ve probably used brainstorming in a variety of ways such as discovering programming ideas, planning community partnerships, or collaborating with other youth librarians. In addition to sticky noting and big pieces of paper, some other everyday tools you can use to assist in brainstorming sessions include: 
 
-- **Photos, Magazines, or Found Images**. Incorporate photos or found images into your brainstorming session to elicit responses or opinions. For instance, you or youth can flip through magazines as inspiration or to collage out ideas. You can also use imagery to display the direction of your ideas or inspire you to think in new ways (OpenIDEO, 2011). For more about the use of visuals in the ideation phase, see our section on Design Representations.  
+- **Photos, Magazines, or Found Images**. Incorporate photos or found images into your brainstorming session to elicit responses or opinions. For instance, you or youth can flip through magazines as inspiration or to collage out ideas. You can also use imagery to display the direction of your ideas or inspire you to think in new ways.<sup><a name="1" href="#fn1">1</a></sup> For more about the use of visuals in the ideation phase, see our section on Design Representations.  
 - **Sketchbooks**. You or youth can jot down your ideas and notes on the fly or develop sketches of a working design.  
-- **Online brainstorming tools**. Explore brainstorming tools, like Bubbl.us (https://bubbl.us/) or LucidChart (https://www.lucidchart.com/) to collaborate with others on ideas.  
+- **Online brainstorming tools**. Explore brainstorming tools, like [Bubbl.us](https://bubbl.us/) or [LucidChart](https://www.lucidchart.com/) to collaborate with others on ideas.  
 
 Here are some general tips from youth librarians around the US on how they approach brainstorming and ideation: 
 
@@ -30,11 +30,24 @@ Along with brainstorming, other techniques for idea generation include design re
 A few design representation methods include: 
 
 - **Mock ups**. Using just a sketch pad or a whiteboard, you draw out what your design or new service might look like. If you can have a potential audience who will use your design to sketch out their own ideas--even better! Think about how you might use mock ups in presenting your ideas to potential stakeholders.  
-- **Personas**. Using the personas method, you and/or youth will visualize and write out the key characteristics of the different users of your design or idea. This method helps you tailor your design to specific demographics or communities. Ideally, you have completed interviewing and observations of people to form your personas (Olsen, 2004). Questions for building personas include: 
+- **Personas**. Using the personas method, you and/or youth will visualize and write out the key characteristics of the different users of your design or idea. This method helps you tailor your design to specific demographics or communities. Ideally, you have completed interviewing and observations of people to form your personas.<sup><a name="2" href="#fn2">2</a></sup> Questions for building personas include: 
   - Who am I? 
   - What are my interests? 
   - What’s my personality? 
-  - What is my work and home environment? (DIY Toolkit, 2016)  
-- **Photo Essays**. Through photo essays, you have potential users photograph their experiences throughout a day. This gives you a visual “day in the life” of that person (IDEO, Design Thinking Toolkit, 2016). This method helps you understand a person’s everyday, lived experiences.  
-- **Prototypes**. As we outlined in our section on Participatory Design, prototypes are models that let you test your ideas cheaply and quickly (Jacobsen, 2016). Prototypes can represent objects, services, or spaces. For example, as a youth librarian, you might introduce a smaller, pop up low-fidelity (or simple) prototype of a makerspace using paper sketches or printouts before investing into a full-scale maker environment.  
-- **Storyboards**. As a low cost prototype to help you envision a project or story from start to finish, consider the use of  a storyboard, or a sequence of images and words that form a narrative (IDEO Toolkit, 2016). You and youth can use storyboards to map out your idea using tools like post-its and white boards. 
+  - What is my work and home environment?<sup><a name="3" href="#fn3">3</a></sup> 
+- **Photo Essays**. Through photo essays, you have potential users photograph their experiences throughout a day. This gives you a visual “day in the life” of that person.<sup><a name="4" href="#fn4">4</a></sup> This method helps you understand a person’s everyday, lived experiences.  
+- **Prototypes**. As we outlined in our section on Participatory Design, prototypes are models that let you test your ideas cheaply and quickly.<sup><a name="5" href="#fn5">5</a></sup> Prototypes can represent objects, services, or spaces. For example, as a youth librarian, you might introduce a smaller, pop up low-fidelity (or simple) prototype of a makerspace using paper sketches or printouts before investing into a full-scale maker environment.  
+- **Storyboards**. As a low cost prototype to help you envision a project or story from start to finish, consider the use of  a storyboard, or a sequence of images and words that form a narrative.<sup><a name="4" href="#fn4">4</a></sup> You and youth can use storyboards to map out your idea using tools like post-its and white boards. 
+
+<hr/>
+
+
+<a name="fn1" href="#1">1</a>: [7 Tips on Better Brainstorming](https://challenges.openideo.com/blog/seven-tips-on-better-brainstorming) OpenIDEO, 2011. 
+
+<a name="fn2" href="#2">2</a>: Olsen, 2004
+
+<a name="fn3" href="#3">3</a>: [Personas](http://diytoolkit.org/tools/personas-2/) DIY Toolkit, 2016.
+
+<a name="fn4" href="#4">4</a>: IDEO, Design Thinking Toolkit, 2016
+
+<a name="fn5" href="#5">5</a>: [Design Thinking Maximizes Maker Spaces](http://www.slj.com/2016/03/technology/design-thinking-maximizes-maker-spaces/#_), by L. Jacobsen, 2016.

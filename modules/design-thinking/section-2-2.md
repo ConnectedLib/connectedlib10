@@ -20,8 +20,12 @@ Who is the target audience?
   - How might your project improve something or someone?  
   - How will stakeholders hear about the concept or end results?  
 
-What are your design constraints and how do you deal with them? Design constraints are boundaries that can influence design directions (Lopez, 2012). For instance, in our designing a safe space for teens example, design constraints might include budget, project deadlines, community preferences, and available space within the library.  A few tips for working with youth and design constraints include:  
+What are your design constraints and how do you deal with them? Design constraints are boundaries that can influence design directions.<sup><a name="1" href="#fn1">1</a></sup> For instance, in our designing a safe space for teens example, design constraints might include budget, project deadlines, community preferences, and available space within the library.  A few tips for working with youth and design constraints include:  
 
 - Embrace the design constraints by writing them out and coming up with possible solutions and workarounds  
-- Explain that constraints can be “useful guideposts” for what’s relevant to the design challenge that demonstrate when you may be off-course (Lopez, 2012)  
-- Think about how youth or librarians my impose design constraints on the project without realizing it (Lopez, 2012)  
+- Explain that constraints can be “useful guideposts” for what’s relevant to the design challenge that demonstrate when you may be off-course.<sup><a name="1" href="#fn1">1</a></sup>  
+- Think about how youth or librarians my impose design constraints on the project without realizing it.<sup><a name="1" href="#fn1">1</a></sup> 
+
+<hr/>
+
+<a name="#fn1" href="#1">1</a>: [Tips for Concepting: Designing with Constraints](https://challenges.openideo.com/blog/tips-for-concepting-designing-with-constraints), by B. Lopez. OpenIDEO, 2012. 

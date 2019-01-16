@@ -7,7 +7,7 @@ section: 3. Developing Mentors and Mentorship Programs
 subsection: three-four
 ---
 
-“Mentoring the mentors” is an integral part of all librarianship. Many librarians we talked to discuss the importance of providing each other with mentoring and support in meetings, training sessions, workshops, or informal conversations (Haines and Campbell, 2016).  
+“Mentoring the mentors” is an integral part of all librarianship. Many librarians we talked to discuss the importance of providing each other with mentoring and support in meetings, training sessions, workshops, or informal conversations.<sup><a name="1" href="#fn1">1</a></sup>
 
 Library organizations such as American Libraries Association and YALSA offer mentoring programs such as: 
 
@@ -23,3 +23,8 @@ Many library associations affiliated with ALA and YALSA also offer mentorship pr
 - Chinese American Librarians Association 
 
 In addition, librarians we talked to discuss the informal mentoring that occurs when they network with other librarians. Likewise, social networking, such as creating a professional Facebook page or joining different Facebook groups can allow librarians to connect with others, discuss ideas in a group format, and meet other librarians. INTS-059 says: “I actually call people a lot and I text people and I follow people on their Instagrams. And then I actually like getting together with people in real life and having dinner…” Other librarians have also sought out mentors and connections with those outside the library field, such as teachers, professionals in STEM fields, parents of tweens and teens, and faculty within library schools, who provide unique insight from other areas of expertise.
+
+<hr/>
+
+<a name="fn1" href="#1">1</a>: Haines, C., & Campbell, C. (2016). _Becoming a Media Mentor: A Guide for Working with Children and Families_. American Library Association. 
+ 

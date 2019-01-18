@@ -7,18 +7,19 @@ section: 1. Theories of Youth Development
 subsection: one-four
 ---
 
->"Most of the images of reality on which we base our actions are really based on vicarious experience." -- Albert Bandura<sup>[10](#fn10)</sup> 
+>"Most of the images of reality on which we base our actions are really based on vicarious experience."<br/>— Albert Bandura<sup><a name="1" href="#fn1">1</a></sup>
 
 In the early 1960s, Albert Bandura’s (1925 - present) classic Bobo doll experiments demonstrated how children mimic or “model” actions and behaviors that they have seen adults perform. Bandura’s **social cognitive learning theory** (an expansion of his earlier **social learning theory**) describes how learning can occur through observation, not just direct experience. 
 
-<div class="explanatory">  
-  <p><span class="box-title">KEY CONCEPTS FROM BANDURA’S SOCIAL COGNITIVE THEORY</span></p> 
-  <p>Excerpt from LIS 516: Youth Development and Behavior in a Digital Age [0:45] by Dr. Katie Davis and the University of Washington 
-<br>
-[clip from Lecture 1 - 7:40 to 8:25 - 0:45]
-</p> 
-</div>
-<br>
+<div class="explanatory">
+  <p>Key Concepts from Bandura's Social Cognitive Theory</p>
+  <p>Excerpt from LIS 516: Youth Development and Behavior in a Digital Age by Dr. Katie Davis and the University of Washington</p>
+<p class="videotime">0:46</p><p class="source">Dr. Katie Davis, University of Washington</p>
+
+<div class="video">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M8x1AfXWXQ4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+</div></div>
+
 
 <table class="colorful-th"> 
   <tr><th colspan="2">Social Learning</th></tr>
@@ -32,7 +33,7 @@ Young people are not just copying what they see: the act of observation leads th
 
 <div class="explanatory">  
   <p><span class="box-title">MENTORS</span></p> 
-  <p>Any adult or peer can model behavior, but the learning that occurs is often stronger when the model is someone who frequently interacts with a young person, or someone who the young person perceives as being similar to themselves (for instance, someone from the same cultural background, of the same gender or ethnicity, or having similar interests and passions).<sup><a href="#fn11">11</a></sup> These factors suggest that mentors can play a significant role in learning. (See the Mentoring module for more.)</p>
+  <p>Any adult or peer can model behavior, but the learning that occurs is often stronger when the model is someone who frequently interacts with a young person, or someone who the young person perceives as being similar to themselves (for instance, someone from the same cultural background, of the same gender or ethnicity, or having similar interests and passions).<sup><a name="2" href="#fn2">2</a></sup> These factors suggest that mentors can play a significant role in learning. (See the <a href="../mentoring/" target="_blank">Mentoring</a> module for more.)</p>
 </div>
 <br>
     
@@ -49,7 +50,7 @@ Young people are not just copying what they see: the act of observation leads th
   <p><span class="box-title">TEST YOUR KNOWLEDGE</span></p> 
 
   <p>Social cognitive learning theory posits that youth learn through:</p> 
-  <ol type="A">
+  <ol>
   <li>Observing other people’s behaviors and the consequences </li>
   <li>Negative and positive reinforcement</li>
   <li>Peer interaction</li>
@@ -59,6 +60,6 @@ Young people are not just copying what they see: the act of observation leads th
 
 <hr/>
 
-<a name="fn10">10</a>:  -- Bandura, A. (1986). Social foundations of thought and action: A social cognitive theory. Englewood Cliffs, NJ: Prentice-Hall.
-<br>
-<a name="fn11">11</a>:  --  Bandura, 1977. 
+<a name="fn1" href="#1">1</a>: Bandura, A. (1986). _Social foundations of thought and action: A social cognitive theory_. Englewood Cliffs, NJ: Prentice-Hall.
+
+<a name="fn2" href="#2">2</a>: Bandura, 1977

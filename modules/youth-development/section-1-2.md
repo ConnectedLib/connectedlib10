@@ -7,19 +7,18 @@ section: 1. Theories of Youth Development
 subsection: one-two
 ---
 
->"What a child can do with assistance today she will be able to do by herself tomorrow." - Lev Vygotsky<sup>[3](#fn3)</sup> 
+>"What a child can do with assistance today she will be able to do by herself tomorrow."<br/>— Lev Vygotsky<sup><a name="1" href="#fn1">1</a></sup>
 
 Soviet psychologist Lev Vygotsky’s (1896-1934) **sociocultural learning theory** emphasizes the role of social interactions with parents, caregivers, and peers in cognitive development.
 
-<div class="explanatory">  
-  <p><span class="box-title">KEY CONCEPTS FROM VYGOTSKY’S SOCIOCULTURAL LEARNING THEORY</span></p> 
-<p>Excerpt from LIS 516: Youth Development and Behavior in a Digital Age [1:04] by Dr. Katie Davis and the University of Washington 
-  <br>
-[clip from Lecture 1 - 4:58 to 6:02 - 1:04]
+<div class="explanatory">
+  <p>Key Concepts from Vygotsky's Sociocultural Learning Theory</p>
+  <p style="font-size:small;font-style:italic;">Excerpt from LIS 516: Youth Development and Behavior in a Digital Age by Dr. Katie Davis and the University of Washington</p>
+<p class="videotime">1:02</p><p class="source">Dr. Katie Davis, University of Washington</p>
 
-</p> 
-  </div>
-<br>
+<div class="video">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/inNEpfNPcZ4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+</div></div>
 
 <table class="colorful-th"> 
   <tr><th colspan="2">Cognitive Tools</th></tr>
@@ -44,27 +43,26 @@ I was in the zone of proximal development for parallel parking. There was a good
 
 Read the rest of her post, <a href="http://www.cuppacocoa.com/the-zone-of-proximal-development/" target="_blank">The Zone of Proximal Development</a>.</p>  
 </div> 
-<br>
 
-<div class="explanatory">  
-  <p><span class="box-title">SCAFFOLDING EXPLAINED</span></p> 
-  <p>Scaffolding for Student Success [4:08] by Alberta Education</p>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/CTR_snb-0nQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
- 
-</div>
-<br>
+<div class="explanatory">
+  <p>Scaffolding Explained</p>
+<p class="videotime">4:08</p><p class="source">Alberta Education</p>
+
+<div class="video">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/CTR_snb-0nQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+</div></div>
 
 
 ## Putting sociocultural learning theory into practice 
 
->“I really like group tasks. I like breaking people up into teams, I love the idea of peer-mentoring… That’s a great way to start building community.” -- INTS-059 
+>“I really like group tasks. I like breaking people up into teams, I love the idea of peer-mentoring… That’s a great way to start building community.”<br/>—INTS-059 
 
-Vygotsky’s sociocultural learning theory can be seen in the relationships and shared purpose principles of connected learning. Social scaffolding strategies include:<sup>[4](#fn4)</sup>  
+Vygotsky’s sociocultural learning theory can be seen in the relationships and shared purpose principles of connected learning. Social scaffolding strategies include: 
 
-- Showing or demonstrating techniques and activities, not just describing them (Edutopia) 
-- Connecting learning to prior knowledge by asking youth to share their ideas and experiences (Edutopia) 
+- Showing or demonstrating techniques and activities, not just describing them<sup><a name="2" href="#fn2">2</a></sup>
+- Connecting learning to prior knowledge by asking youth to share their ideas and experiences<sup><a name="2" href="#fn2">2</a></sup>
 - Encouraging youth to learn from each other through group discussions and projects 
-- Providing opportunities for peer feedback     
+- Providing opportunities for peer feedback<
 
 
 <div class="reflection"> 
@@ -93,11 +91,9 @@ Vygotsky’s sociocultural learning theory can be seen in the relationships and 
   <li>Activities the learner cannot achieve on their own</li>
   </ol>
 </div>
-<br>
-<br>
-
 
 <hr/>
-<a name="fn3">3</a>:  -- http://www.psy.cmu.edu/~siegler/vygotsky78.pdf
 
-<a name="fn4">4</a>:  -- https://www.edutopia.org/blog/scaffolding-lessons-six-strategies-rebecca-alber
+<a name="fn1" href="#1">1</a>: http://www.psy.cmu.edu/~siegler/vygotsky78.pdf
+
+<a name="fn2" href="#2">2</a>: https://www.edutopia.org/blog/scaffolding-lessons-six-strategies-rebecca-alber

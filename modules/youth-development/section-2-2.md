@@ -8,17 +8,15 @@ subsection: two-two
 ---
 
 Relationships - with family and with peers - play an important part of development through our lives, and they are an important component of connected learning. Mentoring relationships with other adults can have a powerful impact on the personal, professional, and academic lives of young people (see the Mentoring module for more on mentors).  
-<br>
-<div class="explanatory">  
 
-  <p><span class="box-title">TWEEN RELATIONSHIPS</span></p> 
+<div class="explanatory">
+  <p>Tween Relationships</p>
+  <p>Excerpt from <i>LIS 516: Youth Development and Behavior in a Digital Age</i> by Dr. Katie Davis and the University of Washington</p>
+<p class="videotime">1:58</p><p class="source">Dr. Katie Davis, University of Washington</p>
 
-  <p>Excerpt from LIS 516: <i>Youth Development and Behavior in a Digital Age</i> [???] by Dr. Katie Davis and the University of Washington 
-<br>
-[clip from Lecture8 - 0:34 - 0:45, splice with 2:30 to 4:13]
-  </p> 
-</div> 
-<br> 
+<div class="video">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wcon5oCXcAk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+</div></div>
 
 Although tweens are still dependent on their caregivers, at this age youth begin to focus on social interactions with friends. They begin spending more time with their friends and less time with their parents or other caregivers as they begin to form their own identities in relation to others. Characteristics of tween relationships include:  
 
@@ -28,7 +26,16 @@ Although tweens are still dependent on their caregivers, at this age youth begin
 - Social aggression surfaces. Around age 12, popularity hierarchies develop as tweens begin to compare themselves to social standards. Bullying begins as youth become concerned with defining who is “in” or “out” of the group.  
 
 
-**INDIVIDUATION** 
+## Individuation 
+
+<div class="explanatory">
+  <p>Individuation</p>
+  <p>Excerpt from <i>LIS 516: Youth Development and Behavior in a Digital Age</i> by Dr. Katie Davis and the University of Washington</p>
+<p class="videotime">3:31</p><p class="source">Dr. Katie Davis, University of Washington</p>
+
+<div class="video">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Tgu0eYwm4I8" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+</div></div>
 
 <div class="explanatory">  
   <p><span class="box-title"> VIDEO: bit about individuation (short - week 9)</span></p>

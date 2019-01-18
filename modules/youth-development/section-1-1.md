@@ -7,7 +7,7 @@ section: 1. Theories of Youth Development
 subsection: one-one
 ---
 
->“In order for a child to understand something, he must construct it himself.” -- Jean Piaget<sup>[1](#fn1)</sup> 
+>“In order for a child to understand something, he must construct it himself.” <br/>— Jean Piaget<sup><a href="#fn1" name="1">1</a></sup> 
 
 Drawing on his observations of children, Swiss psychologist Jean Piaget (1896-1980) developed a groundbreaking theory of cognitive development that included four distinct stages. PIaget theorized that people construct knowledge and meaning from their experiences of the world--a concept known as constructivism.
 
@@ -34,8 +34,6 @@ Drawing on his observations of children, Swiss psychologist Jean Piaget (1896-19
   <tr><td>We <b>accommodate</b> new information that doesn’t fit into our schemas by altering our beliefs. </td><td><i>Julia’s family moves to a new town and she enters a high school with students from many different ethnic and cultural backgrounds. Her interactions with new friends may result in experiences that do not fit into her existing schemas, prompting her to change or alter her beliefs to accommodate the new information.</i></td></tr> 
 </table>
 
-
-
 ## Stages of Cognitive Development
 
 Instead of viewing children as miniature adults — a common attitude in his time — Piaget theorized that intellectual growth moves through a series of stages: 
@@ -45,7 +43,6 @@ Instead of viewing children as miniature adults — a common attitude in his tim
 - **Concrete operational** (around ages 7 to 11): Children can perform inductive reasoning around concrete objects — that is, they can logically generalize from a specific experience. For instance, if they sneeze a lot around their friend’s dog, they may conclude that they will be allergic to other dogs as well. 
 - **Formal operational** (adolescence to adulthood): Teens and tweens start to be able to reason logically about abstract concepts like algebra, social justice, or freedom. They may begin to think more critically about moral or ethical issues, such as norms in an online community or principles regarding right or wrong. They are able to devise their own solutions and answers to problems without needing firsthand experience. 
 
-<br>
 <div class="explanatory">  
   <p><span class="box-title">UPDATING PIAGET</span></p> 
 
@@ -86,6 +83,7 @@ Most tweens and teens will be in the concrete operational stage or the early for
 </div>
 
 <hr/>
-<a name="fn1">1</a>:  -- Piers, M. W., Ed. (1972). Play and Development. New York, NY: Norton. 
- 
-<a name="fn2">2</a>:  -- (Johnson, Blum, Giedd, 2009)
+
+<sup><a name="1" href="#fn1">1</a></sup>: Piers, M. W., Ed. (1972). _Play and Development_. New York, NY: Norton.
+
+<sup><a name="2" href="#fn2">2</a></sup>: Johnson, S. B., Blum, R. W., & Giedd, J. N. (2009). Adolescent maturity and the brain: the promise and pitfalls of neuroscience research in adolescent health policy. _Journal of Adolescent Health, 45_(3), 216-221.

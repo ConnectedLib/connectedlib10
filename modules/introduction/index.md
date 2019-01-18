@@ -9,7 +9,7 @@ subsection: overview
 
 <p class="made-by"><a href="https://creativecommons.org/licenses/by-sa/4.0">CC-BY-SA</a> by ConnectedLib</p>
 
-<p class="time">90 minutes</p>
+<p class="time">45 minutes</p>
 
 
 In this module, **Introduction to Connected Learning**, you will learn what connected learning is and why it is important, and evaluate your youth programs to see how well they incorporate connected learning principles.
@@ -26,6 +26,6 @@ In this module, **Introduction to Connected Learning**, you will learn what conn
 
 {% include how_to_use.html %} 
 
-At the end of each section, there are additional resources for you to explore further on your own if you choose.
+At the end of each module, there are additional resources for you to explore further on your own if you choose.
 
 Ready to get started? Let’s begin with [Section 1: Introduction to Connected Learning](section-1.html).

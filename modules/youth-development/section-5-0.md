@@ -16,3 +16,14 @@ subsection: five
   <li><a href="https://youtu.be/4AoLk5nbliM" target="_blank">Vygotsky and Scaffolding</a> is a 4-minute video by <a href="https://www.youtube.com/channel/UCHthk9ptjiSjD_VcCZB3ehA" target="_blank">Peter Lyon</a></li>
   <li>In this 20-minute TedX Talk titled <a href="https://www.youtube.com/watch?v=6-dFTmdX1kU" target="_blank">Seymour Papert: Inventor of Everything</a>, Gary Stager introduces Seymour Papert’s “wit, wisdom, and powerful ideas.”</li>
 </ul>
+
+
+- <a href="https://www.chatelaine.com/living/features-living/social-media-teens/">https://www.chatelaine.com/living/features-living/social-media-teens/</a> <br>
+
+- Explore the <a href="https://www.commonsense.org/education/digital-citizenship">Digital Literacy and Citizenship Classroom Curriculum</a>. Brainstorm some ways you can incorporate digital literacy and digital literacy into your programming or activities within a library setting. 
+
+<ul>
+  <li><a href="https://www.ted.com/talks/daphne_bavelier_your_brain_on_video_games#373535" target="_blank">Your Brain On Video Games</a> - In this TED Talk, Daphne Bavelier discusses some potential benefits of video games.</li>
+  <li><a href="https://www.ted.com/talks/jane_mcgonigal_gaming_can_make_a_better_world" target="_blank">Gaming Can Make a Better World</a> - In this TED Talk, Jane McGonigal talks about how video games can be used for social good.</li>
+</ul> 
+

@@ -32,11 +32,10 @@ Each of these systems interrelate and interact with one another, demonstrating t
 <div class="explanatory">
   <p>Digital Technology Through an Ecological Lens</p>
   <p>Excerpt from LIS 516: Youth Development and Behavior in a Digital Age by Dr. Katie Davis and the University of Washington</p>
-  <p>[clip from Lecture 1 - 21:45 to 23:22 - 1:37]</p>
-<p class="videotime">3:31</p><p class="source">Dr. Katie Davis, University of Washington</p>
+<p class="videotime">1:49</p><p class="source">Dr. Katie Davis, University of Washington</p>
 
 <div class="video">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o2_jcLEF1Kg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 </div></div>
     
 <div class="reflection"> 

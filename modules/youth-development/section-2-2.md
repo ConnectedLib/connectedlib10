@@ -31,24 +31,20 @@ Although tweens are still dependent on their caregivers, at this age youth begin
 <div class="explanatory">
   <p>Individuation</p>
   <p>Excerpt from <i>LIS 516: Youth Development and Behavior in a Digital Age</i> by Dr. Katie Davis and the University of Washington</p>
-<p class="videotime">3:31</p><p class="source">Dr. Katie Davis, University of Washington</p>
+<p class="videotime">0:38</p><p class="source">Dr. Katie Davis, University of Washington</p>
 
 <div class="video">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Tgu0eYwm4I8" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OWZzckF8dSg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 </div></div>
-
-<div class="explanatory">  
-  <p><span class="box-title"> VIDEO: bit about individuation (short - week 9)</span></p>
-</div>  
 
 In childhood, parents’ authority is unilaterally applied and children may have little say in decision-making. As youth move into adolescence, the relationship between youth and their caregivers becomes reorganized. Teens start to view their parents as imperfect individuals, rather than as all-knowing figures. Parental authority becomes limited to certain areas, and teens take part in more decision making.  
 
-The process of finding a balance between separation and connection is called individuation.<sup>[18](#fn18)</sup> Teens begin to move away from dependence, but still remain connected to their parents. It’s important for parents to provide teens some separation and space to have a private life, but they do not require total separation.  
+The process of finding a balance between separation and connection is called individuation.<sup><a name="1" href="#fn1">1</a></sup> Teens begin to move away from dependence, but still remain connected to their parents. It’s important for parents to provide teens some separation and space to have a private life, but they do not require total separation.  
 
 
-**TEENS AND CAREGIVERS** 
+## Teens and Caregivers
 
-Parents and caregivers have multiple roles to play in teens’ lives to support their individuation process.<sup>[19])#fn19)</sup>  
+Parents and caregivers have multiple roles to play in teens’ lives to support their individuation process.<sup><a name="1" href="#fn1">1</a></sup>
 
 - **Instrumental support enables separation**. Giving career advice, helping with schoolwork, and other instrumental activities help teens grow more independent from their parents.  
 
@@ -56,52 +52,45 @@ Parents and caregivers have multiple roles to play in teens’ lives to support 
 
 These roles have often fallen along traditional gender lines (fathers providing instrumental support, with emotional support coming from mothers). However, there is growing recognition that these roles are fluid, and different types of caregivers can support teens’ individuation in different ways. What is important is that teens have people they can turn to for both emotional and instrumental support. 
 
-
-**SIBLINGS**
+## Siblings
 
 Teens with siblings often spend more time with them than with their parents. Teens may serve as gatekeepers or teachers of cultural knowledge and practical skills for their younger siblings. This relationships also provide youth with a testbed to practice social behaviors, such as conflict resolution.  
 
-<br>
-<div class="explanatory">  
+<div class="explanatory">
+  <p>Tweens and Peers</p>
+  <p>Excerpt from <i>LIS 516: Youth Development and Behavior in a Digital Age</i> by Dr. Katie Davis and the University of Washington</p>
+<p class="videotime">2:24</p><p class="source">Dr. Katie Davis, University of Washington</p>
 
-  <p><span class="box-title">TWEENS AND PEERS</span></p> 
-
-  <p>Excerpt from LIS 516: <i>Youth Development and Behavior in a Digital Age</i> [???] by Dr. Katie Davis and the University of Washington <br>
-
-[clip from Lecture 8 - 5:00 to 7:25]
-  </p> 
-</div> 
-<br> 
+<div class="video">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YeNf_8XXpaU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+</div></div>
 
 During the teen years, youth begin to spend more time with their peers than with their caregivers.  
 
 - **Friendships become less instrumental**. Teens learn about themselves and who they are through peer interaction. As they mature, the concept of a friend becomes less about shared activities and more about shared values. Respect, trust, and symmetrical reciprocity become central.  
-- **Best friendships or “chumships” are highly influential**. These friendships feature intimacy and self-disclosure.<sup>[20](#fn20)</sup> Girls’ chumships tend to develop earlier and feature a greater degree of intimacy than boys’.  
+- **Best friendships or “chumships” are highly influential**. These friendships feature intimacy and self-disclosure.<sup><a name="2" href="#fn2">2</a></sup> Girls’ chumships tend to develop earlier and feature a greater degree of intimacy than boys’.  
 - **Teens find themselves as part of “the crowd.”** Along with cliques, the concept of “the crowd” and which one a teen fits into begins to emerge. Many of these crowds are imposed by stereotypes — the jocks, the geeks, the goths. But as teens get older, their ties to cliques and crowds may begin to loosen, allowing them to move beyond their groups. 
 
-<br>
-<div class="explanatory">  
+<div class="explanatory">
+  <p>Peer Conflict</p>
+  <p>Excerpt from <i>LIS 516: Youth Development and Behavior in a Digital Age</i> by Dr. Katie Davis and the University of Washington</p>
+<p class="videotime">0:45</p><p class="source">Dr. Katie Davis, University of Washington</p>
 
-  <p><span class="box-title">PEER CONFLICT</span></p> 
-
-  <p>Excerpt from LIS 516: <i>Youth Development and Behavior in a Digital Age</i> [???] by Dr. Katie Davis and the University of Washington <br>
-[clip from Lecture 8 -  7:23 - 8:08]
-  </p> 
-</div> 
-<br> 
+<div class="video">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JzEOzGyJmyE" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+</div></div>
 
 - **Social aggression appears around ages 11 or 12**. Peer conflict arrives alongside the cliques, crowds, and social hierarchies. **Bullying** arises as it becomes important to youth to figure out who is in or out of their social group.  
 
 - **Conflict decreases as adolescence progresses**. When youth begin to stabilize their sense of identity, relying less on their social groups to define them, peer conflict tends to decrease.
 
-<br>
 <div class="reflection"> 
 
   <p><span class="box-title">REFLECTION</span></p> 
 
   <p>In what ways do you see relationships developing at the library? </p>
 </div> 
-<br>
+
 <div class="reflection"> 
 
   <p><span class="box-title">TEST YOUR KNOWLEDGE</span></p> 
@@ -114,12 +103,9 @@ During the teen years, youth begin to spend more time with their peers than with
   <li>Similarity</li>
   </ol>
 </div> 
-<br>
 
-**Footnotes:**
+<hr/>
 
-<a name="fn18">18</a>:  -- Youniss & Smollar, 1985
-<br>
-<a name="fn19">19</a>:  -- Youniss & Smollar, 1985 
-<br>
-<a name="fn20">20</a>:  -- Sullivan, 1953
+<a name="fn1" href="#1">1</a>: Youniss & Smollar, 1985
+
+<a name="fn2" href="#2">2</a>: Sullivan, 1953

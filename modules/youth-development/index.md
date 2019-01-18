@@ -28,4 +28,4 @@ In this module, we’ll explore how youth grow and learn, develop their own iden
 
 At the end of each module, there are additional resources for you to explore further on your own if you choose.
 
-Ready to get started? Let’s begin with [Section 1: Introduction to Assessment and Evaluation](section-1-0.html).
+Ready to get started? Let’s begin with [Section 1: Theories of Youth Development](section-1-0.html).

@@ -24,4 +24,40 @@ Hands-on, creative activities are not just powerful learning experiences. Buildi
 <iframe src="https://www.youtube.com/embed/hEkkw4Akijg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div>
 </div>
 
+<div class="reflection">
+	<p>Self-Assessment: Production</p>
+	<p>How well do your youth services and programs incorporate the principle of <b>production</b>?</p>
+	<table class="worksheet">
+		<tr>
+			<th>Example</th>
+			<th>Your Rating</th>
+			<th>Points</th>
+		</tr>
+		<tr>
+			<td>Teens have access to digital and physical tools to help them build, create, and perform</td>
+			<td>😃 😐 😱</td>
+			<td></td>
+		</tr>
+		<tr>
+			<td>Teens are encouraged to remix and curate content</td>
+			<td>😃 😐 😱</td>
+			<td></td>
+		</tr>
+		<tr>
+			<td>Teens’ creations are made visible outside of the library</td>
+			<td>😃 😐 😱</td>
+			<td></td>
+		</tr>
+		<tr>
+			<td>Teens are allowed to work on their own creative ideas</td>
+			<td>😃 😐 😱</td>
+			<td></td>
+		</tr>
+				<tr>
+			<th colspan="2">Total</th>
+			<td></td>
+		</tr>
+	</table>
 
+
+</div>

@@ -23,8 +23,4 @@ While the three spheres describe learning contexts, the four design principles d
 - **Shared Purpose**: Connecting teens to an effort that is bigger than themselves
 - **Sponsorship**: Peers and adults validating teens’ interests through mentorship and other support
 
-<div class="reflection">
-	<p>Self-assessment worksheet</p>
-	<p>As you read through this section, think about your library’s youth services and programs. How well do they incorporate the spheres of teen learning and design principles of connected learning? Use the worksheet to conduct your assessment.</p>
-	<p><a href="docs/Intro_SelfAssessment.docx">Download Worksheet (DOCX)</a></p>
-</div>
+

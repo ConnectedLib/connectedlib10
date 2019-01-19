@@ -24,3 +24,38 @@ Providing “multiple pathways” involves creating networks and infrastructures
   </div>
 </div>
 
+<div class="reflection">
+	<p>Self-Assessment: Multiple Pathways</p>
+	<p>How well do your youth services and programs incorporate the principle of <b>multiple pathways</b>?</p>
+	<table class="worksheet">
+		<tr>
+			<th>Example</th>
+			<th>Your Rating</th>
+			<th>Points</th>
+		</tr>
+		<tr>
+			<td>Teens have access to a “kitchen” or “menu” of resources they can choose from to create their own projects</td>
+			<td>😃 😐 😱</td>
+			<td></td>
+		</tr>
+		<tr>
+			<td>Learning occurs and creations are shared across contexts</td>
+			<td>😃 😐 😱</td>
+			<td></td>
+		</tr>
+		<tr>
+			<td>Achievement is recognized through shareable products like badges or digital portfolios</td>
+			<td>😃 😐 😱</td>
+			<td></td>
+		</tr>
+		<tr>
+			<td>Teens can connect projects and resources in whatever way fits their individual interests and goals</td>
+			<td>😃 😐 😱</td>
+			<td></td>
+		</tr>
+		<tr>
+			<th colspan="2">Total</th>
+			<td></td>
+		</tr>
+	</table>
+</div>

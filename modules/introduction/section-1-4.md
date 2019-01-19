@@ -7,7 +7,7 @@ title: 1.4 Opportunity
 subsection: one-four
 ---
 
-> “A college degree has become a requirement for most good jobs but is no longer a guarantee of acquiring one.”<sup><a href="#fn1" name="1">1</a></sup> 
+> “A college degree has become a requirement for most good jobs but is no longer a guarantee of acquiring one.”<br/><br/>— _Connected Learning: An Agenda for Research and Design_, by Mizuko Ito et al.<sup><a href="#fn1" name="1">1</a></sup> 
 
 Opportunity-oriented learning is directed towards helping teens achieve academic, economic, or civic success, so they perform better in school, build skills that prepare them for a 21st century workplace, or connect with their communities. More importantly, connected learning emphasizes opportunity now, not just in the far-off, theoretical future of a post-school college or job market. Connected learning programs make the benefits to teens visible and tangible, motivating them to fully engage. Participants walk away with knowledge and skills they can use immediately.
 
@@ -45,7 +45,41 @@ Opportunity-oriented learning is directed towards helping teens achieve academic
 <li>How would you help a teen translate their experience with this program into bullet points for a resume? </li>
   </ul></div>
 
-
+<div class="reflection">
+	<p>Self-Assessment: Opportunity</p>
+	<p>How well do your youth services and programs incorporate the principle of <b>opportunity</b>?</p>
+	<table class="worksheet">
+		<tr>
+			<th>Example</th>
+			<th>Your Rating</th>
+			<th>Points</th>
+		</tr>
+		<tr>
+			<td>Teens are connected to mentors with professional experience</td>
+			<td>😃 😐 😱</td>
+			<td></td>
+		</tr>
+		<tr>
+			<td>Programs relate to civic, economic, or academic development</td>
+			<td>😃 😐 😱</td>
+			<td></td>
+		</tr>
+		<tr>
+			<td>Teens see immediate value in activities</td>
+			<td>😃 😐 😱</td>
+			<td></td>
+		</tr>
+		<tr>
+			<td>Activities result in items or performances teens can use to demonstrate their achievements to teachers or future employers</td>
+			<td>😃 😐 😱</td>
+			<td></td>
+		</tr>
+				<tr>
+			<th colspan="2">Total</th>
+			<td></td>
+		</tr>
+	</table>
+</div>
 
   
 <hr/>

@@ -24,4 +24,38 @@ Teens are often sorted based on their ages and where they live, but the resultin
   <iframe width="560" height="315" src="https://www.youtube.com/embed/CkqyRzRehbM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div>
 </div>
 
-
+<div class="reflection">
+	<p>Self-Assessment: Shared Purpose</p>
+	<p>How well do your youth services and programs incorporate the principle of <b>shared purpose</b>?</p>
+	<table class="worksheet">
+		<tr>
+			<th>Example</th>
+			<th>Your Rating</th>
+			<th>Points</th>
+		</tr>
+		<tr>
+			<td>There are group projects and activities</td>
+			<td>😃 😐 😱</td>
+			<td></td>
+		</tr>
+		<tr>
+			<td>There are mentors who can collaborate and co-learn with teens</td>
+			<td>😃 😐 😱</td>
+			<td></td>
+		</tr>
+		<tr>
+			<td>Activities involve teens of different ages and from different backgrounds</td>
+			<td>😃 😐 😱</td>
+			<td></td>
+		</tr>
+		<tr>
+			<td>Teens contribute to real-world projects and initiatives</td>
+			<td>😃 😐 😱</td>
+			<td></td>
+		</tr>
+		<tr>
+			<th colspan="2">Total</th>
+			<td></td>
+		</tr>
+	</table>
+</div>

@@ -17,8 +17,10 @@ Connected learning is an educational framework that connects interests, relation
 </ul>
 </div>
 
-<div class="reflection"><p class="box-title">Learning Aid: Connected Learning KWL</p>
-<p>Complete this worksheet by first describing your experience (if any) with connected learning. Then create a list of what you already know (the K in KWL) about connected learning. In the second column, write down what you want (W) to learn in this module. You’ll fill out the last column, what you learned (L), when you have completed this module.</p>
-<ul><li><a href="docs/Intro_KWL.docx">Download Worksheet (DOCX)</a></li></ul>
+<div class="reflection">
+	<p>Self-assessment worksheet</p>
+	<p>As you read through sections 1 (Introduction) and 2 (Connected Learning Design Principles), think about your library’s youth services and programs. How well do they incorporate the spheres of teen learning and design principles of connected learning? Use the worksheet to conduct your assessment.</p>
+	<p><a href="docs/Intro_SelfAssessment.docx">Download Worksheet (DOCX)</a></p>
 </div>
+
 

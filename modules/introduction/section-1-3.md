@@ -7,7 +7,9 @@ title: 1.3 Relationships
 subsection: one-three
 ---
 
-> “Watching the teens find each other and connect with each other and realize,’Oh, I'm not the only geek on the planet, and there are other people that are really into stuff in an intense way and that's okay and we can celebrate it’...Our writing club did fairytale fanfiction all summer and it was awesome to see how they bonded and got more comfortable sharing their geek with each other... Connecting the teens to each other is [a] huge success.”<br/>-- Suburban Northeast Library
+<!-- quote from INTK_035 -->
+
+> “Watching the teens find each other and connect with each other and realize,'Oh, I'm not the only geek on the planet, and there are other people that are really into stuff in an intense way and that's okay and we can celebrate it'... Our writing club did fairytale fanfiction all summer and it was awesome to see how they bonded and got more comfortable sharing their geek with each other... Connecting the teens to each other is [a] huge success.”<br/><br/>-- Head of Circulation & Young Adult Librarian at a Suburban Northeast Library
 
 When learning is supported by relationships, teens aren’t just learning with each other -— they’re also learning from each other by sharing their ideas, providing constructive feedback, and collaborating on projects.
 
@@ -24,4 +26,38 @@ When learning is supported by relationships, teens aren’t just learning with e
 <iframe src="https://www.youtube.com/embed/whc_ZivyEdA" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div>
   </div>
 
-
+ <div class="reflection">
+	<p>Self-Assessment: Interests</p>
+	<p>How well do your youth services and programs incorporate the principle of <b>interests</b>?</p>
+	<table class="worksheet">
+		<tr>
+			<th>Example</th>
+			<th>Your Rating</th>
+			<th>Points</th>
+		</tr>
+		<tr>
+			<td>Teens have time and space to “just hang out”</td>
+			<td>😃 😐 😱</td>
+			<td></td>
+		</tr>
+		<tr>
+			<td>Teens collaborate, share projects and activities, and give constructive feedback to each other</td>
+			<td>😃 😐 😱</td>
+			<td></td>
+		</tr>
+		<tr>
+			<td>Programs incorporate elements of culture that are important to teens</td>
+			<td>😃 😐 😱</td>
+			<td></td>
+		</tr>
+		<tr>
+			<td>Staff help teens build or join a community around their interests</td>
+			<td>😃 😐 😱</td>
+			<td></td>
+		</tr>
+				<tr>
+			<th colspan="2">Total</th>
+			<td></td>
+		</tr>
+	</table>
+</div>

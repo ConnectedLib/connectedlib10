@@ -9,7 +9,7 @@ subsection: overview
 
 {% include license.html %}
 
-<p class="time">2.5 hours</p>
+<p class="time">75 minutes</p>
 
 In this module, **Connected Learning Programming**, you will learn how connected learning fits in with a 21st century library. This module provides an overview of the program design process and offers some springboards to help inspire your next teen initiative.
 
@@ -26,11 +26,17 @@ In this module, **Connected Learning Programming**, you will learn how connected
 	<p><span class="box-title">Learning aid: Programming KWL</span></p>
 	<p>Complete this worksheet by first describing your experience (if any) with creating programs for teens (include your experience with connected learning programs if you have any). Then create a list of what you already know (the K in KWL) about creating connected learning programs. In the second column, write down what you want (W) to learn in this module. You’ll fill out the last column, what you learned (L), when you have completed this module.</p>
 	<p class="word_download"><a href="docs/programming_kwl.docx">Download worksheet (DOCX)</a></p>
-	<ul>
-		<li>What do you already know about connected learning programming?</li>
-		<li>What do you want to learn about connected learning programming?</li>
-		<li><i>What did you learn from this module about connected learning programming? (You will answer this question at the end of the module.)</i></li>
-	</ul>
+	<table class="worksheet">
+	<tr><th>What do you already know about connected learning programming?</th>
+		<th>What do you want to learn about connected learning programming?</th>
+		<th><i>What did you learn from this module about connected learning programming? (You will answer this question at the end of the module.)</i></th>
+	</tr>
+	<tr>
+		<td style="height:250px;"></td>
+		<td></td>
+		<td></td>
+	</tr>
+</table>
 </div>
 
 {% include how_to_use.html %}

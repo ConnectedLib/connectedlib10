@@ -7,9 +7,10 @@ section: 4. Establishing a Parnership
 subsection: four-two
 ---
 
->"Leverage small wins to demonstrate proof of concept and deepen productive relationships. While it’s important to dream big, small successes can go a long way towards making collaboration practiced and easy.”<sup><a href="#fn1" name="1">1</a></sup> 
+>"Leverage small wins to demonstrate proof of concept and deepen productive relationships. While it’s important to dream big, small successes can go a long way towards making collaboration practiced and easy.”<br/><br/>— Coalition to Advance Learning in Archives, Libraries and Museums<sup><a href="#fn1" name="1">1</a></sup> 
 
->“Communicate often and very far ahead of time.” -- Western Urban Library 
+<!-- INTS_058 -->
+>“Communicate often and very far ahead of time.”<br/><br/>— Librarian at a western urban library 
 
 New partnerships will always have an element of the unknown for both you and your partner, which may be stressful for both of you.<sup><a href="#fn1">1</a></sup>  As a rural midwestern library worker admitted frankly, “It's always a bit nerve-wracking the first couple of times that we have a partner in 'cause you make your follow-up calls, you do what you can, and then you find out how things go. And either they're excellent or….” The following strategies will increase the odds of an “excellent” partnership. 
 
@@ -47,4 +48,4 @@ Make sure you both understand what is needed to fill your roles successfully. Fo
 
 <hr/>
 
-<a name="fn1" href="#1">[1]</a> <a href="http://www.coalitiontoadvancelearning.org/why-collaborate/best-practices-in-collaboration/" target="_blank">Coalition to Advance Learning in Archives, Libraries and Museums. “Best Practices in Collaboration.” Coalition to Advance Learning in Archives, Libraries and Museums, 2016.</a>
+<a name="fn1" href="#1">1</a>: <a href="http://www.coalitiontoadvancelearning.org/why-collaborate/best-practices-in-collaboration/" target="_blank">Best Practices in Collaboration</a>. Coalition to Advance Learning in Archives, Libraries and Museums, 2016.

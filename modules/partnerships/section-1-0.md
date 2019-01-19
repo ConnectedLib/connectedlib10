@@ -16,7 +16,7 @@ In this section we will discuss what community mapping is and why it is importan
 </ul>
 </div>
 
->Working with other community members can expand what a library can provide for teens and create with teens when it comes to media literacy education, and this will give teens the chance to connect to others who can play a valuable educational, informational, and personal role in their lives, especially in relation to workforce preparedness.<br/>— Linda Braun et al.<sup><a href="#fn1" name="1">1</a></sup> 
+>Working with other community members can expand what a library can provide for teens and create with teens when it comes to media literacy education, and this will give teens the chance to connect to others who can play a valuable educational, informational, and personal role in their lives, especially in relation to workforce preparedness.<br/><br/>— Linda Braun et al. in <a href="http://www.ala.org/yaforum/future-library-services-and-teens-project-report" style="font-weight:normal;">The Future of Library Services For and With Teens: A Call to Action</a>
 
 A planetarium evaluates library branches locations for stargazing potential. A university provides mentors to work side-by-side with youth services librarians. Public and school librarians work together to provide a dynamic afterschool experience for students. Professional filmmakers work with teens who go on to win filmmaking awards and teach library workshops of their own. 
 
@@ -32,19 +32,15 @@ In order to prepare youth with the 21st-century skills they need in today’s in
 	<tr><th>Production Centered</th><td>By providing access to materials, equipment, or expertise that the library lacks, partners can expose youth to new creative experiences.</td></tr>
 	<tr><th>Shared Purpose</th><td>Partners can give teens a chance to contribute to an effort bigger than the kinds of projects that are usually available to them. </td></tr>
 	<tr><th>Peer Supported</th><td>Community groups can help bring new audiences to library programs, making new peer connections possible. </td></tr>
+	<tr><th>Sponsorship</th><td>Adults, mentors, and peer experts show teens that their goals are valid and important through mentoring or providing other support</td></tr>
 </table>
 
 
-<div class="reflection">
-	<p>Community Partnerships KWL</p>
-<p>Complete this worksheet by first describing your experience (if any) with forming or maintaining a community partnership. Then create a list of what you already know (the K in KWL) about community partnerships. In the second column, write down what you want (W) to learn in this module. You’ll fill out the last column, what you learned (L) when you have completed this module.</p>
-<ul><li><a href="docs/partnerships_KWL.docx">Community Partnerships KWL Worksheet (DOCX)</a></li></ul>
 
-</div>
 
 <hr/>
 
-<a href="#1" name="fn1">1</a>: [**The Future of Library Services For and With Teens: A Call to Action**](http://www.ala.org/yaforum/future-library-services-and-teens-project-report), p8. By Linda W. Braun, Maureen L. Hartman, Sandra Hughes-Hassell, Kafi Kumasi, and Beth Yoke. YALSA, 2014. 
+<a href="#1" name="fn1">1</a>: [The Future of Library Services For and With Teens: A Call to Action](http://www.ala.org/yaforum/future-library-services-and-teens-project-report). By Linda W. Braun, Maureen L. Hartman, Sandra Hughes-Hassell, Kafi Kumasi, and Beth Yoke. YALSA, 2014. 
 
 <a name="fn2" href="#2">2</a>: [_Connected Libraries: Surveying the Current Landscape and Charting the Path to the Future_ ](http://connectedlib.ischool.uw.edu/connected-learning-in-libraries) By Kelly M. Hoffman, Mega Subramaniam, Saba Kawas, Ligaya Scaff, and Katie Davis. University of Maryland, College Park/University of Washington, 2016.
 

@@ -6,8 +6,8 @@ module_full_name: Community Partnerships
 section: 3. Types of Partners
 subsection: three-three
 ---
-
->“We've partnered with a nonprofit organization... and they're local and their focus is to get everyone coding… We're both really excited. He loves libraries, and wanted to get technology and his organization doesn't really have a building. They just teach, but they don't have a site. So libraries are always good for space. So we were able to come together for a Computer Science Education Week.”<br/>— Urban Northeastern Library 
+<!-- INTK_033 -->
+>“We've partnered with a nonprofit organization... and they're local and their focus is to get everyone coding… We're both really excited. He loves libraries, and wanted to get technology and his organization doesn't really have a building. They just teach, but they don't have a site. So libraries are always good for space. So we were able to come together for a Computer Science Education Week.”<br/><br/>— Teen Educator/Librarian at an urban northeastern library 
 
 There are a wide variety of youth-serving organizations other than the informal learning institutions we’ve already discussed. Organizations like the Boys and Girls Club of America, the Boy Scouts of America, the Girl Scouts, 4-H, and YMCA and YWCA are well known, but there may be many smaller groups in your community who have programs focused on youth. Government entities may also fall under this category—for instance, many employment services departments have programs for youth.
 
@@ -21,28 +21,11 @@ There are a wide variety of youth-serving organizations other than the informal 
 <tr><th>Vulnerable teens</th><td>Organizations that work with vulnerable teens may have policies in place to protect them and their privacy, and you may need to adjust your programs or procedures accordingly. Discuss this with your partner during the planning stage so you won’t be surprised by a policy mid-project.</td></tr>
 <tr><th>Turnover</th><td>Organizations that work with teens in particularly difficult situations may have a turnover rate that is higher than normal. To avoid “starting over” with each new employee, try to get more than one person at the other organization invested and involved in your partnership.  
 </td></tr>
-<tr><td colspan="2">
-<blockquote>“It can be hard, because even if you develop a relationship, and then that person leaves after a year, you might have to start over. And there's a new person in that position, and they have a different idea of where they wanna go.” — Southern Suburban Library</blockquote></td></tr>
+<tr><td colspan="2"><!-- INTS_056 -->
+<blockquote>“It can be hard, because even if you develop a relationship, and then that person leaves after a year, you might have to start over. And there's a new person in that position, and they have a different idea of where they wanna go.”<br/><br/>— Youth Services Librarian at a southern suburban library</blockquote></td></tr>
 </table>
 
 
 {% include case_youthOrgs.html %}
 
 
-<div class="case_study_box"> 
-
-<p>Additional Resources</p> 
-<ul>
-  <li>Beyond Books: Restorative Librarianship in Juvenile Detention. (Isaac Gilman, 2008). Public Libraries, 47(1). Available online: <a href="http://commons.pacificu.edu/libfac/1/?utm_source=commons.pacificu.edu%2Flibfac%2F1&utm_medium=PDF&utm_campaign=PDFCoverPages">http://commons.pacificu.edu/libfac/1/?utm_source=commons.pacificu.edu%2Flibfac%2F1&utm_medium=PDF&utm_campaign=PDFCoverPages</a></li>
-
-  <li>Partnering with jails to improve reentry: A guidebook for community-based organizations. (Urban Institute, 2010). Available online: <a href="http://www.urban.org/research/publication/partnering-jails-improve-reentry-guidebook-community-based-organizations/view/full_report" target="_blank">http://www.urban.org/research/publication/partnering-jails-improve-reentry-guidebook-community-based-organizations/view/full_report</a></li>
-
-  <li>Children in Crisis Immigration Toolkit for Libraries (REFORMA, 2016). Advice on serving immigrant youth, including tips for partnerships with organizations that serve them. Available online: <a href="http://refugeechildren.wixsite.com/refugee-children/downloads" target="_blank">http://refugeechildren.wixsite.com/refugee-children/downloads</a></li>
-
-  <li>It’s all about the kids: Presenting options and opening doors. (2008). By Joni Richards Bodart. In Young Adult Library Services, 2008(Fall), 35–45. Amy Cheney discusses her work with incarcerated teens in a juvenile detention center’s library. </li>
-  
-  <li>Connecting With Immigrant and Refugee Youth in Your Library. (Ady Huertas and Patrick Sullivan, 2016). Discusses the San Diego Public Library’s partnership with a shelter for unaccompanied immigrant minors. Available online (free to YALSA members): <a href="http://www.ala.org/yalsa/yalsamemonly/webinars/yell-yalsa-e-learning-library-date" target="_blank">http://www.ala.org/yalsa/yalsamemonly/webinars/yell-yalsa-e-learning-library-date</a></li>
-  
-  <li>It’s Fun to Partner With Y-M-C-A! (Frederick Riley, 2014). An overview of the YMCA’s youth programs. Available online (free to YALSA members): <a href="http://www.ala.org/yalsa/yalsamemonly/webinars/webinars" target="_blank">http://www.ala.org/yalsa/yalsamemonly/webinars/webinars</a></li>
-</ul>
-</div>

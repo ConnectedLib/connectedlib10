@@ -7,8 +7,8 @@ section: 3. Types of Partners
 subsection: three-one
 ---
 
-
->“It's very important to the art museum that they attract more local families and teens, so they have actually sent their education department to our different branches to do programs with families and then they have paid for the transportation... to take those families from the individual branches to the art museum for a field trip.”<br/>— Urban Midwest Library
+<!-- quote from INTK_037 -->
+>“It's very important to the art museum that they attract more local families and teens, so they have actually sent their education department to our different branches to do programs with families and then they have paid for the transportation... to take those families from the individual branches to the art museum for a field trip.”<br/><br/>— Director of Youth & Family Engagement at an urban midwestern library
 
 Libraries are centers for informal learning, so other informal learning institutions—museums, science centers, archives, botanical gardens, and more—make natural partners. These organizations  often share a library’s mission to empower the public through knowledge and learning. 
 
@@ -29,20 +29,6 @@ Libraries are centers for informal learning, so other informal learning institut
 	<ul>
 		<li>Learn more: Twiggs, K., Freitag, C., & Nichols, M. (2016). <a href="http://www.ala.org/yalsa/yalsamemonly/webinars/webinars">Partner with a local museum to reach more teens!</a> [YALSA members webinar].</li>
 	</ul> 
-</div>
-
-<div class="explanatory"> 
-
-<p>More resources for partnering with informal learning institutions</p> 
-
-<ul>
-  <li>The <a href="http://www.coalitiontoadvancelearning.org/">Coalition to Advance Learning in Archives, Libraries and Museums</a> has resources and advice for connecting informal learning institutions, including <a href="http://www.coalitiontoadvancelearning.org/why-collaborate/best-practices-in-collaboration/">best practices in collaboration</a>.</li>
-  <li>The free member search of <a href="https://www.astc.org">Association of Science-Technology Centers</a> can help you identify potential partners in your area.</li>
-  <li><a href="https://educopia.org/publications/spanning-our-field-boundaries-mindfully-managing-lam-collaborations">Spanning Our Field Boundaries: Mindfully Managing LAM Collaborations</a> contains great advice for collaborations.</li>
-  <li>Learn about collaboration from the museum’s point of view with <a href="http://www.nisenet.org/sites/default/files/NISE%20Network%20Collaboration%20Guide%2011-20-2015%20FINAL.pdf">Museum & Community Partnerships: Collaboration Guide for Museums Working With Community Youth-Serving Organizations.</a></li>
-  <li><a href="http://www.nisenet.org/catalog/guide-building-partnerships-between-science-museums-and-university-based-research-centers">A Guide to Building Partnerships Between Science Museums and University-Based Research Centers</a> provides insight not only into partnering with universities, but also into partnerships from the perspective of science centers and museums.</li>
-  <li>Find case studies of several partnerships between museums, libraries, and public broadcasters in <a href="https://www.imls.gov/publications/partnership-nation-learners-joining-forces-creating-value">Partnership for a Nation of Learners: Joining Forces, Creating Value.</a></li>
-</ul>
 </div>
 
 <hr/>

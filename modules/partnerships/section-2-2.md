@@ -6,8 +6,8 @@ module_full_name: Community Partnerships
 section: 2. What is a Community Partnership
 subsection: two-two
 ---
-
->“I've been most recently working with the Boys & Girls Club... to try and get more library programming over there for them and to help them sort of build their capacity for doing programming, either with me or without me.”<br/>— Suburban Midwest Library
+<!-- INTS_063 -->
+>“I've been most recently working with the Boys & Girls Club... to try and get more library programming over there for them and to help them sort of build their capacity for doing programming, either with me or without me.”<br/><br/>— Young Adult Librarian at a suburban midwestern library
 
 The benefits of a partnership to the library are clear, but what about the benefit to the partnering organization or individual? Remember that a partnership supports the goals of both organizations, not just the library. When you approach a potential partner you should present the ways they will benefit as well as what the library and the youth stand to gain.  
 

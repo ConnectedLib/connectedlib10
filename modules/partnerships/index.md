@@ -23,6 +23,25 @@ In this module, you will learn how to expand your programs, your resources, and 
 </ul>
 </div>
 
+<div class="reflection">
+	<p>Community Partnerships KWL</p>
+<p>Complete this worksheet by first describing your experience (if any) with forming or maintaining a community partnership. Then create a list of what you already know (the K in KWL) about community partnerships. In the second column, write down what you want (W) to learn in this module. You’ll fill out the last column, what you learned (L) when you have completed this module.</p>
+<p><a href="docs/partnerships_KWL.docx">Community Partnerships KWL Worksheet (DOCX)</a></p>
+
+<table class="worksheet">
+	<tr><th>What do you already know about community partnerships?</th>
+		<th>What do you want to learn about community partnerships?</th>
+		<th><i>What did you learn from this module about community partnerships? (You will answer this question at the end of the module.)</i></th>
+	</tr>
+	<tr>
+		<td style="height:250px;"></td>
+		<td></td>
+		<td></td>
+	</tr>
+</table>
+
+</div>
+
 {% include how_to_use.html %} 
 
 At the end of each section, there are additional resources for you to explore further on your own if you choose.

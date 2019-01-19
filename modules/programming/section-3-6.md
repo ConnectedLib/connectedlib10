@@ -19,7 +19,7 @@ The theme of your program can facilitate peer supported and interest driven lear
 
 ## The basics
 
-Broad academic topics -- math, history, etc. -- are often good starting places for themes. You can narrow (“women jazz singers”) or widen (“the history of music”) the focus, depending on your goals for the program. If you have a recurring program, you can choose a broad topic and rotate subtopics, or just keep the theme broad and let the teens drive what happens from session to session. A western suburban librarian told us “a couple summers ago, we had Friday afternoon science roundtable discussions, because a kid said that she wished she could just sit down with other kids and talk about science.” 
+Broad academic topics -- math, history, etc. -- are often good starting places for themes. You can narrow (“women jazz singers”) or widen (“the history of music”) the focus, depending on your goals for the program. If you have a recurring program, you can choose a broad topic and rotate subtopics, or just keep the theme broad and let the teens drive what happens from session to session. A teen services librarian in a western suburban area <!-- INTK_028 --> told us “a couple summers ago, we had Friday afternoon science roundtable discussions, because a kid said that she wished she could just sit down with other kids and talk about science.” 
 
 ## The arts
 
@@ -45,7 +45,7 @@ Fun themes can be drawn from television, film, literature, sports, or other elem
 	</div>
 </div>
 
-> [I] listen to the kids that come into the teen scene, try to really track what they're talking to me about, what they're interested in… that's why I have a Doctor Who party, and I've done Minecraft.<br/>— Western Suburban Library
+> [I] listen to the kids that come into the teen scene, try to really track what they're talking to me about, what they're interested in… that's why I have a Doctor Who party, and I've done Minecraft.<br/><br/>— Teen Services Librarian at a western suburban library
 
 ## Current events
 Current events can be a great way to not only attract teens’ attention, but also to help them make connections between what they’re learning and real-world applications.

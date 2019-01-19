@@ -9,24 +9,24 @@ subsection: four-one
 
 When you first approach your partner, you can bring a partnership idea to the table, but be flexible — you may not know all their needs and capabilities at first. If possible, get a feel for how they work, what they're doing, and what their needs are by attending community meetings or events they hold.<sup><a href="#fn1" name="1">1</a></sup>  Make sure you can speak to how the library’s vision is complementary to your potential partner’s mission.<sup><a href="#fn2" name="2">2</a></sup> 
 
-Don’t underestimate the value of starting small, with informal conversations, a small pilot program or a trial collaboration.<sup><a href="#fn3" name="3">3</a>, <a href="#fn4" name="4">4</a></sup> Starting off with a small or one-off collaboration can be a great way to test the waters of a partnership. Whereas a formal partnership with a larger organization may require paperwork and managerial support, smaller efforts are easier, less time-consuming, and can be evidence in support of a more extensive partnership if they go well.<sup><a href="#fn5" name="5">5</a></sup> One way to start small is by finding community events that are already in the planning stages, and offering support or involvement from the library.<sup><a href="#fn6" name="6">6</a></sup>
+Don’t underestimate the value of starting small, with informal conversations, a small pilot program or a trial collaboration.<sup><a href="#fn3" name="3">3</a>, <a href="#fn4" name="4">4</a></sup> Starting off with a small or one-off collaboration can be a great way to test the waters of a partnership. Whereas a formal partnership with a larger organization may require paperwork and managerial support, smaller efforts are easier, less time-consuming, and can be evidence in support of a more extensive partnership if they go well.<sup><a href="#fn5" name="5">5</a></sup> One way to start small is by finding community events that are already in the planning stages, and offering support or involvement from the library.<sup><a href="#fn1" name="1">1</a></sup>
 
 
 ## Preparing your pitch
 
-A community partnership should benefit all stakeholders — the library, the partner, and the community. When proposing a collaboration, it’s important to understand and articulate how the project will benefit each of these. Developing an “elevator speech” for your library or specifically for your youth services department will help you when you approach potential partners.<sup><a href="#fn7" name="7">7</a></sup> Elevator speeches or pitches are “brief opportunities—maybe one minute or less—to pique the interest of anyone whose ear you’d like to bend about libraries.”<sup><a href="#fn8" name="8">8</a></sup> The elevator speech should be specific to your library, and maybe even a single branch, and should highlight the unique contributions the library can bring to the partnership and the impact it can have on youth. Although you may need to tailor the pitch for each potential partner, crafting a flexible, reusable template will save time when you set up future partnerships. 
+A community partnership should benefit all stakeholders — the library, the partner, and the community. When proposing a collaboration, it’s important to understand and articulate how the project will benefit each of these. Developing an “elevator speech” for your library or specifically for your youth services department will help you when you approach potential partners.<sup><a href="#fn6" name="6">6</a></sup> Elevator speeches or pitches are “brief opportunities—maybe one minute or less—to pique the interest of anyone whose ear you’d like to bend about libraries.”<sup><a href="#fn7" name="7">7</a></sup> The elevator speech should be specific to your library, and maybe even a single branch, and should highlight the unique contributions the library can bring to the partnership and the impact it can have on youth. Although you may need to tailor the pitch for each potential partner, crafting a flexible, reusable template will save time when you set up future partnerships. 
 
 
 ## Building a relationship
 
->“It was just a get-to-know-you lunch. Yet, unbeknownst to us, as we sipped soup and ordered sandwiches, we were laying the groundwork for a long, fruitful partnership.” -- Kathleen Baxter and Susan M. Haggberg<sup>[39](#fn39)</sup> 
+>“It was just a get-to-know-you lunch. Yet, unbeknownst to us, as we sipped soup and ordered sandwiches, we were laying the groundwork for a long, fruitful partnership.”<br/><br/>— Kathleen Baxter and Susan M. Haggberg<sup><a href="#fn8" name="8">8</a></sup> 
 
 You can start building relationships with other organizations without a concrete or even a vague goal in mind. Networking with people who have a different perspective on the youth in your community is valuable in and of itself. It’s also a good idea to have an idea of what other organizations are doing for youth, so you don’t duplicate efforts. Informal relationships are often the catalyst for creative partnership ideas born out of simply chatting with each other about your work.
 
 
 ## What if they say no?
 
->“People are afraid of the ‘no,’ and that's truly the worst that can happen. I have been shut down so many times I'm like, ‘Alright, well, there's five more ice cream shops on this block, so I'll find something.’” -- Focus Group Participant 
+>“People are afraid of the ‘no,’ and that's truly the worst that can happen. I have been shut down so many times I'm like, ‘Alright, well, there's five more ice cream shops on this block, so I'll find something.’”<br/><br/>— Focus Group Participant 
 
 No matter how persuasive and well-crafted your pitch is, you may be turned down. Don’t take it personally. Turn it into a learning experience by understanding why the potential partner wasn’t on board. Did you start the conversation with a fully formed concept, without letting them share their input and expertise? Accept critical feedback with grace and an open mind, then determine if it is worth adjusting your approach moving forward. Perhaps you can even re-approach the same partner in the future.
 
@@ -81,30 +81,28 @@ Depending on the size and formality of your project, a written agreement, contra
 <br>
 <div class="explanatory"> 
 
-<p><span class="box-title">ADDITIONAL RESOURCES</span></p> 
+<p><span class="box-title">Resources for Establishin a Partnerships</span></p> 
 
 <ul>
- <li><b>Memorandum of Understanding Sample Template</b>. NISE Network (2015). Available at: http://www.nisenet.org/sites/default/files/MOU%20Sample%20Template%2011-20-2015.docx</li>
- <li><b>Good Teen Librarians Make Great Library Advocates</b>. Maureen L. Hartman (2012). Tips to help teen services librarians form strategic partnerships. In Young Adult Library Services, 2012(Fall).  </li>
+ <li><a href="http://www.nisenet.org/sites/default/files/MOU%20Sample%20Template%2011-20-2015.docx" target="_blank">Memorandum of Understanding Sample Template</a>. NISE Network (2015).</li>
+ <li>"Good Teen Librarians Make Great Library Advocates" by Maureen L. Hartman. Tips to help teen services librarians form strategic partnerships. In <i>Young Adult Library Services, 2012</i>(Fall).  </li>
 </ul>
 </div>
 
 <hr/>
 
-<a name="fn1" href="#1">[1]</a> Cassell, Kay Ann, and Kathleen Weibel. “Celebrating Women’s History Month at Your Library.” American Libraries, March 2010. 
+<a name="fn1" href="#1">1</a>: “Celebrating Women’s History Month at Your Library” by Kay Ann Cassell and Kathleen Weibel. In _American Libraries_, March 2010. 
 
-<a name="fn2" href="#2">[2]</a> McCarthy, Catherine, and Brad Herring. “Museum & Community Partnerships: Collaboration Guide for Museums Working with Community Youth-Serving Organizations.” NISE Network, 2015. http://www.nisenet.org/sites/default/files/NISE%20Network%20Collaboration%20Guide%2011-20-2015%20FINAL.pdf.
+<a name="fn2" href="#2">2</a>: [Museum & Community Partnerships: Collaboration Guide for Museums Working with Community Youth-Serving Organizations](http://www.nisenet.org/sites/default/files/NISE%20Network%20Collaboration%20Guide%2011-20-2015%20FINAL.pdf) by Catherine McCarthy and Brad Herring. NISE Network, 2015. .
 
-<a name="fn3" href="#3">[3]</a> Coalition to Advance Learning in Archives, Libraries and Museums. “Best Practices in Collaboration.” Coalition to Advance Learning in Archives, Libraries and Museums, 2016. http://www.coalitiontoadvancelearning.org/why-collaborate/best-practices-in-collaboration/.
+<a name="fn3" href="#3">3</a>: [Best Practices in Collaboration](http://www.coalitiontoadvancelearning.org/why-collaborate/best-practices-in-collaboration/). Coalition to Advance Learning in Archives, Libraries and Museums, 2016.
 
-<a name="fn4" href="#4">[4]</a> Strock, Adrienne L. “Reaching beyond Library Walls: Strengthening Services and Opportunities through Partnerships and Collaborations.” Young Adult Library Services, 2014. https://www.questia.com/library/journal/1G1-389260588/reaching-beyond-library-walls-strengthening-services.
+<a name="fn4" href="#4">4</a>: “Reaching beyond Library Walls: Strengthening Services and Opportunities through Partnerships and Collaborations” by Adrienne L. Strock. In _Young Adult Library Services_, 2014. 
 
-<a name="fn5" href="#5">[5]</a> Twiggs, Korie, Christina Freitag, and Michelle Nichols. Partner with a Local Museum to Reach More Teens! Adobe Connect recording. YeLL! YALSA e-Learning Library. Chicago, IL: YALSA, 2016. http://www.ala.org/yalsa/yalsamemonly/webinars/webinars. 
+<a name="fn5" href="#5">5</a>: [Partner with a Local Museum to Reach More Teens!](http://www.ala.org/yalsa/yalsamemonly/webinars/webinars), webinar by Korie Twiggs,  Christina Freitag, and Michelle Nichols. Requires YALSA membership.:
 
-<a name="fn6" href="6">[6]</a> Cassell, Kay Ann, and Kathleen Weibel. “Celebrating Women’s History Month at Your Library.” American Libraries, March 2010.
+<a name="fn6" href="#6">6</a>: “Building Strong Community Partnerships: Sno-Isle Libraries and the Teen Project” by Dawn Rutherford. <i>Young Adult Library Services 2010</i>(Fall), p. 23–25. 
 
-<a name="fn7" href="#7">[7]</a> Rutherford, Dawn. “Building Strong Community Partnerships: Sno-Isle Libraries and the Teen Project.” Young Adult Library Services 2010, no. Fall (2010): 23–25. https://www.questia.com/library/journal/1G1-240588385/building-strong-community-partnerships-sno-isle-libraries.
+<a name="fn7" href="#7">7</a>: [Elevator Speech](http://www.ala.org/everyday-advocacy/speak-out/elevator-speech). American Library Association.
 
-<a name="fn8" href="#8">[8]</a> American Library Association. “Elevator Speech.” Text. Everyday Advocacy, April 28, 2013. http://www.ala.org/everyday-advocacy/speak-out/elevator-speech.
-
-<a name="fn9" href="#9">[9]</a> Baxter, Kathleen, and Susan M. Haggberg. “Ladies Who Lunch.” School Library Journal 46, no. 09 (September 2000): 33. http://search.ebscohost.com/login.aspx?direct=true&db=lls&AN=502853040&site=ehost-live.
+<a name="fn8" href="#8">8</a>: “Ladies Who Lunch” by Kathleen Baxter and Susan M. Haggberg.  _School Library Journal 46_(9). 

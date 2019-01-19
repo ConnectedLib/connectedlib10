@@ -7,8 +7,6 @@ section: 1. The 21st Century Library
 subsection: one
 ---
 
-{% include license.html %}
-
 In this section, we’ll talk about how connected learning will help you implement many of the principles outlined in **[The Future of Library Services for and with Teens: A Call to Action](http://www.ala.org/yaforum/future-library-services-and-teens-project-report)** and YALSA’s **[Teen Programming Guidelines](http://www.ala.org/yalsa/teen-programming-guidelines)**.
 
 <div class="objectives">

@@ -6,8 +6,9 @@ module_full_name: Connected Learning Programming
 section: 3. Elements of a Connected Learning Program
 subsection: three-one
 ---
+<!-- Quote from INTS_031 -->
 
-> “I would love to have more Minecraft programs at the library, I'd love to have an on-going Minecraft club, but I'm getting a little pushback from my team because they don't see Minecraft as a library service. They don't see building things in a 3D environment as related to libraries, but who knows what the jobs of five years are gonna be? For all we know, we could rebrand it as job skills development. The jobs of five years from now don't exist today, so who knows?”<br/>— Southern Suburban Library 
+> “I would love to have more Minecraft programs at the library, I'd love to have an on-going Minecraft club, but I'm getting a little pushback from my team because they don't see Minecraft as a library service. They don't see building things in a 3D environment as related to libraries, but who knows what the jobs of five years are gonna be? For all we know, we could rebrand it as job skills development. The jobs of five years from now don't exist today, so who knows?”<br/><br/>— Programming Coordinator & Technology Coordinator at a southern suburban library 
 
 We talked broadly about program outcomes in section 2, but in this section we will look more specifically at different kinds of outcomes you might consider for your program. YALSA has identified six categories of outcomes for its “Teens First” approach to programming: community, creativity, digital citizenship, leadership, learning, and literacies.<sup><a name="1A" href="#1">1</a></sup> (For a list of sample outcomes for each category, see [Teens First: Basic Learning Outcomes](http://www.ala.org/yalsa/sites/ala.org.yalsa/files/content/Teens%20First_%20Basic%20Learning%20Outcomes%20Guide.pdf).) 
 
@@ -52,13 +53,13 @@ In addition to these categories of outcomes identified by YALSA, we found a few 
 	<li><b>Safety and security</b>. Libraries can provide physical and emotional security for vulnerable teens, as well as food security. Simply having a safe space to turn to can be a huge benefit to many teens who do not live in a safe neighborhood or who don’t have an ideal home life. Several youth librarians described their role as a non-teacher, non-parent adult that teens could turn to to discuss sensitive topics like gender identity and sexual orientation. Some libraries partner with local organizations to provide summer lunches or after-school snacks to combat hunger and its related performance and behavioral issues. Connected learning programs that celebrate teens’ interests and culture can help get at-risk teens into the supportive environment of the library.</li>
 </ul>
 
-> "I wouldn't say that [playing board games at the library] is really achieving much besides they get to socialize in a safe space where no one's yelling at them.”<br/>— Urban Northeast Library
+> "I wouldn't say that [playing board games at the library] is really achieving much besides they get to socialize in a safe space where no one's yelling at them.”<br/><br/>— Young Adult Librarian at an urban northeastern library
 
 <ul>
-	<li><b>Exploring interests</b>. Interest powered learning means creating programs around existing interests, but it can also mean helping teens explore new areas of learning and developing new interests. Adolescence is a time of exploration, and public libraries can provide low-commitment opportunities for teens to “mess around” with new subjects, technologies, and career options. These connections can be made in surprising ways. A worker from a western suburban library told us about a program involving the dismantling and then remixing of stuffed animals to create new hybrid species. What started as a “just for fun” program became a much deeper learning experience when a veterinarian joined in, demonstrated suturing techniques, and talked to the participants about being a vet, sparking their interest in both human and animal medicine and anatomy. </li>
+	<li><b>Exploring interests</b>. Interest powered learning means creating programs around existing interests, but it can also mean helping teens explore new areas of learning and developing new interests. Adolescence is a time of exploration, and public libraries can provide low-commitment opportunities for teens to “mess around” with new subjects, technologies, and career options. These connections can be made in surprising ways. A teen services librarian from a suburban western library told us about a program involving the dismantling and then remixing of stuffed animals to create new hybrid species. What started as a “just for fun” program became a much deeper learning experience when a veterinarian joined in, demonstrated suturing techniques, and talked to the participants about being a vet, sparking their interest in both human and animal medicine and anatomy. </li>
 </ul>
 
-> “Teens especially encounter a lot of resistance from different areas of public life, and so I'm really dedicated to… wanting teens to feel comfortable enough to really explore and get messy with things and fail in their experiments and then build on that to succeed later.”<br/>— Focus Group Participant
+> “Teens especially encounter a lot of resistance from different areas of public life, and so I'm really dedicated to… wanting teens to feel comfortable enough to really explore and get messy with things and fail in their experiments and then build on that to succeed later.”<br/><br/>— Focus Group Participant
 
 <ul>
 	<li><b>Career readiness</b>. Connected learning programs, being opportunity oriented, can help learners build technical skills that employers are looking for. Volunteer and intern programs give teens something to put on their resume before entering the post-high school job market, and demonstrate that they have the interpersonal skills needed to be productive employees.<sup><a name="5A" href="#5">5</a></sup> Librarians and mentors can help teens turn their creative output into digital portfolios, or learn how to translate their activities into skills on their resumes. </li>
@@ -74,12 +75,11 @@ In addition to these categories of outcomes identified by YALSA, we found a few 
 <div class="reflection">
     <p class="box-title">Program design activity: Outcomes</p>
     <p>Let's begin creating a plan for the program you are developing. What is the desired outcome of your program? Five years from now, when your participants look back at the experience, how will they say it helped them? Which category does the outcome (or outcomes) fall under?</p>
-    <p><a href="docs/program_design_activity.docx">Download worksheet (DOCX)</a></p>
 </div>
 
 
 <hr/>
-<a name="1" href="#1A">1</a>: ["Teens First”](http://www.ala.org/yalsa/teens-first). YALSA.
+<a name="1" href="#1A">1</a>: [Teens First](http://www.ala.org/yalsa/teens-first). YALSA.
 
 <a name="2" href="#2A">2</a>: Partnership for 21st Century Learning. Retrieved from http://www.p21.org/ (no longer available).
 
@@ -87,4 +87,4 @@ In addition to these categories of outcomes identified by YALSA, we found a few 
 
 <a name="4" href="#4A">4</a>: National Research Council, 2012. _Education for Life and Work: Developing Transferable Knowledge and Skills in the 21st Century_. Edited by James W. Pellegrino, Margaret L. Hilton, and the Committee on Defining Deeper Learning and 21st Century Skills. Washington, D.C.: The National Academies Press. https://doi.org/10.17226/13398
 
-<a name="5" href="#5A">5</a>: Matthias, Cynthia, and Christy Mulligan. “Hennepin County Library’s Teen Tech Squad: Youth Leadership and Technology Free-for-All.” Young Adult Library Services 2010, no. Winter (2010): 13–16.
+<a name="5" href="#5A">5</a>: “Hennepin County Library’s Teen Tech Squad: Youth Leadership and Technology Free-for-All," by Cynthia Matthias and Christy Mulligan. In  _Young Adult Library Services Winter_(2010), 13–16.

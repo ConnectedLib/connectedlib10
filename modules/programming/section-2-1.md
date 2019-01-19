@@ -19,17 +19,6 @@ subsection: two-one
 
 </div>
 
-<div class="case_study_box">
-	<p class="box-title">Youth involvement in program design</p>
-	<p>Youth can and should be involved in the process of designing a program. Pima County Public Library used an IMLS grant to create a Youth Design Team that helped plan new programs that resonated with their community’s teens.</p>
-<p class="videotime">14:02</p><p class="source">Pima County Public Library</p>
-<div class="video">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HrJ79-tdKGQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-</div>
-
-
-</div>
-
 <div class="tips">
 	<p>Capacity and sustainability</p>
 
@@ -53,14 +42,20 @@ Talk to your stakeholders as you develop outcomes. They should all agree that th
 <p>By the time your program begins, you should have a clear idea and plan for the assessment of teens’ progress and the evaluation of the program as a whole. Keep the big picture in mind, especially when evaluating programs that seem to have failed. The program might have been a good idea that suffered from poor marketing or timing (or vice versa). See the <a href="../assessment/index.html">Assessment and Evaluation module</a> for more.</p>
 </div>
 
-
+<div class="case_study_box">
+	<p class="box-title">Youth involvement in program design</p>
+	<p>Youth can and should be involved in the process of designing a program. Pima County Public Library used an IMLS grant to create a Youth Design Team that helped plan new programs that resonated with their community’s teens.</p>
+<p class="videotime">14:02</p><p class="source">Pima County Public Library</p>
+<div class="video">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HrJ79-tdKGQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+</div></div>
 -----
 
 <a href="#1A" name="1">1</a>: [Program Sustainability Assessment Tool](https://www.sustaintool.org/). Washington University in St. Louis.
 
-<a href="#2A" name="2">2</a>: “Intentionally Backwards, the Future of Learning in Libraries.” By Sarah Kepple, in _Young Adult Library Services_ Fall 2013: 33–37.
+<a href="#2A" name="2">2</a>: "Intentionally Backwards, the Future of Learning in Libraries,"" by Sarah Kepple. in _Young Adult Library Services_ Fall 2013, 33–37.
 
-<a href="#3A" name="3">3</a>: DMLResearchHub and Dr. William Penuel, 2016. [Introduction to Program Evaluations for Connected Learning (Session 1)](https://youtu.be/WXbkeFIEN8Y)
+<a href="#3A" name="3">3</a>: [Introduction to Program Evaluations for Connected Learning (Session 1)](https://youtu.be/WXbkeFIEN8Y). DMLResearchHub and Dr. William Penuel, 2016. 
 
 <a href="#4A" name="4">4</a>: [YALSA's Teen Programming Guidelines](http://www.ala.org/yalsa/teen-programming-guidelines)
 

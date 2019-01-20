@@ -7,7 +7,7 @@ section: 2. Developing an Identity
 subsection: two-one
 ---
 
->"You can edit your life on Instagram. I think people think I’m cooler than I am.”<br/>— Lilli Hymowitz<sup><a name="1" href="#fn1">1</a></sup> 
+>"You can edit your life on Instagram. I think people think I’m cooler than I am.”<br/><br/>— Lilli Hymowitz<sup><a name="1" href="#fn1">1</a></sup> 
 
 What is identity and how does it develop? There are two classic theoretical approaches of viewing adolescent identity formation — the psychological and the sociological view — both of which can shed light on youth’s digital media use and how teen identity and intimacy play out in a social media landscape. 
 
@@ -35,19 +35,18 @@ Teens use different social media platforms in different ways, in an effort to in
 <p><span class="box-title">DESIGN AND IDENTITY</span></p> 
 <p>Designers of new technologies can also influence identity formation. For example, it took Facebook ten years to offer its users with different options for gender identities. The fusion of personal and corporate, tech designers’ values, and the features of online applications and communities can all influence adolescents developing sense of identity, impacting the way they view themselves and the world.</p>  
 </div> 
-<br>
 
 ## Identity, "Selves," and Information Needs 
 
 Researchers Denise Agosto and Sandra Hughes-Hassell study the “everyday life information seeking” habits of teens living in urban areas, theorizing that information seeking during the teen years is “the gathering and processing of information to facilitate the multifaceted teen-to-adulthood maturation process.”<sup><a name="3" href="#fn3">3</a></sup> They identified seven “selves” that teens must develop. Briefly summarized, these include: 
 
-- The social self - how teens see society and their place in it 
-- The emotional self - teens’ inner feelings and reactions to the world 
-- The reflective self - a teen’s identity and beliefs about the world 
-- The physical self - health, safety, daily routines, and other physical activities 
-- The creative self - creation and self-expression 
-- The cognitive self - intellectual understanding of the world 
-- The sexual self - sexuality, sexual health and behavior  
+- **The social self** - how teens see society and their place in it 
+- **The emotional self** - teens’ inner feelings and reactions to the world 
+- **The reflective self** - a teen’s identity and beliefs about the world 
+- **The physical self** - health, safety, daily routines, and other physical activities 
+- **The creative self** - creation and self-expression 
+- **The cognitive self** - intellectual understanding of the world 
+- **The sexual self** - sexuality, sexual health and behavior  
 
 These different selves reveal both the types of searches teens may engage in as well as the developmental needs that motivate their information behavior. 
 
@@ -78,6 +77,6 @@ These different selves reveal both the types of searches teens may engage in as 
 
 <a name="fn1" href="#1">1</a>: <a href="https://www.thecut.com/2015/09/lilli-hymowitz-prom-queen-of-instagram.html">The Prom Queen of Instagram</a>
 
-<a name="fn2" href="#2">2</a>: Davis & Weinstein, 2017
+<a name="fn2" href="#2">2</a>: Davis, K. & Weinstein, E. (2017). Identity development in the digital age: An Eriksonian perspective. In M.F. Wright (Ed.), _Identity, sexuality, and relationships among emerging adults in the digital age_, pp. 1-17. Hershey, PA: IGI Global.
 
-<a name="fn3" href="#3">3</a>: Agosto, D., & Hughes-Hassell, S. (2006). Toward a Model of the Everyday Life Information Needs of Urban Teenagers, Part 1: Theoretical Model
+<a name="fn3" href="#3">3</a>: Agosto, D., & Hughes-Hassell, S. (2006). Toward a Model of the Everyday Life Information Needs of Urban Teenagers, Part 1: Theoretical Model.

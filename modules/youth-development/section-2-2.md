@@ -106,6 +106,6 @@ During the teen years, youth begin to spend more time with their peers than with
 
 <hr/>
 
-<a name="fn1" href="#1">1</a>: Youniss & Smollar, 1985
+<a name="fn1" href="#1">1</a>: Youniss, J., & Smollar, J. (1985). _Adolescent relations with mothers, fathers, and friends_. Chicago, University of Chicago Press. 
 
-<a name="fn2" href="#2">2</a>: Sullivan, 1953
+<a name="fn2" href="#2">2</a>: Sullivan, H. S. (1953). _The Interpersonal Theory of Psychiatry_. New York: W.W. Norton & Company.

@@ -30,6 +30,25 @@ Are your learning initiatives accomplishing what you want? What do you want to b
 The ConnectedLib team would like to thank Michelle Fellows, William Penuel, Katie Van Horne, and Josie Chang-Order for their input on this module.
 </div>
 
+<div class="reflection">
+	<p>Assessment & Evaluation KWL</p>
+<p>Complete this worksheet by creating a list of what you already know (the K in KWL) about assessment and/or evaluation. In the second column, write down what you want (W) to learn in this module. You’ll fill out the last column, what you learned (L) when you have completed this module.</p>
+<p><a href="docs/assessment_kwl.docx">Assessment & Evaluation KWL Worksheet (DOCX)</a></p>
+
+<table class="worksheet">
+	<tr><th>What do you already know about assessment and evaluation?</th>
+		<th>What do you want to learn about assessment and evaluation?</th>
+		<th><i>What did you learn from this module about assessment and evaluation? (You will answer this question at the end of the module.)</i></th>
+	</tr>
+	<tr>
+		<td style="height:250px;"></td>
+		<td></td>
+		<td></td>
+	</tr>
+</table>
+
+</div>
+
 {% include how_to_use.html %} 
 
 At the end of each section, there are additional resources for you to explore further on your own if you choose.

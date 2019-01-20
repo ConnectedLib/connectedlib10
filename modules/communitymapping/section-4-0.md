@@ -17,7 +17,7 @@ Now that you’ve completed your community map, you’re done--right? Not so fas
 </ul>
 </div>
 
->"Community mapping is the place to start, but also the place you continually have to revisit, because your community is always changing. None of this is linear."<br/>— Shannon Peterson, 2017 phone interview 
+>"Community mapping is the place to start, but also the place you continually have to revisit, because your community is always changing. None of this is linear."<br/><br/>— Shannon Peterson, 2017 phone interview 
 
 Now that you have a clear picture of the people and assets in your community, what do you do with this information?  
 

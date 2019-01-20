@@ -17,6 +17,6 @@ As a youth librarian, you can use design thinking in a variety of ways. The desi
 
 <a name="fn2" href="#2">2</a>: Mills, J. E., Campana, K., & Clarke, R. I. (2016). Learning by design: Creating knowledge through library storytime production. _Proceedings of the Association for Information Science and Technology, 53_(1), 1-6. 
 
-<a name="fn3" href="#3">3</a>: Clegg, 2016
+<a name="fn3" href="#3">3</a>: "Scientizing with 'ScienceKit': Social Media and Storytelling Mobile Apps for Developing Playful Scientist Dispositions," by T. Clegg, J. Ahn, J. C. Yip, E. Bonsignore, and D. Pauw. _Educational Technology_, 2016.
 
 <a name="fn4" href="#4">4</a>: [Using Design Thinking: Providing a framework for youth activities](https://americanlibrariesmagazine.org/2016/05/31/using-design-thinking/), by Linda W. Braun (_American Libraries_, May 2016).

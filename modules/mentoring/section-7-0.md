@@ -9,9 +9,9 @@ subsection: seven
 
 ## Benefits of Mentoring
 
-Braun, L. and Visser, M. (2017). Ready to code connecting youth to CS opportunity through Libraries 
+Braun, L. and Visser, M. (2017). Ready to code: connecting youth to CS opportunity through Libraries.
 
-Chávez, V., & Soep, E. (2005). Youth radio and the pedagogy of collegiality. Harvard Educational Review, 75(4), 409–434. Retrieved from: http://www.hepgjournals.org/doi/abs/10.17763/haer.75.4.827u365446030386 
+Chávez, V., & Soep, E. (2005). Youth radio and the pedagogy of collegiality. Harvard Educational Review, 75(4), 409–434.
 
 [Natural Mentoring Relationships and Adolescent Health: Eevidence From a National Study](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1449212/), by David L. DuBois & Naida Silverthorn, 2005. _American Journal of Public Health, 95_(3), 518-524. 
 
@@ -61,8 +61,6 @@ Barnes, S. (2016). Grow a little. Young Adult Library Services, 2016.Fall2
 
 Emery, M. .(2016). A teen space made for career prep. _Young Adult Library Services, 2016_(2).
 
-Hoffman, K. et. al. (2016). Connected Libraries: Surveying the Current Landscape and Charting a Path to the Future. The Connected Lib Project.  
-
 Kitsap Regional Library. .20152. Make Do Share project. Retrieved November 2, 2016, from http://www.krl.org/makedoshare 
 
 Stout, R. 2015. Hand in hand: Teens, tech, and community engagement. _Young Adult Library Services, 2015_(2), 21–24.
@@ -71,19 +69,11 @@ Sun, C. (2015). Youth Mentoring Program at Santa Ana Library Takes National Prog
 
 Jekielek, S. M., Moore, K. A., Hair, E. C., & Scarupa, H. J. (2002). Mentoring: A promising strategy for youth development. Child Trends Research Brief, 2, 1-8. 
 
-Kitsap Regional Library. .2014, December 192. What we do. Retrieved November 2, 2016, from http://www.krl.org/what`we`do 
-
-Kitsap Regional Library. .20152. Make Do Share project. Retrieved November 2, 2016, from http://www.krl.org/makedoshare 
-
 ## Adult & Community Mentors
 
 Craig, A. (2010). High impact partnership: Serving youth offenders. Young Adult Library Services, 2010(Fall), 20–22. 
 
 Bilandzic, M. .20162. Connected learning in the library as a product of hacking, making, social diversity and messiness. Interactive Learning Environments, 24.12, 158–177. https://doi.org/10.1080/10494820.2013.825811 
-
-Hoffman, K. M., Subramaniam, M., Kawas, S., Scaff, L., & Davis, K. (2016). Connected libraries: Surveying the current landscape and charting a path to the future. College Park, MD; Seattle, WA: The ConnectedLib Project. 
-
-[Safe Space and Shared Interests: YOUmedia Chicago as a Laboratory for Connected Learning](https://dmlhub.net/publications/safe-space-and-shared-interests-youmedia-chicago-laboratory-connected-learning/), by Kiley Larson, Mizuko Ito, Eric Brown, Mike Hawkins, Nichole Pinkard, and Penny Sebring. DML Research Hub, 2013.
 
 Quinn, J. (1999). Where need meets opportunity: Youth development programs for early teens. _The Future of Children, 9_(2), 96-116. 
 
@@ -93,33 +83,20 @@ Computer Science for the Community: Increasing Equitable Opportunity for Youth T
 
 [Public Libraries as Partners in Youth Development: Lessons and Voices from the Field](http://forumfyi.org/files/PublicLibrariesYD.pdf), by Nicole Yohalem and Karen Pittman. Forum for Youth Investment, 2003.
 
-#### Organizations 
+## Organizations 
 
-MENTOR: The National Mentoring Partnership 
-
-AmeriCorps Vista 
-
-National Mentoring Partnership 
-
-National Center for Women & Information Technology  
-
-National Mentoring Center 
-
-Tutor/Mentor Institute 
-
-Mentoring Central 
-
-Million Women Mentors
+- MENTOR: The National Mentoring Partnership 
+- AmeriCorps Vista 
+- National Mentoring Partnership 
+- National Center for Women & Information Technology  
+- National Mentoring Center 
+- Tutor/Mentor Institute 
+- Mentoring Central 
+- Million Women Mentors
 
 ## Mentoring Challenges
 
-<ul>
-<li><a href="">Resource Guide: Web Sites about the Juvenile Justice System and Troubled Youth</a></li>
-<li><a href="">Partnering with Homeless Serving Organizations</a></li>
-<li><a href="http://TeenMentalHealth.org" target="_blank">TeenMentalHealth.org</a></li>
-</ul>
-
-Bell, Stephen. (2013) The Next Generation May Not Want Your Mentoring | Leading from the Library. Library Journal. http://lj.libraryjournal.com/2013/04/opinion/leading-from-the-library/the-next-generation-may-not-want-your-mentoring-leading-from-the-library/#_ 
+Bell, Stephen. (2013). [The Next Generation May Not Want Your Mentoring](http://lj.libraryjournal.com/2013/04/opinion/leading-from-the-library/the-next-generation-may-not-want-your-mentoring-leading-from-the-library/#_). _Library Journal_.  
 
 DuBois, D. L., & Karcher, M. J. (Eds.). (2013). _Handbook of youth mentoring_. SAGE. 
 

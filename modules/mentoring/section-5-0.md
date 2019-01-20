@@ -32,7 +32,8 @@ A few organizations that can help identify adult mentors and volunteers include:
 
 For example, an urban western library worked with used AmeriCorps Vista. Through their mentor coordinator, the library gained assistance in identifying volunteers. Specifically, they helped 
 
->“... find people from the community that will come in and either teach something that they're already passionate about, or if they just love being with youth, come over and just listen to the youth and then help them follow their passions.” -- Urban Western Library
+<!-- INTS_059 -->
+>“... find people from the community that will come in and either teach something that they're already passionate about, or if they just love being with youth, come over and just listen to the youth and then help them follow their passions.”<br/><br/>— Librarian at an urban western library
 
 <hr/>
 

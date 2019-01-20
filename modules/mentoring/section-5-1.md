@@ -19,19 +19,22 @@ Their current workshops center on such areas as fashion and the basics of sewing
 
 ## Connecting youth with experts in the community 
 
-INTS-040 found that her local community was “...rich in terms of artists, writers, and scientists.” She brought youth and adults together “...so that kids can meet adults that they may not meet at school or through their families.” In one example, she says: 
+One youth services librarian found that her local community was “...rich in terms of artists, writers, and scientists.” She brought youth and adults together “...so that kids can meet adults that they may not meet at school or through their families.” In one example, she says: 
 
->“ I have a retired teacher that comes to the Maker Club almost every week because she's so interested in it. So I look for adults that have kind of a proven track record working with kids as well as some sort of interesting expertise that I or one of the other staff members is not able provide...” 
+>“ I have a retired teacher that comes to the Maker Club almost every week because she's so interested in it. So I look for adults that have kind of a proven track record working with kids as well as some sort of interesting expertise that I or one of the other staff members is not able provide...”<br/><br/>— Youth Services Librarian at a rural western library
 
 Youth librarians can look into programs sponsored by such groups as the American Association of Retired Persons to link youths with seniors for one-to-one and small-group relationships.<sup><a name="1" href="#fn1">1</a></sup>
 
 ## Tapping into local industries 
 
-Youth librarians have tapped into local businesses and industries to provide practical mentoring or career development experiences for youth. INTS-065 related his best practices for finding mentoring opportunities by:“....examining  your local workforce, and then try to find a newsworthy, best practice program that is hands-on, self-directed, project-based, and fun…” Inspired by the local music and entertainment scene in his city, he formed a popular, mentor-led music program where youth develop such skills remixing digital content and using networked technologies to share their music creations. 
+<!-- INTS_065 -->
+
+Youth librarians have tapped into local businesses and industries to provide practical mentoring or career development experiences for youth. A branch manager at an urban western library related his best practices for finding mentoring opportunities by “... examining your local workforce, and then try to find a newsworthy, best practice program that is hands-on, self-directed, project-based, and fun.” Inspired by the local music and entertainment scene, he formed a popular, mentor-led music program where youth develop such skills remixing digital content and using networked technologies to share their music creations. 
 
 ## Connecting young people with local organizations 
 
-INTM-51 partnered with their local preservation and historical society in a program where adults mentored students in the design of a digital neighborhood profile. Teens explored map design and history, while mentors assisted with  “.... hands-on work, and a lot of time spent asking them to sort of critically engage in the built environment around them”. Mentors also helped young people reflect on the design process, asking them "... how do you make meaning for somebody else by creating this digital tool?" 
+<!-- INTM_051-->
+A special collections librarian at an urban northeastern library partnered with their local preservation and historical society in a program where adults mentored students in the design of a digital neighborhood profile. Teens explored map design and history, while mentors assisted with  “.... hands-on work, and a lot of time spent asking them to sort of critically engage in the built environment around them”. Mentors also helped young people reflect on the design process, asking them "... how do you make meaning for somebody else by creating this digital tool?" 
 
 Other partnerships have included connecting young people with mentors through informal learning institutions, local businesses,community groups, youth-serving organizations, and schools. Learn more about partnering with people and organizations in your community in the [Community Partnerships](../partnerships/).
 
@@ -39,7 +42,8 @@ Other partnerships have included connecting young people with mentors through in
 
 A community hacker meetup at [library] brings together people from “...a variety of educational backgrounds, ethnicities, ages, and careers to collaborate informally on personal projects.”<sup><a name="2" href="#fn2">2</a>, <a name="3" href="#fn3">3</a></sup> Intergenerational games were also mentioned as one way to provide mentoring and encourage youth and adults to engage in fun learning activities. 
 
-Through a local partnership, INTS-013  partnered with a nonprofit that “...brings adult chess teachers into the library and organizes chess tournaments.”  In addition, she works with the Chess Club at the local high school and works with teen volunteers who come into the library to teach children how to play the game. 
+<!-- INTS-013 -->
+Through a local partnership, a young adult librarian an a suburban northeastern library  partnered with a nonprofit that “... brings adult chess teachers into the library and organizes chess tournaments.”  In addition, she works with the Chess Club at the local high school and works with teen volunteers who come into the library to teach children how to play the game. 
 
 ## Supporting targeted youth populations 
 
@@ -47,7 +51,7 @@ An ALA diversity award winner, Lori Wilcox, developed the "Male-2-Male Mentoring
 
 At the Pasadena Public Library, teens and librarians came up with a ideas for supporting youth facing mental illness, including libraries sponsoring “...a mentoring program where teens can talk with adults about living with mental illness.”<sup><a name="4" href="#fn4">4</a></sup>
 
-For more ideas on connecting with community partners, please check out the Community Partnerships module.   
+For more ideas on connecting with community partners, please check out the [Community Partnerships](../partnerships/) module.   
 
 <hr/>
 

@@ -25,6 +25,24 @@ In the <b>Capacity</b> module, you will learn how to self-assess the unique capa
 </ul>
 </div>
 
+<div class="reflection">
+	<p>Capacity KWL</p>
+<p>Complete this worksheet by creating a list of what you already know (the K in KWL) about assessment and/or evaluation. In the second column, write down what you want (W) to learn in this module. You’ll fill out the last column, what you learned (L) when you have completed this module.</p>
+<p><a href="docs/capacity_kwl.docx">Capacity KWL Worksheet (DOCX)</a></p>
+
+<table class="worksheet">
+	<tr><th>What do you already know about capacity?</th>
+		<th>What do you want to learn about capacity?</th>
+		<th><i>What did you learn from this module about capacity? (You will answer this question at the end of the module.)</i></th>
+	</tr>
+	<tr>
+		<td style="height:250px;"></td>
+		<td></td>
+		<td></td>
+	</tr>
+</table>
+</div>
+
 {% include how_to_use.html %} 
 
 At the end of each section, there are additional resources for you to explore further on your own if you choose.

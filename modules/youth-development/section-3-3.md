@@ -81,18 +81,18 @@ Moreover, many studies on violent video games have not explored other variables 
 
 <hr/>
 
-<a name="fn1" href="#1">1</a>: Lenhart, 2015
+<a name="fn1" href="#1">1</a>: [Teens, Social Media & Technology Overview 2015](http://www.pewinternet.org/2015/04/09/teens-social-media-technology-2015/), by Amanda Lenhart. Pew Research Center, 2015.
 
-<a name="fn2" href="#2">2</a>: Granic et al. (2014)
+<a name="fn2" href="#2">2</a>: Granic, I, Lobel, A., & Engels, R. C. M. E. (2014). The benefits of playing video games. _American Psychologist, 69_(1), 66-78.
 
-<a name="fn3" href="#3">3</a>: (Prensky, 2012)
+<a name="fn3" href="#3">3</a>: Prensky, M. (2012). _From digital natives to digital wisdom: Hopeful essays for 21st century learning_. Thousand Oaks, CA: Corwin Press.
 
-<a name="fn4" href="#4">4</a>: (Green & Seitz, 2015)
+<a name="fn4" href="#4">4</a>: Green, C. S., & Seitz, A. R. (2015). The impacts of video games on cognition (and how the government can guide the industry). _Policy Insights from the Behavioral and Brain Sciences, 2_(1), 101-110.
 
-<a name="fn5" href="#5">5</a>: Wai et al., 2010).  
+<a name="fn5" href="#5">5</a>: Wai, J., Lubinski, D., Benbow, C. P., & Steiger, J. H. (2010). Accomplishment in science, technology, engineering, and mathematics (STEM) and its relation to STEM educational dose: A 25-year longitudinal study. _Journal of Educational Psychology, 102_, 860 – 871. 
 
-<a name="fn6" href="#6">6</a>: (Rutkin, 2016). 
+<a name="fn6" href="#6">6</a>: Rutkin, A. (2016, April 27). How Minecraft is helping children with autism make new friends. _New Scientist_.
 
-<a name="fn7" href="#7">7</a>: (Center on the Developing Child at Harvard University, 2011). 
+<a name="fn7" href="#7">7</a>: Center on the Developing Child at Harvard University (2011). _Building the Brain’s “Air Traffic Control” System: How Early Experiences Shape the Development of Executive Function: Working Paper No.11._
 
-<a name="fn8" href="#8">8</a>:(Bavelier et al., 2012) 
+<a name="fn8" href="#8">8</a>: Bavelier, D., Green, C. S., Pouget, A., & Schrater, P. (2012). Brain plasticity through the life span: learning to learn and action video games. _Annual review of neuroscience, 35_, 391-416.

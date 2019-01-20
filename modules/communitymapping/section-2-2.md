@@ -23,6 +23,18 @@ There are five types of community assets: individuals, associations, institution
   <p>REFLECTION: A STORY OF TWO COMMUNITIES</p>
   <p>Read <a href="https://sustainingcommunity.wordpress.com/2013/01/30/community-a-and-communityb/" target="_blank">A Story of Two Communities</a>. How has your library approached your community in the past—by focusing on needs or by focusing on assets? </p></div>
 
+<div class="reflection">
+	<p>community mapping activity: potential connections</p>
+	<p>Create a second mini-asset map with assets your library could connect with, but hasn’t yet. Add any helpful connections that might already exist. </p>
+	<p><a href="docs/communitymapping_2B.docx">Download worksheet (DOCX)</a></p>
+
+<table style="width:95%" class="worksheet">
+<tr><th>Type of Asset</th><th>List of Assets</th><th>Connections</th></tr>
+<tr height="150px"><th>Individuals</th><td></td><td></td></tr>
+<tr height="150px"><th>Associations</th><td></td><td></td></tr>
+<tr height="150px"><th>Institutions</th><td></td><td></td></tr>
+<tr height="150px"><th>Physical Resources</th><td></td><td></td></tr>
+</table></div>
   <hr/>
 
   <a name="fn1" href="#1">1</a>: [What is asset based community development?](https://resources.depaul.edu/abcd-institute/resources/Documents/WhatisAssetBasedCommunityDevelopment.pdf), page 4. Collaborative For Neighborhood Transformation/ABCD Institute, 2016.

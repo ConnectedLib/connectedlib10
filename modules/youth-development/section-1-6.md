@@ -49,4 +49,4 @@ Each stage is marked a “crisis,” or tension, that must be resolved before fo
 
 <hr/>
 
-<a name="fn1" href="#1">1</a>: (Hetherington, Parke, & Locke, 2003)
+<a name="fn1" href="#1">1</a>: Hetherington, E. M., Parke, R. D., & Locke, V. O. (2003). _Child psychology: A contemporary viewpoint_. Boston: McGraw-Hill.

@@ -7,13 +7,13 @@ section: 1. Theories of Youth Development
 subsection: one-three
 ---
 
->“From constructivist theories of psychology we take a view of learning as a reconstruction rather than as a transmission of knowledge. Then we extend the idea of manipulative materials to the idea that learning is most effective when part of an activity the learner experiences as constructing a meaningful product.”<br/>— Seymour Papert<sup><a name="1" href="#fn1">1</a></sup>
+>“From constructivist theories of psychology we take a view of learning as a reconstruction rather than as a transmission of knowledge. Then we extend the idea of manipulative materials to the idea that learning is most effective when part of an activity the learner experiences as constructing a meaningful product.”<br/><br/>— Seymour Papert<sup><a name="1" href="#fn1">1</a></sup>
 
 Informed by both Piaget and Vygotsky, Seymour Papert (1928-2016, and a founding faculty member of the <a href="http://el.media.mit.edu/logo-foundation/what_is_logo/logo_programming.html" target="_blank">MIT Media Lab</a> developed the concept of **constructionism**. Based on Piaget’s constructivism, constructionism emphasizes the agency of young people as active participants in the construction of their own learning. Papert developed one of the first educational programming languages, known as <a href="http://el.media.mit.edu/logo-foundation/what_is_logo/logo_programming.html" target="_blank">LOGO</a>, which inspired the popular programming language <a href="https://scratch.mit.edu/" target="_blank">Scratch</a>. Papert’s work also led to the <a href="http://www.computerclubhouse.org/" target="_blank">Computer Clubhouse project</a>, a network of over 100 learning centers where youth from underserved communities learn to create and express themselves using emerging technologies. 
 
 <div class="explanatory">
   <p>Key Concepts from Papert's Constructionism Theory</p>
-  <p style="font-size:small;font-style:italic;">Excerpt from LIS 516: Youth Development and Behavior in a Digital Age by Dr. Katie Davis and the University of Washington</p>
+  <p>Excerpt from LIS 516: Youth Development and Behavior in a Digital Age by Dr. Katie Davis and the University of Washington</p>
 <p class="videotime">1:25</p><p class="source">Dr. Katie Davis, University of Washington</p>
 
 <div class="video">
@@ -27,7 +27,7 @@ Informed by both Piaget and Vygotsky, Seymour Papert (1928-2016, and a founding 
 
 <div class="explanatory">
   <p>Why constructionism?</p>
-  <p style="font-size:small;font-style:italic;">This video is part of the <a href="https://www.udacity.com/course/educational-technology--ud915" target="_blank">Educational Technology course</a> offered by Georgia Tech through Udacity.</p>
+  <p>This video is part of the <a href="https://www.udacity.com/course/educational-technology--ud915" target="_blank">Educational Technology course</a> offered by Georgia Tech through Udacity.</p>
 <p class="videotime">3:31</p><p class="source">Georgia Tech</p>
 
 <div class="video">
@@ -35,10 +35,9 @@ Informed by both Piaget and Vygotsky, Seymour Papert (1928-2016, and a founding 
 </div></div>
 
 
-    
 ## Putting constructionism into practice
-
->“It's your job to experiment, it's your job to problem solve, your job to critically think. I'm here to guide you."<br/>— Rural Western Library  
+<!-- INTK_001 -->
+>“It's your job to experiment, it's your job to problem solve, your job to critically think. I'm here to guide you."<br/><br/>— Youth Services Specialist at a rural western library  
 
 **Production-centered** learning that is based on learners’ own **interests** are two principles of connected learning that were directly inspired by constructionism. Constructionist learning experiences can involve:  
 
@@ -73,10 +72,10 @@ Informed by both Piaget and Vygotsky, Seymour Papert (1928-2016, and a founding 
 
 <a name="fn1" href="#1">1</a>: Sabelli, N. (2008). _Constructionism: A New Opportunity for Elementary Science Education. DRL Division of Research on Learning in Formal and Informal Settings_, pp. 193–206.
 
-<a name="fn2" href="#2">2</a>: MIT, 2015
+<a name="fn2" href="#2">2</a>: [Logo and Learning](http://el.media.mit.edu/logo-foundation/what_is_logo/logo_and_learning.html). MIT, 2015. 
 
-<a name="fn3" href="#3">3</a>: Wheeler, 2012, p. “How it can be applied in education”
+<a name="fn3" href="#3">3</a>: [Learning, Making, and Powerful Ideas](http://steve-wheeler.blogspot.co.uk/2014/09/learning-making-and-powerful-ideas.html?m=1), by S. Wheeeler, 2014.
 
-<a name="fn4" href="#4">4</a>: Papert & Harel, 1991
+<a name="fn4" href="#4">4</a>: Papert, S., & Harel, I. (1991). Situating constructionism. _Constructionism, 36_(2), 1-11.
 
-<a name="fn5" href="#5">5</a>: Papert, 1980
+<a name="fn5" href="#5">5</a>: Papert, Seymour. (1980). _Mindstorms: Children, computers, and powerful ideas_. Basic Books, Inc.

@@ -18,7 +18,7 @@ subsection: three
 
 </div>
 
->“Libraries can play an essential role in the process of community-building and should be seen as vital assets that exist at the very heart of community life.”<br/>— John Kretzmann and John McKnight<sup><a href="#fn1" name="1">1</a></sup>
+>“Libraries can play an essential role in the process of community-building and should be seen as vital assets that exist at the very heart of community life.”<br/><br/>— John Kretzmann and John McKnight<sup><a href="#fn1" name="1">1</a></sup>
 
 <hr/>
 

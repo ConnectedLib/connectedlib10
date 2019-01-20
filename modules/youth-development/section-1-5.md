@@ -7,7 +7,7 @@ section: 1. Theories of Youth Development
 subsection: one-five
 ---
 
->“Particular attention should be given to the opportunities which the environment presents or precludes for involvement of children with persons both older and younger than themselves.”<br/>— Urie Bronfenbrenner<sup><a name="1" href="#fn1">1</a></sup>
+>“Particular attention should be given to the opportunities which the environment presents or precludes for involvement of children with persons both older and younger than themselves.”<br/><br/>— Urie Bronfenbrenner<sup><a name="1" href="#fn1">1</a></sup>
 
 Developmental psychologist Urie Bronfenbrenner (1917-2005) emphasized the importance of studying children and adults in real life settings, instead of labs, and examining all the socio-cultural contexts in which growth and development occurs.<sup><a name="2" href="#fn2">2</a></sup>
 
@@ -64,4 +64,4 @@ Each of these systems interrelate and interact with one another, demonstrating t
 
 <a name="fn1" href="#1">1</a>: Bronfenbrenner, U. (1973). Two worlds of childhood: U.S. and U.S.S.R.
 
-<a name="fn2" href="#2">2</a>: Bronfenbrenner, 1994 
+<a name="fn2" href="#2">2</a>: Bronfenbrenner, U. (1994) Ecological models of human development. In _International Encyclopedia of Education, Vol. 3, 2nd Ed_. Oxford: Elsevier. 

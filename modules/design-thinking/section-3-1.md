@@ -7,7 +7,7 @@ section: 1. Core Research Methods
 subsection: three-one
 ---
 
-> “Designers engage with users (people!) to understand their needs and gain insights about their lives.” <sup><a name="1" href="#fn1">1</a></sup> 
+> “Designers engage with users (people!) to understand their needs and gain insights about their lives.”<br/><br/><sup><a name="1" href="#fn1">1</a></sup> 
 
 The imagination phase of the design process centers on understanding the people who may use your new design or experience. By observing and talking to people, you may find inspiration for new initiatives, uncover hidden challenges, or gain more insight into a community. Below are key research methods for exploring unfamiliar communities as well as understanding the people you want to impact.  
 
@@ -53,7 +53,7 @@ Interviewing experts is another way for both you and youth to become inspired by
 
 Participatory Design (PD), also called co-design, involves the stakeholders, designers, researchers and users of a new technology, product, program, or service in the design process. This approach helps to ensure that the final design meets the needs of its intended audience. Thus, the user of the service would participate in some aspect of the design process, whether it’s helping to brainstorm ideas, critique working design, or create mockups of new design. When working with youth, PD can be a way for youth to take an active role in designing which may lead to the development of a strong sense of accomplishment or even interest in design.<sup><a name="5" href="#fn5">5</a></sup> As such, youth can be seen as “problem-solvers” and “experts” without formal design education and training.<sup><a name="6" href="#fn6">6</a></sup>  
 
-**You may want to run a Participatory Design session or workshop if you want to:**
+### You may want to run a Participatory Design session or workshop if you want to:
 
 - Understand how people or youth think about a given issue, technology, service or program in your library 
 - Learn and observe things that may be difficult to discover in interviews or surveys 

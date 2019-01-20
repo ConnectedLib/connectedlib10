@@ -19,7 +19,8 @@ In this section we will discuss what community mapping is and why it is importan
 </ul>
 </div>
 
->“You have to look at your local industry, study it carefully, interpret your local demographic, interpret your local workforce, and then try to find a newsworthy, best practice program that is hands-on, self-directed, project-based, and fun, and teens will come in.”<br/>— Urban Western Library
+<!-- INTS_065 -->
+>“You have to look at your local industry, study it carefully, interpret your local demographic, interpret your local workforce, and then try to find a newsworthy, best practice program that is hands-on, self-directed, project-based, and fun, and teens will come in.”<br/><br/>— Branch Manager at an urban western library
 
 Community mapping is a systematic approach to getting to know the people, places, and resources that surround your library. It is a way to take stock of “the gifts, skills and capacities of individuals, voluntary associations, institutions, physical assets, local economy assets and stories in the community.”<sup><a href="#fn1" name="1">1</a></sup> The community mapping process may draw on, among other sources of information, 
 - Interviews
@@ -42,16 +43,6 @@ Getting to know the associations, businesses, and other resources in your commun
 
 Community mapping focuses on the strengths and assets of a community instead of on weaknesses and gaps, leading to unconventional programs that leverage a community’s unique strengths. This module will walk you through the steps of the mapping process, whether you are planning a large initiative that will take several months, or setting aside an afternoon by yourself.
 
-<div class="reflection">
-<p>Learning Aid: Community mapping KWL</p>
-<p>Complete this worksheet by first describing your experience (if any) with community mapping. Then create a list of what you already know (the K in KWL) about community mapping. In the second column, write down what you want (W) to learn in this module. You’ll fill out the last column, what you learned (L) when you have completed this module. </p>
-<p><a href="docs/CommunityMapping_1A.docx">Download Worksheet (DOCX)</a></p>
-<ul>
-		<li>What do you already know about connected learning programming?</li>
-		<li>What do you want to learn about connected learning programming?</li>
-		<li><i>What did you learn from this module about connected learning programming? (You will answer this question at the end of the module.)</i></li>
-	</ul>
-</div>
 <hr/>
 
 <a href="#1" name="fn1">1</a>: [Teen Asset Mapping Report: A Report and Recommendations from the Denver Public Library](http://www.ala.org/pla/sites/ala.org.pla/files/content/about/fellows/TAMFinalReport.pdf). Denver Public Library, 2014.

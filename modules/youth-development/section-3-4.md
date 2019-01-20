@@ -19,7 +19,7 @@ Literacy is complex concept. Researchers and educators define literacy in variou
 
 ## What New Literacies Have Formed in the Digital Age?
 
-Catherine Snow, an expert on literacy and language development, has found that there are varied ways of approaching literacy, including a componential vs. holistic view.<sup><a name="3" href="#fn3">3</a></sup> For young children, part of literacy development includes building component reading skills such as phonological awareness and letter knowledge. For teens and young adults, many educators focus on a holistic view, or “whole person” approach, to literacy development. As teens and young adults increasingly master component reading skills, a holistic view would focus on the forming connections and meaning through reading and writing. 
+Catherine Snow, an expert on literacy and language development, has found that there are varied ways of approaching literacy, including a componential vs. holistic view.<sup><a name="2" href="#fn2">2</a></sup> For young children, part of literacy development includes building component reading skills such as phonological awareness and letter knowledge. For teens and young adults, many educators focus on a holistic view, or “whole person” approach, to literacy development. As teens and young adults increasingly master component reading skills, a holistic view would focus on the forming connections and meaning through reading and writing. 
 
 For instance, young people are encouraged to bring their own lived experiences to stories, literature, reading, and writing. Through a holistic lens, a young person who informally contributes to gaming websites, writes on discussion boards, or keeps a journal is actively developing emerging literacy skills. Further, a holistic view might examine the social and environmental factors that contribute to literacy development. For example, inequitable distribution of resources (e.g. lack of funding in schools, uninvolved parents) would be a source of risk. Youth librarians can play a central role in encouraging literacy development by participating in activities like sharing titles of a teens’ favorite genres of books, obtaining information about the young person’s interests, or understanding their values concerning books, literature, and learning. 
 
@@ -28,7 +28,7 @@ For instance, young people are encouraged to bring their own lived experiences t
 
 From writing fan fiction to following Tumblr blogs to creating their own vlogs, the impact of digital media technologies on literacy development is an important area of research. Scholars have continually promoted the critical new media literacies needed for successful participation in 21st century.  
 
-Henry Jenkins, a prominent media scholar, spearheaded a 2006 white paper, <a href="https://www.macfound.org/media/article_pdfs/JENKINS_WHITE_PAPER.PDF" target="_blank">Confronting the Challenges of Participatory Culture: Media Education for the 21st Century</a>, to build the foundation for a new media literacy movement. Within this seminal work, Jenkins and his coauthors outline a set of cultural competencies and social skills that young people need to acquire if they are going to participate meaningfully in a future digital society. Jenkins calls this future a “participatory culture” that emphasizes collaboration and networking. Among the key social skills and cultural competencies needed to fully participate are: 
+Henry Jenkins, a prominent media scholar, spearheaded a 2006 white paper, <a href="https://www.macfound.org/media/article_pdfs/JENKINS_WHITE_PAPER.PDF" target="_blank">Confronting the Challenges of Participatory Culture: Media Education for the 21st Century</a>, to build the foundation for a new media literacy movement. Within this seminal work, Jenkins and his coauthors outline a set of cultural competencies and social skills that young people need to acquire if they are going to participate meaningfully in a future digital society. Jenkins calls this future a “participatory culture” that emphasizes collaboration and networking. Among the key social skills and cultural competencies needed to fully participate are:<sup><a name="3" href="#fn3">3</a></sup> 
 
 - Play — the capacity to experiment with one’s surroundings as a form of problem-solving 
 - Performance — the ability to adopt alternative identities for the purpose of improvisation and discovery 
@@ -41,8 +41,6 @@ Henry Jenkins, a prominent media scholar, spearheaded a 2006 white paper, <a hre
 - Transmedia navigation — the ability to follow the flow of stories and information across multiple modalities 
 - Networking — the ability to search for, synthesize, and disseminate information 
 - Negotiation — the ability to travel across diverse communities, discerning and respecting multiple perspectives, and grasping and following alternative norms. 
-
-(Jenkins et al., 2006) <sup><a name="4" href="#fn4">4</a></sup>
 
 <div class="explanatory"> 
 
@@ -83,10 +81,8 @@ The Web Literacy Map provides an interactive framework that outlines and defines
 
 <hr/>
 
-<a name="fn1" href="#1">1</a>: Denise E. Agosto and June Abbas (2013)
+<a name="fn1" href="#1">1</a>: Abbas,, J. & Agosto, D.E. (2013). Everyday life information behavior of young people. In J. Beheshti & A. Large (Eds), _The information behavior of a new generation: Children and teens in the 21st century_, pp.117-142. Lanham, MD: The Scarecrow Press.
 
-<a name="fn2" href="#2">2</a>: (Snow, 2006)
+<a name="fn2" href="#2">2</a>: Snow, C. E. (2006). What counts as literacy in early childhood. _Handbook of early child development_, 274-294.
 
-<a name="fn3" href="#3">3</a>: Snow (2004)
-
-<a name="fn4" href="#4">4</a>: (Jenkins et al., 2006) 
+<a name="fn3" href="#3">3</a>: Jenkins, H., Clinton, K., Purushotma, R., Robison, A.J., & Weigel, M. (2009). Confronting the challenges of participatory culture: Media education for the twenty-first century. Cambridge, MA: MIT Press. 

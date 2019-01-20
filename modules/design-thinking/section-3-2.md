@@ -9,7 +9,7 @@ subsection: three-two
 
 The ideation phase focuses on refining your ideas. You don’t need to use expensive or cutting-edge tools. Many of the following ideation techniques can be completed using paper and pen. Thus, the following section focuses on everyday tools and techniques you can integrate into your work with youth.  
 
-# Brainstorming 
+## Brainstorming 
 
 The brainstorming technique often occurs throughout the different stages of the design process or within a Participatory Design session. You’ve probably used brainstorming in a variety of ways such as discovering programming ideas, planning community partnerships, or collaborating with other youth librarians. In addition to sticky noting and big pieces of paper, some other everyday tools you can use to assist in brainstorming sessions include: 
 
@@ -23,7 +23,7 @@ Here are some general tips from youth librarians around the US on how they appro
 - **Use online communities and create a system to collect ideas**. “Amelia”, a youth librarian at a rural, Southern library subscribes to several LISTERVS where librarians share ideas. She keeps a running list within her email account and keeps track of some of the different things she hopes to try.  
 - **Stay open**. David, a librarian at an urban, Pacific Northwest library focuses on a “sky’s the limit approach” to developing new ideas. During the initial brainstorming, he says that things like budget or timelines should not be a focus.  **Remember**: Criticism of any ideas should also be avoided! You can worry about particulars at other stages of the design process.  
 
-### Design Representations 
+## Design Representations 
 
 Along with brainstorming, other techniques for idea generation include design representations, or methods to encourage hands-on experience in designing and bringing ideas to life without using complex or expensive tools. For instance, ideas can be illustrated through or by drawing the ideas out on a whiteboard during the brainstorming session. Design representations help you and your audience understand what you're trying to build, offer a proposed solution, or provide a chance for feedback. 
 
@@ -44,10 +44,10 @@ A few design representation methods include:
 
 <a name="fn1" href="#1">1</a>: [7 Tips on Better Brainstorming](https://challenges.openideo.com/blog/seven-tips-on-better-brainstorming) OpenIDEO, 2011. 
 
-<a name="fn2" href="#2">2</a>: Olsen, 2004
+<a name="fn2" href="#2">2</a>: "Triangulation in social research: qualitative and quantitative methods can really be mixed" by Wendy Olsen. _Developments in Sociology, 20_.
 
 <a name="fn3" href="#3">3</a>: [Personas](http://diytoolkit.org/tools/personas-2/) DIY Toolkit, 2016.
 
-<a name="fn4" href="#4">4</a>: IDEO, Design Thinking Toolkit, 2016
+<a name="fn4" href="#4">4</a>: [DESIGN KIT](http://www.designkit.org/). IDEO. 
 
 <a name="fn5" href="#5">5</a>: [Design Thinking Maximizes Maker Spaces](http://www.slj.com/2016/03/technology/design-thinking-maximizes-maker-spaces/#_), by L. Jacobsen, 2016.

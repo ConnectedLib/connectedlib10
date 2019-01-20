@@ -10,7 +10,7 @@ subsection: four
 In this section, you will learn more ways to integrate the design thinking mindset into each phase of the design process.
 
 <div class="objectives">
-<p>After completing Section 4: Overcoming Challenges, you will be able to...</p>
+<p>After completing this section, you will be able to...</p>
 <ul>
   <li>Address common challenges related to design thinking</li>
 </ul>
@@ -34,4 +34,22 @@ Here are few common challenges--along with how to overcome them--in using design
 <div class="reflection">
 	<p>challenges and solutions</p>
 	<p>What are some challenges you anticipate when integrating design thinking into your programs? List a few, then think through ways you can overcome these challenges.</p>
+</div>
+
+<div class="reflection">
+	<p>Design Thinking KWL</p>
+<p>Return to the KWL worksheet from the beginning of the Design Thinking module. Fill out the “Learn” column with the most important things you learned from this module. Was anything you “Knew” incorrect or incomplete? Did you learn everything from your “Want to Learn” column?</p>
+<p><a href="docs/design-thinking_kwl.docx">Design Thinking KWL Worksheet (DOCX)</a></p>
+
+<table class="worksheet">
+	<tr><th>What do you already know about design thinking?</th>
+		<th>What do you want to learn about design thinking?</th>
+		<th>What did you learn from this module about design thinking?</th>
+	</tr>
+	<tr>
+		<td style="height:250px;"></td>
+		<td></td>
+		<td></td>
+	</tr>
+</table>
 </div>

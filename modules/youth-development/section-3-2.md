@@ -22,9 +22,9 @@ Adolescent friendships are motivated by desires for trust, caring, and mutual re
 
 ## Social Media
 
-In 2015, Facebook was the most popular and frequently used social media platform. By [date], Snapchat had taken the lead with Instagram not too far behind, driven by use by middle and upper income teens.<sup><a name="1" href="#fn1">1</a></sup> These two platforms are more visually-based, emphasizing photo and video sharing more than Facebook. 
+In 2015, Facebook was the most popular and frequently used social media platform.  Then Snapchat took the lead with Instagram not too far behind, driven by use by middle and upper income teens. These two platforms are more visually-based, emphasizing photo and video sharing more than Facebook. 
 
-Regardless of which platform they use, teens use of social media is largely driven by the same motivations and come with the same benefits and drawbacks. For instance, in 2015, 34% of teen Facebook users did not know the size of their friend networks, providing some insight into teens’ understanding of privacy on networked spaces.  
+Regardless of which platform they use, teens use of social media is largely driven by the same motivations and come with the same benefits and drawbacks. For instance, in 2015, 34% of teen Facebook users did not know the size of their friend networks, providing some insight into teens’ understanding of privacy on networked spaces.<sup><a name="1" href="#fn1">1</a></sup> 
 
 ## More Connected or Less Connected?
 
@@ -41,7 +41,7 @@ What are the consequences of increased online communication and decreased in-per
 
 Howard Gardner and Katie Davis concluded that there is probably no single answer. On one hand, teens find it easier to connect with friends and find people who share their interests. But they also experience constant pressure to stay reachable and respond to friends who contact them online. Other consequences include the silo effect, or only receiving information and connecting with those who think and act similarly to themselves.  
 
-The Pew Research Center found that teens encounter a mix of positive and negative online experiences. Peers are a source of drama online, but they also provide each other with support.<sup><a name="2" href="#fn2">2</a></sup> With such a wide range of experiences, it can be challenging to know how to support teens. Understanding how different social media platforms work and investigating how teens communicate online may be the first steps in making guidance relevant to their developmental needs. 
+The Pew Research Center found that teens encounter a mix of positive and negative online experiences. Peers are a source of drama online, but they also provide each other with support.<sup><a name="1" href="#fn1">1</a></sup> With such a wide range of experiences, it can be challenging to know how to support teens. Understanding how different social media platforms work and investigating how teens communicate online may be the first steps in making guidance relevant to their developmental needs. 
 
 <div class="reflection"> 
 
@@ -54,6 +54,4 @@ The Pew Research Center found that teens encounter a mix of positive and negativ
 
 <hr/>
 
-<a name="fn1" href="#1">1</a>: Pew
-
-<a name="fn2" href="#2">2</a>: (Lenhart, 2015)
+<a name="fn1" href="#1">1</a>: [Teens, Social Media & Technology Overview 2015](http://www.pewinternet.org/2015/04/09/teens-social-media-technology-2015/), by Amanda Lenhart. Pew Research Center, 2015.

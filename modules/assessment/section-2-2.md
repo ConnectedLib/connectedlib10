@@ -68,6 +68,11 @@ The following table includes some—though certainly not all!—methods to colle
 
 Other methods are described in different modules; surveys and focus groups are covered in the Community Mapping module, and the Capacity module discusses interviews and town halls.   
 
-**TALKBACK BOARDS** 
+<div class="explanatory">
+  <p>Talkback Boards</p>
+  <p>The Connected Learning Lab discusses creating and using talkback boards to gather data and engage library visitors.</p>
+<p class="videotime">10:02</p><p class="source">Connected Learning Alliance</p>
 
-[include description and case study] 
+<div class="video">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tSDP7LbGHAY" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+</div></div>

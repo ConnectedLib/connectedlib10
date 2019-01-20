@@ -100,4 +100,4 @@ Young people are often bombarded with messaging about online safety from parents
 
 <hr/>
 
-<a name="fn1" href="#1">1</a>: <a href="https://en.wikipedia.org/wiki/Heinz_dilemma" target="_blank">https://en.wikipedia.org/wiki/Heinz_dilemma</a>
+<a name="fn1" href="#1">1</a>: <a href="https://en.wikipedia.org/wiki/Heinz_dilemma" target="_blank">The Heinz Dilemma</a>, _Wikipedia_.

@@ -24,6 +24,23 @@ In this module you will get to know your teens, your neighborhood, and the commu
 
 </div>
 
+<div class="reflection">
+	<p>Community Mapping KWL</p>
+<p>Complete this worksheet by creating a list of what you already know (the K in KWL) about the purpose or process of community mapping. In the second column, write down what you want (W) to learn in this module. You’ll fill out the last column, what you learned (L) when you have completed this module.</p>
+<p><a href="docs/CommunityMapping_KWL.docx">Community Mapping KWL Worksheet (DOCX)</a></p>
+
+<table class="worksheet">
+	<tr><th>What do you already know about community mapping?</th>
+		<th>What do you want to learn about community mapping?</th>
+		<th><i>What did you learn from this module about community mapping? (You will answer this question at the end of the module.)</i></th>
+	</tr>
+	<tr>
+		<td style="height:250px;"></td>
+		<td></td>
+		<td></td>
+	</tr>
+</table>
+</div>
 {% include how_to_use.html %}
 
 At the end of each section, there are additional resources for you to explore further on your own if you choose.

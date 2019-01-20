@@ -7,13 +7,13 @@ section: 1. Theories of Youth Development
 subsection: one-two
 ---
 
->"What a child can do with assistance today she will be able to do by herself tomorrow."<br/>— Lev Vygotsky<sup><a name="1" href="#fn1">1</a></sup>
+>"What a child can do with assistance today she will be able to do by herself tomorrow."<br/><br/>— Lev Vygotsky<sup><a name="1" href="#fn1">1</a></sup>
 
 Soviet psychologist Lev Vygotsky’s (1896-1934) **sociocultural learning theory** emphasizes the role of social interactions with parents, caregivers, and peers in cognitive development.
 
 <div class="explanatory">
   <p>Key Concepts from Vygotsky's Sociocultural Learning Theory</p>
-  <p style="font-size:small;font-style:italic;">Excerpt from LIS 516: Youth Development and Behavior in a Digital Age by Dr. Katie Davis and the University of Washington</p>
+  <p>Excerpt from LIS 516: Youth Development and Behavior in a Digital Age by Dr. Katie Davis and the University of Washington</p>
 <p class="videotime">1:02</p><p class="source">Dr. Katie Davis, University of Washington</p>
 
 <div class="video">
@@ -55,7 +55,8 @@ Read the rest of her post, <a href="http://www.cuppacocoa.com/the-zone-of-proxim
 
 ## Putting sociocultural learning theory into practice 
 
->“I really like group tasks. I like breaking people up into teams, I love the idea of peer-mentoring… That’s a great way to start building community.”<br/>—INTS-059 
+<!-- INTS_059 -->
+>“I really like group tasks. I like breaking people up into teams, I love the idea of peer-mentoring… That’s a great way to start building community.”<br/><br/>— Librarian at an urban western library
 
 Vygotsky’s sociocultural learning theory can be seen in the relationships and shared purpose principles of connected learning. Social scaffolding strategies include: 
 
@@ -94,6 +95,6 @@ Vygotsky’s sociocultural learning theory can be seen in the relationships and 
 
 <hr/>
 
-<a name="fn1" href="#1">1</a>: http://www.psy.cmu.edu/~siegler/vygotsky78.pdf
+<a name="fn1" href="#1">1</a>: [Interaction Between Learning and Development](http://www.psy.cmu.edu/~siegler/vygotsky78.pdf) by Lev Vygotsy, 1978.
 
-<a name="fn2" href="#2">2</a>: https://www.edutopia.org/blog/scaffolding-lessons-six-strategies-rebecca-alber
+<a name="fn2" href="#2">2</a>: [6 Scaffolding Strategies to Use With Your Students](https://www.edutopia.org/blog/scaffolding-lessons-six-strategies-rebecca-alber), by Rebecca Alber. Edutopia, 2014.

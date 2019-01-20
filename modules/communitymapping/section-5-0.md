@@ -11,7 +11,7 @@ subsection: four
 
 <ul>
 
-<li><a href="https://resources.depaul.edu/abcd-institute" target="_blank">Asset-Based Community Development Institute</a> (DePaul University, 2017). Available at: https://resources.depaul.edu/abcd-institute</li>
+<li><a href="https://resources.depaul.edu/abcd-institute" target="_blank">Asset-Based Community Development Institute</a>. DePaul University, 2017. </li>
 
 <li>Although it is not available online, Building From the Inside Out: A Path Toward Finding and Mobilizing a Community’s Assets (ACTA Publications, 1993) is the original guidebook for working with community assets.</li> 
 

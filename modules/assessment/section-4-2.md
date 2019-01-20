@@ -26,3 +26,21 @@ Don’t let the hard work you’ve done evaluating and assessing your initiative
 - Did you learn anything that can be put to use in another initiative?  
 - Did you learn anything that indicates a larger or more systemic change needs to happen in the library?  
 - If the initiative is ongoing, how will you continue assessing or evaluating it moving forward? 
+
+<div class="reflection">
+	<p>Assessment & Evaluation KWL</p>
+<p>Return to the KWL worksheet from the beginning of the Assessment & Evaluation module. Fill out the “Learn” column with the most important things you learned from this module. Was anything you “Knew” incorrect or incomplete? Did you learn everything from your “Want to Learn” column?</p>
+<p><a href="docs/partnerships_KWL.docx">Assessment & Evaluation KWL Worksheet (DOCX)</a></p>
+<table class="worksheet">
+	<tr><th>What do you already know about assessment and evaluation?</th>
+		<th>What do you want to learn about assessment and evaluation?</th>
+		<th>What did you learn from this module about assessment and evaluation?</th>
+	</tr>
+	<tr>
+		<td style="height:250px;"></td>
+		<td></td>
+		<td></td>
+	</tr>
+</table>
+
+</div>

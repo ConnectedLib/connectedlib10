@@ -13,23 +13,11 @@ This section discusses learning about individuals, associations, and institution
 
 You may already be pretty familiar with the young people who visit your library regularly. But are they representative of the community at large? Compare your community profile with the information about your “regulars.” Are there demographic groups that aren’t being served or aren’t represented?  
 
-<div class="explanatory">
-<span class="box-title">RESOURCES</span>
-<ul>
-<li><a href="http://www.diversitydatakids.org/" target="_blank">DiversityDataKids.org</a></li>
-<li><a href="https://www.brookings.edu/interactives/diversity-explosion-the-cultural-generation-gap-mapped/" target="_blank">Diversity Explosion</a></li>
-<li><a href="http://datacenter.kidscount.org/" target="_blank">KIDS COUNT Data Center</a></li>
-</ul>
-<br>
-<p>Some of these resources were found through Know your <a href="http://www.slj.com/2014/06/public-libraries/know-your-neighborhood-a-community-needs-assessment-primer/#_" target="_blank">Neighborhood: A Community Needs Assessment Primer</a> by Lisa G. Kropp as well as <a href="http://www.ala.org/yalsa/professionaltools" target="_blank">YALSA’s Professional Tools</a>.</p> 
-</div>
-<br>
-
 As youth librarians, you are more likely than many people to recognize that youth have gifts and capacities to help their communities. Teens may know their communities as well as or better than adults, bring fresh ideas and perspectives to the table, and have connections to schools, families, and other teens. Youth may be seen as more credible than adults to their peers.<sup>[1](#fn1)</sup> Building Communities from the Inside Out provides many suggestions as to how youth can build productive connections with associations, organizations, and other individuals.
 
 ## Learning about other individuals
 
->“Each time a person uses his or her capacity, the community is stronger and the person more powerful. That is why strong communities are basically places where the capacities of local residents are identified, valued, and used.”<br/>—John Kretzmann and John McKnight<sup>[1](#fn1)</sup> 
+>“Each time a person uses his or her capacity, the community is stronger and the person more powerful. That is why strong communities are basically places where the capacities of local residents are identified, valued, and used.”<br/><br/>—John Kretzmann and John McKnight<sup>[1](#fn1)</sup> 
 
 
 The most foundational assets of a community are the individuals that form it. Every individual has gifts that they can share with their community -- like knowledge, a skill, or physical space, to name just a few.  
@@ -126,15 +114,24 @@ In addition, consider the following sources when you are identifying assets:
  - **Existing networks--** do you already have partners that can help you identify assets and reach out to contacts? You can also try making new connections to ask for help--civic associations, clubs and coalitions, etc.
  - **Other Community Institutions** like hospitals, churches, and parks and recreation facilities.
 
-<div class="explanatory">
-<span class="box-title">DATA RESOURCES</span>
- <ul><li><a href="https://youth.gov/map-my-community" target="_blank">Map My Community (Youth.gov)</a></li></ul>
-</div>
-
 <div class="extra">
 <p>For a small project, focus on pre-existing resources (directories, databases). For more in-depth information, focus on people who are easy to reach out to (patrons, partners) or who are key community members.
 </p>
   </div>
+
+
+<div class="explanatory">
+<span class="box-title">DATA RESOURCES</span>
+ <ul><li><a href="https://youth.gov/map-my-community" target="_blank">Map My Community (Youth.gov)</a></li>
+<li><a href="http://www.diversitydatakids.org/" target="_blank">DiversityDataKids.org</a></li>
+<li><a href="https://www.brookings.edu/interactives/diversity-explosion-the-cultural-generation-gap-mapped/" target="_blank">Diversity Explosion</a></li>
+<li><a href="http://datacenter.kidscount.org/" target="_blank">KIDS COUNT Data Center</a></li>
+</ul>
+<p>Some of these resources were found through Know your <a href="http://www.slj.com/2014/06/public-libraries/know-your-neighborhood-a-community-needs-assessment-primer/#_" target="_blank">Neighborhood: A Community Needs Assessment Primer</a> by Lisa G. Kropp as well as <a href="http://www.ala.org/yalsa/professionaltools" target="_blank">YALSA’s Professional Tools</a>.</p> 
+</div>
+
+
+
 
 <hr/>
 

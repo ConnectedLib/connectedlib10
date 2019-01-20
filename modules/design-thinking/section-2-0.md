@@ -10,7 +10,7 @@ subsection: two
 This section provides an introduction to the basic principles of design thinking.
 
 <div class="objectives">
-<p>After completing Section 2: Exploring a Design Challenge, you will be able to...</p>
+<p>After completing this section, you will be able to...</p>
 <ul>
   <li>Create a design challenge</li>
   <li>Facilitate a design challenge through a studio experience</li>

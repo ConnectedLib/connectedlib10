@@ -7,13 +7,13 @@ section: 1. Theories of Youth Development
 subsection: one-one
 ---
 
->“In order for a child to understand something, he must construct it himself.” <br/>— Jean Piaget<sup><a href="#fn1" name="1">1</a></sup> 
+>“In order for a child to understand something, he must construct it himself.” <br/><br/>— Jean Piaget<sup><a href="#fn1" name="1">1</a></sup> 
 
 Drawing on his observations of children, Swiss psychologist Jean Piaget (1896-1980) developed a groundbreaking theory of cognitive development that included four distinct stages. PIaget theorized that people construct knowledge and meaning from their experiences of the world--a concept known as constructivism.
 
 <div class="explanatory">
   <p class="box-title">Key Concepts from Piaget's Congitive Development Theory</p>
-  <p style="font-size:small;font-style:italic;clear:both;">Excerpt from LIS 516: Youth Development and Behavior in a Digital Age by Dr. Katie Davis and the University of Washington</p>
+  <p>Excerpt from LIS 516: Youth Development and Behavior in a Digital Age by Dr. Katie Davis and the University of Washington</p>
 <p class="videotime">3:31</p><p class="source">Dr. Katie Davis, University of Washington</p>
 
 <div class="video">
@@ -84,6 +84,9 @@ Most tweens and teens will be in the concrete operational stage or the early for
 
 <hr/>
 
-<sup><a name="1" href="#fn1">1</a></sup>: Piers, M. W., Ed. (1972). _Play and Development_. New York, NY: Norton.
+<a name="fn1" href="#1">1</a>: Piers, M. W., Ed. (1972). _Play and Development_. New York, NY: Norton.
 
-<sup><a name="2" href="#fn2">2</a></sup>: Johnson, S. B., Blum, R. W., & Giedd, J. N. (2009). Adolescent maturity and the brain: the promise and pitfalls of neuroscience research in adolescent health policy. _Journal of Adolescent Health, 45_(3), 216-221.
+<a name="fn2" href="#2">2</a>: Johnson, S. B., Blum, R. W., & Giedd, J. N. (2009). Adolescent maturity and the brain: the promise and pitfalls of neuroscience research in adolescent health policy. _Journal of Adolescent Health, 45_(3), 216-221.
+
+
+

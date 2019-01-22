@@ -23,7 +23,7 @@ Community assets can be as broad as entire organizations, or as specific as indi
 </div>
 
 
-Let’s take a moment to reflect on the community that your library serves. As you do this, bring up the map you created in the <a href="{{site.url}}{{site.baseurl}}/modules/communitymapping/index.md">Community Mapping module</a>. Think about the people, places, services and businesses that make up your community that you marked on this map. It can be helpful to visualize your Community Map in relation to their strengths and assets, and can be done in a very similar way to assessing the capacity of your library. As you are doing this, keep in mind which assets and strengths might be the most helpful in relation to your library’s capacity. Here’s an example:
+Let’s take a moment to reflect on the community that your library serves. As you do this, bring up the map you created in the <a href="{{site.url}}{{site.baseurl}}/modules/communitymapping/index.html">Community Mapping module</a>. Think about the people, places, services and businesses that make up your community that you marked on this map. It can be helpful to visualize your Community Map in relation to their strengths and assets, and can be done in a very similar way to assessing the capacity of your library. As you are doing this, keep in mind which assets and strengths might be the most helpful in relation to your library’s capacity. Here’s an example:
 
 ## Midsize Library Community Assets & Strengths
 

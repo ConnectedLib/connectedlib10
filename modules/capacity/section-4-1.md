@@ -37,6 +37,7 @@ Let’s use the same midsize library from our example in the beginning of the mo
   <tr><td><b>Businesses</b></td><td><ul><li>Red Mark Burgers</li><li>Kern Writing & Math Tutoring</li><li>Starbucks</li><li>Guaco's Taco Truck</li></ul></td></tr>
 </table>
 
+
 Then, we will expand to list their strengths:
 
 <table class="worksheet">

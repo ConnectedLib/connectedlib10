@@ -7,7 +7,7 @@
     <title>{{ site.title }}{% if page.title %} - {{ page.title }}{% endif %}</title>
     <script src="{{site.url}}{{site.baseurl}}/assets/js/dropdown.js" type="text/javascript" charset="utf-8"></script>  
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-    <link href="{{ "/assets/css/bootstrap.css" | prepend: site.baseurl }}" rel="stylesheet">
+    <link href="{{site.url}}{{site.baseurl}}/assets/css/bootstrap.css" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css?family=Comfortaa" rel="stylesheet">  
     <link rel="stylesheet" href="{{site.url}}{{site.baseurl}}/assets/css/connectedlib.css">
     <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
@@ -23,5 +23,4 @@
 
 {% include js.html %}
 
-{% include footer.html %}
 </body></html>

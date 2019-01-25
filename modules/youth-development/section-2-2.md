@@ -95,13 +95,23 @@ During the teen years, youth begin to spend more time with their peers than with
 
   <p><span class="box-title">TEST YOUR KNOWLEDGE</span></p> 
 
-  <p>A central feature of a “chumship” is_______:</p><br>
-  <ol type="A">
+  <p>A central feature of a “chumship” is:</p><br>
+  <ul>
   <li>Individuality</li>
   <li>Self-disclosure</li>
   <li>Conformity</li>
   <li>Similarity</li>
-  </ol>
+  </ul>
+
+<input id="collapsible_1" class="toggle" type="checkbox">
+  <label for="collapsible_1" class="lbl-toggle">Answer</label>
+  <div class="collapsible-content">
+    <div class="content-inner">
+A central feature of a “chumship” is <b>self-disclosure</b>.
+</div>
+  </div>
+
+
 </div> 
 
 <hr/>

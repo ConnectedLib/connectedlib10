@@ -70,17 +70,43 @@ Most tweens and teens will be in the concrete operational stage or the early for
 
 <div class="reflection"> 
 
-  <p><span class="box-title">TEST YOUR KNOWLEDGE</span></p> 
+  <p>TEST YOUR KNOWLEDGE</p> 
 
-  <p>Match the following situations with the type of thinking they represent.</p> 
-  <ol type="A">
-  <li>Ordering a collection of games from “most favorite” to “least favorite” </li>
+  <p>Match the following situations with the type of thinking they represent: sensorimotor, pre-operational, concrete operational, or formal operational.</p> 
+  <ol>
+  <li>Knowing that a graham cracker broken in half is still the same amount of graham cracker (not twice as much)</li>
   <li>Understanding how much different books weigh by picking them up</li>
   <li>Creating a list of potential impacts that a new library policy might have on teens</li>
-  <li>Imagining an object they have never seen (such as an striped orange unicorn)</li>
+  <li>Pretending a french fry is an airplane</li>
   </ol>
-  <p>Jane had noticed that younger tweens were not usually able to discuss abstract concepts as well as older teens, and formed a schema regarding reasoning skills at different ages. Then she learned about Piaget and the stages of cognitive development. Will she assimilate or accommodate the new information?</p> 
+
+  <input id="collapsible_1" class="toggle" type="checkbox">
+  <label for="collapsible_1" class="lbl-toggle">Answers</label>
+  <div class="collapsible-content">
+    <div class="content-inner">
+  <ol>
+  <li><b>Concrete Operational:</b> Understanding that a graham cracker broken in half is still the same amount of graham cracker (not twice as much)</li>
+  <li><b>Sensorimotor</b>: Understanding how much different books weigh by picking them up</li>
+  <li><b>Formal Operational</b>: Creating a list of potential impacts that a new library policy might have on teens</li>
+  <li><b>Preoperational:</b> Pretending a french fry is an airplane</li>
+  </ol>
 </div>
+  </div>
+</div>
+
+<div class="reflection">
+  <p>test your knowledge</p>
+  <p>Jane had noticed that younger tweens were not usually able to discuss abstract concepts as well as older teens, and formed a schema regarding reasoning skills at different ages. Then she learned about Piaget and the stages of cognitive development. Will she assimilate or accommodate the new information?</p> 
+
+<input id="collapsible_2" class="toggle" type="checkbox">
+  <label for="collapsible_2" class="lbl-toggle">Answer</label>
+  <div class="collapsible-content">
+    <div class="content-inner">
+Ideally, Jane will <b>assimilate</b> this new information. It does not appear to contradict her existing schema; rather, it adds to what she already believes.
+</div>
+  </div>
+</div>
+
 
 <hr/>
 

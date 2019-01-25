@@ -29,9 +29,9 @@ In this module, **Introduction to Connected Learning**, you will learn what conn
 <p><a href="docs/Intro_KWL.docx">Download Worksheet (DOCX)</a></p>
 
 <table class="worksheet">
-	<tr><th>What do you already know about connected learning programming?</th>
-		<th>What do you want to learn about connected learning programming?</th>
-		<th><i>What did you learn from this module about connected learning programming? (You will answer this question at the end of the module.)</i></th>
+	<tr><th>What do you already know about connected learning?</th>
+		<th>What do you want to learn about connected learning?</th>
+		<th><i>What did you learn from this module about connected learning? (You will answer this question at the end of the module.)</i></th>
 	</tr>
 	<tr>
 		<td style="height:250px;"></td>

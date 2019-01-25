@@ -12,9 +12,12 @@ It can be tempting to start program development by choosing a theme — this is 
 The theme of your program can facilitate peer supported and interest driven learning. Look for interesting connections to make between traditional topics. Combining a “fun” theme with an “basic” academic topic can put a new spin on an old program, or attract teens who might not otherwise feel like the program is for them. This is another area where leveraging potential partnerships could result in a unique and compelling program. Whatever theme or themes you choose, make sure they are teen driven and not “librarian driven.”<sup><a href="#fn1" name="1">1</a></sup>
 
 <div class="case_study_box">
-	<p class="box-title">Scidentity</p>
-	<p>The <a href="http://ahnjune.com/wp-content/uploads/2014/04/ICLS2014-Sci-Dentity-camera-ready.pdf">SciDentity project</a> at the University of Maryland used a superhero theme to encourage learners to identify themselves as scientists.</p>
-</div>
+  <p>Sci-Dentity</p>
+	<p>The <a href="http://ahnjune.com/wp-content/uploads/2014/04/ICLS2014-Sci-Dentity-camera-ready.pdf">SciDentity project</a> at the University of Maryland used a superhero theme to encourage learners to identify as scientists. These slides from <a href="https://www.slideshare.net/ahnjune" target="_blank">Dr. June Ahn</a> describe the experience.</p>
+
+<div class="video">
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/2UItwHGyIy8DJ" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
+</div></div>
 
 
 ## The basics

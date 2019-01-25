@@ -22,7 +22,7 @@ Developmental psychologist Urie Bronfenbrenner (1917-2005) emphasized the import
 Bronfenbrenner’s model is a series of nested contexts: 
 
 - The **microsystem** is the innermost system; it contains people and settings that directly involve a young person, such as their home, family, peer group, work, or school.  
-- The **mesosystem** is an interaction or connection between two or more entities in the microsystem — for instance, parents visiting school, or friends visiting the young person’s home.  
+- A **mesosystem** is an interaction or connection between two or more entities in the microsystem — for instance, parents visiting school, or friends visiting the young person’s home.  
 - The **exosystem** contains settings that do not directly involve the young person, but that may still affect their life. For instance, a child may never visit their parent’s workplace, but events that occur there may affect the child indirectly. 
 - The **macrosystem** involves patterns and characteristics of a culture, like a community or society’s norms and values that shape and affect the youth experience.  
 - The **chronosystem** represents the passage of time, focusing on changes in the youth’s environment. Changes in family structure, socioeconomic status, and residency can greatly impact developmental outcomes.  
@@ -52,12 +52,22 @@ Each of these systems interrelate and interact with one another, demonstrating t
   <p><span class="box-title">TEST YOUR KNOWLEDGE</span></p> 
 
   <p>When two different microsystems interact, they create </p> 
-  <ol type="A">
+  <ul>
   <li>Another microsystem </li>
   <li>A macrosystem</li>
   <li>An ecology</li>
   <li>A mesosystem</li>
-  </ol>
+  </ul>
+
+
+<input id="collapsible_1" class="toggle" type="checkbox">
+  <label for="collapsible_1" class="lbl-toggle">Answer</label>
+  <div class="collapsible-content">
+    <div class="content-inner">
+When two different microsystems interact, they create <b>a mesosystem</b>.
+</div>
+  </div>
+
 </div>
 
 <hr/>

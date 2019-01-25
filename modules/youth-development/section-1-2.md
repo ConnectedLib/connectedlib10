@@ -76,21 +76,33 @@ Vygotsky’s sociocultural learning theory can be seen in the relationships and 
 
 <div class="reflection"> 
 
-  <p><span class="box-title">TEST YOUR KNOWLEDGE</span></p> 
+  <p>TEST YOUR KNOWLEDGE</p> 
 
   <p>Vygotsky focused on learning that takes place through:</p> 
-  <ol type="A">
+  <ul>
   <li>Role models</li>
   <li>Social interaction</li>
   <li>Repetition and practice</li>
   <li>Focused attention</li>
-  </ol>
-  <p>Vygotsky focused on learning that takes place through:</p> 
-  <ol type="A">
+  </ul>
+  <p>The “zone of proximal development” refers to:</p> 
+  <ul>
   <li>Activities the learner has mastered</li>
   <li>Activities the learner can do when supported by scaffolding</li>
   <li>Activities the learner cannot achieve on their own</li>
-  </ol>
+  </ul>
+
+<input id="collapsible_1" class="toggle" type="checkbox">
+  <label for="collapsible_1" class="lbl-toggle">Answers</label>
+  <div class="collapsible-content">
+    <div class="content-inner">
+      <ul>
+<li>Vygotsky focused on learning that takes place through <b>social interaction</b>.</li>
+<li>The “zone of proximal development” refers to <b>activities the learner can do when supported by scaffolding</b></li></ul>
+</div>
+  </div>
+
+
 </div>
 
 <hr/>

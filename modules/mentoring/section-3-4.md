@@ -11,16 +11,15 @@ subsection: three-four
 
 Library organizations such as American Libraries Association and YALSA offer mentoring programs such as: 
 
-- YALSA’s virtual mentoring program. Experienced librarians are paired with a new librarian or graduate student in a Library Science program. 
-- ALA MentorConnect. Informal mentoring network implemented within ALA Connect that allows all ALA members to join the network and begin serving as a mentor or seeking a mentor. 
-- Emerging Leaders Program. Offers mentoring and training for librarians who are new to the field.  
-- American Association of School Librarians (AASL)Mentoring. New or interested librarians are paired with a librarian who guides them through challenges associated with working as a school librarians.   
+- [YALSA’s Virtual Mentoring Program](http://www.ala.org/yalsa/profdev/mentoring). Experienced librarians are paired with a new librarian or graduate student in a Library Science program. 
+- [ALA Emerging Leaders Program](http://www.ala.org/educationcareers/leadership/emergingleaders). Mentoring and training for new librarians.  
+
 
 Many library associations affiliated with ALA and YALSA also offer mentorship programs such as: 
 
-- REFORMA Mentoring Program 
-- Asian Pacific American Librarians Association  
-- Chinese American Librarians Association 
+- [REFORMA Mentoring Program](https://www.reforma.org/content.asp?contentid=34)
+- [Asian Pacific American Librarians Association](http://www.apalaweb.org/about/committees/standing-committees/mentoring-committee/mentoring-program/) 
+- [Chinese American Librarians Association](https://www.cala-web.org/node/1680)
 
 <!-- INTS_059 -->
 > "I actually call people a lot and I text people and I follow people on their Instagrams. And then I actually like getting together with people in real life and having dinner..." <br/><br/>— Adult Librarian at an urban western library

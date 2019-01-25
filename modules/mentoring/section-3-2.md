@@ -9,26 +9,32 @@ subsection: three-two
 
 YALSA<sup><a name="1" href="#fn1">1</a></sup> outlines the key ways that youth librarians can lead young people, including encouraging lifelong learning, demonstrating what libraries can offer, and facilitating youth participation, such as leadership opportunities in teen advisory groups, volunteering, and employment. Youth librarians we talked to discussed their different styles and approaches to mentoring. For instance, <!-- INTS 059 --> a librarian at an urban western library described her philosophy: “... my primary way of interacting with teenagers is remembering that I'm not their teacher, I'm not their parent. I am someone who's older, who may have more life experience, but I'm someone to help facilitate what they wanna do.” 
 
-However, she also feels that: “...there are a lot of different ways that you can successfully interact with teenagers as a librarian, but a lot of it really depends on your personal style.”   
+However, she also felt that: “...there are a lot of different ways that you can successfully interact with teenagers as a librarian, but a lot of it really depends on your personal style.”   
 
 
 Youth librarians we talked to are serving as mentors to youth in a variety of ways. Some examples from libraries around the U.S., include: 
 
 ## Opportunities for youth to make new peer connections 
 
-Many libraries provide ways for youth to reach beyond their immediate peer and community connections. Youth librarians at the San Francisco Public Library host yearly civic hackathons through TeenTechSF where students, mentors, and speakers work together to develop tech solutions.<sup><a name="2" href="#fn2">2</a>, <a name="3" href="#fn3">3</a></sup> INTK-19 discusses how mentors within her library can encourage youth to work with different teens. She says: "... a lot of times that's setting up people who are interested in one video game, and then having them tournament against somebody else...Or setting up two kids that are both wanting laptops and setting them up next to each other and saying, ‘Okay, all you guys are working on the same kind of thing.’”   
+Many libraries provide ways for youth to reach beyond their immediate peer and community connections. Youth librarians at the San Francisco Public Library host yearly civic hackathons through TeenTechSF where students, mentors, and speakers work together to develop tech solutions.<sup><a name="2" href="#fn2">2</a>, <a name="3" href="#fn3">3</a></sup> 
+
+<!-- INTK-19 -->
+>"A lot of times [we're] setting up people who are interested in one video game, and then having them tournament against somebody else... Or setting up two kids that are both wanting laptops and setting them up next to each other and saying, ‘Okay, all you guys are working on the same kind of thing.’”<br/><br/>– Youth Services Coordinator at an urban midwest library 
 
 ## Encouragement and feedback to support youth’s interests 
 
-Through providing space for “messing around” with low and high tech materials, youth librarians provide entry points for various skill sets and levels of interest.<sup><a name="2" href="#fn2">2</a>, <a name="4" href="#fn4">4</a></sup>  Many of the youth librarians we talked to discussed ways to help young people build their self esteem and increase their confidence by supporting their interests. INTK-020 shares: “...I have a young man who has attended maybe a few programs and he's a writer, and he's very insecure about his writing ability. But after me just offering my guidance, my assistance, and helping him develop who he is as a writer, he now frequently sends me some writing that he has done so that I can edit it and give him some suggestions on how to make it better.” 
+Through providing space for “messing around” with low and high tech materials, youth librarians provide entry points for various skill sets and levels of interest.<sup><a name="2" href="#fn2">2</a>, <a name="4" href="#fn4">4</a></sup>  Many of the youth librarians we talked to discussed ways to help young people build their self esteem and increase their confidence by supporting their interests. 
+
+<!-- INTK 020 -->
+> “...I have a young man who has attended maybe a few programs and he's a writer, and he's very insecure about his writing ability. But after me just offering my guidance, my assistance, and helping him develop who he is as a writer, he now frequently sends me some writing that he has done so that I can edit it and give him some suggestions on how to make it better.”<br/><br/>– Teen Librarian at an urban southern library
 
 ## Academic assistance that supports school projects 
 
-Youth librarians support teens through programs designed to increase academic success and build career related skills. INTS-009 describes how youth librarians and teen mentors collaborate to support the local high school’s senior capstone project: “... we offer Capstone support every week for anyone who needs assistance with their Capstone. We also have mentors here....we're working individually with youth on making sure that they're on task with their Capstones.” 
+Youth librarians support teens through programs designed to increase academic success and build career related skills. <!-- INTS 009 --> A teen librarian at an urban northeastern library described how youth librarians and teen mentors collaborate to support the local high school’s senior capstone project: “... we offer Capstone support every week for anyone who needs assistance with their Capstone. We also have mentors here... we're working individually with youth on making sure that they're on task with their Capstones.” 
 
-## Resources and access to outside mentors.   
+## Resources and access to outside mentors
 
-By providing access to mentors from the community, youth librarians may be able to help teens develop career and personal interests in ways that their immediate family, teachers, or peers may not. At the Providence Public Library, youth interested in fashion and art connected with design educators and students from a local college. For instance, at one workshop, a male youth interested in fashion was able to meet a college student who shared a similar background.<sup><a name="5" href="#fn5">5</a></sup> 
+By providing access to mentors from the community, youth librarians may be able to help teens develop career and personal interests in ways that their immediate family, teachers, or peers may not. At the Providence Public Library, youth interested in fashion and art connected with design educators and students from a local college. For instance, at one workshop, a teenage boy interested in fashion was able to meet a college student who shared a similar background.<sup><a name="5" href="#fn5">5</a></sup> 
 
 <hr/>
 

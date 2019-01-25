@@ -18,4 +18,4 @@ In this introduction, you will learn what mentoring is and how it can support co
   <li>Define digital literacy and describe librarians’ role in promoting literacy development</li>
 </ul></div>
 
-In this section, we explore digital media use among tweens and teens to understand their patterns of behavior in the digital age. You will discover key findings from recent reports and surveys that summarize the media use of teens. We also present the research on both the positive and negative effects of a very popular form of media use: video game playing. To that end, we discuss the innovations in game design and platforms that may increase opportunities for learning and social interaction among teens, as well as digital literacy. 
+This section explores the digital media behavior patterns of tweens and teens. You will also review the research on both the positive and negative effects of a very popular form of media use: video game playing, including the innovations in game design and platforms that may increase opportunities for learning and social interaction and digital literacy among teens.

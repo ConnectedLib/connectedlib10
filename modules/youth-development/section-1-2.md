@@ -13,7 +13,7 @@ Soviet psychologist Lev Vygotsky’s (1896-1934) **sociocultural learning theory
 
 <div class="explanatory">
   <p>Key Concepts from Vygotsky's Sociocultural Learning Theory</p>
-  <p>Excerpt from LIS 516: Youth Development and Behavior in a Digital Age by Dr. Katie Davis and the University of Washington</p>
+  <p>Excerpt from <i>LIS 516: Youth Development and Behavior in a Digital Age</i> by Dr. Katie Davis and the University of Washington</p>
 <p class="videotime">1:02</p><p class="source">Dr. Katie Davis, University of Washington</p>
 
 <div class="video">
@@ -63,7 +63,7 @@ Vygotsky’s sociocultural learning theory can be seen in the relationships and 
 - Showing or demonstrating techniques and activities, not just describing them<sup><a name="2" href="#fn2">2</a></sup>
 - Connecting learning to prior knowledge by asking youth to share their ideas and experiences<sup><a name="2" href="#fn2">2</a></sup>
 - Encouraging youth to learn from each other through group discussions and projects 
-- Providing opportunities for peer feedback<
+- Providing opportunities for peer feedback
 
 
 <div class="reflection"> 

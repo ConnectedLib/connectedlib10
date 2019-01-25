@@ -14,9 +14,7 @@ In this introduction, you will learn what mentoring is and how it can support co
 	<ul>
   <li>Describe the core elements of mentoring</li>
 </ul>
-</div>
-
-Local artists and media professionals sharing their expertise with young people in learning labs and workshops. Older teens guiding tweens with science experiments. Youth librarians helping teens use digital media to meet their future goals. 
+</div> 
 
 In supporting today’s young people, librarians around the country are providing a range of mentoring opportunities. Research evidence finds that quality mentoring experiences can make a powerful impact on the personal, professional, and academic lives of young people.<sup><a name="1" href="#fn1">1</a>, <a name="2" href="#fn2">2</a>, <a name="3" href="#fn3">3</a></sup> In this module, we offer practical ways and best practices for encouraging mentoring relationships (librarians as mentors, youth mentors, adult and community mentors) within a youth librarian context. 
 <hr/>

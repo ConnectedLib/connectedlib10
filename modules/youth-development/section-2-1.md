@@ -33,7 +33,7 @@ Teens use different social media platforms in different ways, in an effort to in
 
 <div class="case_study_box">  
 <p><span class="box-title">DESIGN AND IDENTITY</span></p> 
-<p>Designers of new technologies can also influence identity formation. For example, it took Facebook ten years to offer its users with different options for gender identities. The fusion of personal and corporate, tech designers’ values, and the features of online applications and communities can all influence adolescents developing sense of identity, impacting the way they view themselves and the world.</p>  
+<p>Designers of new technologies can also influence identity formation. For example, it took Facebook ten years to offer its users different options for gender identities. The fusion of personal and corporate, tech designers’ values, and the features of online applications and communities can all influence adolescents developing sense of identity, impacting the way they view themselves and the world.</p>  
 </div> 
 
 ## Identity, "Selves," and Information Needs 
@@ -41,8 +41,8 @@ Teens use different social media platforms in different ways, in an effort to in
 Researchers Denise Agosto and Sandra Hughes-Hassell study the “everyday life information seeking” habits of teens living in urban areas, theorizing that information seeking during the teen years is “the gathering and processing of information to facilitate the multifaceted teen-to-adulthood maturation process.”<sup><a name="3" href="#fn3">3</a></sup> They identified seven “selves” that teens must develop. Briefly summarized, these include: 
 
 - **The social self** - how teens see society and their place in it 
-- **The emotional self** - teens’ inner feelings and reactions to the world 
-- **The reflective self** - a teen’s identity and beliefs about the world 
+- **The emotional self** - inner feelings and reactions to the world 
+- **The reflective self** - identity and beliefs about the world 
 - **The physical self** - health, safety, daily routines, and other physical activities 
 - **The creative self** - creation and self-expression 
 - **The cognitive self** - intellectual understanding of the world 

@@ -7,7 +7,7 @@ section: 3. Developing Mentors and Mentorship Programs
 subsection: three-two
 ---
 
-YALSA<sup><a name="1" href="#fn1">1</a></sup> outlines the key ways that youth librarians can lead young people, including encouraging lifelong learning, demonstrating what libraries can offer, and facilitating youth participation, such as leadership opportunities in teen advisory groups, volunteering, and employment. Youth librarians we talked to discussed their different styles and approaches to mentoring. For instance, INTS-059 describes her philosophy: “... my primary way of interacting with teenagers is remembering that I'm not their teacher, I'm not their parent. I am someone who's older, who may have more life experience, but I'm someone to help facilitate what they wanna do.” 
+YALSA<sup><a name="1" href="#fn1">1</a></sup> outlines the key ways that youth librarians can lead young people, including encouraging lifelong learning, demonstrating what libraries can offer, and facilitating youth participation, such as leadership opportunities in teen advisory groups, volunteering, and employment. Youth librarians we talked to discussed their different styles and approaches to mentoring. For instance, <!-- INTS 059 --> a librarian at an urban western library described her philosophy: “... my primary way of interacting with teenagers is remembering that I'm not their teacher, I'm not their parent. I am someone who's older, who may have more life experience, but I'm someone to help facilitate what they wanna do.” 
 
 However, she also feels that: “...there are a lot of different ways that you can successfully interact with teenagers as a librarian, but a lot of it really depends on your personal style.”   
 

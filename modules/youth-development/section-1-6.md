@@ -24,7 +24,7 @@ Each stage is marked a “crisis,” or tension, that must be resolved before fo
 
 <div class="explanatory">
   <p>Just for fun: Psychosocial Theory Animtaed</p>
-<p class="videotime">5:47</p><p class="source">Alyssa O'Boyle, <a href="https://www.youtube.com/channel/UCpaHNJGTMPFtM-Rmd_RsfzA">Ryanne Ehrman</a>, & Jiarun He</p>
+<p class="videotime">5:47</p><p class="source">Alyssa O'Boyle, Ryanne Ehrman, & Jiarun He</p>
 
 <div class="video">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/OhBbE8hSz1I" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>

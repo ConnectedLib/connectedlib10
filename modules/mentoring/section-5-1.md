@@ -36,11 +36,11 @@ Youth librarians have tapped into local businesses and industries to provide pra
 <!-- INTM_051-->
 A special collections librarian at an urban northeastern library partnered with their local preservation and historical society in a program where adults mentored students in the design of a digital neighborhood profile. Teens explored map design and history, while mentors assisted with  “.... hands-on work, and a lot of time spent asking them to sort of critically engage in the built environment around them”. Mentors also helped young people reflect on the design process, asking them "... how do you make meaning for somebody else by creating this digital tool?" 
 
-Other partnerships have included connecting young people with mentors through informal learning institutions, local businesses,community groups, youth-serving organizations, and schools. Learn more about partnering with people and organizations in your community in the [Community Partnerships](../partnerships/).
+Other partnerships have included connecting young people with mentors through informal learning institutions, local businesses,community groups, youth-serving organizations, and schools. Learn more about partnering with people and organizations in your community in the [Community Partnerships](../partnerships/) module.
 
 ## Learning through intergenerational experiences 
 
-A community hacker meetup at [library] brings together people from “...a variety of educational backgrounds, ethnicities, ages, and careers to collaborate informally on personal projects.”<sup><a name="2" href="#fn2">2</a>, <a name="3" href="#fn3">3</a></sup> Intergenerational games were also mentioned as one way to provide mentoring and encourage youth and adults to engage in fun learning activities. 
+One community hacker meetup brings together people from “...a variety of educational backgrounds, ethnicities, ages, and careers to collaborate informally on personal projects.”<sup><a name="2" href="#fn2">2</a>, <a name="3" href="#fn3">3</a></sup> Intergenerational games were also mentioned as one way to provide mentoring and encourage youth and adults to engage in fun learning activities. 
 
 <!-- INTS-013 -->
 Through a local partnership, a young adult librarian an a suburban northeastern library  partnered with a nonprofit that “... brings adult chess teachers into the library and organizes chess tournaments.”  In addition, she works with the Chess Club at the local high school and works with teen volunteers who come into the library to teach children how to play the game. 

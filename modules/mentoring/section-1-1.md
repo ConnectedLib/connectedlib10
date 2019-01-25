@@ -19,7 +19,7 @@ In talking with over 90 librarians and library staff who work with teens, we fou
 
 ## Careers and academic development 
 
-Mentors offer advice on career paths or support the mentee in connecting their interests to academic success. For instance, one library’s mentor-led, DJ program, allows young people to  **_“...learn how to DJ and learn all the technology and software, but they can relay it back to school ...when they are using the microphone, making announcements, they enhance their public speaking skills.”_**
+Mentors offer advice on career paths or support the mentee in connecting their interests to academic success. For instance, one library’s mentor-led DJ program allows young people to  **_“...learn how to DJ and learn all the technology and software, but they can relay it back to school ...when they are using the microphone, making announcements, they enhance their public speaking skills.”_**
 
 To prepare them for the workforce, other libraries have offered mentorship to teens through STEM career development, internship programs, and leadership experience.<sup><a name="3" href="#fn3">3</a>, <a name="4" href="#fn4">4</a></sup>
 

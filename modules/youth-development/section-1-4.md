@@ -13,7 +13,7 @@ In the early 1960s, Albert Bandura’s (1925 - present) classic Bobo doll experi
 
 <div class="explanatory">
   <p>Key Concepts from Bandura's Social Cognitive Theory</p>
-  <p>Excerpt from LIS 516: Youth Development and Behavior in a Digital Age by Dr. Katie Davis and the University of Washington</p>
+  <p>Excerpt from <i>LIS 516: Youth Development and Behavior in a Digital Age</i> by Dr. Katie Davis and the University of Washington</p>
 <p class="videotime">0:46</p><p class="source">Dr. Katie Davis, University of Washington</p>
 
 <div class="video">

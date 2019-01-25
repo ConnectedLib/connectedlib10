@@ -18,8 +18,8 @@ Library organizations such as American Libraries Association and YALSA offer men
 
 Many library associations affiliated with ALA and YALSA also offer mentorship programs such as: 
 
-- REFORMA Mentoring Program. National Association to Provide Libraries and Information Services to Latinos and the Spanish-Speaking, provides a mentorship program to assist those providing services to Latinos. 
-- Asian Pacific American Librarians Association. (Research more about their program)  
+- REFORMA Mentoring Program 
+- Asian Pacific American Librarians Association  
 - Chinese American Librarians Association 
 
 <!-- INTS_059 -->

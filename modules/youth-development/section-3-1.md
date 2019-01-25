@@ -11,7 +11,7 @@ Since teens’ media use is constantly evolving as technology and platforms chan
 
 ## Mobile
 
-Research statistics show that mobile technologies have enabled teens’ widespread access to the internet.<sup><a name="1" href="#fn1">1</a></sup> In the United States today, it is safe to assume that virtually all teens have some kind of access to the internet, frequently via mobile devices. In 2015 91% of teens reported going online from mobile devices “at least occasionally.”<sup><a name="1" href="#fn1">1</a></sup> 
+Research statistics show that mobile technologies have enabled teens’ widespread access to the internet.<sup><a name="1" href="#fn1">1</a></sup> In the United States today, it is safe to assume that virtually all teens have some kind of access to the internet, frequently via mobile devices. In 2015, 91% of teens reported going online from mobile devices “at least occasionally.”<sup><a name="1" href="#fn1">1</a></sup> 
 
 Smartphone usage is widespread among teens of all demographics and socioeconomic statuses. Smartphones may be a way to bridge the digital divide for disadvantaged teens with limited internet access. However, as some of the librarians we spoke to pointed out, just because a teen has a smartphone doesn’t mean they have an adequate data plan - or any plan at all. Still, around 73% of teens with access to smartphones are using messaging apps like Kik or WhatsApp. Fully 33% of teens with phones have texting and messaging apps. Finally, texting is not the only activity; teens use their smartphones as an entertainment hub: sharing photos and videos, watching videos, playing games, listening to music.   
 
@@ -38,7 +38,7 @@ While digital media is used for reading, watching, playing, listening, communica
                        
 Does technology like smartphones support or undermine the individual process? Pyschologist Sherry Turkle argues that mobile phones are “digital tethers” that enable parents to keep track of their child even when they aren’t in the same physical space. Other research have found that parents and youth are closer than ever, which may undermine the autonomy that teens are seeking during adolescence. Still, technologies like smartphones may give youth opportunities for greater independence and mobility, allowing parents to feel more at ease allowing their teen to go places without them.  
 
-Families can also use digital media to bring them together via joint media engagement--activities like watching movies or playing video games together. Some devices can get in the way of family closeness; for instance, family members may use mobile and tablet devices separately while at home instead of engaging with one another.<sup><a name="4" href="#fn2">2</a></sup> 
+Families can also use digital media to bring them together via _joint media engagement_ — activities like watching movies or playing video games together. Some devices can get in the way of family closeness; for instance, family members may use mobile and tablet devices separately while at home instead of engaging with one another.<sup><a name="4" href="#fn2">2</a></sup> 
 
 <div class="reflection"> 
 

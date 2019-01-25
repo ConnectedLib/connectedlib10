@@ -7,8 +7,6 @@ section: 2. Benefits of Mentoring
 subsection: two
 ---
 
-This section provides an overview of the benefits of mentoring for youth, and how it can work.
-
 <div class="objectives">
 	<p>After completing this section, you will be able to...</p>
 <ul>

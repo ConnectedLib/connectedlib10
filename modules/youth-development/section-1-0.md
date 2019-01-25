@@ -7,8 +7,6 @@ section: 1. Theories of Youth Development
 subsection: one
 ---
 
-In this introduction, you will learn what mentoring is and how it can support connected learning in the library.
-
 <div class="objectives">
 <p>After completing this section, you will be able to...</p>
 <ul>

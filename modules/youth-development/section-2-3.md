@@ -39,47 +39,41 @@ Inspired by Piaget, psychologist Lawrence Kohlberg (1927-1987) theorized that a 
 
 ## Morality and Default Mode
 
-The brain’s default mode network activates when we are not thinking about our immediate external environment. It is associated with introspection and mindfulness — inwardly focused thoughts. Moral reasoning skills like empathy, self-understanding, abstract thinking, memory, and divergent thinking happen in default mode.  
+The brain’s "default mode network" activates when we are not thinking about our immediate external environment. It is associated with introspection and mindfulness — inwardly focused thoughts. Moral reasoning skills like empathy, self-understanding, abstract thinking, memory, and divergent thinking happen in default mode.  
 
 Some research evidence on the default mode of the brain suggests that there may be a connection with moral reasoning and emotion. However, emotions may come before reasoning. For instance, a reflective pause after a particularly emotional experience may activate the default mode of the brain. Researchers have begun exploring how our brain’s default mode might be impacted by technology, especially social media. Some research evidence has shown that social media use may activate parts of the brain that are externally focused, rather than the default mode that is centered on the internal. However, researchers have found some benefits of social media use. For example, the ability to connect across geographic and cultural boundaries is seen as a way to promote social reflectiveness and social responsibility 
 
-In the book _Disconnected: Youth, New Media, and the Ethics Gap_, researcher Carrie James explored the moral dilemmas that youth face in using digital and networked technologies. Using findings from the Good Play Project at Harvard University, James points to the distinct qualities of networked technologies that can lead to moral dilemmas, including: 
+In the book _Disconnected: Youth, New Media, and the Ethics Gap_, researcher Carrie James explored the moral dilemmas that youth face in using digital and networked technologies. Using findings from the Good Play Project at Harvard University, James points to the distinct qualities of networked technologies that can lead to moral dilemmas. For instance, networked technologies: 
 
-- Participatory 
-- Text-based and asynchronous 
-- Opportunities for anonymity 
-- Arm’s length 
-- Persistence, replicability, searchability 
-- Public/boundless 
-- “Always on” 
-- Capacity to multi-task 
-- Partial attention 
+- are participatory 
+- are text-based, asynchronous, and sometimes anonymous, keeping interactions at "arm's length"
+- allow for persistence, replicability, and searchability of content
+- are public, boundless, and "always on” 
+- allow for multitasking and partial attention
 
 In a study conducted by <a href="http://www.pz.harvard.edu/projects/the-good-play-project" target="_blank">The Good Play Project</a>, researchers examined how young people think about their online lives, make choices online, and respond to moral and ethical dilemmas they face in digital environments. During interviews with young people ages 10-25 as well as parents and teachers, the researchers posed hypothetical moral dilemmas that involved digital and networked technologies.  
 
 The responses from young people interviewed uncovered three types of thinking when faced with online moral and ethical dilemmas: 
 
-- Ethical thinking. The young person was able to think more in abstract terms and consider how a wider community or public might be affected. 
-- Moral thinking. They considered other's feelings. They thought about people they knew and how their actions might impact them. 
-- Consequence thinking. The young person was mainly focused on the rewards or the risks to the self. 
+- **Ethical thinking.** The young person was able to think more in abstract terms and consider how a wider community or public might be affected. 
+- **Moral thinking.** They considered other's feelings. They thought about people they knew and how their actions might impact them. 
+- **Consequence thinking.** The young person was mainly focused on the rewards or the risks to the self. 
 
 Similar to Kohlberg’s stages of moral development, the first two stages align with consequence thinking. The third and fourth stages align with moral thinking, and the fifth and sixth stages align with ethical thinking. 
 
 In _Disconnected_, James highlights the “ethical thinking dispositions” that influence a young person’s decision to engage or not engage in moral or ethical thinking online, such as: 
 
 - **Sensitivity**. An alertness to the moral or ethical dimensions of the situation is needed to engage in moral and ethical thinking. However, teens might see the rules of conduct differently in online contexts. For example, they may accept certain behavior while playing multiplayer video games. James refers to these as blind spots. 
-- **Motivation**. Teens are alert to moral and ethical dimensions, but often lack the motivation to engage in moral thinking online. Fear of standing out too much, may stop them from taking action. James calls this lack of motivation online disconnects. 
+- **Motivation**. Teens are alert to moral and ethical dimensions, but often lack the motivation to engage in moral thinking online. Fear of standing out too much may stop them from taking action. James calls this lack of motivation online disconnects. 
 - **Agency**. In some cases, teens are compelled to take action when they see something troubling online. However, the anonymity and boundlessness of the Internet makes it difficult for teens to do anything as they do not feel a sense of agency. 
-
-Young people are often bombarded with messaging about online safety from parents and teachers. Partnering with Common Sense Media, findings from the Good Play Project helped inform the Digital Literacy and Citizenship Classroom Curriculum. While online safety is of importance, the curriculum’s focus is to help youth develop a greater focus on moral or ethical thinking online. 
 
 <div class="reflection"> 
 
   <p><span class="box-title">REFLECTION</span></p> 
   <ul>
-  <li>If digital and networked technologies disrupt the balance between looking out and looking in, what can youth librarians do to promote the brain’s default mode in a library environment?</li>
+  <li>What can youth librarians do to promote the brain’s default mode in a library environment? What is the impact of digital and networked technologies that disrupt the balance between looking out and looking in?</li>
 
-  <li>How would you develop a youth-centered library program or service that you feel might activate skills associated with the “default mode” of the brain?</li> 
+  <li>How would you develop a youth-centered library program or service that activates skills associated with the “default mode” of the brain?</li> 
 
   <li>What role should librarians play in addressing young people’s “blind spots” and “disconnects” when they use digital and networked technologies?</li>
   </ul>

@@ -14,7 +14,7 @@ Here are a few ways to prepare for and close out a mentoring experience:
 - Set clear guidelines for mentors on their expectations after the mentoring program ends 
 - When appropriate, offer ways for youth to stay in touch with mentors 
 - Create a plan for closure if mentors leave or the relationship needs to end 
-- Research suggests providing closure or “ending rituals” or activities to reflect on the end of the relationship can provide youth with growth and learning opportunities.<sup><a name="1" href="#fn1">1</a></sup>
+- Research suggests providing closure or “ending rituals” or activities to reflect on the end of the relationship can provide youth with growth and learning opportunities<sup><a name="1" href="#fn1">1</a></sup>
 - Your closure plan can include a way for youth and mentors to say goodbye and ask youth reflective questions (e.g., What did you like best about the experience?) 
 
 

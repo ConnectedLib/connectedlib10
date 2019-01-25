@@ -9,11 +9,11 @@ subsection: one-three
 
 >“From constructivist theories of psychology we take a view of learning as a reconstruction rather than as a transmission of knowledge. Then we extend the idea of manipulative materials to the idea that learning is most effective when part of an activity the learner experiences as constructing a meaningful product.”<br/><br/>— Seymour Papert<sup><a name="1" href="#fn1">1</a></sup>
 
-Informed by both Piaget and Vygotsky, Seymour Papert (1928-2016, and a founding faculty member of the <a href="http://el.media.mit.edu/logo-foundation/what_is_logo/logo_programming.html" target="_blank">MIT Media Lab</a> developed the concept of **constructionism**. Based on Piaget’s constructivism, constructionism emphasizes the agency of young people as active participants in the construction of their own learning. Papert developed one of the first educational programming languages, known as <a href="http://el.media.mit.edu/logo-foundation/what_is_logo/logo_programming.html" target="_blank">LOGO</a>, which inspired the popular programming language <a href="https://scratch.mit.edu/" target="_blank">Scratch</a>. Papert’s work also led to the <a href="http://www.computerclubhouse.org/" target="_blank">Computer Clubhouse project</a>, a network of over 100 learning centers where youth from underserved communities learn to create and express themselves using emerging technologies. 
+Informed by both Piaget and Vygotsky, Seymour Papert (1928-2016), a founding faculty member of the <a href="http://el.media.mit.edu/logo-foundation/what_is_logo/logo_programming.html" target="_blank">MIT Media Lab</a>, developed the concept of **constructionism**. Based on Piaget’s constructivism, constructionism emphasizes the agency of young people as active participants in the construction of their own learning. Papert developed one of the first educational programming languages, known as <a href="http://el.media.mit.edu/logo-foundation/what_is_logo/logo_programming.html" target="_blank">LOGO</a>, which inspired the popular programming language <a href="https://scratch.mit.edu/" target="_blank">Scratch</a>. Papert’s work also led to the <a href="http://www.computerclubhouse.org/" target="_blank">Computer Clubhouse project</a>, a network of over 100 learning centers where youth from underserved communities learn to create and express themselves using emerging technologies. 
 
 <div class="explanatory">
   <p>Key Concepts from Papert's Constructionism Theory</p>
-  <p>Excerpt from LIS 516: Youth Development and Behavior in a Digital Age by Dr. Katie Davis and the University of Washington</p>
+  <p>Excerpt from <i>LIS 516: Youth Development and Behavior in a Digital Age</i> by Dr. Katie Davis and the University of Washington</p>
 <p class="videotime">1:25</p><p class="source">Dr. Katie Davis, University of Washington</p>
 
 <div class="video">
@@ -22,7 +22,7 @@ Informed by both Piaget and Vygotsky, Seymour Papert (1928-2016, and a founding 
 
 <table class="colorful-th"> 
   <tr><th colspan="2">Real-World Learning</th></tr>
-  <tr><td>Learning happens through the <b>construction of something within a real-world setting</b>.</td><td>Staff at a small rural Western library created temporary makerspaces by partnering with a local business that provided a 3D printer. Their partners demonstrated designing for the 3D printer and helped participants learn the basics. </td></tr> 
+  <tr><td><i>Learning happens through the <b>construction of something within a real-world setting</b></i>.</td><td>Staff at a small rural Western library created temporary makerspaces by partnering with a local business that provided a 3D printer. Their partners demonstrated designing for the 3D printer and helped participants learn the basics. </td></tr> 
 </table>
 
 <div class="explanatory">
@@ -45,7 +45,7 @@ Informed by both Piaget and Vygotsky, Seymour Papert (1928-2016, and a founding 
 - Facilitators who guide learners but allow them to make decisions about the direction of their project 
 - “Tools that can promote the making of objects” like robotics kits, 3D printers, or even a simple craft set<sup><a name="3" href="#fn3">3</a></sup> 
 - Self-directed learning that allows youth to experiment with tools and relate them to their own personal interests<sup><a name="4" href="#fn4">4</a></sup>
-- Technologies that provide flexibility and openness,<sup><a name="5" href="#fn5">5</a></sup> like <a href="https://education.lego.com/en-us/middle-school/shop/products?gclid=Cj0KEQjwmcTJBRCYirao6oWPyMsBEiQA9hQPboKcMkN_KrvRpaYdsnS1_trkGgx4U2pmcwCIWt3b4t4aAmuL8P8HAQ" target="_blank">Lego Mindstorms</a>, which allow learners to build and program a robot themselves. (Lego Mindstorms were inspired by and named after Papert’s book <a href="https://mindstorms.media.mit.edu/" target="_blank">Mindstorms: Children, Computers, And Powerful Ideas</a>) 
+- Technologies that provide flexibility and openness,<sup><a name="5" href="#fn5">5</a></sup> like <a href="https://education.lego.com/en-us/training/mindstorms-ev3" target="_blank">Lego Mindstorms</a>, which allow learners to build and program a robot themselves (Lego Mindstorms were inspired by and named after Papert’s book <a href="https://mindstorms.media.mit.edu/" target="_blank">Mindstorms: Children, Computers, And Powerful Ideas</a>) 
 
 <div class="reflection"> 
 

@@ -8,7 +8,7 @@ subsection: three-three
 ---
 
 
-Some 70% of all teens play video games and 81% of them have a video game console or a way to access one.<sup><a name="1" href="#fn1">1</a></sup> Since the inception of mainstream computer games, a continued debate has occurred concerning the effects of engaging with violent video game content. Research evidence on how and why video games can be beneficial or harmful has been conflicting. In examining the findings and viewpoints from a few key studies, scholars, and theories, we consider the overall impact of video games and youth development. 
+As of 2015, some 70% of all teens play video games and 81% of them have access to a video game console.<sup><a name="1" href="#fn1">1</a></sup> There is a long-standing debate concerning the effects of engaging with violent video game content. Research evidence on how and why video games can be beneficial or harmful has been conflicting. Let's examine the findings and viewpoints from a few key studies, scholars, and theories, in order to consider the overall impact of video games and youth development. 
 
 
 ## Possible Benefits of Video Games
@@ -40,15 +40,13 @@ For young people on the autism spectrum, such online games as Minecraft may even
 
 ## Executive Function
 
-Executive function refers to the mental processes that enable us to focus our attention, remember instructions, and to multitask successfully.<sup><a name="7" href="#fn7">7</a></sup>
+Executive function refers to the mental processes that enable us to focus our attention, remember instructions, and to multitask successfully.<sup><a name="7" href="#fn7">7</a></sup> Executive function is associated with the following skills: 
 
-The following are skills associated with executive function. 
-
-- Solve problems 
-- Filter distractions 
+- Solving problems 
+- Filtering distractions 
 - Switch gears 
-- Make and revise plans 
-- Control impulses 
+- Making and revising plans 
+- Controlling impulses 
 
 In the debate on video games and harmful effects, a common viewpoint is that constant video game playing can lead to problems with executive function. Yet, some emerging research findings are showing that action video games, or first-person shooter games like Call of Duty, may provide players with some cognitive advantages. Researchers have examined gamers in terms of attention and improved ability to track objects. Daphne Bavelier, a cognitive scientist at the University of Rochester, says that her findings suggest that action video game players may be better than non-gamers with: 
 
@@ -63,7 +61,7 @@ In contrast to the popular narrative that video games negatively affect attentio
 
 For decades, both researchers and the public have been engaged in an ongoing debate on whether violent video games can be linked to real world aggression. On one hand, a body of research has pointed to a relationship between violent video games and aggressive behavior. The 2015 <a href="http://www.apa.org/pi/families/violent-media.aspx" target="_blank">APA Task Force on Violent Media</a> report provides a comprehensive review of research literature published between 2005 and 2013 that examined violent video game use. The report confirmed a link between playing violent video games and aggression. However, the group concludes that violent video games are just one of many risk factors that may lead to aggressive behavior. In addition, the report finds that not enough evidence exists to connect violent video game playing to criminal violence. 
 
-On the other side of the debate, <a href="http://www.stetson.edu/other/faculty/profiles/christopher-ferguson.php" target="_blank">Christopher J. Ferguson</a>, a professor of psychology who studies the media effects of violent video games, points out a few problems with the findings in the APA report. First, much of the research focused on college students rather than young children or adolescents. He also notes the potential of “confirmation bias,” or the tendency for researchers to acknowledge only results or studies that align with their personal beliefs. Ferguson recommends that people remain skeptical of extreme viewpoints on either side of the debate—both the claims that expound the harms of video games as well as the benefits. 
+On the other side of the debate, <a href="https://en.wikipedia.org/wiki/Christopher_Ferguson_(psychologist)" target="_blank">Christopher J. Ferguson</a>, a professor of psychology who studies the media effects of violent video games, points out a few problems with the findings in the APA report. First, much of the research focused on college students rather than young children or adolescents. He also notes the potential of “confirmation bias,” or the tendency for researchers to acknowledge only results or studies that align with their personal beliefs. Ferguson recommends that people remain skeptical of extreme viewpoints on either side of the debate—both the claims that expound the harms of video games as well as the benefits. 
 
 Moreover, many studies on violent video games have not explored other variables such as the impact of a violent home environment. Another issue to consider is desensitization. Could long term exposure to violent content contribute a young person becoming desensitized to certain violent acts? Further, many video games on the market contain misogynistic content. How might these depictions of women affect they way young girls see themselves? For instance, the “Gamergate” controversy revealed shifts in gaming culture. For young women who identify as gamers, they may face an online community that is less than welcoming to women’s growing presence in the gaming culture and industry. These are all issues and open questions that researchers have yet to fully explore. 
 

@@ -16,9 +16,9 @@ This section discusses how to develop and support adult mentors from your commun
 </ul>
 </div>
 
-Libraries have a longstanding tradition of providing youth with access to adult and community mentors. These experiences can help youth with employment efforts, technology training, and career development.<sup><a name="1" href="#fn1">1</a></sup>  The first step is often identifying a potential community partner. As we mentioned in our section on Designing Mentorship-Focused Programming, youth are often the ones to first approach adults as potential mentors and helping to facilitate that relationship may be a first step.  
+Libraries have a longstanding tradition of providing youth with access to adult and community mentors. These experiences can help youth with employment efforts, technology training, and career development.<sup><a name="1" href="#fn1">1</a></sup>  The first step is often identifying a potential community partner. Youth are often the ones to first approach adults as potential mentors and helping to facilitate that relationship may be a first step.  
 
-Some communities have coalitions of youth-serving organizations that can either help identify mentors or make recommendations and introductions to potential mentors. For more information about how to connect with community partners, please review our Community Partnerships module.  
+Some communities have coalitions of youth-serving organizations that can either help identify mentors or make recommendations and introductions to potential mentors, see the [Community Partnerships](../partnerships/) module.  
 
 A few organizations that can help identify adult mentors and volunteers include: 
 
@@ -30,7 +30,7 @@ A few organizations that can help identify adult mentors and volunteers include:
 - <a href="http://mentoringcentral.net/" target="_blank">Mentoring Central</a>
 - <a href="https://www.millionwomenmentors.org/" target="_blank">Million Women Mentors</a>
 
-For example, an urban western library worked with used AmeriCorps Vista. Through their mentor coordinator, the library gained assistance in identifying volunteers. Specifically, they helped 
+For example, an urban western library worked with used AmeriCorps Vista. Through their mentor coordinator, the library gained assistance in identifying volunteers. Specifically, they helped...
 
 <!-- INTS_059 -->
 >“... find people from the community that will come in and either teach something that they're already passionate about, or if they just love being with youth, come over and just listen to the youth and then help them follow their passions.”<br/><br/>— Librarian at an urban western library

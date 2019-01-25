@@ -21,17 +21,17 @@ Other libraries have been successful in training high school students to operate
 
 <!-- INTS_059 -->
 
-> “The goal of something that you're building or making or trying to finish is a great way to spur on interaction with teens who are often not interested in talking to other people.”<br/><br/>— Adult Librarian at an urban western library
+> “The goal of something that you're building or making or trying to finish is a great way to spur on interaction with teens who are often not interested in talking to other people... There's a space where you can hang out, you don't get kicked off the computer after a certain amount of time”<br/><br/>— Adult Librarian at an urban western library
 
-By encouraging group tasks and teams, teens are more likely to engage in peer-mentoring. She also lets youth feel comfortable about using the teen areas by telling them: “There's a space where you can hang out, you don't get kicked off the computer after a certain amount of time." 
+Wheen teens are encouraged to participate in group tasks and teams, they are more likely to engage in peer mentoring.  
 
-## College student mentorship programs.  
+## College student mentorship programs
 
-Local colleges and universities can be a source of mentors for young people. For example, students receive volunteer experience or fulfill a class project and the libraries get tech-savvy mentors that are closer in age to their teen patrons. Many libraries have found support through college students serving as mentors. A youth librarian at an east coast found that their mentorship program with the local college helped their youth community improve their school performance and prepare for college.  
+Local colleges and universities can be a source of mentors for young people. For example, students receive volunteer experience or fulfill a class project and the libraries get tech-savvy mentors that are closer in age to their teen patrons. Many libraries have found support through college students serving as mentors. A youth librarian at an eastern library found that their mentorship program with the local college helped their youth community improve their school performance and prepare for college.  
 
-## Teens helping to run workshops and programming. 
+## Teens helping to run workshops and programming
 
-Teen volunteers recruited from the local high school helped with one library’s film festival, and the students also gained beneficial media internship experience. A librarian at an urban western library describes the teens’ experience: “...those interns were high school students who were essentially volunteers, but they were the ones who were given specific roles to help run all the workshops... That was a really a fun programs that really was able to bring in the technology and professionals and career, all in a single program.” 
+Teen volunteers recruited from the local high school helped with one library’s film festival, and the students also gained beneficial media internship experience. A librarian at an urban western library describes the teens’ experience: “...those interns were high school students who were essentially volunteers, but they were the ones who were given specific roles to help run all the workshops... That was a really a fun program that really was able to bring in the technology and professionals... all in a single program.” 
 
 In another example, Houston Public Library’s summer volunteers were treated as staff and provided input in programming and the library’s offerings for teens.<sup><a name="4" href="#fn4">4</a></sup> 
 
@@ -52,7 +52,7 @@ At the Kitsap Regional Library, teens have designed their own internships goals�
 
 Youth librarians we talked to consistently described the mentoring opportunities available through community partners.  
 
-## Teens sharing their stories and experiences with other teens. 
+## Teens sharing their stories and experiences with other teens
 
 <!-- INTS_059 -->
 In a long term program, a librarian at a western, urban library invited young YouTube stars "....to come and speak about their experiences...", giving the youth time to ask questions in a panel discussion. Other library initiatives, like the <a href="https://www.chipublib.org/programs-and-partnerships/youmedia/" target="_blank">YOUmedia library model</a>, have helped youth and mentors to collaborate on digital media projects in an out-of-school contexts using social and digital platforms.<sup><a name="1" href="#fn1">1</a>, <a name="6" href="#fn6">6</a></sup>

@@ -49,7 +49,7 @@ Haines, C., & Campbell, C. (2016). _Becoming a Media Mentor: A Guide for Working
 
 Stoltz, D., & Campbell, C. Media Mentorship in Libraries Serving Youth. 
 
-TeenTechSF. .20162. TeenTechSF. Retrieved March 23, 2017, from /#teentechsf 
+[TeenTechSF](https://teentechsf.org/)
 
 Young Adult Library Services Association. (2010). YALSA’s competencies for librarians serving youth: Young adults deserve the best. Young Adult Library Services Association.[available online: http://www. ala. org/yalsa/guidelines/yacompetencies2010].
 

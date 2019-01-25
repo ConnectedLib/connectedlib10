@@ -17,7 +17,7 @@ Explore what’s going on in a teen’s mind — literally — and learn how to 
 <p>After completing this module, you will be able to...</p>
 <ul>
 	<li>Describe major theories of youth development and apply them to the creation of connected learning programs for teens (<a href="section-1-0.html">Section 1: Theories of Youth Development</a>).</li>
-	<li>Understand how identity, relationships, and morality affect a teen’s developmen (<a href="section-2-0.html">Section 2: Developing an Identity</a>).</li>
+	<li>Understand how identity, relationships, and morality affect a teen’s development (<a href="section-2-0.html">Section 2: Developing an Identity</a>).</li>
 	<li>Summarize trends in teens’ use of digital media and explain how the role of teen services in libraries is changing (<a href="section-3-0.html">Section 3: Teens and Digital Media</a>).</li>
 </ul>
 </div>

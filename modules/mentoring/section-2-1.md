@@ -7,11 +7,11 @@ section: 2. Benefits of Mentoring
 subsection: two-one
 ---
 
-While the benefits of mentoring may be visible to you, how can you tell if youth themselves are open to working with mentors? Teens and tweens may not directly verbalize that they are seeking support. The concept of “youth signaling” describes the actions that youth undertake that may show signs of their motivation to learn. Examples of youth signaling include: sharing accomplishments, reaching out for guidance, openly displaying expertise, and actively networking.<sup><a name="1" href="#fn1">1</a></sup> Youth signaling may indicate that a young person is open to mentoring.  
+While the benefits of mentoring may be visible to you, how can you tell if youth themselves are open to working with mentors?   
 
 ### Youth signaling
 
-The actions that youth undertake that may show signs of their motivation to learn. Examples of youth signaling include: sharing accomplishments, reaching out for guidance, openly displaying expertise, and actively networking.<sup><a name="1" href="#fn1">1</a></sup>  
+Teens and tweens may not directly verbalize that they are seeking support. The concept of “youth signaling” describes the actions that youth undertake that may show signs of their motivation to learn. Examples of youth signaling include: sharing accomplishments, reaching out for guidance, openly displaying expertise, and actively networking.<sup><a name="1" href="#fn1">1</a></sup> These "signals" may indicate that a young person is open to mentoring.
 
 For effective mentoring, it’s important to understand how the experience will affect youth and how to foster a meaningful relationship. Mentors and youth should develop a connection that is established by trust, friendship, and empathy.<sup><a name="2" href="#fn2">2</a></sup> Past research has identified some key characteristics and approaches to effective mentoring (for formal and informal situations), including: 
 - **Talking with youth instead of at them**. Many mentors describe their approach to talking with youth as low-key or an equitable style of conversation.<sup><a name="3" href="#fn3">3</a></sup> 
@@ -30,8 +30,6 @@ Research on how to encourage effective, long term mentoring places emphasis on t
 - Program-sponsored activities to enhance mentoring 
 - Parental support and involvement 
 - Support from programs and services to supplement mentoring<sup><a name="6" href="#fn6">6</a></sup>
-
-For more guidance on developing a formal mentoring program that meets your library and community needs, please review next section on Designing a Mentoring Program: Step by Step. 
 
 <div class="reflection">
 <p>your experiences with mentoring</p>

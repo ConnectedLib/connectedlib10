@@ -12,7 +12,7 @@ In this module, we have learned how major theories of youth development can be a
 <div class="reflection">
 	<p>Youth Development KWL</p>
 <p>Return to the KWL worksheet from the beginning of the Youth Development module. Fill out the “Learn” column with the most important things you learned from this module. Was anything you “Knew” incorrect or incomplete? Did you learn everything from your “Want to Learn” column?</p>
-<p><a href="docs/design-thinking_kwl.docx">Youth Development KWL Worksheet (DOCX)</a></p>
+<p><a href="docs/youth-development_kwl.docx">Youth Development KWL Worksheet (DOCX)</a></p>
 
 <table class="worksheet">
 	<tr><th>What do you already know about youth development?</th>

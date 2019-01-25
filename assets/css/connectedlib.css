@@ -820,6 +820,7 @@ a .external {
   background-size: auto;
   background-position: 10px 20px;
   background-repeat: no-repeat; 
+  min-height: 80px;
 }
 
 

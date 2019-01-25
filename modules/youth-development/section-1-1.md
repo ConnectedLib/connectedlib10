@@ -9,11 +9,11 @@ subsection: one-one
 
 >“In order for a child to understand something, he must construct it himself.” <br/><br/>— Jean Piaget<sup><a href="#fn1" name="1">1</a></sup> 
 
-Drawing on his observations of children, Swiss psychologist Jean Piaget (1896-1980) developed a groundbreaking theory of cognitive development that included four distinct stages. PIaget theorized that people construct knowledge and meaning from their experiences of the world--a concept known as constructivism.
+Drawing on his observations of children, Swiss psychologist Jean Piaget (1896-1980) developed a groundbreaking theory of cognitive development that included four distinct stages. Piaget theorized that people construct knowledge and meaning from their experiences of the world--a concept known as constructivism.
 
 <div class="explanatory">
   <p class="box-title">Key Concepts from Piaget's Congitive Development Theory</p>
-  <p>Excerpt from LIS 516: Youth Development and Behavior in a Digital Age by Dr. Katie Davis and the University of Washington</p>
+  <p>Excerpt from <i>LIS 516: Youth Development and Behavior in a Digital Age</i> by Dr. Katie Davis and the University of Washington</p>
 <p class="videotime">3:31</p><p class="source">Dr. Katie Davis, University of Washington</p>
 
 <div class="video">
@@ -46,7 +46,7 @@ Instead of viewing children as miniature adults — a common attitude in his tim
 <div class="explanatory">  
   <p><span class="box-title">UPDATING PIAGET</span></p> 
 
-  <p>Researchers are finding that Piaget may have overestimated the reasoning skills of teens. Abstract and creative reasoning may exist in the teenage years, but recent research has found that the brain continues to develop up until the age of 25!<sup>[2](#fn2)</sup>
+  <p>Researchers are finding that Piaget may have overestimated the reasoning skills of teens. Abstract and creative reasoning may exist in the teenage years, but recent research has found that the brain continues to develop up until the age of 25!<sup><a href="#fn2" name="2">2</a></sup>
 </p> 
   </div>
   <br>
@@ -56,7 +56,7 @@ Instead of viewing children as miniature adults — a common attitude in his tim
 Most tweens and teens will be in the concrete operational stage or the early formal operational stage. They can reason logically and apply specific knowledge to general contexts. They are probably moving towards or have already started applying logic and morality to abstract concepts, and constructing their own solutions to individual and societal problems. Ask yourself the following questions about your teen programming and services:  
 
 - What relevant **cognitive schemas** do the participants have? Do they reflect reality or are they skewed or distorted?  
-- Will the teens **assimilate** what they learn, or will they have to accommodate new information?  
+- Will the teens **assimilate** what they learn, or will they have to **accommodate** new information?  
 - Can you relate your program or activities to abstract societal issues, or should you focus on more concrete ideas? 
 - Are your participants in the early **formal operational** stage? If so, can you help them develop further by integrating abstract concepts with the help of **scaffolding** (see Section 2: [Vygotsky’s Sociocultural Learning Theory](section-2-0.html))? 
 

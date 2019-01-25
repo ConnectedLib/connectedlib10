@@ -9,7 +9,7 @@ subsection: three-one
 
 There are four steps in designing a mentorship-focused program:
 
-## STEP 1: Design your program and develop a mentoring roadmap. 
+## STEP 1: Design your program and develop a mentoring roadmap 
 
 What are your goals? What participants are you looking for? Different individuals can play a role in mentoring. For initial ideas, we outline three different types of mentoring roles that can happen within libraries:  
 
@@ -38,7 +38,7 @@ During the planning of your mentoring roadmap, evaluate the following elements:
 - Format of the program (One-on-one or group mentoring, workshop setting, virtual or in person, partnership with a community organization or school, mentorship included into an established program) 
 - Commitments expected: (e.g., In our program, we are looking for someone to share an hour of their time each week to____) 
 
-## STEP 2: Connect with mentors/mentees. 
+## STEP 2: Connect with mentors/mentees
 
 The Young Adult Library Services Association (YALSA) outlines some key competencies to look for in mentors, including: 
 
@@ -54,9 +54,9 @@ Think about your matching process:
 - What type of on-boarding or training will mentors be offered? 
 - Is there any incentive/recognition for the mentors? 
 
-Make a plan for launching or promoting the mentoring opportunities or connecting with possible community partners and organizations. Craft a message and talking points to deliver and present to local organizations (see [Community partnerships](../partnerships/index.html)). 
+Make a plan for launching or promoting the mentoring opportunities or connecting with possible community partners and organizations. Craft a message and talking points to deliver and present to local organizations (see the [Community Partnerships](../partnerships/index.html) module). 
 
-## STEP 3: Guide both your mentors and mentees. 
+## STEP 3: Guide both your mentors and mentees
 
 For longer term situations, how do you plan to support the mentors and mentee relationships over time? Some ideas include: 
 

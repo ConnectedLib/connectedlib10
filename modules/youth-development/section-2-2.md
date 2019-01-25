@@ -7,7 +7,7 @@ section: 2. Developing an Identity
 subsection: two-two
 ---
 
-Relationships - with family and with peers - play an important part of development through our lives, and they are an important component of connected learning. Mentoring relationships with other adults can have a powerful impact on the personal, professional, and academic lives of young people (see the Mentoring module for more on mentors).  
+Relationships - with family and with peers - play an important part of development through our lives, and they are an important component of connected learning. Mentoring relationships with other adults can have a powerful impact on the personal, professional, and academic lives of young people (see the [Mentoring module](../mentoring/) for more).  
 
 <div class="explanatory">
   <p>Tween Relationships</p>
@@ -22,7 +22,7 @@ Although tweens are still dependent on their caregivers, at this age youth begin
 
 - Friendships form with people perceived to be similar. Tweens often form friendships with people of the same gender or age, or who participate in the same activities.  
 - Friends are instrumental. A friend is someone to share activities with. 
-- Cliques begin to emerge. Cliques help tweens form their identities. Group membership means shared attitudes, beliefs, and values. Cliques provide identification and validation, starting to erode parents’ roles as the main authority figures.’ 
+- Cliques begin to emerge. Cliques help tweens form their identities. Group membership means shared attitudes, beliefs, and values. Cliques provide identification and validation, starting to erode parents’ roles as the main authority figures. 
 - Social aggression surfaces. Around age 12, popularity hierarchies develop as tweens begin to compare themselves to social standards. Bullying begins as youth become concerned with defining who is “in” or “out” of the group.  
 
 
@@ -54,7 +54,7 @@ These roles have often fallen along traditional gender lines (fathers providing 
 
 ## Siblings
 
-Teens with siblings often spend more time with them than with their parents. Teens may serve as gatekeepers or teachers of cultural knowledge and practical skills for their younger siblings. This relationships also provide youth with a testbed to practice social behaviors, such as conflict resolution.  
+Teens with siblings often spend more time with them than with their parents. Teens may serve as gatekeepers or teachers of cultural knowledge and practical skills for their younger siblings. These relationships also provide youth with a testbed to practice social behaviors, such as conflict resolution.  
 
 <div class="explanatory">
   <p>Tweens and Peers</p>
@@ -80,9 +80,9 @@ During the teen years, youth begin to spend more time with their peers than with
 <iframe width="560" height="315" src="https://www.youtube.com/embed/JzEOzGyJmyE" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 </div></div>
 
-- **Social aggression appears around ages 11 or 12**. Peer conflict arrives alongside the cliques, crowds, and social hierarchies. **Bullying** arises as it becomes important to youth to figure out who is in or out of their social group.  
+- **Social aggression appears around ages 11 or 12**. Peer conflict arrives along with the cliques, crowds, and social hierarchies, often leading to **bullying** as it becomes more important to figure out who is in or out of a social group.
 
-- **Conflict decreases as adolescence progresses**. When youth begin to stabilize their sense of identity, relying less on their social groups to define them, peer conflict tends to decrease.
+- **Conflict decreases as adolescence progresses**. As youth begin to stabilize their sense of identity, relying less on their social groups to define their identity, peer conflict tends to decrease.
 
 <div class="reflection"> 
 

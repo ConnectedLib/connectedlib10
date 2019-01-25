@@ -7,7 +7,7 @@ section: 6. Mentoring Challenges
 subsection: six
 ---
 
-This section discusses how to develop and support adult mentors from your community. Successful peer supported learning and mentorship can be challenging to create (Ito, et al., 2013). It may take several attempts, time, and effort to build a supportive community and meaningful relationships.
+This section discusses how to develop and support adult mentors from your community. It can be challenging to create successful peer supported learning and mentorship experiences. It may take several attempts, time, and effort to build a supportive community and meaningful relationships.
 
 The following section outlines some common challenges and ways to prepare for and overcome them.
 

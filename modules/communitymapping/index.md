@@ -16,10 +16,10 @@ In this module you will get to know your teens, your neighborhood, and the commu
 <div class="objectives">
 <p>After completing this module, you will be able to...</p>
 <ul>
-	<li>Understand what community mapping is and how it can benefit your library (<a href="https://github.com/ConnectedLib/Connected-Learning-Modules/blob/master/modules/communitymapping/section-1-0.html">Section 1: Introduction</a>)</li>
-	<li>Recognize the assets in your community (<a href="{{site.url}}{{site.baseurl}}/introduction/section-2-0.html">Section 2: Community Assets</a>)</li>
-	<li>Describe the process of creating a community asset map (<a href="{{site.url}}{{site.baseurl}}/introduction/section-3-0.html">Section 3: The Community Mapping Process</a>)</li>
-	<li>Understand what to do with a completed community asset map (<a href="{{site.url}}{{site.baseurl}}/introduction/section-4-0.html">Section 4: Now What</a>)</li>
+	<li>Understand what community mapping is and how it can benefit your library (<a href="section-1-0.html">Section 1: Introduction</a>)</li>
+	<li>Recognize the assets in your community (<a href="section-2-0.html">Section 2: Community Assets</a>)</li>
+	<li>Describe the process of creating a community asset map (<a href="section-3-0.html">Section 3: The Community Mapping Process</a>)</li>
+	<li>Understand what to do with a completed community asset map (<a href="section-4-0.html">Section 4: Now What</a>)</li>
 </ul>
 
 </div>

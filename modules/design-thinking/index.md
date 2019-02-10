@@ -19,7 +19,7 @@ This module provides broad guidelines surrounding how the design experiences of 
 	<li>Identify the design thinking method and mindset (<a href="section-1-0.html">Section 1: Introduction</a>).</li>
 	<li>Create and implement a design challenge (<a href="section-2-0.html">Section 2: Exploring a Design Challenge</a>).</li>
 	<li>Apply design thinking techniques and methods to working with and for youth (<a href="section-3-0.html">Section 3: Core Research Methods</a>).</li>
-	<li>Overcome common design thinking challenges (<a href="section-4.html">Section 4: Overcoming Challenges</a>).</li>
+	<li>Overcome common design thinking challenges (<a href="section-4-0.html">Section 4: Overcoming Challenges</a>).</li>
 </ul>
 </div>
 

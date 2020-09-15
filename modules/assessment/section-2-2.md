@@ -48,7 +48,7 @@ Before diving headlong into data collection, test the entire process. For a smal
 
 ## Ways to collect data 
 
-The following table includes some—though certainly not all!—methods to collect data for your assessment. Each method has potential strengths and weaknesses and can be used to assess a wide variety of factors. Choose one (or more) that fits your question, your program, and your capacity.  
+The following table includes some—though certainly not all!—methods to collect data for your assessment. Each method has potential strengths and weaknesses and can be used to assess a wide variety of factors. Choose one (or more) that fits your question, your program, and your capacity. For a detailed look at key data collection methods, see the Connected Learning Alliance's <a href="https://clalliance.org/wp-content/uploads/2020/08/Evaluating-Library-Programming.pdf" target="_blank"><b>Evaluating Library Programming toolkit</b></a>.
 
 <table class="colorful-th">
   <tr><th colspan="2">ANALYZING ARTIFACTS</th></tr>

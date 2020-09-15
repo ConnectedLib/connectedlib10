@@ -1,0 +1,13 @@
+## kramdown 1.11.1 released
+
+This release fixes an emphasis parsing regression introduced in the last version.
+
+
+## Changes
+
+* 1 bug fix:
+
+  - Fixed emphasis parsing regression (fixes [#333], reported by Marcus Stollsteimer)
+
+
+[#333]: https://github.com/gettalong/kramdown/issues/333

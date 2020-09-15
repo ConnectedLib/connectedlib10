@@ -1,0 +1,12 @@
+## kramdown 1.13.1 released
+
+This release fixes the GFM header ID generation for more cases, updating is *very* recommended.
+
+## Changes
+
+* 1 bug fix:
+
+  - Fix GFM header ID generation when code spans, math elements, entities, typographic symbols or
+    smart quotes are used (fixes [#391] reported by Nick Fagerlund)
+
+[#391]: https://github.com/gettalong/kramdown/issues/391

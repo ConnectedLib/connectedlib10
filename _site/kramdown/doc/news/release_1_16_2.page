@@ -1,0 +1,12 @@
+## kramdown 1.16.2 released
+
+And another quick bug fix release for a table parsing problem, upgrading is recommended!
+
+## Changes
+
+* 1 bug fix:
+
+  - Fix parsing of tables with codespans and escaped pipes (fixes [#477], reported by François
+    #Dallaire)
+
+[#477]: https://github.com/gettalong/kramdown/issues/477

@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html>
+
+    <!-- THIS IS THE INCLUDE FOR THE HEAD OF EVERY FILE -->
+
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>ConnectedLib - kramdown</title>
+    <script src="http://localhost:4000//assets/js/connectedlib.js" type="text/javascript" charset="utf-8"></script>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link href="https://fonts.googleapis.com/css?family=Comfortaa|Kalam" rel="stylesheet">
+    <link rel="stylesheet" href="http://localhost:4000//assets/css/connectedlib.css"/>
+    <link rel="shortcut icon" type="image/x-icon" href="http://localhost:4000//favicon.ico">
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-133229356-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-133229356-1');
+</script>
+
+
+
+</head>
+
+
+    <body>
+
+            <h1 id="kramdown">kramdown</h1>
+
+<h2 id="readme-first">Readme first!</h2>
+
+<p>kramdown was originally licensed under the GPL until the 1.0.0 release. However, due to the many
+requests it is now released under the MIT license and therefore can easily be used in commercial
+projects, too.</p>
+
+<p>However, if you use kramdown in a commercial setting, please consider <strong>contributing back any
+changes</strong> for the benefit of the community and/or
+<a href="https://www.patreon.com/gettalong"><strong>becoming a patron</strong></a> - thanks!</p>
+
+<h2 id="introduction">Introduction</h2>
+
+<p>kramdown is a fast, pure Ruby Markdown superset converter, using a strict syntax definition and
+supporting several common extensions.</p>
+
+<p>The syntax definition for the kramdown syntax can be found in <strong>doc/syntax.page</strong> (or online at
+<a href="http://kramdown.gettalong.org/syntax.html">http://kramdown.gettalong.org/syntax.html</a>) and a quick reference is available in
+<strong>doc/quickref.page</strong> or online at <a href="http://kramdown.gettalong.org/quickref.html">http://kramdown.gettalong.org/quickref.html</a>.</p>
+
+<p>The kramdown library is mainly written to support the kramdown-to-HTML conversion chain. However,
+due to its flexibility (by creating an internal AST) it supports other input and output formats as
+well. Here is a list of the supported formats:</p>
+
+<ul>
+  <li>input formats: kramdown (a Markdown superset), Markdown, GFM, HTML</li>
+  <li>output formats: HTML, kramdown, LaTeX (and therefore PDF), PDF via Prawn</li>
+</ul>
+
+<p>All the documentation on the available input and output formats is available in the <strong>doc/</strong>
+directory and online at <a href="http://kramdown.gettalong.org">http://kramdown.gettalong.org</a>.</p>
+
+<p>Starting from version 1.0.0 kramdown is using a versioning scheme with major, minor and patch parts
+in the version number where the major number changes on backwards-incompatible changes, the minor
+number on the introduction of new features and the patch number on everything else.</p>
+
+<p>For information about changes between versions, have a look at
+<a href="http://kramdown.gettalong.org/news.html">http://kramdown.gettalong.org/news.html</a> or the commit history!</p>
+
+<h2 id="usage">Usage</h2>
+
+<p>kramdown has a very simple API, so using kramdown is as easy as</p>
+
+<div class="language-ruby highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nb">require</span> <span class="s1">'kramdown'</span>
+
+<span class="no">Kramdown</span><span class="o">::</span><span class="no">Document</span><span class="p">.</span><span class="nf">new</span><span class="p">(</span><span class="n">text</span><span class="p">).</span><span class="nf">to_html</span>
+</code></pre></div></div>
+
+<p>For detailed information have a look at the API documentation of the <code class="highlighter-rouge">Kramdown::Document</code> class.</p>
+
+<p>The full API documentation is available at <a href="http://kramdown.gettalong.org/rdoc/">http://kramdown.gettalong.org/rdoc/</a>, other sites with an
+API documentation for kramdown probably don’t provide the complete documentation!</p>
+
+<p>There are also some third-party libraries that extend the functionality of kramdown – see the
+kramdown Wiki at <a href="https://github.com/gettalong/kramdown/wiki">https://github.com/gettalong/kramdown/wiki</a>.</p>
+
+<h2 id="development">Development</h2>
+
+<p>Just clone the git repository as described in <strong>doc/installation.page</strong> and you are good to go. You
+probably want to install <code class="highlighter-rouge">rake</code> so that you can use the provided rake tasks.</p>
+
+<p>If you want to run the tests, the development dependencies are needed as well as some additional
+programs like <code class="highlighter-rouge">tidy</code> and <code class="highlighter-rouge">latex</code>. See the <code class="highlighter-rouge">.travis.yml</code> file for more information.</p>
+
+<h2 id="license">License</h2>
+
+<p>MIT - see the <strong>COPYING</strong> file.</p>
+
+
+    </body>
+</html>

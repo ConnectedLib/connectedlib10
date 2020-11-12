@@ -35,10 +35,10 @@ Opportunity-oriented learning is directed towards helping teens achieve academic
   <p class="box-title">Reflection: Learn to DJ Lab</p>
   
 <p>The Las Vegas-Clark County Library runs a popular Learn to DJ program for teenagers. Participants in the program have performed at public events and some have even earned money. Watch the video, then reflect on the questions below.</p>
-<p class="videotime">4:01</p><p class="source">Salvador Avila</p>
+<p class="videotime">4:13</p><p class="source">Salvador Avila/Fox 5</p>
  <div class="video">
   
-<iframe src="https://www.youtube.com/embed/ukdUrfo6LVM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/t2uoZINMGmI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 <ul><li>What is the immediate opportunity for the teen participants? </li>
     <li>What are the longer-term opportunities that the teens may have because of their participation in this program? </li>

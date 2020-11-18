@@ -27,7 +27,7 @@ When learning is supported by relationships, teens aren’t just learning with e
   </div>
 
  <div class="reflection">
-	<p>Self-Assessment: Interests</p>
+	<p>Self-Assessment: Relationships</p>
 	<p>How well do your youth services and programs incorporate the principle of <b>interests</b>?</p>
 	<table class="worksheet">
 		<tr>

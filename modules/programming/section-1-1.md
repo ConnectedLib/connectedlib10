@@ -60,7 +60,7 @@ In conjunction with the Future of Library Services, YALSA developed an extensive
 - create programming that reflects the needs and identities of all teens in the community (see the [Community Mapping](../communitymapping/index.html) module)
 - facilitate teen-led programs (see the [Mentoring](../mentoring/index.html) module)
 - develop interest-based, developmentally appropriate programs that support connected learning (see the [Youth Development](../youth-development/index.html) module)
-- develop rich, mutually beneficial community partnerships (see the [Community Partnerships](../communitypartnerships/index.html) module)
+- develop rich, mutually beneficial community partnerships (see the [Community Partnerships](../partnerships/index.html) module)
 - engage in youth-driven, evidence-based evaluation and outcome measurement (see the [Assessment &amp; Evaluation](../assessment/index.html) module)
 - ensure that programs are staffed sufficiently and appropriately, providing staff with the training and knowledge they need (see the [Capacity](../capacity/index.html) module)
 - use human-centered approaches to program development and involve teens in the process (see the [Design Thinking](../design-thinking/index.html) module)

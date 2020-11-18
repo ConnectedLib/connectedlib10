@@ -37,4 +37,4 @@ Libraries are centers for informal learning, so other informal learning institut
 
 <a name="fn2" href="#2">2</a>: [Partner with a Local Museum to Reach More Teens!](http://www.ala.org/yalsa/yalsamemonly/webinars/webinars) (Requires YALSA membership.) By Korie Twiggs, Christina Freitag, and Michelle Nichols. YALSA, 2016.
 
-<a name="fn3" href="#3">3</a>: [IMLS Focus: Learning in Libraries](http://www.imls.gov/assets/1/AssetManager/IMLS_Focus_Learning_in_Libraries_Final_Report.pdf.), p11. By Chrystie Hill, Merrilee Proffitt, and Sharon Streams, eds. IMLS Focus: Learning in Libraries. Institute of Museum and Library Services, 2015. 
+<a name="fn3" href="#3">3</a>: [IMLS Focus: Learning in Libraries](http://www.imls.gov/assets/1/AssetManager/IMLS_Focus_Learning_in_Libraries_Final_Report.pdf), p11. By Chrystie Hill, Merrilee Proffitt, and Sharon Streams, eds. IMLS Focus: Learning in Libraries. Institute of Museum and Library Services, 2015. 

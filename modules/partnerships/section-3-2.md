@@ -46,4 +46,4 @@ Private individuals, local businesses, and community groups that are not oriente
 
 <a name="fn2" href="#2">2</a>: “[Reaching beyond Library Walls: Strengthening Services and Opportunities through Partnerships and Collaborations](https://www.questia.com/library/journal/1G1-389260588/reaching-beyond-library-walls-strengthening-services)," by Adrienne L. Strock, 2014.
 
-<a name="fn3" href="3">3</a>:  “Sponsorship 101: How Partnerships Can Expand Summer Reading,” by Steven Engelfried and Angela Reynolds. _American Libraries_, 2002.
+<a name="fn3" href="#3">3</a>:  “Sponsorship 101: How Partnerships Can Expand Summer Reading,” by Steven Engelfried and Angela Reynolds. _American Libraries_, 2002.

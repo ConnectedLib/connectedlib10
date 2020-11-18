@@ -30,7 +30,7 @@ One of the most powerful ways partners can help libraries is by letting teens ex
 <div class="case_study_box">
   <p>Providence Public Library & Rhode Island School of Design</p>
       <img src="{{site.url}}{{site.baseurl}}/assets/img/shared/RISD_1.jpg" style="width:30%;float:right;margin:10px;"/>
-      <p>For a program about 1920’s fashion, <a href="http://www.provlib.org">Providence Public Library</a> partnered with the <a href="http://www.risd.edu">Rhode Island School of Design</a>, a prestigious institution located only a few blocks away. An instructor from the school’s <a href="https://ce.risd.edu/teens/">Young Artist program</a> provided teens with expert instruction, advice, and feedback while the teens created their own designs for 20s-inspired dresses. Connecting with a professional designer gave teens an experience that would not have been possible with the library’s resources alone.</p>
+      <p>For a program about 1920’s fashion, <a href="http://www.provlib.org">Providence Public Library</a> partnered with the <a href="http://www.risd.edu">Rhode Island School of Design</a>, a prestigious institution located only a few blocks away. An instructor from the school’s Young Artist program provided teens with expert instruction, advice, and feedback while the teens created their own designs for 20s-inspired dresses. Connecting with a professional designer gave teens an experience that would not have been possible with the library’s resources alone.</p>
 </div>
 
 ## Partners can bring new audiences to the library

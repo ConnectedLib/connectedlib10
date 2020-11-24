@@ -73,11 +73,9 @@ subsection: five
 
 ## Guides and Playbooks
 
-- [d.school, K12 Lab wiki](https://dschool.stanford.edu/groups/k12/wiki/1). 
+- [d.school, K12 Lab](https://dschool.stanford.edu/programs/k12-lab-network). 
 
-- [d.school virtual crash course playbook](http://dschool.stanford.edu/wp-content/uploads/2012/02/crashcourseplaybookfinal3-1-120302015105-phpapp02.pdf).
-
-- [d.school Wallet project facilitator’s guide](https://dschool.stanford.edu/groups/designresources/wiki/4dbb2/).
+- [d.school Wallet project facilitator’s guide](https://dschool.stanford.edu/programs/k12-lab-network).
 
 - [Makered Playbook](http://makered.org/wp-content/uploads/2014/09/Makerspace-Playbook-Feb-2013.pdf)
 
@@ -87,4 +85,4 @@ subsection: five
 
 - [Design institute design challenges: Library by design](http://bit.ly/2dbmMFn). _Library Journal_, Fall 2014.
 
-- PLA. (2016). [Designing spaces for people, not collections](http://www.ala.org/pla/onlinelearning/webinars/pla2016rewind/spaces).
+- PLA. (2016). [Designing spaces for people, not collections](http://www.ala.org/pla/onlinelearning/webinars/pla2016rewind/spaces) [requires login].

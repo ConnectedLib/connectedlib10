@@ -20,4 +20,4 @@ Implementation of the new design or service is the final step after the iteratio
 <hr/>
 
 
-<a name="fn1" href="#1">1</a>:  [Mode Prototype](https://dschool.stanford.edu/wp-content/uploads/2011/03/BootcampBootleg2010v2SLIM.pdf), d.school Bootcamp bootleg, 2010.
+<a name="fn1" href="#1">1</a>:  [Mode Prototype](https://dschool.stanford.edu/resources/design-thinking-bootleg), d.school Bootcamp bootleg, 2010.

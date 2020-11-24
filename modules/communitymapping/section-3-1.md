@@ -53,7 +53,7 @@ While you are planning and assembling your team (if not earlier) try to find out
 <div class="explanatory">
   <span class="box-title">EVALUATION</span>
   <p>Don’t forget to develop evaluation plans before you start collecting information. You should plan to evaluate the process (so you can know what to do better in the future), the outcome (the results you ended up with) and the impact -- what difference did your project make?</p>
-<p>For more on evaluation, see the <a href="../assesmentevaluation/index.md">Assessment and Evaluation module</a>.</p>
+<p>For more on evaluation, see the <a href="../assessment/">Assessment and Evaluation module</a>.</p>
 </div>
 
 <div class="reflection">

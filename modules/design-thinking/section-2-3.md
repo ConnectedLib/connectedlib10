@@ -27,4 +27,4 @@ You can use different design thinking techniques and research methods that encou
 
 <a name="#fn3" href="#3">3</a>: Resnick,  M.,  &  Rosenbaum,  E.  (2013).  Designing  for  tinkerability. _Design,  make,  play:  Growing  the  next generation of STEM innovators_, 163-181.
 
-<a name="#fn4" href="#4">4</a>: [d.school Wallet project facilitator’s guide](https://dschool.stanford.edu/groups/designresources/wiki/4dbb2/)
+<a name="#fn4" href="#4">4</a>: [d.school Wallet project facilitator’s guide](https://drive.google.com/file/d/1-8F6zxvU1oW0HufReenZBurv7Re_2cl-/view)

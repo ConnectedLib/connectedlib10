@@ -71,7 +71,7 @@ In Participatory Design, youth should not focus on coming up with “correct ans
 
 <a name="fn1" href="#1">1</a>: [d.school](http://dschool.stanford.edu/), Stanford University Institute of Design.
 
-<a name="fn2" href="#2">2</a>: [Steps in Design Thinking Process](https://dschool.stanford.edu/groups/k12/wiki/17cff/Steps_in_a_Design_Thinking_Process.html). d.school, K12 Lab wiki.
+<a name="fn2" href="#2">2</a>: Steps in Design Thinking Process. d.school, K12 Lab wiki. [<a href="https://web.archive.org/web/20161211201730/https://dschool.stanford.edu/groups/k12/wiki/17cff/Steps_in_a_Design_Thinking_Process.html" target="_blank">Archived Copy</a>]
 
 <a name="fn3" href="#3">3</a>: [DESIGN KIT](http://www.designkit.org/). IDEO. 
 

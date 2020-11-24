@@ -35,7 +35,7 @@ Step 4:
 <p>Town Halls can be formal or  informal, and can be conducted simply as community “get togethers” with coffee, snacks, and a few questions asked for the group to answer after you’ve done some mingling or tackled other library business.</p>
 <ul>
 	<li>An informal town hall event can <a href="http://www.courant.com/community/bloomfield/hc-news-bloomfield-town-hall-meeting-20180123-story.html" target="_blank">bring residents together into a shared space</a> that is less intimidating</li>
-	<li>Anne Arundel County Public Library performed <a href="https://www.urbanlibraries.org/town-hall-meetings-innovation-246.php?page_id=103" target="_blank">formal town halls</a> regarding budget cuts</li></ul>
+	<li>Anne Arundel County Public Library performed <a href="https://www.urbanlibraries.org/innovations/town-hall-meetings" target="_blank">formal town halls</a> regarding budget cuts</li></ul>
 
 		</td></tr>
 

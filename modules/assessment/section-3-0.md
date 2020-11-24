@@ -38,6 +38,6 @@ Much of the time, your information needs can be met with one or two assessments.
 
 <hr/>
 
-<a name="fn1">1</a>: [Introduction to Program Evaluations for Connected Learning](https://www.youtube.com/watch?v=WXbkeFIEN8Y), 5:15. 
+<a name="fn1" href="#1">1</a>: [Introduction to Program Evaluations for Connected Learning](https://www.youtube.com/watch?v=WXbkeFIEN8Y), 5:15. 
 
-<a name="fn2" href="2">2</a>: [Surrounded by Science: Learning Science in Informal Environments](https://doi.org/10.17226/12614) by Marilyn Fenichel and Heidi A. Schweingruber, p. 111. National Academies Press, 2010. 
+<a name="fn2" href="#2">2</a>: [Surrounded by Science: Learning Science in Informal Environments](https://doi.org/10.17226/12614) by Marilyn Fenichel and Heidi A. Schweingruber, p. 111. National Academies Press, 2010. 

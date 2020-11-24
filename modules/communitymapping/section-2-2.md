@@ -26,7 +26,7 @@ There are five types of community assets: individuals, associations, institution
 <div class="reflection">
 	<p>community mapping activity: potential connections</p>
 	<p>Create a second mini-asset map with assets your library could connect with, but hasn’t yet. Add any helpful connections that might already exist. </p>
-	<p><a href="docs/communitymapping_2B.docx">Download worksheet (DOCX)</a></p>
+	<p><a href="docs/CommunityMapping_2B.docx">Download worksheet (DOCX)</a></p>
 
 <table style="width:95%" class="worksheet">
 <tr><th>Type of Asset</th><th>List of Assets</th><th>Connections</th></tr>

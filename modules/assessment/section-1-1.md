@@ -27,3 +27,10 @@ An assessment is an activity that collects data to use as evidence to answer a q
 		<li>What was the quality of the program implementation?</li>
 	</ul>
 </div>
+
+<img src="../../assets/img/program_trajectory.png" ALT="Three phases of program trajectory." width="500" align="right"/> 
+
+According to <a href="https://clalliance.org/publications/evaluating-library-programming-a-practical-guide-to-collecting-and-analyzing-data-to-improve-or-evaluate-connected-learning-programs-for-youth-in-libraries/">Evaluating Library Programming</a>, data collection and analysis relating to a library program can occur in three different stages. Each stage serves a different purpose, and may require different collection and analysis techniques:
+* **Identifying**, where data is collected to help make decisions for new programming
+* **Reflecting**, where data is used to improve ongoing programming (formative evaluation)
+* **Documenting**, where outcomes are captured to evaluate the overall impact of a program (summative evalution)

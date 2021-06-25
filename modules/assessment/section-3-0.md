@@ -7,7 +7,7 @@ section: 3. Evaluation
 subsection: three
 ---
 
-In this section, you will learn what mentoring is and how it can support connected learning in the library.
+In this section, you will learn what evaluation means and how you can use it to inform decisions about your connected learning programs.
 
 <div class="objectives">
 <p>After completing this section, you will be able to...</p>

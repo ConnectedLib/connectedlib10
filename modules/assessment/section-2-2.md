@@ -68,7 +68,7 @@ The following table includes some—though certainly not all!—methods to colle
   <tr><td><b>Good for:</b><ul><li>Directly assessing what a teen knows or can do</li></ul></td><td><b>Potential drawbacks: </b><ul><li>They can feel too formal and school-like</li><li>They can feel like too much pressure, especially for youth who are hanging out or messing around</li></ul></td></tr>
 </table>
 
-Other methods are described in different modules; surveys and focus groups are covered in the Community Mapping module, and the Capacity module discusses interviews and town halls.   
+Other methods are described in different modules; surveys and focus groups are covered in the <a href="/modules/communitymapping/">Community Mapping module</a>, and the <a href="/modules/capacity/">Capacity module</a> discusses interviews and town halls.   
 
 <div class="explanatory">
   <p>Talkback Boards</p>

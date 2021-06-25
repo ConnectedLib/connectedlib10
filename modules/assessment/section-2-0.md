@@ -7,7 +7,7 @@ section: 2. Assessment
 subsection: two
 ---
 
-In this section, you will learn what mentoring is and how it can support connected learning in the library.
+In this section, you will learn what an assessment is and the basic steps to conduct an assessment at your library.
 
 <div class="objectives">
 	<p>After completing this section, you will be able to...</p>

@@ -7,7 +7,7 @@ section: 1. Introduction
 subsection: one
 ---
 
-In this introduction, you will learn what mentoring is and how it can support connected learning in the library.
+In this introduction, you will learn what assessment and evaluation are and how they can support connected learning in the library.
 
 <div class="objectives">
 	<p>After completing this section, you will be able to...</p>
@@ -24,4 +24,4 @@ Evaluation and assessment are important to all library activities, but it can be
 
 <hr/>
 
-<a name="fn1" href="#1">1</a>: [Developing Outcome Meausres Tailored to a Program](https://youtu.be/oifGIJq7D94), 8:42.
+<a name="fn1" href="#1">1</a>: [Developing Outcome Measures Tailored to a Program](https://youtu.be/oifGIJq7D94), 8:42.

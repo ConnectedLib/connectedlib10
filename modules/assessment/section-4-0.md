@@ -7,7 +7,7 @@ section: 4. Now What?
 subsection: four
 ---
 
-In this section, you will learn what mentoring is and how it can support connected learning in the library.
+In this section, you will learn what to do with the results of an evaluation you've completed.
 
 <div class="objectives">
 	<p>After completing this section, you will be able to...</p>

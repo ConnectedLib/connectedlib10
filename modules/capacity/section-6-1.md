@@ -59,7 +59,7 @@ Tips and tricks:
 <ul><li>Work with your community
    <ul><li>Talking to your community partnerships is the first step in growing your volunteer population</li></ul></li>
  <li>Recruit through outreach
-   <ul><li>Schools, retirements homes, and even grocery stores are great places to visit, or place flyers, to get the word out that your library is looking for volunteers</li></ul></li>
+   <ul><li>Schools, retirement homes, and even grocery stores are great places to visit, or place flyers, to get the word out that your library is looking for volunteers</li></ul></li>
  <li>Provide volunteer rewards
    <ul><li>Rewards can be something as simple as a special library tote bag or pin</li>
    <li>Rewards can also include awards like “Volunteer of the Month”</li></ul></li>

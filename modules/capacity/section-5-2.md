@@ -20,7 +20,7 @@ Examples include:
  
 ## Use
 
-The biggest capacity challenge for using technology in the library is knowledge. Not only do the patrons need to know how to use the technology provided, but library staff have to be knowledgeable enough in the use of the media to be able to teach it to others. Many libraries may have not have the required staff capacity in number, or in knowledge, to have a large capacity in this area. However, there are ways around this including: 
+The biggest capacity challenge for using technology in the library is knowledge. Not only do the patrons need to know how to use the technology provided, but library staff must be knowledgeable enough in the use of the media to teach it to others. Many libraries may not have the required staff capacity in number, or in knowledge, for a large capacity in this area. However, there are ways around this including: 
 
 1. Technology mentors: knowledgeable volunteers able to help with the teaching and use of new media in the library informally during regular operating hours
 2. Partner-led technology programs: formal library programs led by community volunteers who are knowledgeable in specific technology use
@@ -29,10 +29,8 @@ The biggest capacity challenge for using technology in the library is knowledge.
  
 ## Evaluation
 
-Another important aspect of the technology capacity of your library is evaluation. While the capacity assessment focuses on the capacity of acquisition and use of technology in your library, evaluation helps you to determine which technology to use. It also helps you to decide if your current technology is serving your library’s needs, and if not where the capacity might need expanding. 
-
-Here are some questions to ask while doing evaluation: 
-- What are the technology needs of your community? Are there any gaps in technology knowledge and use present between different parts of your community
+Another important aspect of the technology capacity of your library is evaluation. While the capacity assessment focuses on the capacity of acquisition and use of technology in your library, evaluation helps you to determine which technology to use. It also helps you to decide if your current technology is serving your library’s needs, and if not where the capacity might need expanding. This topic is covered in much greater depth in the <a href="/modules/assessment/">Assessment and Evaluation module</a>, but here are some capacity-specific questions to ask while doing evaluation: 
+- What are the technology needs of your community? Are there any gaps in technology knowledge and use in any parts of your community?
 - How is the technology at your library currently being used?
 - What are the positives and negatives of your current inventory?
  

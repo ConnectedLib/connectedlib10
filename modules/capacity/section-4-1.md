@@ -45,7 +45,7 @@ Then, we will expand to list their strengths:
 <tr><td><b>Individuals</b></td><td><ul><li>Anne Park--Software engineer</li><li>Ray Neng--Renovator</li><li>Righard Bell--Commercial baker</li><li>Holly Lampard--Mechanical engineer</li></ul></td><td>-Technological knowledge<br>-Master carpenter<br>-Digital artist and knitter<br>-Engineer and 3D designer</td></tr>
 <tr><td><b>Places</b></td><td><ul><li>Parkland Elementary</li><li>Orchard Ridge High School</li><li>Red Mark Burgers</li><li>Parkland Church</li><li>Greenriver Park</li></ul></td><td>-Large community space<br>-Hi-tech theater, computer lab with over 30 seats<br>-Often hosts fundraisers<br>-Community Dinners<br>-Large open field</td></tr>
 <tr><td><b>Services</b></td><td><ul><li>Community Transit</li><li>Early Beginnings Childhood Center</li><li>Boys and Girls Club</li><li>Orchard Ridge Cultural Center</li></ul></td><td>-Buses run until midnight<br>-Childhood development knowledge<br>-Afterschool programs<br>-Community space and community contacts</td></tr>
-<tr><td><b>Businesses</b></td><td><ul><li>Red Mark Burgers</li><li>Kern Writing & Math Tutoring</li><li>Starbucks</li><li>Guaco's Taco Truck</li></ul></td><td>-Same as above<br>-Tutoring and homework help, teen volunteer contacts<br>-Caters coffee and pasteries<br>-Catering, comunity contacts</td></tr>
+<tr><td><b>Businesses</b></td><td><ul><li>Red Mark Burgers</li><li>Kern Writing & Math Tutoring</li><li>Starbucks</li><li>Guaco's Taco Truck</li></ul></td><td>-Same as above<br>-Tutoring and homework help, teen volunteer contacts<br>-Caters coffee and pasteries<br>-Catering, community contacts</td></tr>
 </table>
 
 <div class="reflection"><p class="box-title">REFLECTION</p>

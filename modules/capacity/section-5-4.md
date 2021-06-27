@@ -12,7 +12,7 @@ The final piece of the capacity puzzle is staffing. Many librarians and library 
  
 ## Supplementing Staff Capacity
 
-While it would be great if library workers could be in many places at once, there is not yet the technology that supports that. One of the best ways to supplement a library’s staff capacity is through the use of community volunteers. By forming volunteer partnerships with community organizations and individuals in your community, you library can expand its staff capacity dramatically. There are a variety of ways your community can help: 
+While it would be great if library workers could be in many places at once, there is not yet the technology that supports that. One of the best ways to supplement a library’s staff capacity is through the use of community volunteers. By forming volunteer partnerships with community organizations and individuals in your community, your library can expand its staff capacity dramatically. There are a variety of ways your community can help: 
 - Volunteers can perform shelving duties to help free up the workers in your library for other tasks 
 - They can work as mentors and help co-facilitate workshops and other learning activities 
 - Teen volunteers can help bring interest to programs developed for their peers 

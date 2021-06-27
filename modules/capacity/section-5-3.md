@@ -11,7 +11,7 @@ The next biggest capacity challenge faced by many libraries is that of space. Mo
 
 ## Assessing Space Capacity Holistically
 
-There are a variety of ways to assess the space capacity of your library. While the most common is to think of your spaces by their square footage, or by their max occupancy numbers, there are other factors that are often not thought about. Do you have bookshelves that can be moved easily in that space? Are the tables in the are on wheels, or otherwise easily mobile? Can the chairs in an area stack? 
+There are a variety of ways to assess the space capacity of your library. While the most common is to think of your spaces by their square footage, or by their max occupancy numbers, there are other factors that are often not thought about. Do you have bookshelves that can be moved easily in that space? Are the tables on wheels, or otherwise easily mobile? Can the chairs in an area stack? 
 
 
 Here is a quick and easy checklist you can follow when evaluating your library’s spaces: 

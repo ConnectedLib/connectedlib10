@@ -14,7 +14,7 @@ Don’t underestimate the value of starting small, with informal conversations, 
 
 ## Preparing your pitch
 
-A community partnership should benefit all stakeholders — the library, the partner, and the community. When proposing a collaboration, it’s important to understand and articulate how the project will benefit each of these. Developing an “elevator speech” for your library or specifically for your youth services department will help you when you approach potential partners.<sup><a href="#fn6" name="6">6</a></sup> Elevator speeches or pitches are “brief opportunities—maybe one minute or less—to pique the interest of anyone whose ear you’d like to bend about libraries.”<sup><a href="#fn7" name="7">7</a></sup> The elevator speech should be specific to your library, and maybe even a single branch, and should highlight the unique contributions the library can bring to the partnership and the impact it can have on youth. Although you may need to tailor the pitch for each potential partner, crafting a flexible, reusable template will save time when you set up future partnerships. 
+A community partnership should benefit all stakeholders — the library, the partner, and the community. When proposing a collaboration, it’s important to understand and articulate how the project will benefit each of these. Developing an “elevator speech” for your library or specifically for your youth services department will help you when you approach potential partners.<sup><a href="#fn6" name="6">6</a></sup> Elevator speeches or pitches are “brief opportunities—maybe one minute or less—to interest anyone whose ear you’d like to bend about libraries.”<sup><a href="#fn7" name="7">7</a></sup> The elevator speech should be specific to your library, and maybe even a single branch, and should highlight the unique contributions the library can bring to the partnership and the impact it can have on youth. Although you may need to tailor the pitch for each potential partner, crafting a flexible, reusable template will save time when you set up future partnerships. 
 
 
 ## Building a relationship
@@ -74,14 +74,14 @@ Depending on the size and formality of your project, a written agreement, contra
 <li>Who will train staff, if needed? </li>
 <li>Who will be responsible for maintaining the project or program and any related materials?</li>
 <li>If changes are needed mid-way through the collaboration, who will decide what changes to make, and when? </li>
-<li>How will you evaluate the program’s success? What will you measure, and who will do collect that information? Who will receive a copy of the final evaluation report? </li>
+<li>How will you evaluate the program’s success? What will you measure, and who will collect that information? Who will receive a copy of the final evaluation report? </li>
 </ul>
 </div>
 <br>
 <br>
 <div class="explanatory"> 
 
-<p><span class="box-title">Resources for Establishin a Partnerships</span></p> 
+<p><span class="box-title">Resources for Establishing a Partnership</span></p> 
 
 <ul>
  <li><a href="http://www.nisenet.org/sites/default/files/MOU%20Sample%20Template%2011-20-2015.docx" target="_blank">Memorandum of Understanding Sample Template</a>. NISE Network (2015).</li>

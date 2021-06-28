@@ -77,7 +77,7 @@ Partners don’t always have to come to the library—libraries can bring their 
 
 ## Libraries can promote partners and help with outreach
 
-Libraries can promote partners and help with outreach</th><td>Any organization that partners with a library can benefit from increased visibility in the community, but the more the organization interacts with patrons the stronger the potential impact can be. Theater, dance, and arts organizations in particular can use workshops to spark community interest in their productions and exhibits and even recruit new members. Some libraries provide community groups with time and space to be available to teens, particularly organizations that provide services like mental health counseling or legal services.
+Any organization that partners with a library can benefit from increased visibility in the community, but the more the organization interacts with patrons the stronger the potential impact can be. Theater, dance, and arts organizations in particular can use workshops to spark community interest in their productions and exhibits and even recruit new members. Some libraries provide community groups with time and space to be available to teens, particularly organizations that provide services like mental health counseling or legal services.
 
 <div class="case_study_box">
   <p>Partnering With Youth-Serving Organizations</p>

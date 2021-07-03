@@ -9,7 +9,7 @@ subsection: overview
 
 {% include license.html %}
 
-<p class="time">2 hours</p>
+<p class="time">3 hours</p>
 
 In this module, you will learn best practices for encouraging mentoring relationships (librarians as mentors, youth mentors, adult and community mentors) within a youth librarian context.
 

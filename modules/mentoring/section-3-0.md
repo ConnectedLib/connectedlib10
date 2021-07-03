@@ -18,4 +18,4 @@ This section offers guidelines and prompts for designing a mentoring program tha
 </ul>
 </div>
 
-While mentoring relationships often happen organically, many youth librarians have developed programming with a focus on mentorship to reach certain goals. These might include providing support for youth with who have interests in STEM fields, reaching out to an underserved community, or offering youth with leadership and volunteer experience. In the following section, we offer guidelines and prompts for designing a mentoring program that suits the needs of your youth community and library.
+While mentoring relationships often happen organically, many youth librarians have developed programming with a focus on mentorship to reach certain goals. These goals might include supporting youth interested in STEM, reaching out to an underserved community, or providing youth with leadership and volunteer experience. In the following section, we offer guidelines and prompts for designing a mentoring program that suits the needs of your library and your youth community.

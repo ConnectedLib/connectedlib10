@@ -28,9 +28,9 @@ A few organizations that can help identify adult mentors and volunteers include:
 - <a href="http://www.nationalmentoringresourcecenter.org/" target="_blank">National Mentoring Center</a>
 - <a href="http://www.tutormentorexchange.net/" target="_blank">Tutor/Mentor Institute</a>
 - <a href="http://mentoringcentral.net/" target="_blank">Mentoring Central</a>
-- <a href="https://www.millionwomenmentors.org/" target="_blank">Million Women Mentors</a>
+- <a href="https://mwm.stemconnector.com/" target="_blank">Million Women Mentors</a>
 
-For example, an urban western library worked with used AmeriCorps Vista. Through their mentor coordinator, the library gained assistance in identifying volunteers. Specifically, they helped...
+For example, an urban western library worked with AmeriCorps Vista. Through their mentor coordinator, the library gained assistance in identifying volunteers. Specifically, they helped...
 
 <!-- INTS_059 -->
 >“... find people from the community that will come in and either teach something that they're already passionate about, or if they just love being with youth, come over and just listen to the youth and then help them follow their passions.”<br/><br/>— Librarian at an urban western library

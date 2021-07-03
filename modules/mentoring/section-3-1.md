@@ -74,7 +74,7 @@ For longer term situations, research evidence suggests providing ways that mento
 
 ## STEP 4: Checking in or evaluating the relationship 
 
-How will you evaluate mentoring programs/relationships? Here are few questions to ask: 
+How will you evaluate mentoring programs/relationships? Here are a few questions to ask: 
 
 - What learning is taking place? 
 - What were the mentor and mentee's goals? Are they reaching them? 

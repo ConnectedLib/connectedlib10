@@ -23,7 +23,7 @@ Other libraries have been successful in training high school students to operate
 
 > “The goal of something that you're building or making or trying to finish is a great way to spur on interaction with teens who are often not interested in talking to other people... There's a space where you can hang out, you don't get kicked off the computer after a certain amount of time”<br/><br/>— Adult Librarian at an urban western library
 
-Wheen teens are encouraged to participate in group tasks and teams, they are more likely to engage in peer mentoring.  
+When teens are encouraged to participate in group tasks and teams, they are more likely to engage in peer mentoring.  
 
 ## College student mentorship programs
 
@@ -31,7 +31,7 @@ Local colleges and universities can be a source of mentors for young people. For
 
 ## Teens helping to run workshops and programming
 
-Teen volunteers recruited from the local high school helped with one library’s film festival, and the students also gained beneficial media internship experience. A librarian at an urban western library describes the teens’ experience: “...those interns were high school students who were essentially volunteers, but they were the ones who were given specific roles to help run all the workshops... That was a really a fun program that really was able to bring in the technology and professionals... all in a single program.” 
+Teen volunteers recruited from the local high school helped with one library’s film festival, and the students also gained beneficial media internship experience. A librarian at an urban western library describes the teens’ experience: “...those interns were high school students who were essentially volunteers, but they were the ones who were given specific roles to help run all the workshops... That was a really fun program that really was able to bring in the technology and professionals... all in a single program.” 
 
 In another example, Houston Public Library’s summer volunteers were treated as staff and provided input in programming and the library’s offerings for teens.<sup><a name="4" href="#fn4">4</a></sup> 
 

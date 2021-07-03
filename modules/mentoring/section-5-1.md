@@ -7,7 +7,7 @@ section: 5. Adult and Community Mentors
 subsection: five-one
 ---
 
-In our discussions with youth librarians from across the U.S., we discovered the variety of ways that they connect youth with adults mentors, such as: 
+In our discussions with youth librarians from across the U.S., we discovered the variety of ways that they connect youth with adult mentors, such as: 
 
 ## Opportunities for youth to explore new interests 
 
@@ -43,13 +43,13 @@ Other partnerships have included connecting young people with mentors through in
 One community hacker meetup brings together people from “...a variety of educational backgrounds, ethnicities, ages, and careers to collaborate informally on personal projects.”<sup><a name="2" href="#fn2">2</a>, <a name="3" href="#fn3">3</a></sup> Intergenerational games were also mentioned as one way to provide mentoring and encourage youth and adults to engage in fun learning activities. 
 
 <!-- INTS-013 -->
-Through a local partnership, a young adult librarian an a suburban northeastern library  partnered with a nonprofit that “... brings adult chess teachers into the library and organizes chess tournaments.”  In addition, she works with the Chess Club at the local high school and works with teen volunteers who come into the library to teach children how to play the game. 
+Through a local partnership, a young adult librarian in a suburban northeastern library  partnered with a nonprofit that “... brings adult chess teachers into the library and organizes chess tournaments.”  In addition, she works with the Chess Club at the local high school and works with teen volunteers who come into the library to teach children how to play the game. 
 
 ## Supporting targeted youth populations 
 
 An ALA diversity award winner, Lori Wilcox, developed the "Male-2-Male Mentoring" program. In the program, African American men spoke to African American tweens and teens. The male mentors were policemen, firemen, and pastors. They discussed real world topics like financial literacy, the competitive work force, unemployment, and what to do when pulled over by the police. 
 
-At the Pasadena Public Library, teens and librarians came up with a ideas for supporting youth facing mental illness, including libraries sponsoring “...a mentoring program where teens can talk with adults about living with mental illness.”<sup><a name="4" href="#fn4">4</a></sup>
+At the Pasadena Public Library, teens and librarians came up with ideas for supporting youth facing mental illness, including libraries sponsoring “...a mentoring program where teens can talk with adults about living with mental illness.”<sup><a name="4" href="#fn4">4</a></sup>
 
 For more ideas on connecting with community partners, please check out the [Community Partnerships](../partnerships/) module.   
 

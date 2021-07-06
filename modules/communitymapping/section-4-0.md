@@ -23,9 +23,9 @@ Now that you have a clear picture of the people and assets in your community, wh
 
 - **Reevaluate your priorities.** Are there groups of teens you aren’t reaching? Do they have needs or interests you aren’t meeting? Are there associations or institutions doing work similar enough to one of your programs that you can stop duplicating efforts.  
 
-- **Think about your library’s capacity.** There may be resources in your community that you can take advantage of to extend your capacity or reach. See the <a href="../modules/capacity/">Capacity</a> module for more.  
+- **Think about your library’s capacity.** There may be resources in your community that you can take advantage of to extend your capacity or reach. See the <a href="../capacity/">Capacity</a> module for more.  
 
-- **Consider potential partnerships.** Each of your community assets is a potential community partner. Are there associations and institutions in your community that you could join forces with to make something bigger and better than what either of you are doing now? Look for opportunities to align what your teens want or like with what the community has to offer. See the <a href="../modules/partnerships/">Community Partnerships</a> module for more.  
+- **Consider potential partnerships.** Each of your community assets is a potential community partner. Are there associations and institutions in your community that you could join forces with to make something bigger and better than what either of you are doing now? Look for opportunities to align what your teens want or like with what the community has to offer. See the <a href="../partnerships/">Community Partnerships</a> module for more.  
 
 - **Continue working with the community.** Getting the community involved in your library is more than just talking to them and asking them questions, it is empowering them to help make a difference<sup>[1](#fn1)</sup>. If a public library puts the community’s voices at the center of their planning, the library will in turn become the center of the community. Public libraries are ideally positioned to be leaders of civic engagement in the community, and thoroughly understanding that community is a key part of that role<sup>[2](#fn2)</sup>. 
 

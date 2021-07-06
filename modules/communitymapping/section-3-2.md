@@ -49,9 +49,9 @@ The most foundational assets of a community are the individuals that form it. Ev
    - Home - communities that you are a part of.
    - See the [CCAMP System Handbook](http://www.nurturedevelopment.org/wp-content/uploads/2016/01/Asset-Mapping-CCAMP_System_Handbook.pdf), pp. 182-189, for more details and worksheets.
  
-- When you’re focusing on individuals as assets, your goal will be to help each individual contribute to the community or the library. This is different than if you are talking to individuals to help create a portrait of your community (don’t use the capacity inventory for this). You should avoid making individuals feel “used” or “studied.”<sup>[2](#fn2)</sup> 
+- When you focusing on individuals as assets, your goal is to help each person make their contribution to the community or the library, without making them feel “used” or “studied.”<sup>[2](#fn2)</sup> 
 - **Seniors.** Seniors can be tremendous library assets with their experience and knowledge of cultural and community history. Many retirees have skills they are happy to share with teens; others can help connect the library to associations and organizations they are or were involved with.</li>
-- **Marginalized groups.** Don’t write off groups that are traditionally thought of as only having needs, not assets, like people with disabilities or people from a lower SES. Everyone is an asset the library could potentially work with.
+- **Marginalized groups.** Don’t write off groups that are traditionally thought of as only having needs, not assets, like people with disabilities or people from a lower socio-economic status. Everyone is an asset the library could potentially work with.
 
 
 <div class="explanatory">

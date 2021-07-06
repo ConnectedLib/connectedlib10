@@ -19,8 +19,8 @@ The asset-based community development (ABCD) model of community development,  de
 </div>
 
 <div class="explanatory">
-  <p>GUIDING PRINCIBLES OF ABCD</p>
-<p>In the <a href="http://www.nurturedevelopment.org/wp-content/uploads/2016/01/Asset-Mapping-CCAMP_System_Handbook.pdf" target="_blank">CCAMP System Handbook</a> Ryan and Bourke set forth the following guiding principles for an asset-based community development effort:</p>
+  <p>GUIDING PRINCIPLES OF ABCD</p>
+<p>Created for the Connecticut Assets Network, the <a href="http://www.nurturedevelopment.org/wp-content/uploads/2016/01/Asset-Mapping-CCAMP_System_Handbook.pdf" target="_blank">Community Connection Asset Mapping Process System Handbook</a> sets forth the following guiding principles for an asset-based community development effort:</p>
 <ol>
 <li>Begin with the end in mind.</li>
 <li>Build relationships.</li>

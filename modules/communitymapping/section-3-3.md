@@ -23,7 +23,7 @@ Associations are groups of community members who gather together voluntarily aro
 <span class="box-title">TYPES OF ASSOCIATIONS</span>
 <p>Kretzmann & McKnight<sup><a href="#fn1" name="1">1</a></sup> have identified many different types of associations, including:</p>
 <table class="colorful-th">
-  <tr><td>Artistic organizations 
+  <tr><td>Artistic organizations<br/> 
 Business organizations<br>
 Charitable groups & drives<br>
 Church groups <br>
@@ -58,7 +58,7 @@ Institutions (as defined by ABCD) are groups of people brought together professi
 
 ## Methods for learning more  
 
-Depending on your situation, you can use surveys or focus groups to learn more about your community’s assets. You can also use the methods described in the Capacity module (interviews and town halls), or any combination of methods.
+Depending on your situation, you can use surveys or focus groups to learn more about your community’s assets. You can also use the methods described in the <a href="../modules/capacity/">Capacity module</a> (interviews and town halls), or any combination of methods.
 
 <table class="colorful-th">
 <tr><th>SURVEYS</th><td><p>Surveys are a good option for getting succinct information from a large number of people, especially quantitative information. The response rate is often low, however, and you may not always be able to follow-up with respondents to get a better understanding of their responses.For people who are not literate and people who primarily speak other languages, you may need to conduct in-person interviews or provide the survey in multiple languages<sup><a href="#fn3">3</a></sup>. Surveys can be conducted face-to-face, online, by mail, by phone, or on paper that is distributed in the library or at library events<sup><a href="#fn2">2</a></sup>.</p> 

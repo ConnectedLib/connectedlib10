@@ -9,7 +9,7 @@ subsection: overview
 
 {% include license.html %}
 
-<p class="time">90 minutes</p>
+<p class="time">2 hours</p>
 
 In this module you will get to know your teens, your neighborhood, and the community assets that can help you create connected learning experiences in your library.
 

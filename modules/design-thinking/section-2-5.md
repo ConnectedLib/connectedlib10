@@ -7,7 +7,7 @@ section: 2. Exploring a Design Challenge
 subsection: two-five
 ---
 
-As you close out a design challenge or studio experience, consider it as a chance for you or your youth community to reflect, present, and assess your experience. Here are are some questions to think about as you end the design challenge. For more information on assessing the outcomes of projects and programming, check out our module on assessment:  
+As you close out a design challenge or studio experience, consider it as a chance for you or your youth community to reflect, present, and assess your experience. Here are are some questions to think about as you end the design challenge. For more information on assessing the outcomes of projects and programming, check out our module on [Assessment and Evaluation(../assessment/).  
 
 - Defining success/assessment 
   - Consider what criteria should be used to judge if your design or solution reached its goals.  

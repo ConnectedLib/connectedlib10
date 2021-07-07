@@ -28,4 +28,4 @@ What are your design constraints and how do you deal with them? Design constrain
 
 <hr/>
 
-<a name="#fn1" href="#1">1</a>: [Tips for Concepting: Designing with Constraints](https://challenges.openideo.com/blog/tips-for-concepting-designing-with-constraints), by B. Lopez. OpenIDEO, 2012. 
+<a name="#fn1" href="#1">1</a>: [Tips for Concepting: Designing with Constraints](https://web.archive.org/web/20201030150107/https://challenges.openideo.com/blog/tips-for-concepting-designing-with-constraints), by B. Lopez. OpenIDEO, 2012. 

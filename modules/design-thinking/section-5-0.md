@@ -31,13 +31,13 @@ subsection: five
 
 - Kelly, Tom and Dave. [Three Creativity Challenges from IDEO’s Leaders](https://hbr.org/2013/11/three-creativity-challenges-from-ideos-leaders).
 
-- Lopez, B. (2012). [Tips for Concepting: Designing with Constraints](https://challenges.openideo.com/blog/tips-for-concepting-designing-with-constraints). OpenIDEO. 
+- Lopez, B. (2012). [Tips for Concepting: Designing with Constraints](https://web.archive.org/web/20201030150107/https://challenges.openideo.com/blog/tips-for-concepting-designing-with-constraints). OpenIDEO. 
 
 - Mills, J. E., Campana, K., & Clarke, R. I. (2016). Learning by design: Creating knowledge through library storytime production. _Proceedings of the Association for Information Science and Technology, 53_(1), 1-6. 
 
 - Mindshift. (2013). [How to Apply Design Thinking in Class, Step By Step](https://ww2.kqed.org/mindshift/2013/06/26/how-to-use-design-thinking-in-class-step-by-step/).
 
-- OpenIDEO. (2011). [7 Tips on Better Brainstorming](https://challenges.openideo.com/blog/seven-tips-on-better-brainstorming).
+- OpenIDEO. (2011). [7 Tips on Better Brainstorming](https://web.archive.org/web/20190401110327/https://challenges.openideo.com/blog/seven-tips-on-better-brainstorming).
 
 - Quillen,I. (2013). [A Design Challenge to Students: Solve a Real-World Problem!](http://www.designlearning.us/mindshift-article-april-2013). Design Learning Network.
 

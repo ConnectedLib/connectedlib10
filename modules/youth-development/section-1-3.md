@@ -72,7 +72,7 @@ Informed by both Piaget and Vygotsky, Seymour Papert (1928-2016), a founding fac
   <label for="collapsible_2" class="lbl-toggle">Answer</label>
   <div class="collapsible-content">
     <div class="content-inner">
-The answer is learners taking creative control, giving them an active role in constructing their own learning.
+Constructionism promotes learners taking creative control and having an active role in constructing their own learning.
 </div>
   </div>
 

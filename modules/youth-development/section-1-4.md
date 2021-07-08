@@ -61,7 +61,7 @@ Young people are not just copying what they see: the act of observation leads th
   <label for="collapsible_2" class="lbl-toggle">Answer</label>
   <div class="collapsible-content">
     <div class="content-inner">
-Social cognitive learning theory posits that youth leanr through <b>observing other people's behaviors and the consequences</b>.
+Social cognitive learning theory posits that youth learn through <b>observing other people's behaviors and the consequences</b>.
 </div>
   </div>
 </div>

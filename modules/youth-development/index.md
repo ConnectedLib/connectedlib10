@@ -1,6 +1,6 @@
 ---
 layout: module
-title: About This Module
+title: Youth Development
 module_name: youth-development
 module_full_name: Youth Development
 section: Overview
@@ -9,7 +9,7 @@ subsection: overview
 
 {% include license.html %}
 
-<p class="time">90 minutes</p>
+<p class="time">2 hours</p>
 
 Explore what’s going on in a teen’s mind — literally — and learn how to apply a developmental lens to your youth programming. 
 

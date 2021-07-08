@@ -28,5 +28,5 @@ You can draw on these theoretical perspectives to guide the design of your youth
 
 <div class="explanatory">  
   <p>Which Theory is Right?</p> 
-  <p>There is no single theory that accounts for every aspect of youth learning and development. The six theories described in the following sections have different strengths and weaknesses; many of them complement or build on each other. Each theory can teach us something different about to support youth development through library programming.</p> 
+  <p>There is no single theory that accounts for every aspect of youth learning and development. The six theories described in the following sections have different strengths and weaknesses; many of them complement or build on each other. Each theory can teach us something different about supporting youth development through library programming.</p> 
 </div>

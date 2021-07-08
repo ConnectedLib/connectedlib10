@@ -66,6 +66,16 @@ Informed by both Piaget and Vygotsky, Seymour Papert (1928-2016), a founding fac
   <li>Step-by-step instructions</li>
   <li>Learners taking creative control</li>
   </ol>
+
+
+<input id="collapsible_2" class="toggle" type="checkbox">
+  <label for="collapsible_2" class="lbl-toggle">Answer</label>
+  <div class="collapsible-content">
+    <div class="content-inner">
+The answer is learners taking creative control, giving them an active role in constructing their own learning.
+</div>
+  </div>
+
 </div>
 
 <hr/>

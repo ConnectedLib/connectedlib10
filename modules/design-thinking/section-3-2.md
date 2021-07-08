@@ -42,7 +42,7 @@ A few design representation methods include:
 <hr/>
 
 
-<a name="fn1" href="#1">1</a>: [7 Tips on Better Brainstorming](https://www.openideo.com/content/6-tips-better-brainstorming) OpenIDEO, 2011. 
+<a name="fn1" href="#1">1</a>: [7 Tips on Better Brainstorming](https://web.archive.org/web/20190401110327/https://challenges.openideo.com/blog/seven-tips-on-better-brainstorming) OpenIDEO, 2011. 
 
 <a name="fn2" href="#2">2</a>: "Triangulation in social research: qualitative and quantitative methods can really be mixed" by Wendy Olsen. _Developments in Sociology, 20_.
 

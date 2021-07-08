@@ -56,6 +56,14 @@ Young people are not just copying what they see: the act of observation leads th
   <li>Peer interaction</li>
   <li>Reward and punishment </li>
   </ol>
+
+  <input id="collapsible_2" class="toggle" type="checkbox">
+  <label for="collapsible_2" class="lbl-toggle">Answer</label>
+  <div class="collapsible-content">
+    <div class="content-inner">
+Social cognitive learning theory posits that youth leanr through <b>observing other people's behaviors and the consequences</b>.
+</div>
+  </div>
 </div>
 
 <hr/>

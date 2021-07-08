@@ -28,7 +28,7 @@ Regardless of which platform they use, teens use of social media is largely driv
 
 ## More Connected or Less Connected?
 
-What are the consequences of increased online communication and decreased in-person communication? Young people have traded hanging out with friends in person with spending time on social media. Is time spent online making making youth more or less connected with each other?  
+What are the consequences of increased online communication and decreased in-person communication? Young people have traded hanging out with friends in person with spending time on social media. Is time spent online making youth more or less connected with each other?  
 
 <div class="explanatory">
   <p>The App Generation</p>

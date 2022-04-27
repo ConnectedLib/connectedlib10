@@ -182,7 +182,7 @@ article.main *:not(.activity-menu) {
   display: inline-block;
   border-width: 0 0 0 2px;
   padding: 8px 13px 8px 34px;
-  background-image: url(../img/clock.svg);
+  background-image: url(/img/clock.svg);
   background-size: 18px;
   background-position: 10px center;
   background-repeat: no-repeat;
